@@ -843,3 +843,11 @@ input.micro-target-input[readonly] {
   color: var(--text-muted);
 }
 
+
+/* Micro drawer verify toggle */
+.btn-micro-verify { font-size: 12px; padding: 2px 10px; }
+.btn-micro-verify.is-verified {
+  background: var(--accent-green);
+  border-color: var(--accent-green);
+  color: #fff;
+}

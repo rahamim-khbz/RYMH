@@ -212,6 +212,8 @@ window.MacroView = (function() {
       btnVerify.className = 'btn-verify-line';
       btnVerify.innerHTML = '✓';
       btnVerify.title = line.verified ? 'Verified (click to unverify)' : 'Click to verify this line';
+      btnVerify.setAttribute('aria-pressed', line.verified ? 'true' : 'false');
+      btnVerify.setAttribute('aria-label', 'Verified');
       btnVerify.disabled = isLocked;
       btnVerify.onclick = (e) => {
         e.stopPropagation();
@@ -278,14 +280,16 @@ window.MacroView = (function() {
           return;
         }
         const raw = (typeof domToMarkdown === 'function' ? domToMarkdown(textDiv) : textDiv.innerText).replace(/\n/g, ' ').trim();
+        if (raw === (line.text || '').trim()) return; // no real change: no write
         line.text = raw;
         line.flagged = hasFlaggedWords(raw);
         const nowEdited = line.original_text !== undefined && raw !== line.original_text;
         row.classList.toggle('edited', nowEdited);
         row.classList.toggle('flagged', line.flagged);
+        clearVerifiedOnEdit(line, row);
 
         if (window.ReviewSync) {
-          window.ReviewSync.saveLine(currentPageId, line.line_id, raw, !!line.verified);
+          window.ReviewSync.saveLine(currentPageId, line.line_id, raw, false);
         }
       });
 
@@ -318,27 +322,42 @@ window.MacroView = (function() {
     if (btnComplete) btnComplete.disabled = !!isLocked;
   }
 
-  function toggleLineVerification(idx) {
-    if (!currentPageData || !currentPageData.lines[idx]) return;
+  function renderRowVerified(row, verified) {
+    if (!row) return;
+    row.classList.toggle('verified', !!verified);
+    const btn = row.querySelector('.btn-verify-line');
+    if (btn) {
+      btn.title = verified ? 'Verified (click to unverify)' : 'Click to verify this line';
+      btn.setAttribute('aria-pressed', verified ? 'true' : 'false');
+    }
+  }
+
+  // A text change invalidates any earlier verification
+  function clearVerifiedOnEdit(line, row) {
+    if (!line.verified) return;
+    line.verified = false;
+    renderRowVerified(row, false);
+  }
+
+  function setLineVerified(idx, value) {
+    if (!currentPageData || !currentPageData.lines[idx]) return false;
     if (window.ReviewSync && typeof window.ReviewSync.isPageEditable === 'function' && !window.ReviewSync.isPageEditable(currentPageId)) {
-      console.warn(`Verification toggle blocked: ${currentPageId} is locked.`);
-      return;
+      console.warn(`Verification change blocked: ${currentPageId} is locked.`);
+      return false;
     }
     const line = currentPageData.lines[idx];
-    line.verified = !line.verified;
-
-    const row = document.getElementById(`line-row-${idx}`);
-    if (row) {
-      row.classList.toggle('verified', line.verified);
-      const btn = row.querySelector('.btn-verify-line');
-      if (btn) {
-        btn.title = line.verified ? 'Verified (click to unverify)' : 'Click to verify this line';
-      }
-    }
+    line.verified = !!value;
+    renderRowVerified(document.getElementById(`line-row-${idx}`), line.verified);
 
     if (window.ReviewSync) {
       window.ReviewSync.saveLine(currentPageId, line.line_id, line.text, line.verified);
     }
+    return true;
+  }
+
+  function toggleLineVerification(idx) {
+    if (!currentPageData || !currentPageData.lines[idx]) return;
+    setLineVerified(idx, !currentPageData.lines[idx].verified);
   }
 
   function updateLineContent(idx, newText, isVerified = null) {
@@ -359,7 +378,7 @@ window.MacroView = (function() {
       row.classList.toggle('edited', isEdited);
       row.classList.toggle('flagged', line.flagged);
       if (isVerified !== null) {
-        row.classList.toggle('verified', line.verified);
+        renderRowVerified(row, line.verified);
       }
     }
   }
@@ -623,6 +642,7 @@ window.MacroView = (function() {
       targetTextDiv.innerHTML = formatMarkup(newRaw);
     }
 
+    const changed = newRaw !== line.text;
     line.text = newRaw;
     line.flagged = hasFlaggedWords(newRaw);
     const row = document.getElementById(`line-row-${targetIdx}`);
@@ -631,7 +651,8 @@ window.MacroView = (function() {
       row.classList.toggle('edited', nowEdited);
       row.classList.toggle('flagged', line.flagged);
     }
-    if (window.ReviewSync) {
+    if (changed) clearVerifiedOnEdit(line, row);
+    if (window.ReviewSync && changed) {
       window.ReviewSync.saveLine(currentPageId, line.line_id, newRaw, !!line.verified);
     }
   }
@@ -752,6 +773,7 @@ window.MacroView = (function() {
     applyLockState,
     domToMarkdown,
     updateLineContent,
+    setLineVerified,
     toggleLineVerification,
     applySelectionAction,
     formatMarkup,

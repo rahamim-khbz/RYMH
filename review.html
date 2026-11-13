@@ -109,6 +109,7 @@
           <strong>Focused Line Inspection</strong>
           <span id="microLineLabel" style="color:var(--text-muted); margin-left:8px;">Line 1 of 43</span>
           <span id="microLockTag" class="micro-lock-tag" style="display:none; color:var(--accent-red, #ef4444); font-size:12px; margin-left:8px; font-weight:600;">🔒 Read-Only</span>
+          <button class="btn btn-micro-verify" id="btnMicroVerifyToggle" aria-pressed="false" style="margin-left:8px;">○ Not verified</button>
         </div>
 
         <!-- Micro View Font Size Controls -->
@@ -156,14 +157,15 @@
 
       <div class="drawer-footer">
         <div>
-          ⌨️ <strong>Enter / ↓</strong>: Next Line &nbsp;|&nbsp; 
-          <strong>↑</strong>: Prev Line &nbsp;|&nbsp; 
+          ⌨️ <strong>Enter</strong>: Verify &amp; next &nbsp;|&nbsp;
+          <strong>↓ / ↑</strong>: Next / Prev (edits auto-save) &nbsp;|&nbsp;
           <strong>Cmd+B / Ctrl+B</strong>: Bold Ashurit &nbsp;|&nbsp;
           <strong>Cmd+/ / Ctrl+/</strong>: Flag Word (??)
         </div>
         <div style="display:flex; gap:8px;">
           <button class="btn" id="btnMicroPrevLine">▲ Prev (↑)</button>
-          <button class="btn btn-primary" id="btnMicroNext">Next (↓ / Enter) ▶</button>
+          <button class="btn" id="btnMicroNext">Next (↓) ▶</button>
+          <button class="btn btn-primary" id="btnMicroVerifyNext">✓ Verify &amp; next (Enter)</button>
         </div>
       </div>
     </aside>
