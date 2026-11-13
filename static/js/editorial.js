@@ -421,7 +421,7 @@
               <button class="btn-resolve-question" data-page="${escapeHtml(q.page_id)}" data-line="${escapeHtml(q.line_id)}">
                 ✓ Resolve & Verify
               </button>
-              <a href="/review?page=${seg(q.page_id)}&line=${seg(q.line_id)}" class="btn-open-in-review" target="_blank">
+              <a href="review?page=${seg(q.page_id)}&line=${seg(q.line_id)}" class="btn-open-in-review" target="_blank">
                 🔍 Open in Editor
               </a>
             </div>
@@ -531,7 +531,7 @@
             </div>
             <div class="diff-row-actions">
               <button class="btn-diff-action btn-toggle-diff-crop" data-page="${escapeHtml(p.page_id)}" data-line="${escapeHtml(d.line_id)}">🖼️ Scan Crop</button>
-              <a href="/review?page=${seg(p.page_id)}&line=${seg(d.line_id)}" class="btn-diff-action btn-open-diff-line" target="_blank">🔍 Open Line</a>
+              <a href="review?page=${seg(p.page_id)}&line=${seg(d.line_id)}" class="btn-diff-action btn-open-diff-line" target="_blank">🔍 Open Line</a>
               <button class="btn-diff-action btn-reject-line" data-page="${escapeHtml(p.page_id)}" data-line="${escapeHtml(d.line_id)}">✕ Reject Edit</button>
             </div>
           </div>
