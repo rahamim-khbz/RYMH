@@ -5,8 +5,10 @@
  * - High-magnification dynamic canvas slice (Line N-1, N, N+1)
  * - Focused target line editor with Ashurit bolding (Cmd+B / Ctrl+B)
  * - Pre-filled AI redline suggestions with Accept/Reject
- * - Arrow keys (↑ / ↓) navigate without saving
- * - Enter saves edit and advances (without modifying page verification state)
+ * - Leaving a line by any route (↑ / ↓ / Prev / Next / Enter / Esc / Close)
+ *   saves it if, and only if, its text changed. Unchanged lines are never written.
+ * - Changing a line's text clears its verified mark.
+ * - Enter = Verify & next; ↓ / Next = save (if changed) and move on without verifying.
  */
 
 window.MicroView = (function() {
@@ -75,14 +77,7 @@ window.MicroView = (function() {
   }
 
   function close(saveIfDirty = true) {
-    if (saveIfDirty) {
-      const input = document.getElementById('microTargetInput');
-      const pageData = window.MacroView ? window.MacroView.getCurrentPageData() : null;
-      const line = (pageData && pageData.lines) ? pageData.lines[activeLineIdx] : null;
-      if (input && line && input.value.trim() !== (line.text || '').trim()) {
-        saveCurrentLine();
-      }
-    }
+    if (saveIfDirty !== false) saveCurrentLine();
 
     isOpen = false;
     const drawer = document.getElementById('microDrawer');
@@ -151,14 +146,53 @@ window.MicroView = (function() {
     if (input) {
       input.value = line.text || '';
       input.focus();
-      input.select();
+      // Caret at the end (not select-all), so the first keystroke can't wipe the line
+      const end = input.value.length;
+      input.setSelectionRange(end, end);
     }
+
+    renderVerifyState(line);
 
     // Canvas 3-line crop (auto-fitted to window / wrapper width)
     renderCropCanvas(prevLine, line, nextLine);
 
     // Check for AI Suggestions
     checkAiSuggestions(line.line_id);
+  }
+
+  function renderVerifyState(line) {
+    const btn = document.getElementById('btnMicroVerifyToggle');
+    if (!btn) return;
+    const verified = !!(line && line.verified);
+    btn.classList.toggle('is-verified', verified);
+    btn.setAttribute('aria-pressed', verified ? 'true' : 'false');
+    btn.textContent = verified ? '✓ Verified' : '○ Not verified';
+    btn.title = verified ? 'Verified — click to unverify' : 'Not verified — click to verify (or press Enter to verify & go to next line)';
+  }
+
+  function getActiveLine() {
+    const pageData = window.MacroView ? window.MacroView.getCurrentPageData() : null;
+    return (pageData && pageData.lines) ? pageData.lines[activeLineIdx] : null;
+  }
+
+  function setActiveVerified(value) {
+    if (!window.MacroView || typeof window.MacroView.setLineVerified !== 'function') return;
+    window.MacroView.setLineVerified(activeLineIdx, value);
+    renderVerifyState(getActiveLine());
+  }
+
+  function toggleActiveVerified() {
+    saveCurrentLine();
+    const line = getActiveLine();
+    if (line) setActiveVerified(!line.verified);
+    document.getElementById('microTargetInput')?.focus();
+  }
+
+  function verifyAndNext() {
+    saveCurrentLine();
+    const line = getActiveLine();
+    if (line && !line.verified) setActiveVerified(true);
+    nextLine();
   }
 
   function renderCropCanvas(prevLine, line, nextLine) {
@@ -327,18 +361,22 @@ window.MicroView = (function() {
     return count % 2 === 0;
   }
 
+  // Saves the active line only if its text changed. Returns true if a save was made.
   function saveCurrentLine() {
+    const pageData = window.MacroView ? window.MacroView.getCurrentPageData() : null;
+    if (!pageData || !pageData.lines[activeLineIdx]) return false;
+
+    const input = document.getElementById('microTargetInput');
+    if (!input) return false;
+    const newText = input.value.trim();
+    const line = pageData.lines[activeLineIdx];
+    if (newText === (line.text || '').trim()) return false; // unchanged: no write, no claim
+
     const curPageId = window.MacroView ? window.MacroView.getCurrentPageId() : 'page-05';
     if (window.ReviewSync && typeof window.ReviewSync.isPageEditable === 'function' && !window.ReviewSync.isPageEditable(curPageId)) {
       console.warn(`[MicroView] Save blocked: ${curPageId} is claimed by another reviewer or locked.`);
-      return;
+      return false;
     }
-
-    const pageData = window.MacroView ? window.MacroView.getCurrentPageData() : null;
-    if (!pageData || !pageData.lines[activeLineIdx]) return;
-
-    const input = document.getElementById('microTargetInput');
-    const newText = input ? input.value.trim() : '';
 
     // Gate with passcode BEFORE mutating line in macro view or memory
     if (window.AuthGate && typeof window.AuthGate.checkPasscodeOrPrompt === 'function') {
@@ -354,25 +392,25 @@ window.MicroView = (function() {
       alert('Note: Bold markdown asterisks (**) are not balanced on this line.');
     }
     if (!validateBalancedFlag(newText)) {
-      alert('שים לב: סימוני הספק (??) אינם מאוזנים בשורה זו.');
+      alert('Note: Flag markers (??) are not balanced on this line.');
     }
 
-    const line = pageData.lines[activeLineIdx];
     line.text = newText;
 
-    // Update macro view text (preserves line.verified, marks line as edited)
+    // Text changed, so any earlier verification no longer applies
     if (window.MacroView) {
-      window.MacroView.updateLineContent(activeLineIdx, newText);
+      window.MacroView.updateLineContent(activeLineIdx, newText, false);
     }
 
     if (window.ReviewSync) {
-      const pageId = window.MacroView.getCurrentPageId();
-      window.ReviewSync.saveLine(pageId, line.line_id, newText, !!line.verified);
+      window.ReviewSync.saveLine(curPageId, line.line_id, newText, false);
     }
+    renderVerifyState(line);
+    return true;
   }
 
-  function nextLine(save = true) {
-    if (save) saveCurrentLine();
+  function nextLine() {
+    saveCurrentLine();
 
     const pageData = window.MacroView ? window.MacroView.getCurrentPageData() : null;
     if (!pageData) return;
@@ -385,9 +423,8 @@ window.MicroView = (function() {
     }
   }
 
-  function prevLine(save = true) {
-    if (save) saveCurrentLine();
-
+  function prevLine() {
+    saveCurrentLine();
     if (activeLineIdx > 0) {
       activeLineIdx--;
       renderLine();
@@ -395,13 +432,15 @@ window.MicroView = (function() {
   }
 
   function setupEvents() {
-    document.getElementById('btnCloseDrawer')?.addEventListener('click', close);
+    document.getElementById('btnCloseDrawer')?.addEventListener('click', () => close());
+    document.getElementById('btnMicroVerifyToggle')?.addEventListener('click', toggleActiveVerified);
+    document.getElementById('btnMicroVerifyNext')?.addEventListener('click', verifyAndNext);
     document.getElementById('btnMicroBold')?.addEventListener('mousedown', (e) => e.preventDefault());
     document.getElementById('btnMicroBold')?.addEventListener('click', toggleAshuritBold);
     document.getElementById('btnMicroFlag')?.addEventListener('mousedown', (e) => e.preventDefault());
     document.getElementById('btnMicroFlag')?.addEventListener('click', toggleWordFlag);
-    document.getElementById('btnMicroNext')?.addEventListener('click', () => nextLine(true));
-    document.getElementById('btnMicroPrevLine')?.addEventListener('click', () => prevLine(true));
+    document.getElementById('btnMicroNext')?.addEventListener('click', () => nextLine());
+    document.getElementById('btnMicroPrevLine')?.addEventListener('click', () => prevLine());
     document.getElementById('btnAcceptAiProposal')?.addEventListener('click', acceptAiProposal);
     document.getElementById('btnRejectAiProposal')?.addEventListener('click', rejectAiProposal);
     document.getElementById('btnMicroFontDec')?.addEventListener('click', decMicroFontSize);
@@ -438,17 +477,20 @@ window.MicroView = (function() {
         return;
       }
 
-      // Enter saves edit & moves to next
-      if (e.key === 'Enter' && !e.shiftKey) {
+      // Let Enter/Space activate a focused button normally (Close, Accept, etc.)
+      const onButton = e.target && e.target.tagName === 'BUTTON';
+
+      // Enter = Verify & next (saves first if changed)
+      if (e.key === 'Enter' && !e.shiftKey && !onButton) {
         e.preventDefault();
-        nextLine(true);
+        verifyAndNext();
         return;
       }
 
-      // Up and Down arrow keys move lines and save edits
+      // ↓ = save (if changed) & next, without verifying
       if (e.key === 'ArrowDown' || e.code === 'ArrowDown') {
         e.preventDefault();
-        nextLine(true);
+        nextLine();
         return;
       }
 
@@ -467,6 +509,7 @@ window.MicroView = (function() {
     close,
     nextLine,
     prevLine,
+    verifyAndNext,
     applyLockState,
     toggleAshuritBold,
     toggleWordFlag,
