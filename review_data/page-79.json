@@ -1,0 +1,695 @@
+{
+  "page_id": "page-79",
+  "image": "page_images/page-79.jpg",
+  "page_width": 2550,
+  "page_height": 3300,
+  "base_hash": "sha256:ef6723150112e35cac96a8785b4e82b48f791e5b1d716cda63d9c427ae40c81a",
+  "lines": [
+    {
+      "line_id": "eSc_line_2f0aaa46",
+      "kind": "main",
+      "idx": 0,
+      "text": "לומר על הכתיבה של מי היא, העיד שמצאה בי ר' חייא שהוא אוצר הברייתות הגדולות והנאמנות, וכל",
+      "coords": {
+        "HPOS": 275,
+        "VPOS": 234,
+        "WIDTH": 1999,
+        "HEIGHT": 74
+      },
+      "para_start": true,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_01e689fa",
+      "kind": "main",
+      "idx": 1,
+      "text": ",מה שנמצא בישיבת ר' חייא הוחזק למקובל ואמתי, ולפי מה שאני זוכר שבג' מקומות שהובא זה",
+      "coords": {
+        "HPOS": 284,
+        "VPOS": 313,
+        "WIDTH": 1988,
+        "HEIGHT": 61
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_0cc96d41",
+      "kind": "main",
+      "idx": 2,
+      "text": ",הובא כלשון זה ומאופן השני הלזה, ירצה דינים ומאמרים שלא היו קבועים בגוף המשניות והברייתות",
+      "coords": {
+        "HPOS": 280,
+        "VPOS": 370,
+        "WIDTH": 1992,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_423f380c",
+      "kind": "main",
+      "idx": 3,
+      "text": "הוא כל מה שתמצא שמוכרחים להשמיע שם כתיבה כמו \"כתוב אפנקסא דלוי, \"כתוב אפנקסיה דזעירי",
+      "coords": {
+        "HPOS": 282,
+        "VPOS": 430,
+        "WIDTH": 1992,
+        "HEIGHT": 74
+      },
+      "para_start": true,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_a48c32c7",
+      "kind": "main",
+      "idx": 4,
+      "text": "כתוב אפנקסיה דריכ\"ל בשבת דקנ\"ו, וכן \"מרכתב אפנקסיה דאילפא\" במנחות ד\"ע ע\"א, בכל אלו",
+      "coords": {
+        "HPOS": 277,
+        "VPOS": 500,
+        "WIDTH": 1995,
+        "HEIGHT": 75
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_a26a5d74",
+      "kind": "main",
+      "idx": 5,
+      "text": "ידועים, שהיו מקבלים גדולים, ואוצר הקבלה בידם, וכיון שנתקיום דהיו פנקסיהם של גדולי הדורות",
+      "coords": {
+        "HPOS": 275,
+        "VPOS": 572,
+        "WIDTH": 1999,
+        "HEIGHT": 67
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_19af4cdb",
+      "kind": "main",
+      "idx": 6,
+      "text": ",הללו די והותר אפי' שלא נשמעה מפיו, וכן הביא דשלח רבין באגרתיה כתובות דמ\"ט, וב\"ב דקל\"ט",
+      "coords": {
+        "HPOS": 280,
+        "VPOS": 628,
+        "WIDTH": 1992,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_c7832c2a",
+      "kind": "main",
+      "idx": 7,
+      "text": "וכן העיד ר' יעקב בר אחא בסנהדרין דז\"ן ע\"ב דהוה כתיב בספרא דאגדתא דבי רב וכו' וכיון דאתברר",
+      "coords": {
+        "HPOS": 282,
+        "VPOS": 693,
+        "WIDTH": 1992,
+        "HEIGHT": 71
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_e4ac53e5",
+      "kind": "main",
+      "idx": 8,
+      "text": "לו דהוא ספרא דאגדתא דבי רב, דין קיומיה ואתקיים, וכן רבות, וכולם הם מפני שלא נשמעו מפי",
+      "coords": {
+        "HPOS": 278,
+        "VPOS": 760,
+        "WIDTH": 1994,
+        "HEIGHT": 72
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_44ec5b19",
+      "kind": "main",
+      "idx": 9,
+      "text": "המקבלים, וגם לא נמצאו כתובים באוצרו הקבלה הם המשניות והברייתות, והתוספתות, והוכרחו",
+      "coords": {
+        "HPOS": 277,
+        "VPOS": 826,
+        "WIDTH": 1997,
+        "HEIGHT": 70
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_73a62267",
+      "kind": "main",
+      "idx": 10,
+      "text": ",לגלות בית הסתרים דרבנן ולהוציא מפיהם כתיבה, וגם זה היה מן השמים להחיותינו כיום הזה",
+      "coords": {
+        "HPOS": 282,
+        "VPOS": 883,
+        "WIDTH": 1990,
+        "HEIGHT": 75
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_afc6ea55",
+      "kind": "main",
+      "idx": 11,
+      "text": "בבירור ענין זה על מתכונתו",
+      "coords": {
+        "HPOS": 986,
+        "VPOS": 957,
+        "WIDTH": 588,
+        "HEIGHT": 64
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_e3e6c332",
+      "kind": "main",
+      "idx": 12,
+      "text": "ודבר",
+      "coords": {
+        "HPOS": 2115,
+        "VPOS": 1010,
+        "WIDTH": 157,
+        "HEIGHT": 86
+      },
+      "para_start": true,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_d061c25a",
+      "kind": "main",
+      "idx": 13,
+      "text": "!אחד לכד, נשאר להעירך בו קורא נעים! ואסגור הענף הלזה בו, ראה פלא עצום",
+      "coords": {
+        "HPOS": 277,
+        "VPOS": 1015,
+        "WIDTH": 1777,
+        "HEIGHT": 72
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_4ddc386b",
+      "kind": "main",
+      "idx": 14,
+      "text": "כמה נדחק רש\"י בכל המקומות, לקיים יסודו כאשר הראיתיך בכל הילוך ענין זה מריש",
+      "coords": {
+        "HPOS": 271,
+        "VPOS": 1083,
+        "WIDTH": 1780,
+        "HEIGHT": 70
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_183fb178",
+      "kind": "main",
+      "idx": 15,
+      "text": ",ועד בען, ועודמי יודע כמה, אבל שמע דבר זה האחרון, וגם בעיניך יפלא! הנה, בחולין ד\"ס ע\"ב",
+      "coords": {
+        "HPOS": 278,
+        "VPOS": 1140,
+        "WIDTH": 1994,
+        "HEIGHT": 75
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_78c9130f",
+      "kind": "main",
+      "idx": 16,
+      "text": "כתוב בזה הלשון: א\"ל ר\"ח לרב תחליפא ב\"א, זיל כתוב קניגי ובליסטרי באגדתיך, וכן כתוב ארנוקי",
+      "coords": {
+        "HPOS": 278,
+        "VPOS": 1204,
+        "WIDTH": 1993,
+        "HEIGHT": 75
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_9f0def7a",
+      "kind": "main",
+      "idx": 17,
+      "text": "באגדתיך, שפשט הדברים אין ספק שהוא כך: כתוב חידוש זה או שמות אלו בספר אגדתא שלך, א\"כ",
+      "coords": {
+        "HPOS": 275,
+        "VPOS": 1270,
+        "WIDTH": 1996,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_64e8b1f3",
+      "kind": "main",
+      "idx": 18,
+      "text": "יוצא שיש ספר אגדה כתוב, לזה פי' רש\"י \"אגדה זו כתוב שיש בה תיבות יפות ולשון צח\" ע\"כ. כלומר",
+      "coords": {
+        "HPOS": 289,
+        "VPOS": 1334,
+        "WIDTH": 1982,
+        "HEIGHT": 75
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_df1e8729",
+      "kind": "main",
+      "idx": 19,
+      "text": "זה הותר לך לכתוב, ולא דבר אחר, והוא פלא!ז",
+      "coords": {
+        "HPOS": 785,
+        "VPOS": 1397,
+        "WIDTH": 987,
+        "HEIGHT": 77
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_69b61de7",
+      "kind": "main",
+      "idx": 20,
+      "text": "ד",
+      "coords": {
+        "HPOS": 2155,
+        "VPOS": 1463,
+        "WIDTH": 53,
+        "HEIGHT": 80
+      },
+      "para_start": true,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_fa56c375",
+      "kind": "main",
+      "idx": 21,
+      "text": "דבר קטון אחבר פה, והוא, שבהיותי בווין, קניתי לי' ס' אגרת בקורת להגאון הצ\"ח ז\"ל",
+      "coords": {
+        "HPOS": 278,
+        "VPOS": 1457,
+        "WIDTH": 1831,
+        "HEIGHT": 81
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_07a3b9f5",
+      "kind": "main",
+      "idx": 22,
+      "text": "שאני לא ראיתיהו מעולם (עיין לעיל סי' ט\"ל) ונדפס שנית עם הגהות מרב אחד נר\"ו (*",
+      "coords": {
+        "HPOS": 288,
+        "VPOS": 1523,
+        "WIDTH": 1788,
+        "HEIGHT": 79
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_02095b99",
+      "kind": "main",
+      "idx": 23,
+      "text": "ושם ראיתי שמביא מ\"ש החכם השד\"ל באהב גר שהתרגום לא נכתב, מראית הירושלמי, מושיט",
+      "coords": {
+        "HPOS": 273,
+        "VPOS": 1593,
+        "WIDTH": 1999,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_e8887514",
+      "kind": "main",
+      "idx": 24,
+      "text": "תרגומא מגו ספרא, וגם מ\"ש בכרם חמד, מראית לא יקרא פרשה ולא יתרגם, והשיב לו הרב המגיה",
+      "coords": {
+        "HPOS": 273,
+        "VPOS": 1662,
+        "WIDTH": 1996,
+        "HEIGHT": 65
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_d4a88993",
+      "kind": "main",
+      "idx": 25,
+      "text": "'שם, דכוונת הירוש' לא על איסור הכתיבה, כי אם על איסור הלמוד מתוך הספר, וכן ההיא דב\"מ פי",
+      "coords": {
+        "HPOS": 282,
+        "VPOS": 1716,
+        "WIDTH": 1985,
+        "HEIGHT": 73
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_ff1fa1a7",
+      "kind": "main",
+      "idx": 26,
+      "text": ",באשר פירשנו, בשם הריטב\"א, ולא הזכירו, ואני עמדתי משתומם, אין בדחיות קלות במו אלה",
+      "coords": {
+        "HPOS": 280,
+        "VPOS": 1782,
+        "WIDTH": 1985,
+        "HEIGHT": 73
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_5d989a51",
+      "kind": "main",
+      "idx": 27,
+      "text": "דחה דברי החכם השד\"ל נר\"ו, אשר מלא את ידו בראיות ברורות מכמה מקומות וכמה גדולים קיימי",
+      "coords": {
+        "HPOS": 275,
+        "VPOS": 1851,
+        "WIDTH": 1988,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_bb73bafb",
+      "kind": "main",
+      "idx": 28,
+      "text": "בסברתו",
+      "coords": {
+        "HPOS": 401,
+        "VPOS": 1917,
+        "WIDTH": 169,
+        "HEIGHT": 63
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_c96fcd91",
+      "kind": "main",
+      "idx": 29,
+      "text": "רנ\"ד וז\"ל: \"עכ\"פ כל זה מורה שהיו סדורות גם המשכתות גם הפלפולים כבר לפניהם, אך בכל זה לא היו עוד ספרי",
+      "coords": {
+        "HPOS": 275,
+        "VPOS": 1967,
+        "WIDTH": 1994,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_62be1139",
+      "kind": "main",
+      "idx": 30,
+      "text": "התלמוד ביד כל אדם, כי אז לא היו צריכים עוד לסימנים וניתי ס\"ת ונחזי ע\"ב. ראה אם אינו ממש כמתנבא על האמור",
+      "coords": {
+        "HPOS": 273,
+        "VPOS": 2024,
+        "WIDTH": 1996,
+        "HEIGHT": 60
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_a9e3e77d",
+      "kind": "main",
+      "idx": 31,
+      "text": "ומדובר באלף ראיות מופתיות, וכל מה שהיסיף ליכנס בעוצם ענין זה עוד נופלים מפיו מרגליות ופנינים בבירור ענין זה",
+      "coords": {
+        "HPOS": 269,
+        "VPOS": 2084,
+        "WIDTH": 2000,
+        "HEIGHT": 53
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_a9c003f4",
+      "kind": "main",
+      "idx": 32,
+      "text": ",שהרי אתה רואה שם באותו חלק עמוד קכ\"ח שהביא מ\"ש היא בעצמו בתולדות ר\"ח \"שכיונת הפירש מתלמוד לתלמוד",
+      "coords": {
+        "HPOS": 278,
+        "VPOS": 2141,
+        "WIDTH": 1993,
+        "HEIGHT": 55
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_d8e33cb0",
+      "kind": "main",
+      "idx": 33,
+      "text": "הכוונה רק על דרך הלמוד שם, ושם לא על הספרים הכתובים בשתי ארצות שכ' התלחודיים \"לא היו עוד בעולם בימי",
+      "coords": {
+        "HPOS": 275,
+        "VPOS": 2187,
+        "WIDTH": 1994,
+        "HEIGHT": 55
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_27a8237c",
+      "kind": "main",
+      "idx": 34,
+      "text": "האמוראים כמו שהוכחתי במקום אחר\" עכ\"ד. ומי שכותב לא היו עוד בעולם, איך יכתוב לא היו עוד ספרי התלמוד ביד",
+      "coords": {
+        "HPOS": 269,
+        "VPOS": 2242,
+        "WIDTH": 1998,
+        "HEIGHT": 53
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_d298f5a4",
+      "kind": "main",
+      "idx": 35,
+      "text": "כל אדם, דדון מינה דהיו בעולם אלא דלא היו ביד כל אדם אלא גנוזים ביד ראשי סנהדראות? אם לא שתאמר כאשר כתבתי",
+      "coords": {
+        "HPOS": 271,
+        "VPOS": 2297,
+        "WIDTH": 1994,
+        "HEIGHT": 51
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_84db4b1c",
+      "kind": "main",
+      "idx": 36,
+      "text": "דכל מה שהוסיף ליכנם בעוצם ענין זה נתברר לו דהיתה כתיבה בעולם אבל שלא היתה ביד כל אים, ואין להאשים גברא",
+      "coords": {
+        "HPOS": 269,
+        "VPOS": 2343,
+        "WIDTH": 1996,
+        "HEIGHT": 60
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_26e0abaf",
+      "kind": "main",
+      "idx": 37,
+      "text": "רבא דכותיה בשום אופן, שבאמת כל מה שנגע בענין האדיר הזה בכל אלה המקומות היה מלתא אגב אורחיה כמו שיראה",
+      "coords": {
+        "HPOS": 273,
+        "VPOS": 2405,
+        "WIDTH": 1994,
+        "HEIGHT": 55
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_c32682db",
+      "kind": "main",
+      "idx": 38,
+      "text": "הרואה בכל דבריו למקומותם בארש\"ותם\" וכנגד זה רבינו ומאור עינינו רש\"י ז\"ל אריה הוא דרביע, ועומד בפרשת דרכים",
+      "coords": {
+        "HPOS": 273,
+        "VPOS": 2460,
+        "WIDTH": 1992,
+        "HEIGHT": 49
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_ccb826fe",
+      "kind": "main",
+      "idx": 39,
+      "text": ",לפני המעיין עד שאין מניח צו דרך לנטות, וע\"כ אלולי רוב עוביו ורוב היקפו לא היה יכול לכתוב במלתא אגב אוראיה",
+      "coords": {
+        "HPOS": 273,
+        "VPOS": 2498,
+        "WIDTH": 1990,
+        "HEIGHT": 72
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_78b87478",
+      "kind": "main",
+      "idx": 40,
+      "text": "מה שכתב עמוד ק\"ם הנז\"ל, ועוצם פקיחותי ובקיאותו גרחא לו לכוין אל האמת הברורה גם מבלי שיעמוד עליה בצביונה",
+      "coords": {
+        "HPOS": 271,
+        "VPOS": 2561,
+        "WIDTH": 1994,
+        "HEIGHT": 51
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_7ac500cf",
+      "kind": "main",
+      "idx": 41,
+      "text": "ובקומתה, יהי שמו לעולם לפני שמש ינין שמו ויתברכו בו כל תופשי התורה כיר\"א. ואחר זמן מה ראיתי לו עוד בכ\"ח ח\"ג",
+      "coords": {
+        "HPOS": 269,
+        "VPOS": 2616,
+        "WIDTH": 1994,
+        "HEIGHT": 55
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_95af7cc4",
+      "kind": "main",
+      "idx": 42,
+      "text": "עמוד מ\"ח שהוא נוטה לדעת רש\"י שהתלמוד לא נכתב עד זמן רבנן סביראי וכל הראיות שהביא בתוך חצאי לבנה הן הן",
+      "coords": {
+        "HPOS": 271,
+        "VPOS": 2669,
+        "WIDTH": 1994,
+        "HEIGHT": 53
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_88b0b015",
+      "kind": "main",
+      "idx": 43,
+      "text": "הנתנים למעלה בשם הגאון הרמ\"ז ז\"ל, וגם מקיים שהאגדות נכתבו בזמן יותר קדמון כדעת הגאון הצ\"ח נר\"ו הונאו דבריו",
+      "coords": {
+        "HPOS": 269,
+        "VPOS": 2711,
+        "WIDTH": 1994,
+        "HEIGHT": 62
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_47b74a4a",
+      "kind": "main",
+      "idx": 44,
+      "text": "למעלה בענף הא' שאנו בו, וידינתי שכיון שאינו חתום כ\"א כג' כוכבים, זהו סבה שנשמט מעיני בהפכי כל חלקי כרם חמד",
+      "coords": {
+        "HPOS": 273,
+        "VPOS": 2768,
+        "WIDTH": 1990,
+        "HEIGHT": 64
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_730f6260",
+      "kind": "main",
+      "idx": 45,
+      "text": "כשבאו לידי. איך שיהיה גם בזה אינו ראיה שדבר זה כתבו קודם מה שכתב בח\"ו עמוד ונ\"ד וננז\"ל באורך. ובריא לי",
+      "coords": {
+        "HPOS": 273,
+        "VPOS": 2821,
+        "WIDTH": 1988,
+        "HEIGHT": 62
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_7e9e75a4",
+      "kind": "main",
+      "idx": 46,
+      "text": "שכשיראה כל ראיותנו בצביונן ובקומתן יחזור לפסוק כדעת הגאונים, ומציה רבה שיברר דעתו דעת עליון כדרך מבקר",
+      "coords": {
+        "HPOS": 280,
+        "VPOS": 2876,
+        "WIDTH": 1985,
+        "HEIGHT": 61
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_8fd8d24d",
+      "kind": "main",
+      "idx": 47,
+      "text": ".לפסוק ההלכה, והבאים אחרינו יבנו דייק, ותשקוט הארץ",
+      "coords": {
+        "HPOS": 766,
+        "VPOS": 2924,
+        "WIDTH": 995,
+        "HEIGHT": 69
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_7f576385",
+      "kind": "main",
+      "idx": 48,
+      "text": ".חכל על פדידה טובה שאכדה מן העולם! השתא הכא, בפמק הבכא (*)",
+      "coords": {
+        "HPOS": 1023,
+        "VPOS": 2975,
+        "WIDTH": 1233,
+        "HEIGHT": 79
+      },
+      "para_start": true,
+      "is_catchword": false
+    }
+  ]
+}

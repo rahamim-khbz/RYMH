@@ -1,0 +1,709 @@
+{
+  "page_id": "page-32",
+  "image": "page_images/page-32.jpg",
+  "page_width": 2550,
+  "page_height": 3300,
+  "base_hash": "sha256:fb27686e514458d60ed0ceb05afe731281973ae86539fe6fb298b7466f65ea26",
+  "lines": [
+    {
+      "line_id": "eSc_line_33bac019",
+      "kind": "main",
+      "idx": 0,
+      "text": "'רבנן אחריני דהוו אמוראי בלחוד כגון וכו', ורבה בר אבוה זקננו וכו",
+      "coords": {
+        "HPOS": 286,
+        "VPOS": 227,
+        "WIDTH": 1972,
+        "HEIGHT": 84
+      },
+      "para_start": true,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_dd39807a",
+      "kind": "main",
+      "idx": 1,
+      "text": "ובתר הכי הוה ר",
+      "coords": {
+        "HPOS": 1785,
+        "VPOS": 300,
+        "WIDTH": 476,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_307a754b",
+      "kind": "main",
+      "idx": 2,
+      "text": "חנינא וכו', ובתר\" דריהון רב נחמן וכו' וכו', ובתר הכי",
+      "coords": {
+        "HPOS": 240,
+        "VPOS": 297,
+        "WIDTH": 1495,
+        "HEIGHT": 77
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_9be7ecb1",
+      "kind": "main",
+      "idx": 3,
+      "text": "אביי ורבא, ונפיש שמדא בא\"י ואמעיטא הוראה תמן, ונחית מאן דהוה",
+      "coords": {
+        "HPOS": 231,
+        "VPOS": 355,
+        "WIDTH": 2032,
+        "HEIGHT": 88
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_4381ebca",
+      "kind": "main",
+      "idx": 4,
+      "text": "תמן מן בבלאי, כגון רבין ורב דימי וכולהו נחותי דנחתין להכא (עוד",
+      "coords": {
+        "HPOS": 245,
+        "VPOS": 425,
+        "WIDTH": 2013,
+        "HEIGHT": 73
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_24e1a141",
+      "kind": "main",
+      "idx": 5,
+      "text": ",ראיה דקרי לבבל \"להכא\" מקום מושב הגאון ז\"ל) ואחר שיצא גאוננו ז\"ל מהודעות יפות, ובריאות",
+      "coords": {
+        "HPOS": 249,
+        "VPOS": 485,
+        "WIDTH": 2012,
+        "HEIGHT": 87
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_9b508df3",
+      "kind": "main",
+      "idx": 6,
+      "text": "ונצרכות, ומקושרות היטב אל ענין דהוה קא משתעי ביה, חזר אל הנקודה אשר נסע ממנה, להודיע",
+      "coords": {
+        "HPOS": 231,
+        "VPOS": 562,
+        "WIDTH": 2030,
+        "HEIGHT": 81
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_69643545",
+      "kind": "main",
+      "idx": 7,
+      "text": "שבכל דור ודור היה מתארך התלמוד, ומסדרים אותו בפה אחד ולשון אחד כמו שהוא לפנינו הן חסר",
+      "coords": {
+        "HPOS": 238,
+        "VPOS": 617,
+        "WIDTH": 2027,
+        "HEIGHT": 87
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_6cf399e4",
+      "kind": "main",
+      "idx": 8,
+      "text": "הן יתר וזה אומרו: \"ו בכל דרא ודרא מן אלין דרי וכו' וכו' אתא דרא אחרינא",
+      "coords": {
+        "HPOS": 256,
+        "VPOS": 683,
+        "WIDTH": 2007,
+        "HEIGHT": 83
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_1f32241b",
+      "kind": "main",
+      "idx": 9,
+      "text": "ואמעי לבא והנך מילי דהוו פשטין להון לראשונים, ופרשי להין",
+      "coords": {
+        "HPOS": 249,
+        "VPOS": 748,
+        "WIDTH": 2011,
+        "HEIGHT": 86
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_1c3440ad",
+      "kind": "main",
+      "idx": 10,
+      "text": "לתמלמידייהו, והוו כגון פירושי דלא צריכי למגרסינהו ולמקבעינהו",
+      "coords": {
+        "HPOS": 238,
+        "VPOS": 810,
+        "WIDTH": 2025,
+        "HEIGHT": 82
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_16749a94",
+      "kind": "main",
+      "idx": 11,
+      "text": "בגמרא, הוו השתא בההוא דרא ספוקי, וצריכין למקבעינהו בגמרא",
+      "coords": {
+        "HPOS": 260,
+        "VPOS": 880,
+        "WIDTH": 2003,
+        "HEIGHT": 75
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_4670d33a",
+      "kind": "main",
+      "idx": 12,
+      "text": "ובגירסא, ואמרין להון במתיבתא, וקכעין להון בגמרא, וגרסין להו",
+      "coords": {
+        "HPOS": 243,
+        "VPOS": 942,
+        "WIDTH": 2020,
+        "HEIGHT": 92
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_bdc84ee5",
+      "kind": "main",
+      "idx": 13,
+      "text": "?\"'בע\"פ ר כנן\" (כב) והביא ראיה על זה מההיא דאמרינן בעירוכין דל\"ב ע\"ב \"קבעיתו לה נמי בגמ",
+      "coords": {
+        "HPOS": 245,
+        "VPOS": 1010,
+        "WIDTH": 2000,
+        "HEIGHT": 84
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_0400b896",
+      "kind": "main",
+      "idx": 14,
+      "text": "ושוב",
+      "coords": {
+        "HPOS": 365,
+        "VPOS": 1094,
+        "WIDTH": 115,
+        "HEIGHT": 53
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_1121b974",
+      "kind": "main",
+      "idx": 15,
+      "text": ",ור\"ן סוף משנה כלומר כך גזרה חכמתו יתברך והוא ברור לע\"ד בכוונת רבינו הגאון ז\"ל בתשו' חדשה זאת שאנה ה' לידינו",
+      "coords": {
+        "HPOS": 243,
+        "VPOS": 1162,
+        "WIDTH": 2024,
+        "HEIGHT": 71
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_90a4a2ce",
+      "kind": "main",
+      "idx": 16,
+      "text": ",לקמן שבודאי כמה שאלות גרמה תשו' ר\"ש החמודה הזאת ששאלו ממנו או מבנו חמודו שיבארו להם ממנה כמה דברים",
+      "coords": {
+        "HPOS": 240,
+        "VPOS": 1263,
+        "WIDTH": 2029,
+        "HEIGHT": 79
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_0392785f",
+      "kind": "main",
+      "idx": 17,
+      "text": "עכ\"פ בדור לי כשמש שתשו' חדשה זאת היא שלוחה אל קירוואן לביאור תשו' שלפנינו, וזה חד מהדברים שהם ראיה לק\"ש",
+      "coords": {
+        "HPOS": 236,
+        "VPOS": 1215,
+        "WIDTH": 2031,
+        "HEIGHT": 75
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_59e98527",
+      "kind": "main",
+      "idx": 18,
+      "text": ",ומכללם הך דתושבע\"פ אם היתה כתובה וגנוזה או לא והשיב להם מה שאנו מוצאים בפי רבינו שמואל הנגיד שותה מימיו",
+      "coords": {
+        "HPOS": 243,
+        "VPOS": 1320,
+        "WIDTH": 2022,
+        "HEIGHT": 75
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_8cf838e3",
+      "kind": "main",
+      "idx": 19,
+      "text": "אני רואה, שמלבד שגם כאן אומר רב שרירא רבי ור' נתן סוף משנה א\"כ בתלתא הויא חזקה, ומלבד שהוא תלמוד ערוך",
+      "coords": {
+        "HPOS": 243,
+        "VPOS": 1424,
+        "WIDTH": 2028,
+        "HEIGHT": 72
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_67bbbc2f",
+      "kind": "main",
+      "idx": 20,
+      "text": "ועיין מ\"ש לעיל סי' ך' להגיה תיבת \"ורבי\" הכתוב בשאר נוסחאות כיעו\"ש, וכונתי להניה מפני חשבון השנים, אבל עכשיו",
+      "coords": {
+        "HPOS": 238,
+        "VPOS": 1373,
+        "WIDTH": 2033,
+        "HEIGHT": 79
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_0446c8fa",
+      "kind": "main",
+      "idx": 21,
+      "text": "לפנינו בכ\"מ הנז\"ל, עוך זאת שאיני מוצא כל כך זמן ארוך מהלל עד רבי, אם לא שנחשוב מיום לידת הלל הזקן\" שאז וזאי",
+      "coords": {
+        "HPOS": 242,
+        "VPOS": 1475,
+        "WIDTH": 2023,
+        "HEIGHT": 72
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_43658e08",
+      "kind": "main",
+      "idx": 22,
+      "text": "נמצא החשבון מדוקדק, ואדרבא צריכים אנו לנוסחאות אחרות, שכתוב בהן \"ורבי\" כדי שיעלו בידינו ש\"א, כי ר' נתן היה",
+      "coords": {
+        "HPOS": 240,
+        "VPOS": 1534,
+        "WIDTH": 2027,
+        "HEIGHT": 70
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_0eb6aa94",
+      "kind": "main",
+      "idx": 23,
+      "text": "בזמן ר\"ג דיבנה ובנו רשב\"ג כנודע ודוק, ולא ראיתי מי שנתעורר על זאת דרבי נתן הקודם לרבי, ואי לא דמסתפינא הייתי",
+      "coords": {
+        "HPOS": 242,
+        "VPOS": 1593,
+        "WIDTH": 2025,
+        "HEIGHT": 60
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_ac85d855",
+      "kind": "main",
+      "idx": 24,
+      "text": "גורס \"ר' ורבי יהונתן\" שהוא תלמידו של רבי, שהוא סוף התנאים ממש, ויש לנו ממנו הרבה מימרות כמו תנא, ותשו' זאת",
+      "coords": {
+        "HPOS": 238,
+        "VPOS": 1639,
+        "WIDTH": 2031,
+        "HEIGHT": 77
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_a4a0dbfa",
+      "kind": "main",
+      "idx": 25,
+      "text": "תוכיח על הגהה זאת שהרי הגאון ז\"ל מרבי יהונתן קא סליק להודיענו דלא תני מידי ממתני', אלא ההוא דהוה תניא קמיה",
+      "coords": {
+        "HPOS": 242,
+        "VPOS": 1692,
+        "WIDTH": 2030,
+        "HEIGHT": 73
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_185f64ab",
+      "kind": "main",
+      "idx": 26,
+      "text": "ומסתיע ע\"ז, באומרו כדמפורש בספרו וכו' א\"כ מזה מוכח דהוה גרים ר' ורבי יהונתן גם בתלמודין, אבל מה נעשה שאין",
+      "coords": {
+        "HPOS": 242,
+        "VPOS": 1752,
+        "WIDTH": 2030,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_b18b4d2f",
+      "kind": "main",
+      "idx": 27,
+      "text": "בידינו להגיה תלמוד או נאמר שהעיקר כגירסת היוחסין ד\"ק וז\"א שגורס בתשו' שלפנינו ר' נתן וכן אני מוצא בכוזרי ח\"ג",
+      "coords": {
+        "HPOS": 242,
+        "VPOS": 1805,
+        "WIDTH": 2029,
+        "HEIGHT": 72
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_b5555f8b",
+      "kind": "main",
+      "idx": 28,
+      "text": "סי' ס\"ז שאחר שסיפר דורו של ר\"מ שחבירו היה ר' נתן הבבלי כנודע כתב וז\"ל: \"ואחרי אלה רבי הוא רבינו הקדוש הוא",
+      "coords": {
+        "HPOS": 238,
+        "VPOS": 1857,
+        "WIDTH": 2031,
+        "HEIGHT": 60
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_ff55bad6",
+      "kind": "main",
+      "idx": 29,
+      "text": "ר' יהודא הנשיא, ועמו ר' נתן ור' יהושע בן קרחה\" וכו' עי\"ש, ובעל אוצר נחמד כבר נרגש איך אפשר למנות רבי נתן הבבלי",
+      "coords": {
+        "HPOS": 245,
+        "VPOS": 1903,
+        "WIDTH": 2024,
+        "HEIGHT": 73
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_551e30e2",
+      "kind": "main",
+      "idx": 30,
+      "text": ",בדור רבי? ונדחק הרבה עיש\"ב. אבל לפי' גירסא זו שלפנינו ביוחסין אתי שפיר שהרי בפירוש הגאון אומר: \"ומן התם",
+      "coords": {
+        "HPOS": 249,
+        "VPOS": 1959,
+        "WIDTH": 2023,
+        "HEIGHT": 77
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_aaff28b6",
+      "kind": "main",
+      "idx": 31,
+      "text": "שר\"ל \"מאי ר' נתן\" נמצא דאינו ר\"ן חבירו של ר' מאיר הידוע, דהוא היה מבבל, ועוד שהוא עושה אותו חבר לבניו של רבי",
+      "coords": {
+        "HPOS": 243,
+        "VPOS": 2013,
+        "WIDTH": 2028,
+        "HEIGHT": 67
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_2d40d7fb",
+      "kind": "main",
+      "idx": 32,
+      "text": "ור' יאשיה זמן הוצל, ואי אפשר שיהיה ר\"ן הבבלי, ובהכרח צריכים אנו לומר שכל ר' יהונתן ור' יאשיה שבתלמוד הוא רבי",
+      "coords": {
+        "HPOS": 243,
+        "VPOS": 2069,
+        "WIDTH": 2028,
+        "HEIGHT": 65
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_a938935e",
+      "kind": "main",
+      "idx": 33,
+      "text": "שפיר מסתייע הגאון ממאמר הזה, ושייך שפיר להקדים רבי לרבי נתן כיון שהוא האחרון דאי לאו הכי היה לתלמוד לומר",
+      "coords": {
+        "HPOS": 247,
+        "VPOS": 2172,
+        "WIDTH": 2025,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_2850da32",
+      "kind": "main",
+      "idx": 34,
+      "text": "נתן אחר האחרון ובן א\"י היה, ולא ר' יהונתן שמו, ועל ר' נתן האחרון הלזה הוא שאמרו רבי ורבי נתן סוף משנה, וע\"ז",
+      "coords": {
+        "HPOS": 243,
+        "VPOS": 2117,
+        "WIDTH": 2029,
+        "HEIGHT": 79
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_edb22f89",
+      "kind": "main",
+      "idx": 35,
+      "text": "ר\"ן ורבי סוף משנה\" ומתישבים דברי החבר, אשר קדם כר\"ז שנה להגאון ר\"ש, באומרו: \"ועמו ר' נתן טפל לו, ומצוה",
+      "coords": {
+        "HPOS": 243,
+        "VPOS": 2223,
+        "WIDTH": 2018,
+        "HEIGHT": 81
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_8b1cc7a4",
+      "kind": "main",
+      "idx": 36,
+      "text": "למנקרים שיטפלו בזה לברר אוכל מתוך פסולת, ומה שהשלים החבר שם שאחריהם (של רבי וחבריו) בעלי משנה הנקראים",
+      "coords": {
+        "HPOS": 243,
+        "VPOS": 2277,
+        "WIDTH": 2031,
+        "HEIGHT": 73
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_930ef5f5",
+      "kind": "main",
+      "idx": 37,
+      "text": "תנאים, והאוצר נחמד רצה לתלותו בט'ם, ולע\"ד הם דברים מבוררים עם דברי הגאון פה, שבאמת דור שאחר רבי נקראים",
+      "coords": {
+        "HPOS": 245,
+        "VPOS": 2335,
+        "WIDTH": 2029,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_8bbb29a6",
+      "kind": "main",
+      "idx": 38,
+      "text": "בעלי משנה ותנאים אע\"פי שהיו אחרי רבי, ולא היה להם כח להוסיף במשניות, ולא תנו מידי ממתניתין אלא ההוא דהוה",
+      "coords": {
+        "HPOS": 243,
+        "VPOS": 2383,
+        "WIDTH": 2029,
+        "HEIGHT": 70
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_e4a107cd",
+      "kind": "main",
+      "idx": 39,
+      "text": ".תניא קמי רבי וזהו חידושו של החבר ודוק היטב והוא האמת. וע'כ משלי",
+      "coords": {
+        "HPOS": 1031,
+        "VPOS": 2445,
+        "WIDTH": 1241,
+        "HEIGHT": 55
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_5be20397",
+      "kind": "main",
+      "idx": 40,
+      "text": "כב) בנוסח היוחסין כתוב \"וגרסינן להו בגמ' רבנן, ובח\"מ \"וגרסינן להו כולהו רבנן\" ואני בחרתי במקום בג\"מ שביוחסין)",
+      "coords": {
+        "HPOS": 247,
+        "VPOS": 2493,
+        "WIDTH": 2025,
+        "HEIGHT": 77
+      },
+      "para_start": true,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_64ea76ba",
+      "kind": "main",
+      "idx": 41,
+      "text": "ובמקום \"כולהו\" שבח\"מ, \"בע\"פ\" וטעם הדברים שראינו סדר הנהגתו של הגאון באגרת הזאת, שתכף אחרי שיודיענו",
+      "coords": {
+        "HPOS": 249,
+        "VPOS": 2552,
+        "WIDTH": 1930,
+        "HEIGHT": 64
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_bff6003b",
+      "kind": "main",
+      "idx": 42,
+      "text": "הסידור והחיבור והקביעות לעולם, ישתמש בגירסא בע\"פ, מאי דקמן? כמה פעמים למקבעינהו? ותכף כמזדרז יאמר",
+      "coords": {
+        "HPOS": 251,
+        "VPOS": 2599,
+        "WIDTH": 2025,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_595b09cf",
+      "kind": "main",
+      "idx": 43,
+      "text": "ולמגרסינהו\" \"וגרסין\" \"וזהירין רבנן למגדסינהו ע\"פ דלקמן\" אם לא כדי להודיע לנו, מנהג הכתיבה, ואיסור הלימוד מתוך",
+      "coords": {
+        "HPOS": 253,
+        "VPOS": 2649,
+        "WIDTH": 2014,
+        "HEIGHT": 79
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_89af89e9",
+      "kind": "main",
+      "idx": 44,
+      "text": "הכתב, וע\"כ גם כאן תכף כתב וגרסין להו רבנן בע\"פ, ובכתיבה הספרדית הנהוגה אצלנו עד היום יש מקום לטעות בין",
+      "coords": {
+        "HPOS": 251,
+        "VPOS": 2713,
+        "WIDTH": 2025,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_d8b3f3da",
+      "kind": "main",
+      "idx": 45,
+      "text": "מי שכותב בר\"ת \"בע\"פ\" למי שכותב \"בג\"מ\" שבע\"פ יכתב כך \"בע\"כ\" \"ובגמ\" יכתב על אופן זה \"בג\"מ\" והמעתיק הראשון",
+      "coords": {
+        "HPOS": 249,
+        "VPOS": 2759,
+        "WIDTH": 2029,
+        "HEIGHT": 73
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_c4108142",
+      "kind": "main",
+      "idx": 46,
+      "text": "שביוחסין טעה במקום בע\"פ כתב בגמרא בשלימות בלא ר\"ת, והמעתיק שבחופש, כיון שראה שתיבת בגמרא אין לה כ\"כ מונן",
+      "coords": {
+        "HPOS": 251,
+        "VPOS": 2812,
+        "WIDTH": 2027,
+        "HEIGHT": 75
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_e82adaf5",
+      "kind": "main",
+      "idx": 47,
+      "text": "ובפרט שמובן שהוא לימוד מתוך הסצר נתן במקום \"בגמרא\" \"כולהו\" ולדעתי היא השערה אמתית אשר ראוי לסמוך עליה",
+      "coords": {
+        "HPOS": 251,
+        "VPOS": 2872,
+        "WIDTH": 2027,
+        "HEIGHT": 63
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_a2ef8023",
+      "kind": "main",
+      "idx": 48,
+      "text": "ובפרט למי שבקי בכתיבה הספרדית הנהונה אצלנו, והעתק היוחסין הוא ספרדי מבטן ומהריון וחזותו מוכיח עליו, יגיח",
+      "coords": {
+        "HPOS": 253,
+        "VPOS": 2922,
+        "WIDTH": 2025,
+        "HEIGHT": 75
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_869015b0",
+      "kind": "main",
+      "idx": 49,
+      "text": ".ירדנו, חלמיש למעינו, בחכמת דקדוק הכתיבה והלשון וסידור הדברים",
+      "coords": {
+        "HPOS": 1089,
+        "VPOS": 2977,
+        "WIDTH": 1182,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    }
+  ]
+}

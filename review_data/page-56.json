@@ -1,0 +1,639 @@
+{
+  "page_id": "page-56",
+  "image": "page_images/page-56.jpg",
+  "page_width": 2550,
+  "page_height": 3300,
+  "base_hash": "sha256:8f46d43cd8c6842c2aba7ca9a9ddaab8f79e6002a1e6d4879ef4d7424086e01f",
+  "lines": [
+    {
+      "line_id": "eSc_line_d9fced05",
+      "kind": "main",
+      "idx": 0,
+      "text": "הענף הז",
+      "coords": {
+        "HPOS": 1994,
+        "VPOS": 262,
+        "WIDTH": 280,
+        "HEIGHT": 99
+      },
+      "para_start": true,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_ac92021f",
+      "kind": "main",
+      "idx": 1,
+      "text": "דמיתי ולא עלתה על לבי, כי פשע אריכות דברי אני אדע וחטאת כבדות אמרי",
+      "coords": {
+        "HPOS": 293,
+        "VPOS": 326,
+        "WIDTH": 1611,
+        "HEIGHT": 71
+      },
+      "para_start": true,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_432cb5ed",
+      "kind": "main",
+      "idx": 2,
+      "text": "ידידי הקורא, הרבה הלאתיך, יותר מדי הכבדתיך, בהגהה זאת דסי' קפ\"ז מה שלא",
+      "coords": {
+        "HPOS": 286,
+        "VPOS": 256,
+        "WIDTH": 1620,
+        "HEIGHT": 81
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_ee85ef34",
+      "kind": "main",
+      "idx": 3,
+      "text": "נגדי תמיד, בשתי וגם נכלמתי כי נשאתי חרפת החכמים הגדולים שמשנתם קב ונקי, אבל לאט לי",
+      "coords": {
+        "HPOS": 293,
+        "VPOS": 392,
+        "WIDTH": 1987,
+        "HEIGHT": 71
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_3c0f1c38",
+      "kind": "main",
+      "idx": 4,
+      "text": ",למען קדוש ישראל! הפלא חסדיך ועמוד מכסא דין ושב על כסא רחמים לדון אותי לכף זכות מכרעת",
+      "coords": {
+        "HPOS": 289,
+        "VPOS": 452,
+        "WIDTH": 1989,
+        "HEIGHT": 77
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_fed97e34",
+      "kind": "main",
+      "idx": 5,
+      "text": "כי ההכרח הגדול והנורא, כאשר ידעת בצרות נפש תושבע\"פ בדור הזה שאנו בו, הוא אלצני לבא",
+      "coords": {
+        "HPOS": 288,
+        "VPOS": 518,
+        "WIDTH": 1990,
+        "HEIGHT": 63
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_65fddfe8",
+      "kind": "main",
+      "idx": 6,
+      "text": "מפניך הקורא החביב, באורך ההצעות והביאורים והדקדוקים לברר דבר זה על בודיו, כי גמרתי",
+      "coords": {
+        "HPOS": 289,
+        "VPOS": 584,
+        "WIDTH": 1989,
+        "HEIGHT": 72
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_8921a60a",
+      "kind": "main",
+      "idx": 7,
+      "text": "בדעתי בעזרת העוזר שלא להניח פתחון פה מכל צד ופנה בכל מה שאוכל, וזה יעלה בידינו, אם לא",
+      "coords": {
+        "HPOS": 288,
+        "VPOS": 645,
+        "WIDTH": 1986,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_3bf39857",
+      "kind": "main",
+      "idx": 8,
+      "text": "נניח דבר קטון וגדול שנאמר בענין זה, חלק בלי תשובה, כדי שלא יבאו דורות האחרונים, ההולכים",
+      "coords": {
+        "HPOS": 289,
+        "VPOS": 711,
+        "WIDTH": 1989,
+        "HEIGHT": 64
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_6f38e769",
+      "kind": "main",
+      "idx": 9,
+      "text": "ומתמעטים כפרי החג, להיות תולין עצמם בבוקי סריקי הנמצאים מפוזרים אחת הנה ואחת הנה. שאני",
+      "coords": {
+        "HPOS": 288,
+        "VPOS": 773,
+        "WIDTH": 1990,
+        "HEIGHT": 75
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_4d4deebf",
+      "kind": "main",
+      "idx": 10,
+      "text": "קורא נעים, שאני! כי כבר השרשנו רבינו מוהרלנ\"ח ז\"ל כי האריכות עם תקון הענין ושלמותו טוב",
+      "coords": {
+        "HPOS": 284,
+        "VPOS": 839,
+        "WIDTH": 1990,
+        "HEIGHT": 72
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_8a7b8a1d",
+      "kind": "main",
+      "idx": 11,
+      "text": "מהקיצור עם הבלתי תקון (דף שי\"ג ע\"ב וע\"ד) ואחר שזה הוא היסוד האמתי שעליו נשענים אלה",
+      "coords": {
+        "HPOS": 286,
+        "VPOS": 903,
+        "WIDTH": 1988,
+        "HEIGHT": 74
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_0d2194dc",
+      "kind": "main",
+      "idx": 12,
+      "text": "הדברים אשר דבר משה מריש ועד כען, ואל אלהים, הוא יודע, כי הוא ולא אחר, א\"כ מהיסוד המוסד",
+      "coords": {
+        "HPOS": 293,
+        "VPOS": 964,
+        "WIDTH": 1979,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_8dc4205d",
+      "kind": "main",
+      "idx": 13,
+      "text": "הזה, ממנו יתד ממנו פנה, וממנו תשועתי, להרהיב בנפשי עז, להשתטח לפניך קורא נעים, למען",
+      "coords": {
+        "HPOS": 288,
+        "VPOS": 1039,
+        "WIDTH": 1986,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_80192065",
+      "kind": "main",
+      "idx": 14,
+      "text": "תאריך אלי רוחך הטובה לתת אזן מקשבת גם אל כל אשר אוסיף עוד, לשום לפניך היום בענף הד",
+      "coords": {
+        "HPOS": 300,
+        "VPOS": 1098,
+        "WIDTH": 1974,
+        "HEIGHT": 71
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_f4edd7cf",
+      "kind": "main",
+      "idx": 15,
+      "text": "הלזה. נא ידיד! אל תרף ממני ואל תלאה, ויהי אלהים עמך",
+      "coords": {
+        "HPOS": 693,
+        "VPOS": 1156,
+        "WIDTH": 1196,
+        "HEIGHT": 76
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_19e03164",
+      "kind": "main",
+      "idx": 16,
+      "text": "לך שאחר שכבר גמרתי ענין זה על מתכונתו, לא עבר חדש ימים, והגיעני האידוקאטור",
+      "coords": {
+        "HPOS": 291,
+        "VPOS": 1222,
+        "WIDTH": 1833,
+        "HEIGHT": 65
+      },
+      "para_start": true,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_5031b521",
+      "kind": "main",
+      "idx": 17,
+      "text": "הישראלי בלשון איטלקי, סימן הד' לשנה הג' ליציאתו לאור, ובעודני לומד בו וכיוצא בו, בשעות",
+      "coords": {
+        "HPOS": 286,
+        "VPOS": 1283,
+        "WIDTH": 1836,
+        "HEIGHT": 77
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_90d89133",
+      "kind": "main",
+      "idx": 18,
+      "text": "שלאחר סעודת הצהרים כמנהגי מיום בואי לארצות האלו, שם ראיתי להחכם המפורסם השד\"ל נר\"ו",
+      "coords": {
+        "HPOS": 295,
+        "VPOS": 1349,
+        "WIDTH": 1981,
+        "HEIGHT": 64
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_abb6dcd3",
+      "kind": "main",
+      "idx": 19,
+      "text": "מחזיק באיטלקי מפורש ליסוד מוסד שתושבע\"פ לא ראתה פני הכתב, כי אם בתחי' זמן רבנן סבוראי",
+      "coords": {
+        "HPOS": 310,
+        "VPOS": 1420,
+        "WIDTH": 1964,
+        "HEIGHT": 61
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_bfac8b2f",
+      "kind": "main",
+      "idx": 20,
+      "text": "בסמכו על דברי רש\"י נגד דעת הרמב\"ם, ואומר שם: שבספרו אוהב גר ובכ\"ח ח\"ג האריך בזה להביא",
+      "coords": {
+        "HPOS": 284,
+        "VPOS": 1483,
+        "WIDTH": 1988,
+        "HEIGHT": 62
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_62badc82",
+      "kind": "main",
+      "idx": 21,
+      "text": "ראיות מופתיות מן התלמוד בחיזוק סברא זאת: דהתלמוד ומשנה והתרגום לא ראו פני הכתב, כ\"א",
+      "coords": {
+        "HPOS": 286,
+        "VPOS": 1540,
+        "WIDTH": 1988,
+        "HEIGHT": 69
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_7fc7c6c1",
+      "kind": "main",
+      "idx": 22,
+      "text": "אחר חתימת התלמוד, ומודיע עוד באמרו: דהסכלות והחסידות שטוח (\"פאנאטיזמו) לא אחרו פעמיהם",
+      "coords": {
+        "HPOS": 288,
+        "VPOS": 1609,
+        "WIDTH": 1988,
+        "HEIGHT": 63
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_797f9004",
+      "kind": "main",
+      "idx": 23,
+      "text": "מלצאת לקראת נשק נגד סברתו זאת, אבל סוף סוף, הדוטור גראיץ מלמד בבית המדרש של ברסלאוייא",
+      "coords": {
+        "HPOS": 302,
+        "VPOS": 1666,
+        "WIDTH": 1972,
+        "HEIGHT": 84
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_ea4743c9",
+      "kind": "main",
+      "idx": 24,
+      "text": "בספרו סיפור קורות העברים (דפוס בדלין אתתנ\"ג למינים דף תקנ\"ה) הכיר בטוב טעם ודעת, איך",
+      "coords": {
+        "HPOS": 293,
+        "VPOS": 1739,
+        "WIDTH": 1983,
+        "HEIGHT": 70
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_bc2f16af",
+      "kind": "main",
+      "idx": 25,
+      "text": "אני אני הוא אשר הישרתי כל מעגל בהסרת הטעות הקדמון והמפורסם הלזה, אלו דבריו בקיצור",
+      "coords": {
+        "HPOS": 295,
+        "VPOS": 1798,
+        "WIDTH": 1981,
+        "HEIGHT": 72
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_9dec2014",
+      "kind": "main",
+      "idx": 26,
+      "text": "מועתקים מהאיטלקי. ואני בלמדי ב' דלתות השתוממתי על המראה הגדולה מתרתי תלת טעמי",
+      "coords": {
+        "HPOS": 288,
+        "VPOS": 1859,
+        "WIDTH": 1984,
+        "HEIGHT": 77
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_2c7e12f3",
+      "kind": "main",
+      "idx": 27,
+      "text": "?קשוט. א': איך יכתב סכלות וחסידות שטות על המחזיקים בדעת זאת, ומה ענין \"פאנאטיזמו לזה",
+      "coords": {
+        "HPOS": 288,
+        "VPOS": 1934,
+        "WIDTH": 1986,
+        "HEIGHT": 60
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_3f13ae0c",
+      "kind": "main",
+      "idx": 28,
+      "text": "וכי כל אדם אינו רשאי לפלפל ולהכריח להפך? ב': וכי הרמב\"ם ז\"ל הוא המולידה והמחזיקה לסברא",
+      "coords": {
+        "HPOS": 284,
+        "VPOS": 1983,
+        "WIDTH": 1990,
+        "HEIGHT": 85
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_b056ac97",
+      "kind": "main",
+      "idx": 29,
+      "text": "זאת? הלא הקודם לו בזמן, תלמיד הגאונים ושותה מימיהם, הוא ר\"ש הנגיד ז\"ל, הוא הכותב דברים",
+      "coords": {
+        "HPOS": 286,
+        "VPOS": 2051,
+        "WIDTH": 1985,
+        "HEIGHT": 70
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_3ac681b9",
+      "kind": "main",
+      "idx": 30,
+      "text": "מבוררים אלה על ספר בפשיטות עצום, וזה מלבד הראב\"ד דשתיק עליה ולא השיגו כדרכו, ומלבד",
+      "coords": {
+        "HPOS": 289,
+        "VPOS": 2113,
+        "WIDTH": 1983,
+        "HEIGHT": 72
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_cb51c158",
+      "kind": "main",
+      "idx": 31,
+      "text": "רבינו המאירי מאחרוני הראשונים, אשר כל יקר ראתה עינו כנודע, הנה גם הוא, דבר זה פושטו",
+      "coords": {
+        "HPOS": 286,
+        "VPOS": 2187,
+        "WIDTH": 1985,
+        "HEIGHT": 71
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_e3467b95",
+      "kind": "main",
+      "idx": 32,
+      "text": "אפי' בשוק, כאשר העתקנו דבריו לעיל, ומלבד גם כן מה שהוכחנו, מכ' תשו' ר\"ש גאון דעלייהו",
+      "coords": {
+        "HPOS": 284,
+        "VPOS": 2242,
+        "WIDTH": 1990,
+        "HEIGHT": 79
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_fa668bc8",
+      "kind": "main",
+      "idx": 33,
+      "text": "?קיימינן. ג': אומרו: \"ראיות מופתיות מן התלמוד\"!! הימצאו עוד ראיות מאלו שכבר עברנו עליהם",
+      "coords": {
+        "HPOS": 282,
+        "VPOS": 2315,
+        "WIDTH": 1985,
+        "HEIGHT": 70
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_68a669e9",
+      "kind": "main",
+      "idx": 34,
+      "text": "זה פלא! אם לא שנאמר שנגרר בביאור כל אותם המקורות אחר פירש\"י ואחוזת מרעהו, וא\"כ ראיותיו",
+      "coords": {
+        "HPOS": 282,
+        "VPOS": 2370,
+        "WIDTH": 1990,
+        "HEIGHT": 72
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_acbc33c8",
+      "kind": "main",
+      "idx": 35,
+      "text": "הם בנויות על סברת רש\"י ולא תלמוד ערוך, ועל זה יגדל התימה, וכי גברא אגברא קא רמית? ואת",
+      "coords": {
+        "HPOS": 280,
+        "VPOS": 2434,
+        "WIDTH": 1994,
+        "HEIGHT": 81
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_52e0bdf9",
+      "kind": "main",
+      "idx": 36,
+      "text": "כל אלה, בבית מדרשי, והוא באחד פה העירה, לא היה בנמצא לא ספרו אוהב גר (שמזה השתוקקתי",
+      "coords": {
+        "HPOS": 286,
+        "VPOS": 2502,
+        "WIDTH": 1985,
+        "HEIGHT": 75
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_475bfa99",
+      "kind": "main",
+      "idx": 37,
+      "text": "(עליו כי חיי ראשי, מלאכה גדולה עשה והאיר עיני ישראל, ולא בדרך הפלגה אבל לא אתרע לי לקנותו",
+      "coords": {
+        "HPOS": 282,
+        "VPOS": 2559,
+        "WIDTH": 1989,
+        "HEIGHT": 92
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_8efba7eb",
+      "kind": "main",
+      "idx": 38,
+      "text": "ולא ספרי כרם חמד שלא נתפשטו בכל ארצותינו כי ע\"כ חליתי פני רב רחומאי הרב אחי\"ם לי נר\"ו",
+      "coords": {
+        "HPOS": 286,
+        "VPOS": 2627,
+        "WIDTH": 1988,
+        "HEIGHT": 77
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_8742662c",
+      "kind": "main",
+      "idx": 39,
+      "text": ",אשר בטריאיסטי ותכף עם האניבל הא' הבא מהתם להכא בכל שבעה ימים קיים בהם מצות שילוח",
+      "coords": {
+        "HPOS": 288,
+        "VPOS": 2693,
+        "WIDTH": 1983,
+        "HEIGHT": 71
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_8fd1cf93",
+      "kind": "main",
+      "idx": 40,
+      "text": "ובפתחי אורו עיני, חדא כי ראיתי סברותיו על מה אדניהם הטבעו, והם כמעט מקצת ראיות שנשתמש",
+      "coords": {
+        "HPOS": 278,
+        "VPOS": 2761,
+        "WIDTH": 1994,
+        "HEIGHT": 73
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_7c58088b",
+      "kind": "main",
+      "idx": 41,
+      "text": "בהם הגאון הרמ\"ז ז\"ל בחק\"ל א\"ח ובכונן לחקד, וכנראה שאינו בנמצא בפאדובה ספרי הגאון הרמ\"ז",
+      "coords": {
+        "HPOS": 282,
+        "VPOS": 2817,
+        "WIDTH": 1989,
+        "HEIGHT": 81
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_073cd7ed",
+      "kind": "main",
+      "idx": 42,
+      "text": "ז\"ל, אבל עכ\"פ ספרי פתח עינים ודאי מצוים, והנה שם על פי' רש\"י דב\"מ דל\"ג, שמשם עיקר",
+      "coords": {
+        "HPOS": 288,
+        "VPOS": 2882,
+        "WIDTH": 1977,
+        "HEIGHT": 80
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_36655c3e",
+      "kind": "main",
+      "idx": 43,
+      "text": "ראייתו, שם באותו ענין עצמו מביא הרב חיד\"א סברת הגאון הרמ\"ז בחק\"ל א\"ח, שהיא סברת החכם",
+      "coords": {
+        "HPOS": 278,
+        "VPOS": 2946,
+        "WIDTH": 1989,
+        "HEIGHT": 86
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_b37f19f9",
+      "kind": "main",
+      "idx": 44,
+      "text": "שד\"ל",
+      "coords": {
+        "HPOS": 414,
+        "VPOS": 3014,
+        "WIDTH": 101,
+        "HEIGHT": 82
+      },
+      "para_start": false,
+      "is_catchword": true
+    }
+  ]
+}

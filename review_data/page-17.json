@@ -1,0 +1,622 @@
+{
+  "page_id": "page-17",
+  "image": "page_images/page-17.png",
+  "page_width": 2550,
+  "page_height": 3300,
+  "base_hash": "sha256:3a42f9e630dbd1d47329a65ee7020104c76d1b1ab9da799462f1902f7ee803a4",
+  "lines": [
+    {
+      "line_id": "_7f505cdb-fac9-4f03-8128-d495ce46aa24",
+      "kind": "main",
+      "idx": 0,
+      "text": "(יוחסין, ובח\"מ כולו קמשונים) עד שהגיע לדורו של רבינו הקדוש שאליו פני ה' הגאון מועדות. אחרי",
+      "coords": {
+        "HPOS": 199,
+        "VPOS": 253,
+        "WIDTH": 2033,
+        "HEIGHT": 69
+      },
+      "para_start": true,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_cf8f301a-6aa8-4eee-8387-7830f1f7821c",
+      "kind": "main",
+      "idx": 1,
+      "text": "שאגב אורחיה הודיע חכמת ר\"מ, וצחותו וסמיכתו, כי גם לזה היה לו צורך גדול, ושם סיפר שרשב\"ג",
+      "coords": {
+        "HPOS": 198,
+        "VPOS": 320,
+        "WIDTH": 2036,
+        "HEIGHT": 65
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_044108cb-e568-49c4-9a5d-36fde85d2948",
+      "kind": "main",
+      "idx": 2,
+      "text": "גדל לבנו חמודו ר\"הק ז\"ל לת\"ת, וסיפר מי ומי היו רבותיו, ואחר כן סיפר כי מלך אחרי אביו, ומי היו",
+      "coords": {
+        "HPOS": 196,
+        "VPOS": 385,
+        "WIDTH": 2038,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_8246e6cf-13a3-44d5-af2f-af5eb6f82cb6",
+      "kind": "main",
+      "idx": 3,
+      "text": "חכמי דורו, ומי היו תלמידיו באומרו: \"ותלמידים אחרים כגון ר' חייא וכו' (יוחסין,",
+      "coords": {
+        "HPOS": 201,
+        "VPOS": 449,
+        "WIDTH": 2031,
+        "HEIGHT": 73
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_d25b96ef-30f5-40b6-b949-61a1d4028416",
+      "kind": "main",
+      "idx": 4,
+      "text": "ובח\"מ שיבושים כי באמת כל אלו שמזכיר אחר ר\"ח יהיו נקראים תלמידים ובנים, ולא חכמים אחרים)",
+      "coords": {
+        "HPOS": 198,
+        "VPOS": 518,
+        "WIDTH": 2038,
+        "HEIGHT": 59
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_98317c80-b302-4ac5-b9da-9cc77ab09b54",
+      "kind": "main",
+      "idx": 5,
+      "text": "והם (ר\"ל רבי וחבריו ותלמידיו) הרביצו תורה הרבה, ובכל השנים הללו נתפרשו כל ההלכות",
+      "coords": {
+        "HPOS": 194,
+        "VPOS": 583,
+        "WIDTH": 2042,
+        "HEIGHT": 56
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_875577fe-8bfb-4ff2-bde5-a1d80c36a59a",
+      "kind": "main",
+      "idx": 6,
+      "text": "שהיו תלוים בבית המדרש מאחרי (ח\"מ, וביוחסין מפחדי) ההפסד הגדול שהיה",
+      "coords": {
+        "HPOS": 194,
+        "VPOS": 645,
+        "WIDTH": 2042,
+        "HEIGHT": 70
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_d1b1718f-f9ad-4056-ad6e-82e8502a9197",
+      "kind": "main",
+      "idx": 7,
+      "text": "בחרבן הבית (יוחסין, ובח\"מ חכ\"ז) והספקות שנולדו (ח\"מ, וביוחסין \"שהיו\") להם",
+      "coords": {
+        "HPOS": 194,
+        "VPOS": 705,
+        "WIDTH": 2040,
+        "HEIGHT": 87
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_53e7c273-6f0a-4cea-b1f3-7097f0d6c457",
+      "kind": "main",
+      "idx": 8,
+      "text": "באותם המהומות וכל החלוקות (יוחסין, ובחופש מטמונים \"חולקות\" טעות) שנולדו",
+      "coords": {
+        "HPOS": 199,
+        "VPOS": 773,
+        "WIDTH": 2035,
+        "HEIGHT": 74
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_8a9a0d13-e57d-46af-8939-19eaea53e1c9",
+      "kind": "main",
+      "idx": 9,
+      "text": "(יוחסין, ובח\"מ שהיה) בג' דורות הללו נפסקה ההלכה בהם ונודעו",
+      "coords": {
+        "HPOS": 207,
+        "VPOS": 834,
+        "WIDTH": 2023,
+        "HEIGHT": 84
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_732ff6fd-691d-4873-8d29-11019639fbe3",
+      "kind": "main",
+      "idx": 10,
+      "text": "ביניהם דברי היחידים ודברי המרובים (יוחסין, ובח\"מ שיבושים) בתר דטרחי",
+      "coords": {
+        "HPOS": 205,
+        "VPOS": 909,
+        "WIDTH": 2022,
+        "HEIGHT": 71
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_484de7fc-d3f2-4078-b351-ab07593753c2",
+      "kind": "main",
+      "idx": 11,
+      "text": "רבנן בהו טרחי נפישי, ודקו בהו דיוקא דבתר דיוקא ודקדקו הרבה על (ח\"מ) כל",
+      "coords": {
+        "HPOS": 196,
+        "VPOS": 975,
+        "WIDTH": 2040,
+        "HEIGHT": 64
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_1f479f7b-4bfc-4825-9651-f7b4fe241263",
+      "kind": "main",
+      "idx": 12,
+      "text": "השמועות והמשניות לתקנן, ולאו דאוסיפו על מימרא דקמאי מאנשי כנה\"ג, אלא",
+      "coords": {
+        "HPOS": 192,
+        "VPOS": 1035,
+        "WIDTH": 2044,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_0de12fe5-2ffe-4e6b-a5e1-258281068fe9",
+      "kind": "main",
+      "idx": 13,
+      "text": "טרחו טרחי נפישי ודקו דקדוקי רברבי, עד דאסיקו מאי (ובח\"מ מאי טעמא והוא טעות",
+      "coords": {
+        "HPOS": 194,
+        "VPOS": 1111,
+        "WIDTH": 2040,
+        "HEIGHT": 49
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_40f5f189-c58e-44c5-ac1b-4b6a7597ab85",
+      "kind": "main",
+      "idx": 14,
+      "text": "כמו שאבאר) דהוו אמרין הנך ראשונים ,ומאי דהוו עבדין עד דאפשיטו להון כל ספקי דאית",
+      "coords": {
+        "HPOS": 192,
+        "VPOS": 1173,
+        "WIDTH": 2044,
+        "HEIGHT": 60
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_d45b1486-b233-4312-ae5e-389077649b78",
+      "kind": "main",
+      "idx": 15,
+      "text": "להו, ולא הוה חד מן הראשונים דכתב מנהון (ח\"מ) מדעם עד סוף יומי דרבינו",
+      "coords": {
+        "HPOS": 198,
+        "VPOS": 1232,
+        "WIDTH": 2038,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_8244c9ba-119e-4cbc-ab19-6d9c7b4e80f2",
+      "kind": "main",
+      "idx": 16,
+      "text": "הקדוש\" בדברים הללו גאוננו כבר התחיל להגיע אל מחוז חפצו להורות לשואל בבירור גמור איך",
+      "coords": {
+        "HPOS": 201,
+        "VPOS": 1294,
+        "WIDTH": 2033,
+        "HEIGHT": 60
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_5ca400c0-926d-4925-8e35-d62050c497de",
+      "kind": "main",
+      "idx": 17,
+      "text": "מה שאמר לו מתחי' דבריו \"כולהון מילי דקמאי\" הוא אמת ויציב שהרי מורה לו בחוש הראות",
+      "coords": {
+        "HPOS": 210,
+        "VPOS": 1360,
+        "WIDTH": 2024,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_bc3d1462-ca5c-4b16-ad88-36b1c5f9ecfa",
+      "kind": "main",
+      "idx": 18,
+      "text": "איך רבי וחבריו ותלמידיו בסידורם המשנה, לא אוסיפו על מימרא דקמאי מאנשי כנ\"הג, אלא טרחו",
+      "coords": {
+        "HPOS": 196,
+        "VPOS": 1433,
+        "WIDTH": 2038,
+        "HEIGHT": 53
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_f31accf9-350d-448d-9b85-8aa2f4a27038",
+      "kind": "main",
+      "idx": 19,
+      "text": "טרחות גדולות, ודקדקו דקדוקים לאסוקי שמעתתא אליבא דהלכתא, עד שברוב טרחתם ופלפולם",
+      "coords": {
+        "HPOS": 194,
+        "VPOS": 1490,
+        "WIDTH": 2040,
+        "HEIGHT": 70
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_b7f06e94-5bac-40ab-9323-81fb81822f4b",
+      "kind": "main",
+      "idx": 20,
+      "text": "הגיעו לומר מה שהיו אומרים הראשונים, ר\"ל לפסוק בדינים מה שפסקו הראשונים, ולעשות מעשה",
+      "coords": {
+        "HPOS": 192,
+        "VPOS": 1563,
+        "WIDTH": 2042,
+        "HEIGHT": 59
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_52f2b7c2-c2a0-450c-b0c6-3fae7462e3ab",
+      "kind": "main",
+      "idx": 21,
+      "text": "המצות והדומה כמו שהיו עושים הראשונים בלתי תוספת, ובלי מגרעת, ונ\"מ דהראשונים היו אומרים",
+      "coords": {
+        "HPOS": 194,
+        "VPOS": 1626,
+        "WIDTH": 2042,
+        "HEIGHT": 60
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_fa27016f-f5ee-4f2e-8ca8-dfe9d725fe67",
+      "kind": "main",
+      "idx": 22,
+      "text": "אותם הדינים עצמם מבלי שיתיגעו בשום יגיעה, והאחרונים אמת עלה להם בכל מה שאמרו הראשונים,",
+      "coords": {
+        "HPOS": 203,
+        "VPOS": 1686,
+        "WIDTH": 2031,
+        "HEIGHT": 63
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_bd183cd6-8cb7-4bf3-85fc-bd689f0eb97e",
+      "kind": "main",
+      "idx": 23,
+      "text": "אבל בטודח עצום, ואחר שעלה בידם בירור דעתם, ומעשיהם של ראשונים קבעו אותם במשנה להלכה",
+      "coords": {
+        "HPOS": 196,
+        "VPOS": 1758,
+        "WIDTH": 2038,
+        "HEIGHT": 49
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_5b532857-6542-46db-9bc1-5fc8d3098e84",
+      "kind": "main",
+      "idx": 24,
+      "text": "לדורות, וז\"א: \"אלא טרחו וכו', עד דאסיקו מאי דהוו אמרין הנך ראשונים, ומאי",
+      "coords": {
+        "HPOS": 196,
+        "VPOS": 1811,
+        "WIDTH": 2040,
+        "HEIGHT": 71
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_431816fb-197f-4fdf-a743-72cf7544839b",
+      "kind": "main",
+      "idx": 25,
+      "text": "דהוו עבדין, עד דאפשיטו להון כל ספקי דאית להו\" ר\"ל דע\"י הטרחא עלה בידם עיקר",
+      "coords": {
+        "HPOS": 198,
+        "VPOS": 1879,
+        "WIDTH": 2036,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_bf287aee-f281-4fee-949d-037221084ea9",
+      "kind": "main",
+      "idx": 26,
+      "text": "הדין ועיקר המעשה של הראשונים (ולא הטעם כמו שהוא בנוסח ח\"מ) דע\"י הספקות שנולדו בג'",
+      "coords": {
+        "HPOS": 199,
+        "VPOS": 1941,
+        "WIDTH": 2035,
+        "HEIGHT": 70
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_541411f4-3c4d-45eb-aa3e-570c2af3443c",
+      "kind": "main",
+      "idx": 27,
+      "text": "דורות של מהומה נולדו ספקות בענפי הדינים עצמם אם לאסור אם להתיר וע\"י טורח הדקדוקים,",
+      "coords": {
+        "HPOS": 212,
+        "VPOS": 2022,
+        "WIDTH": 2024,
+        "HEIGHT": 53
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_73211a53-0a3c-4785-9a49-5a5f9056b880",
+      "kind": "main",
+      "idx": 28,
+      "text": "נפשטו וחזרו לפסוק (היינו אמירה) ולעשות ככל אשר היו פוסקים ואומרים ועושים הראשונים, ואחר",
+      "coords": {
+        "HPOS": 199,
+        "VPOS": 2071,
+        "WIDTH": 2035,
+        "HEIGHT": 70
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_24dfcdbf-3cb8-4456-9a11-8ad64357027f",
+      "kind": "main",
+      "idx": 29,
+      "text": "שבירר הגאון דבר זה כשמש בחצי השמים, לזה נרגש שמא יאמר האומר א\"כ מה חידש רבינו הקדוש",
+      "coords": {
+        "HPOS": 192,
+        "VPOS": 2146,
+        "WIDTH": 2042,
+        "HEIGHT": 59
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_6eba4b53-a026-4582-a229-569a86364029",
+      "kind": "main",
+      "idx": 30,
+      "text": "וסיעת מרחמוהי? ולזה משיב, \"ולא הוה חד מהראשונים, דכתב מנהון מדעם עד סוף יומי דרבינו",
+      "coords": {
+        "HPOS": 196,
+        "VPOS": 2212,
+        "WIDTH": 2038,
+        "HEIGHT": 59
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_c5237e25-b392-4db4-8e24-ea279ef91858",
+      "kind": "main",
+      "idx": 31,
+      "text": "הקדוש\" הכונה: זה הוא החידוש שחידש יען שמכל אלו הספקות שנולדו בענפי הדינים וענפי ענפיהם,",
+      "coords": {
+        "HPOS": 207,
+        "VPOS": 2277,
+        "WIDTH": 2027,
+        "HEIGHT": 58
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_d723769e-256b-4928-99aa-bcc27bc47de1",
+      "kind": "main",
+      "idx": 32,
+      "text": "דרך משל נוטלין את הידים, ואח\"כ מכבדין את הבית או להפך, מכל זה וכדומה לזה, לא היה שום חד",
+      "coords": {
+        "HPOS": 198,
+        "VPOS": 2341,
+        "WIDTH": 2029,
+        "HEIGHT": 60
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_ded73cb0-0af2-438d-b9dd-de30fb1fb263",
+      "kind": "main",
+      "idx": 33,
+      "text": "מהראשונים שכתב שום דבר, וטעם הדברים: כי הראשונים מעולם לא נולד הספק ביניהם, כי אפי'",
+      "coords": {
+        "HPOS": 203,
+        "VPOS": 2398,
+        "WIDTH": 2031,
+        "HEIGHT": 64
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_2624c0a7-16c7-4beb-91f7-929bf1ec94ba",
+      "kind": "main",
+      "idx": 34,
+      "text": "הוויות דאביי ורבא הוו כולהו נהירין לראשונים כמ\"ש לעיל ואיך יהיה נולד הספק? ואי ראשוני האחרונים",
+      "coords": {
+        "HPOS": 194,
+        "VPOS": 2465,
+        "WIDTH": 2038,
+        "HEIGHT": 61
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_291308e5-42b3-4bca-914c-31ad8eb318c6",
+      "kind": "main",
+      "idx": 35,
+      "text": "כיון שהיו בג' דורות של מהומה לא היה להם שעת הכושר לשמש כל צרכם לרבותם כ\"ש שלא היו יכולים",
+      "coords": {
+        "HPOS": 194,
+        "VPOS": 2528,
+        "WIDTH": 2038,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_edb96c29-fba7-48b0-ae06-3a8e76c8db90",
+      "kind": "main",
+      "idx": 36,
+      "text": "להתטפל ולברר דברים הללו עד שבא רבינו הקדוש, וטרח הוא וחבריו ותלמידיו, וע\"י אתבררו כל",
+      "coords": {
+        "HPOS": 194,
+        "VPOS": 2590,
+        "WIDTH": 2040,
+        "HEIGHT": 62
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_47f14a57-c118-48be-9b89-52d795205ed9",
+      "kind": "main",
+      "idx": 37,
+      "text": "הדברים כשמלה מה שהוא בלי חולק ומה שהוא להפך וכדומה. ובסוף ימיו נכתבו בספר, ר\"ל כל",
+      "coords": {
+        "HPOS": 196,
+        "VPOS": 2658,
+        "WIDTH": 2034,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_90a5e529-b156-4e9d-96fa-386f76d971d0",
+      "kind": "main",
+      "idx": 38,
+      "text": "הדברים שהוכרחו לבירור עם כל הדברים שהיו מבוררים ונרשמים במגילות, וזכרון שמועות ומסכתות",
+      "coords": {
+        "HPOS": 192,
+        "VPOS": 2729,
+        "WIDTH": 2036,
+        "HEIGHT": 52
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_066ec9c4-fd76-440c-bdcc-01245630cfca",
+      "kind": "main",
+      "idx": 39,
+      "text": "שלימות שביד גדולי הדורות עד שנעשה חיבור שלם כמו שיבאר דבר זה הגאון כמה פעמים לקמן (ג)",
+      "coords": {
+        "HPOS": 196,
+        "VPOS": 2794,
+        "WIDTH": 2032,
+        "HEIGHT": 55
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_ee58fa75-b5cf-4145-9f2f-d8b7247a0109",
+      "kind": "main",
+      "idx": 40,
+      "text": "ועכשיו",
+      "coords": {
+        "HPOS": 322,
+        "VPOS": 2856,
+        "WIDTH": 173,
+        "HEIGHT": 51
+      },
+      "para_start": false,
+      "is_catchword": true
+    },
+    {
+      "line_id": "_1777f16f-8fce-463a-b969-91230eb236b3",
+      "kind": "footnote",
+      "idx": 0,
+      "text": "(ג) בנוסח ח\"מ כתוב בזה הלשון: \"עד דאפשיטו להו הנך ספיקא דלא הוא אית לראשונים מנהון מדעם, ועד סוף יומיהון",
+      "coords": {
+        "HPOS": 196,
+        "VPOS": 2948,
+        "WIDTH": 2031,
+        "HEIGHT": 55
+      },
+      "para_start": false
+    },
+    {
+      "line_id": "_51337200-550f-4ea4-ac76-e60e05da23d4",
+      "kind": "footnote",
+      "idx": 1,
+      "text": "דרבנן ליכא דכתב מדעם כל עיקר, ולא נמי פה אחד ולשון אחד הוו גרסי\" ובאמת כבד נראה השינוי העשוי בידים.",
+      "coords": {
+        "HPOS": 199,
+        "VPOS": 3001,
+        "WIDTH": 1952,
+        "HEIGHT": 64
+      },
+      "para_start": false
+    },
+    {
+      "line_id": "_8deba3f0-5a4e-4a53-8d22-cae00d755563",
+      "kind": "footnote",
+      "idx": 2,
+      "text": "שהרי",
+      "coords": {
+        "HPOS": 311,
+        "VPOS": 3058,
+        "WIDTH": 87,
+        "HEIGHT": 51
+      },
+      "para_start": false
+    }
+  ]
+}

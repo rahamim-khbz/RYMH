@@ -1,0 +1,639 @@
+{
+  "page_id": "page-04",
+  "image": "page_images/page-04.png",
+  "page_width": 2550,
+  "page_height": 3300,
+  "base_hash": "sha256:d465f3df0429e7e4105f9f21e865a858e6aef80e934f50963ed778733fa287db",
+  "lines": [
+    {
+      "line_id": "_a0b61537-86cc-48b9-ae92-fe9ffd0c0d77",
+      "kind": "main",
+      "idx": 0,
+      "text": "אין דרך לנטות ימין ושמאל, ומצד אחר יתחמץ לבב אנוש, מה תשובה נבקש על ד' ה' עמודי עולם,",
+      "coords": {
+        "HPOS": 297,
+        "VPOS": 231,
+        "WIDTH": 2012,
+        "HEIGHT": 77
+      },
+      "para_start": true,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_4b34b86e-f686-479f-a840-c07b21fa575b",
+      "kind": "main",
+      "idx": 1,
+      "text": "שהחליטו דהתורה שבע\"פ ניתנה ליכתב מימות נביאים ראשונים? היעלה בדעת שלא השגיחו תלמוד",
+      "coords": {
+        "HPOS": 289,
+        "VPOS": 304,
+        "WIDTH": 2026,
+        "HEIGHT": 55
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_697934de-68b3-41d4-92ff-d2d52ee9e5ae",
+      "kind": "main",
+      "idx": 2,
+      "text": "ערוך לא במקום אחד כ\"א בכמה מקומות הנז\"ל? הא ודאי לא יתכן דרך ה', ובאמת הרי אנו האחרונים",
+      "coords": {
+        "HPOS": 286,
+        "VPOS": 363,
+        "WIDTH": 2027,
+        "HEIGHT": 71
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_c26f91e8-1372-41f1-8a2a-caa8368ccbd6",
+      "kind": "main",
+      "idx": 3,
+      "text": "נתונים נתונים בין שתי חרבות חדות, אשר אין דרך לנטות, שהרי מפשטי הסוגיאות הנז\"ל מבואר יוצא",
+      "coords": {
+        "HPOS": 288,
+        "VPOS": 430,
+        "WIDTH": 2027,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_b2de8666-f605-435d-be26-9480da3ea84e",
+      "kind": "main",
+      "idx": 4,
+      "text": "בקל קרנא שאפי' בזמן אחרון עדיין התלמוד לא היה נכתב, ואיסור הכתיבה רביע עלייהו, ומדברי",
+      "coords": {
+        "HPOS": 293,
+        "VPOS": 493,
+        "WIDTH": 2020,
+        "HEIGHT": 69
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_620b5acb-c171-46b1-a4b6-c1d685affa21",
+      "kind": "main",
+      "idx": 5,
+      "text": "כל אלו הגדולים, רש\"ג, ורש\"ה, והרמב\"ם והראב\"ד דשתקו עליה ולא השיגו, נראה להדיא דהיה נכתב",
+      "coords": {
+        "HPOS": 289,
+        "VPOS": 557,
+        "WIDTH": 2026,
+        "HEIGHT": 62
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_9e111e2f-fe3b-4720-9c6f-64dd8d896fb8",
+      "kind": "main",
+      "idx": 6,
+      "text": "על יד על יד מימות תנאים ראשונים לכל הפחות, אמת שעכ\"ז על רש\"ג נוכל לדחוקי אנפשין ולומר",
+      "coords": {
+        "HPOS": 293,
+        "VPOS": 623,
+        "WIDTH": 2022,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_4e2cbe4f-4920-4be8-be5f-aef37c8de2eb",
+      "kind": "main",
+      "idx": 7,
+      "text": "דקודם רבינו הקדוש לא הותר, עכ\"פ, לא יגהה מזור, שמלבד שנוליד ג' מחלוקות בדבר, דהיינו ר\"ש",
+      "coords": {
+        "HPOS": 288,
+        "VPOS": 687,
+        "WIDTH": 2030,
+        "HEIGHT": 62
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_a2043782-971d-4944-8c5c-314c0fead711",
+      "kind": "main",
+      "idx": 8,
+      "text": "הנגיד והרמב\"ם והראב\"ד והמאירי לא יאסרו הכתיבה מעולם, ורש\"ג יתיר אותה מזמן ר\"הק ואילך,",
+      "coords": {
+        "HPOS": 297,
+        "VPOS": 753,
+        "WIDTH": 2021,
+        "HEIGHT": 70
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_94dd28bf-bcfb-4f15-9859-546b4bbeb225",
+      "kind": "main",
+      "idx": 9,
+      "text": "ורש\"י וסיעתיה ואסרוה מעולם ועד עולם, אם לא, בדורות האחרונים על צד ההכרח, ובכל התורה",
+      "coords": {
+        "HPOS": 289,
+        "VPOS": 821,
+        "WIDTH": 2033,
+        "HEIGHT": 59
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_25155815-929c-49bd-b6b0-d537b6f187e4",
+      "kind": "main",
+      "idx": 10,
+      "text": "כולה קי\"ל אפושי פלוגתא לא מפשינן, ולכל אפיא צריכים אנו לומר דהמחלוקת יפרד לב' ראשים, ודעת",
+      "coords": {
+        "HPOS": 289,
+        "VPOS": 878,
+        "WIDTH": 2033,
+        "HEIGHT": 73
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_08652fc4-2f83-4ccf-9129-eb430e604a16",
+      "kind": "main",
+      "idx": 11,
+      "text": "רש\"ג, ור\"ש הנגיד, והרמב\"ם, והראב\"ד, והמאיר\"י, דעת אחד, והוא שמעולם לא נאסרה הכתיבה,",
+      "coords": {
+        "HPOS": 300,
+        "VPOS": 944,
+        "WIDTH": 2022,
+        "HEIGHT": 73
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_d95caa77-d9e5-43fb-96a8-f506626b3a5c",
+      "kind": "main",
+      "idx": 12,
+      "text": "ואף שנוליד ג' מחלוקות אלו ולא נחוש אל כל האמור, עכ\"פ הרי רש\"ג קורא בגרון דמימות רבינו",
+      "coords": {
+        "HPOS": 295,
+        "VPOS": 1006,
+        "WIDTH": 2029,
+        "HEIGHT": 75
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_fad2672e-f161-42bb-8522-c7b093c585c0",
+      "kind": "main",
+      "idx": 13,
+      "text": "הקדוש ואילך הותרה הכתיבה, וע\"כ פסיעה ופסיעה הוא הגאון משתמש בלשון כתיבה דוקא כמו",
+      "coords": {
+        "HPOS": 295,
+        "VPOS": 1078,
+        "WIDTH": 2029,
+        "HEIGHT": 69
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_d1af61ca-41f7-472c-b954-556aa5c80355",
+      "kind": "main",
+      "idx": 14,
+      "text": "שקבץ הדברים מוהרי\"א ז\"ל וכנז' וגם מ\"ש בסוף דבריו \"תלמוד ומשנה לא אכתיבו\" וכו' כבר נדחק",
+      "coords": {
+        "HPOS": 295,
+        "VPOS": 1142,
+        "WIDTH": 2029,
+        "HEIGHT": 71
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_dee856ab-74f8-4c61-a0a4-0d30e0dd061c",
+      "kind": "main",
+      "idx": 15,
+      "text": "בזה מוהרי\"א ז\"ל וישב הדברים, ועם שיש לנו ערעורים גדולים עליו וכמו שיבא, עכ\"פ או דוחק זה או",
+      "coords": {
+        "HPOS": 295,
+        "VPOS": 1206,
+        "WIDTH": 2029,
+        "HEIGHT": 60
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_1fd28074-37f8-4eb1-bfd2-63c6668b77f4",
+      "kind": "main",
+      "idx": 16,
+      "text": "פירוש אחר יותר מרווח צריכים אנו בעל כרחינו לומר בדברי הגאון ז\"ל, כי איך אפשר שמחבר אחד",
+      "coords": {
+        "HPOS": 299,
+        "VPOS": 1272,
+        "WIDTH": 2025,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_6f1357b3-76f6-4028-bffb-b9191cb887fd",
+      "kind": "main",
+      "idx": 17,
+      "text": "וכתוב דברים רמרפסן איגרי מיניה וביה? וכמה פעמים אחרי סידור המשנה נשתמש הגאון לעולם",
+      "coords": {
+        "HPOS": 297,
+        "VPOS": 1340,
+        "WIDTH": 2025,
+        "HEIGHT": 55
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_1d8977c6-7e63-4adb-8c90-934b46e1a0ff",
+      "kind": "main",
+      "idx": 18,
+      "text": "בלשון כתיבה לשבעה וגם לשמנה פעמים ומה היה לו כי באחרונה הפך לבו להכחיש כל מ\"ש למעלה?",
+      "coords": {
+        "HPOS": 299,
+        "VPOS": 1398,
+        "WIDTH": 2027,
+        "HEIGHT": 63
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_35424752-7181-4856-b547-f3fdcff4d985",
+      "kind": "main",
+      "idx": 19,
+      "text": "וא\"כ אם באנו לישב דבריו הא ודאי מוכרחים אנו לישב סוף דבריו שכתב \"לא אכתיבו\" ולא כל אותם",
+      "coords": {
+        "HPOS": 299,
+        "VPOS": 1463,
+        "WIDTH": 2032,
+        "HEIGHT": 62
+      },
+      "para_start": true,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_a2b2088a-4002-47ae-9651-4dd9bc46e0cf",
+      "kind": "main",
+      "idx": 20,
+      "text": "פעמים \"דכתיבה\" כתיבא בהדיא, ובכל התלמוד קי\"ל \"סמי חדא מקמי תרתי\" כ\"ש שנדחוק חדא מקמי",
+      "coords": {
+        "HPOS": 300,
+        "VPOS": 1530,
+        "WIDTH": 2031,
+        "HEIGHT": 72
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_eed24896-18a1-4f75-857e-07585f548873",
+      "kind": "main",
+      "idx": 21,
+      "text": "ששה, או ז' פעמים וא\"כ לכל אפיא גם דברי רבינו הגאון (כי ממנו תוצאות חיים לכל התורה כולה וכ\"ש",
+      "coords": {
+        "HPOS": 297,
+        "VPOS": 1595,
+        "WIDTH": 2036,
+        "HEIGHT": 58
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_08625594-895d-4b0c-abcb-3248acc872e3",
+      "kind": "main",
+      "idx": 22,
+      "text": "לסיפור קורות תורה שבע\"פ כי אליו שומעים בלי ספק כי בקי וקדמון הוא) הם נגד סוגיות ערוכות",
+      "coords": {
+        "HPOS": 300,
+        "VPOS": 1659,
+        "WIDTH": 2031,
+        "HEIGHT": 73
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_d4933c19-caeb-4bda-8980-bb8ebe4bdad1",
+      "kind": "main",
+      "idx": 23,
+      "text": "שנראה להדיא שאפי' בימי רב יוסף עדיין לא ניתנה תורה שבע\"פ ליכתב, ועל כל המעט בעינינו",
+      "coords": {
+        "HPOS": 304,
+        "VPOS": 1723,
+        "WIDTH": 2029,
+        "HEIGHT": 60
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_5401fde3-96de-4124-aa55-bd2cbf8e0e77",
+      "kind": "main",
+      "idx": 24,
+      "text": "להניח דברי ד' ה' גדולי עולם כר\"ש הנגיד, והר\"מ, והראב\"ד, והמאיר\"י, וכמה תקיף חילייהו כספר",
+      "coords": {
+        "HPOS": 308,
+        "VPOS": 1785,
+        "WIDTH": 2029,
+        "HEIGHT": 72
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_5409e97e-e717-4699-9677-ec645d66e071",
+      "kind": "main",
+      "idx": 25,
+      "text": "החתום! הא ודאי לא זו הדרך ולא זו העיר, וע\"כ אילין דהוו שמעוני אחי ועמי! הנני אומר לבנות בית",
+      "coords": {
+        "HPOS": 302,
+        "VPOS": 1849,
+        "WIDTH": 2031,
+        "HEIGHT": 70
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_fe4dfae4-0935-40ea-9e3b-a5f7dc64ab4f",
+      "kind": "main",
+      "idx": 26,
+      "text": "לשם ה' אלהי, ולישב הדברים בשורשן ועומקן ורומן, אבל טרם אקרב לגלות כל סתום, מחלה אני פני",
+      "coords": {
+        "HPOS": 306,
+        "VPOS": 1917,
+        "WIDTH": 2031,
+        "HEIGHT": 72
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_97fba3b3-8ce2-4a30-a9e8-1fde159d4ca6",
+      "kind": "main",
+      "idx": 27,
+      "text": "הקורא החביב בעשר חלו\"ת שאל ימהר להוציא דבר מפיו נגד כל מה שאכתוב עד תום כל דברי מתחילתן",
+      "coords": {
+        "HPOS": 302,
+        "VPOS": 1989,
+        "WIDTH": 2035,
+        "HEIGHT": 62
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_0d2a1d48-f3ed-4ced-bbcb-116487a476b0",
+      "kind": "main",
+      "idx": 28,
+      "text": "לסופן ועד עיונו בהם ובעובין והיקפן, ואחרי כן הרשות נתונה בידו, אם להימין אם להשמאיל, כי",
+      "coords": {
+        "HPOS": 310,
+        "VPOS": 2049,
+        "WIDTH": 2027,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_1e0081db-2945-4839-bf6e-747559434108",
+      "kind": "main",
+      "idx": 29,
+      "text": "חלילה לי לומר קבלו דעתי, והא אוקמוה ושפיר, ומעתה תחילת דיבר מחוייב אני להודיע לקורא ענין",
+      "coords": {
+        "HPOS": 308,
+        "VPOS": 2108,
+        "WIDTH": 2029,
+        "HEIGHT": 77
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_31e74b87-8cd3-45d9-bd11-7720301e7cd5",
+      "kind": "main",
+      "idx": 30,
+      "text": "שיש בו מן הצורך הגדול שידעהו והוא זה: כי זה זמן בברלין נדפס ספר אשר יקרא את שמו חופש",
+      "coords": {
+        "HPOS": 306,
+        "VPOS": 2183,
+        "WIDTH": 2033,
+        "HEIGHT": 57
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_2ce1e573-e82e-471b-8690-8f6f371fe4cf",
+      "kind": "main",
+      "idx": 31,
+      "text": "מטמונים, ומכלל הספר הזה יש בו שני דברים הנוגעים לנו התלמודיים, הראשון, הוא אחד משמנית",
+      "coords": {
+        "HPOS": 308,
+        "VPOS": 2242,
+        "WIDTH": 2029,
+        "HEIGHT": 64
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_aaab8c9a-6220-4b73-82db-8bd5f55419ea",
+      "kind": "main",
+      "idx": 32,
+      "text": "שבשמנית מספר הפרדס לרש\"י אשר בידינו דפוס קושטא' שהמוציא לאור לא ידע, או לא רצה לידע",
+      "coords": {
+        "HPOS": 306,
+        "VPOS": 2308,
+        "WIDTH": 2033,
+        "HEIGHT": 58
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_1013881e-ac47-4520-8dac-5d78c1c81553",
+      "kind": "main",
+      "idx": 33,
+      "text": "שכבר יצא ספר זה לאויר העולם זה חמשים שנה (ועכ\"ז יש בו כדי לחמע ולהגיה בו הראשון דבר מה",
+      "coords": {
+        "HPOS": 310,
+        "VPOS": 2368,
+        "WIDTH": 2029,
+        "HEIGHT": 74
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_4026422e-cd62-4879-aea2-d6660adfe691",
+      "kind": "main",
+      "idx": 34,
+      "text": "באשר עשיתי בגליון ספרי) והב' האגרת רבינו שרירא גאון אשר עליה אנו דנין נוסח משונה בכל מכל,",
+      "coords": {
+        "HPOS": 315,
+        "VPOS": 2434,
+        "WIDTH": 2024,
+        "HEIGHT": 74
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_3ee195e1-4099-4ff5-be44-7c2f80a4cf20",
+      "kind": "main",
+      "idx": 35,
+      "text": "והשינוי הגדול והנורא אשר יחרד לבב אנוש וילפת, הוא דהנוסח האחרון הזה השמיט בק\"ע (כאשר",
+      "coords": {
+        "HPOS": 315,
+        "VPOS": 2502,
+        "WIDTH": 2027,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_463f9259-7798-4cbe-bca0-d438ed77cff0",
+      "kind": "main",
+      "idx": 36,
+      "text": "אברר לקמן בעז\"ה) כל לשון כתיבה שהשתמש גאוננו באותה האגרת החמורה לא נותר כל ירק בעץ",
+      "coords": {
+        "HPOS": 317,
+        "VPOS": 2570,
+        "WIDTH": 2025,
+        "HEIGHT": 70
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_72e13a03-4df7-457b-9abd-5ec4b5a8ad16",
+      "kind": "main",
+      "idx": 37,
+      "text": "א פי' כמלא נימא, ודבר זה אינו מקרה כי אם קום עשה בכל פינות חלקיו ואחרי הודיע אלהים אותנו",
+      "coords": {
+        "HPOS": 313,
+        "VPOS": 2629,
+        "WIDTH": 2033,
+        "HEIGHT": 73
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_03018215-73d6-4ea7-b920-f570a411b324",
+      "kind": "main",
+      "idx": 38,
+      "text": "את כל זאת (ושחייבים אנו לשלם תודות להמוציא לאור תעלומה אעפ\"י שהפריז על מדותיו עמוד ס\"ח ואילך",
+      "coords": {
+        "HPOS": 321,
+        "VPOS": 2691,
+        "WIDTH": 2023,
+        "HEIGHT": 75
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_2dfa9882-1055-40ac-987d-896c5af2748c",
+      "kind": "main",
+      "idx": 39,
+      "text": "להפוך הקערה על פיה כדי לשבח מקחו, ודבריו לא מצאו ולא ימצאו חן ושכל טוב בעין כל יורד חדרי",
+      "coords": {
+        "HPOS": 317,
+        "VPOS": 2761,
+        "WIDTH": 2023,
+        "HEIGHT": 67
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_37f10ae2-1e43-4e22-865e-be6e98510109",
+      "kind": "main",
+      "idx": 40,
+      "text": "בטני הענינים כאשר ניבא הוא בעצמו עמוד ס\"ט, עכ\"פ חלילה לנו להיות לו כפויי טובה מהטובה",
+      "coords": {
+        "HPOS": 313,
+        "VPOS": 2823,
+        "WIDTH": 2033,
+        "HEIGHT": 70
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_efa4074d-dad7-4f7a-9be7-8c5f8ec4e264",
+      "kind": "main",
+      "idx": 41,
+      "text": "הגדולה אשר עשה לנו, כי באמת הם מטמונים נצרכים כדי שעל ודם יבורר לנו כל סתום ויהי אלהיו",
+      "coords": {
+        "HPOS": 319,
+        "VPOS": 2887,
+        "WIDTH": 2029,
+        "HEIGHT": 62
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_2a95fd90-cc4c-45ba-8b0a-efd734b31b2a",
+      "kind": "main",
+      "idx": 42,
+      "text": "עם המוציא לאור הזה ויעל לעשות כאלה רבות אבל בתנאי וע\"מ שלא יחרוץ משפט ע\"ד קטון או גדול",
+      "coords": {
+        "HPOS": 319,
+        "VPOS": 2953,
+        "WIDTH": 2025,
+        "HEIGHT": 75
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_8c787051-4777-4a4b-8023-b0a50a51cd61",
+      "kind": "main",
+      "idx": 43,
+      "text": "20",
+      "coords": {
+        "HPOS": 1979,
+        "VPOS": 3026,
+        "WIDTH": 73,
+        "HEIGHT": 59
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_61de96ef-bb18-418e-8f06-3b6db179878e",
+      "kind": "main",
+      "idx": 44,
+      "text": "עד",
+      "coords": {
+        "HPOS": 462,
+        "VPOS": 3032,
+        "WIDTH": 59,
+        "HEIGHT": 57
+      },
+      "para_start": false,
+      "is_catchword": true
+    }
+  ]
+}

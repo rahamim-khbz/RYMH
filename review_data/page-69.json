@@ -1,0 +1,639 @@
+{
+  "page_id": "page-69",
+  "image": "page_images/page-69.jpg",
+  "page_width": 2550,
+  "page_height": 3300,
+  "base_hash": "sha256:aace4713d0423a5186eef3a159c68591f703276195888db9832e52dc4d3fa492",
+  "lines": [
+    {
+      "line_id": "eSc_line_952a3aae",
+      "kind": "main",
+      "idx": 0,
+      "text": "הותרה תמיהת החכם נר\"ו \"מה עשו\"? כי עשו והצליחו ושמו נפשם בכפם לגלות כל סתום, ולהתיר",
+      "coords": {
+        "HPOS": 256,
+        "VPOS": 229,
+        "WIDTH": 1985,
+        "HEIGHT": 66
+      },
+      "para_start": true,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_49eca599",
+      "kind": "main",
+      "idx": 1,
+      "text": "הלמוד מתוך הכתב, ובאמת לא דבר קטון עשו, ומה שהשלים המחזור ויטרי דבריו לאמר: \"לא הוסיפו",
+      "coords": {
+        "HPOS": 253,
+        "VPOS": 297,
+        "WIDTH": 1988,
+        "HEIGHT": 73
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_c0f6175d",
+      "kind": "main",
+      "idx": 2,
+      "text": "!ולא הפליגו מדעתם כלום\" ח\"ו שכיון להוציא מלבנו חשדת הזיוף והחילוף בדברי הקדמונים, הם",
+      "coords": {
+        "HPOS": 253,
+        "VPOS": 359,
+        "WIDTH": 1988,
+        "HEIGHT": 73
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_108ac511",
+      "kind": "main",
+      "idx": 3,
+      "text": "ישראל המאמינים בקדושת גדוליהם, וגודל הצניעות, ויראת הרוממות אשר היה בהם, חס להם לחשוד",
+      "coords": {
+        "HPOS": 253,
+        "VPOS": 434,
+        "WIDTH": 1988,
+        "HEIGHT": 55
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_e79830c6",
+      "kind": "main",
+      "idx": 4,
+      "text": "אותם על כך, ואינו צריך הדבר לאומרו, כי הוא הטלת מום עצום ונורא בזרע מאמיני הקבלה הנאמנה",
+      "coords": {
+        "HPOS": 249,
+        "VPOS": 491,
+        "WIDTH": 1992,
+        "HEIGHT": 62
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_cce0947a",
+      "kind": "main",
+      "idx": 5,
+      "text": ",ובעל מחזור ויטרי או הגאונים שכתבו דבר זה לא היו נכשלים במחשבה מועלת כזאת והוא עון פלילי",
+      "coords": {
+        "HPOS": 253,
+        "VPOS": 551,
+        "WIDTH": 1990,
+        "HEIGHT": 76
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_28f102d7",
+      "kind": "main",
+      "idx": 6,
+      "text": "אבל פשט הדברים הוא כמ\"ש הגאון באגרתו הנפלאה כי רבינא ורב אשי היו סוף הוראה, וכמו שלזה",
+      "coords": {
+        "HPOS": 245,
+        "VPOS": 623,
+        "WIDTH": 1996,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_f860678d",
+      "kind": "main",
+      "idx": 7,
+      "text": "סיים המ\"ו קודם דבור המתחיל \"ואחריהן רבנן סבוראי\" באומרו: \"ועד רב אשי ורבינא ר\"ד שנה והם",
+      "coords": {
+        "HPOS": 247,
+        "VPOS": 687,
+        "WIDTH": 1994,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_61dc8742",
+      "kind": "main",
+      "idx": 8,
+      "text": "סוף הוראה, ואחריהם רבנן סבוראי שבזכותם נמתחו השמים ונדקעה הארן\" וכו' וא\"כ מה שסיים",
+      "coords": {
+        "HPOS": 245,
+        "VPOS": 755,
+        "WIDTH": 1994,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_7a5711b9",
+      "kind": "main",
+      "idx": 9,
+      "text": "אח\"ך המ\"ו דרבנן סבוראי \"לא הוסיפו כלום\" ר\"ל דין מחודש מלומד בחד מהמדות החמודות כג\"ש",
+      "coords": {
+        "HPOS": 245,
+        "VPOS": 819,
+        "WIDTH": 1994,
+        "HEIGHT": 55
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_4b8f4457",
+      "kind": "main",
+      "idx": 10,
+      "text": "ובנין אב, והדומה להם, או כיוצא בהם, ולא עשו כ\"א פירוש והדומה כההיא דקורט לבונה שהביא",
+      "coords": {
+        "HPOS": 247,
+        "VPOS": 876,
+        "WIDTH": 1994,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_0faffffa",
+      "kind": "main",
+      "idx": 11,
+      "text": "הגאון ז\"ל והדומה, וגם בזה לא הרבה כ\"א מעט מזער, ונער יכתבם כי כך היה בקבלתם (עיין מ\"ש",
+      "coords": {
+        "HPOS": 243,
+        "VPOS": 938,
+        "WIDTH": 1996,
+        "HEIGHT": 74
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_a2c2c98e",
+      "kind": "main",
+      "idx": 12,
+      "text": "לעיל הערה כ\"ג) ולא היה עדיין נקבע ונכתב והם לקחו הרשות מעצמם וקבעום בתלמודא למקומותם",
+      "coords": {
+        "HPOS": 243,
+        "VPOS": 1004,
+        "WIDTH": 1995,
+        "HEIGHT": 70
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_da34a0ad",
+      "kind": "main",
+      "idx": 13,
+      "text": "בארשותם ולזה הוסיף המ\"ו עוד ואמר: \"ולא הפליגו מדעתם כלום\" ר\"ל, שאם תראה איזה דברים",
+      "coords": {
+        "HPOS": 243,
+        "VPOS": 1072,
+        "WIDTH": 1993,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_431687c1",
+      "kind": "main",
+      "idx": 14,
+      "text": "כתובים בחלמוד מרבנן סבוראי, רע לך שהם מעטים וז\"א: \"ולא הפליגו\" וגם זה לא מדעתם כלום",
+      "coords": {
+        "HPOS": 245,
+        "VPOS": 1131,
+        "WIDTH": 1989,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_20aa2a30",
+      "kind": "main",
+      "idx": 15,
+      "text": "כי כך היה קבלתם, ולא היה כתוב והם קבעוהו וכתבוהו, כאלו יאמר \"הוסיפו ולא הפליגו, וגם",
+      "coords": {
+        "HPOS": 243,
+        "VPOS": 1202,
+        "WIDTH": 1993,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_d59a23d1",
+      "kind": "main",
+      "idx": 16,
+      "text": "המעט הזה שהוסיפו לא היה מדעתם כלום\" כי הכל בקבלה, אלא שלא היה כתוב והם כתבוהו, כאשר",
+      "coords": {
+        "HPOS": 245,
+        "VPOS": 1257,
+        "WIDTH": 1991,
+        "HEIGHT": 74
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_17799ee4",
+      "kind": "main",
+      "idx": 17,
+      "text": "כתבתי לעיל בהערה כ\"ג, והוא אמיתות התורה למעמיק בדבר, והוא ממש דברי המאירי הובאו",
+      "coords": {
+        "HPOS": 243,
+        "VPOS": 1321,
+        "WIDTH": 1993,
+        "HEIGHT": 70
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_7bd544c6",
+      "kind": "main",
+      "idx": 18,
+      "text": ",לעיל בסוף ענף הג' באומרו \"שכל ימי רבנן סבוראי היה כבוד גדול כמין מלכות לראשי הישיבות",
+      "coords": {
+        "HPOS": 249,
+        "VPOS": 1387,
+        "WIDTH": 1987,
+        "HEIGHT": 72
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_f0844256",
+      "kind": "main",
+      "idx": 19,
+      "text": "והיו עדיין לומדים על פה התלמוד כי לא נתפשט מכל וכל לימוד הגמרא\" עכ\"ד והוא ממש דברי",
+      "coords": {
+        "HPOS": 249,
+        "VPOS": 1452,
+        "WIDTH": 1985,
+        "HEIGHT": 73
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_4bf27c82",
+      "kind": "main",
+      "idx": 20,
+      "text": ",המחזור ויטרי שבימי רבנן סבוראי נמתחו השמים ונדקעה הארץ, לא שהם מתחו על הגוילין וכתבוה",
+      "coords": {
+        "HPOS": 249,
+        "VPOS": 1525,
+        "WIDTH": 1985,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_1c6ab784",
+      "kind": "main",
+      "idx": 21,
+      "text": "אלא שהם התירו לגלות אותם לעיני השמש והירח, וללמוד מתוכם, והם דברים מבודרים כשמלה בת",
+      "coords": {
+        "HPOS": 243,
+        "VPOS": 1585,
+        "WIDTH": 1991,
+        "HEIGHT": 72
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_3226843a",
+      "kind": "main",
+      "idx": 22,
+      "text": ".מאה אלף יריעות בדברי רבינו המאירי",
+      "coords": {
+        "HPOS": 843,
+        "VPOS": 1642,
+        "WIDTH": 791,
+        "HEIGHT": 79
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_e9b47442",
+      "kind": "main",
+      "idx": 23,
+      "text": "אף אם יתעקש המתעקש ויאמר כי כוונת המ\"ו הוא שלא היה כתוב כלום והם כתבוהו בהכרח)",
+      "coords": {
+        "HPOS": 238,
+        "VPOS": 1710,
+        "WIDTH": 1994,
+        "HEIGHT": 79
+      },
+      "para_start": true,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_7992a058",
+      "kind": "main",
+      "idx": 24,
+      "text": "נאמר לו אתה אוהב להרבות גוזמותיו עד להפליא שהרי לעיל מזה ההוא אמר שעד הלל",
+      "coords": {
+        "HPOS": 242,
+        "VPOS": 1769,
+        "WIDTH": 1803,
+        "HEIGHT": 77
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_53b123c9",
+      "kind": "main",
+      "idx": 25,
+      "text": "ושמאי היו ת\"ד סררי משנה שר\"ל ששת אלפי מסכתות, בשלמא אם תאמר דהיה כתוב וגנוז, הגוזמא",
+      "coords": {
+        "HPOS": 242,
+        "VPOS": 1837,
+        "WIDTH": 1992,
+        "HEIGHT": 71
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_a6e411de",
+      "kind": "main",
+      "idx": 26,
+      "text": "תחליש כחה, והיא תחת האפשר אבל אם תאמר בע\"פ ממש, איך נוכל להאמין שהיו יכולים ליקח",
+      "coords": {
+        "HPOS": 240,
+        "VPOS": 1897,
+        "WIDTH": 1992,
+        "HEIGHT": 73
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_99678fa8",
+      "kind": "main",
+      "idx": 27,
+      "text": ",'בע\"פ ששת אלפי מסכתות אחר כמה חרבנות וגזרות, שהיו בחרבן בית א' ומצוקות תחי' בית כ",
+      "coords": {
+        "HPOS": 249,
+        "VPOS": 1965,
+        "WIDTH": 1979,
+        "HEIGHT": 71
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_8dc18572",
+      "kind": "main",
+      "idx": 28,
+      "text": ",ושעבוד היונים, ומלחמות החשמונאים, והחקוממות מלכות הורודוס נגדם, שהוא זמן הלל הזקן",
+      "coords": {
+        "HPOS": 247,
+        "VPOS": 2029,
+        "WIDTH": 1987,
+        "HEIGHT": 75
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_8d955401",
+      "kind": "main",
+      "idx": 29,
+      "text": "באמת הם נפלאות אשר לא נבראו, הא אין עליך לומר, אלא שמי שמתגבר לקיים הגוזמות האלו",
+      "coords": {
+        "HPOS": 243,
+        "VPOS": 2097,
+        "WIDTH": 1987,
+        "HEIGHT": 71
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_5acb2147",
+      "kind": "main",
+      "idx": 30,
+      "text": ",בעינם, תוא כאלו נותן יד למסעדי קכלחנו הנאמנה להדוף אותה בנגיחה אחת ואבד כל זכר לה",
+      "coords": {
+        "HPOS": 256,
+        "VPOS": 2165,
+        "WIDTH": 1972,
+        "HEIGHT": 69
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_a8aabe8e",
+      "kind": "main",
+      "idx": 31,
+      "text": "!חלילה! וחםן וע\"ז הוא שאמרו חז\"ל: חכמים הזהרו בדבריכם ובפרט בדור הזה ה' יצילנו",
+      "coords": {
+        "HPOS": 321,
+        "VPOS": 2223,
+        "WIDTH": 1830,
+        "HEIGHT": 72
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_a1e78139",
+      "kind": "main",
+      "idx": 32,
+      "text": "ומזה",
+      "coords": {
+        "HPOS": 2047,
+        "VPOS": 2288,
+        "WIDTH": 181,
+        "HEIGHT": 88
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_857410cd",
+      "kind": "main",
+      "idx": 33,
+      "text": "!יקח החכם הנכבד הלזה הי\"ו תשובתו במה שהוא תוהא ומתהה באומרו: \"א\"כ ידידי היקד",
+      "coords": {
+        "HPOS": 247,
+        "VPOS": 2286,
+        "WIDTH": 1789,
+        "HEIGHT": 75
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_a8655069",
+      "kind": "main",
+      "idx": 34,
+      "text": "חתורה שבע\"פ לא היתה מעולם תשבע\"פ וכו' וכו', א\"כ ידידי! הלל כתב משנתו, ורבי",
+      "coords": {
+        "HPOS": 243,
+        "VPOS": 2355,
+        "WIDTH": 1769,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_6aa6d13a",
+      "kind": "main",
+      "idx": 35,
+      "text": "עקיבא כתב משנתו, ורבי אליעזר כתב משנתו, וכל התנאים כתבו משנתם, וכשבא גם רבי יהודה",
+      "coords": {
+        "HPOS": 240,
+        "VPOS": 2414,
+        "WIDTH": 1988,
+        "HEIGHT": 70
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_1932472e",
+      "kind": "main",
+      "idx": 36,
+      "text": "הנשיא וכתב גם הוא משנתו, מיד נכרתו מן השמים כל המשניות אשר נכתבו לפניו ולא נשאר מהן",
+      "coords": {
+        "HPOS": 242,
+        "VPOS": 2478,
+        "WIDTH": 1986,
+        "HEIGHT": 77
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_c39b4ada",
+      "kind": "main",
+      "idx": 37,
+      "text": "שריד ופליט וכו' עכ\"ד הצריכים לענינינו, ואנו נשיב לו על ראשון ראשון: התורה שבע\"פ היתה בע\"פ",
+      "coords": {
+        "HPOS": 238,
+        "VPOS": 2541,
+        "WIDTH": 1989,
+        "HEIGHT": 73
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_1d28d936",
+      "kind": "main",
+      "idx": 38,
+      "text": "עד זמן רבנן סבוראי, ועם שהיה הכל בכתב, היה גנוז ביד ראשי סנהדראות \"והוו זהירין רבנן",
+      "coords": {
+        "HPOS": 243,
+        "VPOS": 2612,
+        "WIDTH": 1985,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_0c4e02ac",
+      "kind": "main",
+      "idx": 39,
+      "text": "?למגרסינהו על פה\" כדקאמר גאון, מכלל דאיכא כתובי יד, דאי לאו הכי כי לא הוו זהירין מאי הוי",
+      "coords": {
+        "HPOS": 242,
+        "VPOS": 2667,
+        "WIDTH": 1985,
+        "HEIGHT": 83
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_e2060438",
+      "kind": "main",
+      "idx": 40,
+      "text": "הא ליכא, וכאשר הארכנו לעיל, וכמו שעדין לחלוחית הדיו קיימת במה שהשלים דבריו רבינו המאירי",
+      "coords": {
+        "HPOS": 242,
+        "VPOS": 2731,
+        "WIDTH": 1985,
+        "HEIGHT": 77
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_ab365379",
+      "kind": "main",
+      "idx": 41,
+      "text": "הגז\"ל \"ואיו עדיין לומדין התלמוד על פה כי לא נתפשט חיבור הגמרא טכל וכל\" על כל",
+      "coords": {
+        "HPOS": 240,
+        "VPOS": 2797,
+        "WIDTH": 1981,
+        "HEIGHT": 81
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_5413504a",
+      "kind": "main",
+      "idx": 42,
+      "text": "אלה נקראת תשבע\"פ, וכאשר הארכנו יותר מכדי יכולתינו, וכשישאל לנו החכם נר\"ו \"א\"כ הלל כחב",
+      "coords": {
+        "HPOS": 238,
+        "VPOS": 2861,
+        "WIDTH": 1987,
+        "HEIGHT": 81
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_748d0a6a",
+      "kind": "main",
+      "idx": 43,
+      "text": "משנתו\" וכו', אף אנו נשיב לו, כן ידידינו! כן, כל א' וא' כתב משנתו, וגנזה ומהם אסף וקבץ וסדר",
+      "coords": {
+        "HPOS": 247,
+        "VPOS": 2929,
+        "WIDTH": 1974,
+        "HEIGHT": 88
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_2f386fbc",
+      "kind": "main",
+      "idx": 44,
+      "text": "ותקז",
+      "coords": {
+        "HPOS": 368,
+        "VPOS": 2995,
+        "WIDTH": 101,
+        "HEIGHT": 77
+      },
+      "para_start": false,
+      "is_catchword": true
+    }
+  ]
+}

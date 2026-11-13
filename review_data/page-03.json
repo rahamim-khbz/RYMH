@@ -1,0 +1,625 @@
+{
+  "page_id": "page-03",
+  "image": "page_images/page-03.png",
+  "page_width": 2550,
+  "page_height": 3300,
+  "base_hash": "sha256:04329e57952ae2f3e6f653b290d19ee7b2dea6ee0cd66d2acb0aeb8432de5fdd",
+  "lines": [
+    {
+      "line_id": "_b6b4d9e2-0244-4a2e-aa6c-7808b89668f7",
+      "kind": "main",
+      "idx": 0,
+      "text": "נביא שהיה באותו דור כותב לעצמו זכרון שמועות מרבותיו, וכן כל אחד כותב לעצמו כפי כחו, עד",
+      "coords": {
+        "HPOS": 150,
+        "VPOS": 256,
+        "WIDTH": 2000,
+        "HEIGHT": 59
+      },
+      "para_start": true,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_bf1c7d25-91bb-4ad0-97de-8eb2cdcfd667",
+      "kind": "main",
+      "idx": 1,
+      "text": "שבא רבי וקבץ כל השמועות, וכל הדינים וכל הביאורים כולם וכו'\" וכן ר\"ש הנגיד במבוא התלמוד",
+      "coords": {
+        "HPOS": 150,
+        "VPOS": 322,
+        "WIDTH": 2000,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_d1d802cd-c75d-46f2-9e03-039d983348f3",
+      "kind": "main",
+      "idx": 2,
+      "text": "כתב: \"כי החכמים הקדמונים כל אחד ואחד העתיק לנפשו מה שלמד, בין דבר שהוא הלכה, בין",
+      "coords": {
+        "HPOS": 148,
+        "VPOS": 386,
+        "WIDTH": 2002,
+        "HEIGHT": 72
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_a48fc51b-1dbe-41a2-a598-96b25c34c17d",
+      "kind": "main",
+      "idx": 3,
+      "text": "שאינה הלכה, וכשבא רבי להעתיק הוצרך לכתוב\" וכו'. וע\"ז תמה הרמ\"ז ז\"ל דאם הותר לכתוב איך",
+      "coords": {
+        "HPOS": 152,
+        "VPOS": 451,
+        "WIDTH": 2003,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_756cf60d-9323-4149-ab2a-e24991d8035f",
+      "kind": "main",
+      "idx": 4,
+      "text": "אמרו בתמורה די\"ד דברים שבע\"פ אי אתה רשאי לאומרם בכתב? וגם איך אמרו \"אלה אתה כותב",
+      "coords": {
+        "HPOS": 146,
+        "VPOS": 513,
+        "WIDTH": 2007,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_df40e6fe-d04c-4c70-9fa1-6c45f9e3481c",
+      "kind": "main",
+      "idx": 5,
+      "text": "ואי אתה כותב הלכות\"? וגם ר\"י איך אמר \"כותבי הלכתות כשורפי תורה\"? וגם מאי ק\"ל לתלמודא",
+      "coords": {
+        "HPOS": 146,
+        "VPOS": 577,
+        "WIDTH": 2007,
+        "HEIGHT": 70
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_82bbc0c2-e969-4e45-b7c5-642cf16425a1",
+      "kind": "main",
+      "idx": 6,
+      "text": "על רב דימי שהיה רוצה לכתוב הלכה לרב יוסף? ועוד בגטין ד\"ס חו\"ל להקשות לרבה ור\"י דגם בימי",
+      "coords": {
+        "HPOS": 152,
+        "VPOS": 643,
+        "WIDTH": 1999,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_37ed9e82-5acf-408a-a4a1-ae838a5b6b99",
+      "kind": "main",
+      "idx": 7,
+      "text": "הנביאים התירו לכתוב משום עת לעשות לה', ומכל זה ויותר מזה, הניח דברי הר\"מ ור\"ש הנגיד בצ\"ע,",
+      "coords": {
+        "HPOS": 157,
+        "VPOS": 707,
+        "WIDTH": 1996,
+        "HEIGHT": 70
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_0edad268-12b7-470b-8a5e-3b8c6db7b432",
+      "kind": "main",
+      "idx": 8,
+      "text": "ותפס במושלם כדעת רש\"י בכמה מקומות ומכללם בב\"מ דל\"ג בד\"ה מדה ואינה מדה שכתב דבימיהם",
+      "coords": {
+        "HPOS": 146,
+        "VPOS": 775,
+        "WIDTH": 2007,
+        "HEIGHT": 57
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_f7a99872-6472-48f2-9408-9497458b8364",
+      "kind": "main",
+      "idx": 9,
+      "text": "לא היה גמרא בכתב, וגם לא היה ניתן ליכתב, אלא לפי שנתמעטו הלבבות התחילו דורותינו לכותבה\"",
+      "coords": {
+        "HPOS": 157,
+        "VPOS": 837,
+        "WIDTH": 1996,
+        "HEIGHT": 70
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_dc42bd11-e4ff-45ad-b1f1-9a1cc1d449ea",
+      "kind": "main",
+      "idx": 10,
+      "text": "ע\"כ. מבואר מדבריו דגם הש\"ס שסידר רב אשי, לא שסידרם בכתב אלא בע\"פ, ובדורות סמוך לזמן",
+      "coords": {
+        "HPOS": 146,
+        "VPOS": 902,
+        "WIDTH": 2005,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_cb11a5a8-3f85-4e65-8e39-c570b55a0b68",
+      "kind": "main",
+      "idx": 11,
+      "text": "רש\"י, התחילו לכתוב, וא\"כ כ\"ש דס\"ל הבי במשניות דרבי, וממ\"ש עוד רש\"י ד\"ה \"בימי רבי\" גם",
+      "coords": {
+        "HPOS": 146,
+        "VPOS": 968,
+        "WIDTH": 2007,
+        "HEIGHT": 55
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_e45d87d0-5978-4d58-837b-37d7809e79e7",
+      "kind": "main",
+      "idx": 12,
+      "text": "בד\"ה \"הדר דרש להו\" כתב: \"לפי שירא פן ישתכחו המשניות וכו', ואי רבי כתב המשנה לא יתכן",
+      "coords": {
+        "HPOS": 148,
+        "VPOS": 1032,
+        "WIDTH": 2002,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_f121e961-3c32-445a-971d-147d4f9ee452",
+      "kind": "main",
+      "idx": 13,
+      "text": "לשכוח, אלא ודאי כמ\"ש את\"ד ז\"ל, אמת שהרב חיד\"א ז\"ל בס' פתח עינים רי\"ב מהס' תמה על מרן",
+      "coords": {
+        "HPOS": 148,
+        "VPOS": 1090,
+        "WIDTH": 2005,
+        "HEIGHT": 74
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_e6b18937-0bb0-4e19-a38b-674fcf7dca38",
+      "kind": "main",
+      "idx": 14,
+      "text": "זקני ז\"ל באומרו: \"איך סבל לומר דעד דורות סמוך לרש\"י לא נכתב התלמוד? אחרי כל מה שכתב רב",
+      "coords": {
+        "HPOS": 148,
+        "VPOS": 1156,
+        "WIDTH": 2005,
+        "HEIGHT": 61
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_c8bd2651-89e1-40e6-ad1b-7d3dab1d077b",
+      "kind": "main",
+      "idx": 15,
+      "text": "שרירא גאון בתשו' המובאה ביוחסין וכו', וגם מ\"ש הרב ר\"ש הנגיד שקדם להרי\"ף, ושפירש\"י הוא",
+      "coords": {
+        "HPOS": 146,
+        "VPOS": 1224,
+        "WIDTH": 2007,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_da184835-4bea-4810-a366-68ceb2029d55",
+      "kind": "main",
+      "idx": 16,
+      "text": "כמו שהובא בעין יעקב התחילו דורות אחרונים ולא דורותינו (ובתלמוד ויין עם הגהות הגאון הצ\"ח",
+      "coords": {
+        "HPOS": 148,
+        "VPOS": 1288,
+        "WIDTH": 2005,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_8479845e-2095-4590-a9dd-fd2c46243d51",
+      "kind": "main",
+      "idx": 17,
+      "text": "נר\"ו כבר עשו מעשה והשמיטו דורותינו וכתבו דורות אחרונים מבלי השאיר זכר לגירסא ראשונה כלל",
+      "coords": {
+        "HPOS": 144,
+        "VPOS": 1356,
+        "WIDTH": 2007,
+        "HEIGHT": 53
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_109a9cbd-f1d4-452c-9108-d2dbd20af673",
+      "kind": "main",
+      "idx": 18,
+      "text": "וכלל שרי להו מאריהו דנעשו ההגהות בימים האלה פרצה גדולה, וה' הטוב יכפר בעד) וכאלה דקדוקים",
+      "coords": {
+        "HPOS": 146,
+        "VPOS": 1417,
+        "WIDTH": 2009,
+        "HEIGHT": 58
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_8b1c78fa-a16e-4fbf-82fb-05f559da3a4c",
+      "kind": "main",
+      "idx": 19,
+      "text": "שדקדק על הגאון הרמ\"ז עיין עליו באורך, והגאון הרמ\"ז ז\"ל אזר כגבר חלציו בחק\"ל יו\"ד ח\"א",
+      "coords": {
+        "HPOS": 148,
+        "VPOS": 1479,
+        "WIDTH": 2003,
+        "HEIGHT": 70
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_26d63e9d-d79d-4e7c-9991-34f061eb7aa0",
+      "kind": "main",
+      "idx": 20,
+      "text": "בקונט' כונן לחקר רש\"י ע\"א לברר אמיתות הענין כמו שנראה להדיא מפרש\"י דאחר חתי' התלמוד",
+      "coords": {
+        "HPOS": 155,
+        "VPOS": 1547,
+        "WIDTH": 1996,
+        "HEIGHT": 62
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_66c9bc4a-e85d-4b58-9603-95837e6ba5e2",
+      "kind": "main",
+      "idx": 21,
+      "text": "בזמן הגאונים או רבנן סבוראי הותר או לקחו התר זה מעצמם, ולא קודם לכן, \"והתחילו דורותנו\"",
+      "coords": {
+        "HPOS": 166,
+        "VPOS": 1609,
+        "WIDTH": 1985,
+        "HEIGHT": 70
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_38d9e2df-816c-400f-8f33-b210f83c323d",
+      "kind": "main",
+      "idx": 22,
+      "text": "שכתב רש\"י, ר\"ל דורות הסמוכים לו, כמו שהוא האמת שבין התחלת זמן הגאונים, לזמן רש\"י, לא",
+      "coords": {
+        "HPOS": 146,
+        "VPOS": 1672,
+        "WIDTH": 2005,
+        "HEIGHT": 58
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_ae0ad093-c633-4024-bf85-642a3e3b99cb",
+      "kind": "main",
+      "idx": 23,
+      "text": "היו כי אם ג' או ד' מאות שנה, ותו לא, ונוסחת \"דורות אחרונים\" הכתוב בעין יעקב היא היא בלי",
+      "coords": {
+        "HPOS": 148,
+        "VPOS": 1732,
+        "WIDTH": 2005,
+        "HEIGHT": 77
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_42871422-5378-4f0f-9e58-3bddb08f1f31",
+      "kind": "main",
+      "idx": 24,
+      "text": "ספק, ושענין זה הוא מערכה מול מערכה בין רש\"י וסיעת מרחמוהי, ובין ר\"ש גאון ואחוזת מרעהו,",
+      "coords": {
+        "HPOS": 154,
+        "VPOS": 1802,
+        "WIDTH": 1997,
+        "HEIGHT": 71
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_3e9d32a9-b948-4a19-bf71-414e5ae81b04",
+      "kind": "main",
+      "idx": 25,
+      "text": "שרש\"י במקומות הנז\"ל, וגם מ\"ש בעירובין דס\"ב ד\"ה \"כגון מגילת תענית\" כתב: \"שלא היתה הלכה",
+      "coords": {
+        "HPOS": 144,
+        "VPOS": 1866,
+        "WIDTH": 2007,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_db6559c1-fdb0-4789-91dc-ec0233fe9f44",
+      "kind": "main",
+      "idx": 26,
+      "text": "כתובה בימיהם אפילו אות אחת חוץ ממגילת תענית, וכ\"כ גם כן מוהרשד\"ם ח\"מ סי' א', וכן כתב",
+      "coords": {
+        "HPOS": 148,
+        "VPOS": 1930,
+        "WIDTH": 2003,
+        "HEIGHT": 59
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_58a44b23-c6bf-4ef7-9d9d-5ac4e8f2dd43",
+      "kind": "main",
+      "idx": 27,
+      "text": "הריטב\"א שם בעירובין כדברי רש\"י ממש, וכן כתב הסמ\"ג להדיא בהקדמתו דהתלמוד לא נכתב עד",
+      "coords": {
+        "HPOS": 152,
+        "VPOS": 1994,
+        "WIDTH": 1999,
+        "HEIGHT": 59
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_c0478ec6-1def-460a-9a73-c769c51cb1af",
+      "kind": "main",
+      "idx": 28,
+      "text": "זמן הגאונים, וכ\"כ הרז\"ה בס' המאור ריש פ' כל כתבי שהתירו דורות אחרונים לכתוב תרגום והלכות",
+      "coords": {
+        "HPOS": 146,
+        "VPOS": 2058,
+        "WIDTH": 2007,
+        "HEIGHT": 59
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_aed97c36-3fcc-480d-8cd8-42c683312271",
+      "kind": "main",
+      "idx": 29,
+      "text": "איידי דבציר ליכא, ושכיח שר של שכחה, וסמכו על ר\"י ור\"ל דמעייני בספרא דאגדתא וכו'\" מזה מוכח",
+      "coords": {
+        "HPOS": 146,
+        "VPOS": 2128,
+        "WIDTH": 2007,
+        "HEIGHT": 53
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_9e887687-b7c9-41fc-90c5-8ab7d57d9fc5",
+      "kind": "main",
+      "idx": 30,
+      "text": "להדיא דרבי במשניות, ור\"י בתלמוד ירושלמי, ורב אשי בבבלי, לא התירו לכתוב דאי התירו תפוק",
+      "coords": {
+        "HPOS": 144,
+        "VPOS": 2187,
+        "WIDTH": 2009,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_81e6fc5a-9d20-4db6-8ac8-40e8ef512e34",
+      "kind": "main",
+      "idx": 31,
+      "text": "ליה מדרבי וד\"י ורב אשי? גם המרדכי פ' כל כתבי כתב בשם ר\"י דוקא בימיהם שלא היו שוכחין ולא",
+      "coords": {
+        "HPOS": 146,
+        "VPOS": 2247,
+        "WIDTH": 2005,
+        "HEIGHT": 72
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_0406b51a-a1d7-4090-a586-d8cc07cffbfc",
+      "kind": "main",
+      "idx": 32,
+      "text": "היו כותבין תלמוד וכו', אבל אנן בתראי דכתבינן כל מילי וכו, גם הסמ\"ג בלאוין ס\"ה, כתב דבימי",
+      "coords": {
+        "HPOS": 150,
+        "VPOS": 2317,
+        "WIDTH": 2001,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_acccf458-8f61-47d1-9bbb-8ca78e95eb99",
+      "kind": "main",
+      "idx": 33,
+      "text": "התנאים והאמוראים לא ניתן ליכתב התלמוד, אבל עכשיו שרבתה השכחה, אנו מתירין לכתוב הכל,",
+      "coords": {
+        "HPOS": 152,
+        "VPOS": 2377,
+        "WIDTH": 1999,
+        "HEIGHT": 76
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_e1fc0e63-c2a3-4249-a1fe-5ddc5ec0e2d2",
+      "kind": "main",
+      "idx": 34,
+      "text": "וכן נראה מפרש\"י בגטין דפ\"ה ד\"ה תנאי, וכן מהתוס' דחולין דק\"י ד\"ה דתנן, שכתבו דמשניות אפילו",
+      "coords": {
+        "HPOS": 146,
+        "VPOS": 2447,
+        "WIDTH": 2005,
+        "HEIGHT": 57
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_246699bb-c9c5-4034-876a-36696305c768",
+      "kind": "main",
+      "idx": 35,
+      "text": "זרעים וטהרות היו שגורות בפיהם וכו', וכן ממ\"ש בביצה די\"ו, גבי ההוא סמיא דהוה קא מסדר קמי",
+      "coords": {
+        "HPOS": 146,
+        "VPOS": 2513,
+        "WIDTH": 2002,
+        "HEIGHT": 57
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_71303756-eba5-4894-961c-8f7461f65399",
+      "kind": "main",
+      "idx": 36,
+      "text": "דשמואל, ועיין פירש\"י שם, ובקידושין דס\"ו וכן ממ\"ש בשבת דס\"ו דמתני ליה רב חנן לחייא בר רב",
+      "coords": {
+        "HPOS": 143,
+        "VPOS": 2572,
+        "WIDTH": 2010,
+        "HEIGHT": 71
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_48f7a863-a595-424d-a824-f9e6d097336e",
+      "kind": "main",
+      "idx": 37,
+      "text": "וכו', ומחוי ליה רב איפוך וכו', ואם היה בכתב איך טעה? ואם היו ב' נוסחאות א\"כ הוה ליה למתני",
+      "coords": {
+        "HPOS": 146,
+        "VPOS": 2636,
+        "WIDTH": 2004,
+        "HEIGHT": 62
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_83ad6a92-4093-4c5c-ac7c-0c0ddbac5d48",
+      "kind": "main",
+      "idx": 38,
+      "text": "שניהם, וכן ממ\"ש בסנהדרין ד\"פ מתני ליה ר\"י וכו', אמ\"ל ר\"י אבא לא תתני הכי וכו', אלא הכי",
+      "coords": {
+        "HPOS": 146,
+        "VPOS": 2700,
+        "WIDTH": 2005,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_7a77b03b-001f-4b37-b3de-fe4acc5f59a7",
+      "kind": "main",
+      "idx": 39,
+      "text": "אתנייה, וריהטא דכולה הך סוגיא מוכיח דהמשניות לא היה להם בכתב כ\"א בע\"פ, ונשארה סברת",
+      "coords": {
+        "HPOS": 146,
+        "VPOS": 2764,
+        "WIDTH": 2005,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_9e95802a-e5f3-4206-b5f9-366da979f857",
+      "kind": "main",
+      "idx": 40,
+      "text": "המערכה השנית שהיא: ר\"ש גאון, ור\"ש הנגיד, והרמב\"ם, כולה מקשה מכמה סוגיאות ערוכות,",
+      "coords": {
+        "HPOS": 154,
+        "VPOS": 2832,
+        "WIDTH": 1997,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_b683c462-911c-404e-9b6d-45ef77dad730",
+      "kind": "main",
+      "idx": 41,
+      "text": "ושמועות רחבות, וכבר ידוע דכמה פעמים נדחו דברי הגאונים כשאינם על שורשי הגמרא, את\"ד,",
+      "coords": {
+        "HPOS": 157,
+        "VPOS": 2904,
+        "WIDTH": 1996,
+        "HEIGHT": 60
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_55cc8661-b5f5-478f-901e-fd16ff1c8475",
+      "kind": "main",
+      "idx": 42,
+      "text": "הגאון הרב מר זקני בקיצור נמרץ עיין בדבריו באורך, והאמת שבל ראיותיו הם כלפיד יבער, אשר",
+      "coords": {
+        "HPOS": 152,
+        "VPOS": 2960,
+        "WIDTH": 1996,
+        "HEIGHT": 74
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_dae247b2-edeb-4506-b982-59ff83f96087",
+      "kind": "main",
+      "idx": 43,
+      "text": "אין",
+      "coords": {
+        "HPOS": 271,
+        "VPOS": 3026,
+        "WIDTH": 68,
+        "HEIGHT": 72
+      },
+      "para_start": false,
+      "is_catchword": true
+    }
+  ]
+}

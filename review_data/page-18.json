@@ -1,0 +1,690 @@
+{
+  "page_id": "page-18",
+  "image": "page_images/page-18.png",
+  "page_width": 2550,
+  "page_height": 3300,
+  "base_hash": "sha256:0f0018fe39b4a052163f4dd7780e4b44177d4a825cf8f1823f0497290a40fccf",
+  "lines": [
+    {
+      "line_id": "_922e72eb-4bc6-4e2d-bfd9-6e966b241781",
+      "kind": "main",
+      "idx": 0,
+      "text": "פד",
+      "coords": {
+        "HPOS": 443,
+        "VPOS": 141,
+        "WIDTH": 92,
+        "HEIGHT": 73
+      },
+      "para_start": true,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_23f4d7d9-ebde-49e4-a06d-2b9f95236a61",
+      "kind": "main",
+      "idx": 1,
+      "text": "ועכשיו שכבר ביאר לנו הגאון, הב' רוחים שהרוחנו במלאכת רבינו הקדוש, והוא: פישוט הספקות,",
+      "coords": {
+        "HPOS": 302,
+        "VPOS": 240,
+        "WIDTH": 2005,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_ed003aec-bdbc-417f-a35b-800f5644a3e2",
+      "kind": "main",
+      "idx": 2,
+      "text": "ובירורן וכתיבתן בחיבור, מה שלא היה לראשונים, כי אם זכרון שמועות.",
+      "coords": {
+        "HPOS": 590,
+        "VPOS": 306,
+        "WIDTH": 1426,
+        "HEIGHT": 62
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_8e2ea56a-13f2-47e1-b7da-c9d11d8ca473",
+      "kind": "main",
+      "idx": 3,
+      "text": "עוד",
+      "coords": {
+        "HPOS": 2203,
+        "VPOS": 372,
+        "WIDTH": 58,
+        "HEIGHT": 82
+      },
+      "para_start": true,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_edac5358-3cbc-4506-8ce7-4e77b77484a9",
+      "kind": "main",
+      "idx": 4,
+      "text": "הולך ומוסיף להודיענו, שעוד ריוח שלישי הרוחנו במלאכתו הקדושה והוא אומרו: וכן נמי",
+      "coords": {
+        "HPOS": 291,
+        "VPOS": 370,
+        "WIDTH": 1846,
+        "HEIGHT": 64
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_ce8f0c51-c17f-4de3-ac3b-9077232f7676",
+      "kind": "main",
+      "idx": 5,
+      "text": "לא הוו גרסי (אלו הראשונים שהזכיר למעלה) כולא (ר\"ל מתניתין) בפה אחד",
+      "coords": {
+        "HPOS": 291,
+        "VPOS": 432,
+        "WIDTH": 1833,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_c5a6a65c-3276-4e95-8d02-70f63c173182",
+      "kind": "main",
+      "idx": 6,
+      "text": "ולשון אחד, אלא טעמייהו הוו ידעין להון וכלהון דעת אחת הוה בהון\" ר\"ל שאפי' שכל",
+      "coords": {
+        "HPOS": 291,
+        "VPOS": 500,
+        "WIDTH": 2018,
+        "HEIGHT": 57
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_a8a5aafa-8589-42b4-a4e9-6e2a35796d21",
+      "kind": "main",
+      "idx": 7,
+      "text": "אחד שונה בלשון משונה מחברו עכ\"פ הדעת דעת אחד לאסור או להתיר וכיוצא, וזה הריוח שהרוחנו",
+      "coords": {
+        "HPOS": 291,
+        "VPOS": 564,
+        "WIDTH": 2018,
+        "HEIGHT": 64
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_dd5353cc-4668-427e-adb7-8a8dd47d7043",
+      "kind": "main",
+      "idx": 8,
+      "text": "במלאכת רבינו הקדוש שהכל לשון אחד ופה אחד, ועכשיו מוסיף ומודיע הריוח הד' והוא: \"ולא",
+      "coords": {
+        "HPOS": 293,
+        "VPOS": 627,
+        "WIDTH": 2018,
+        "HEIGHT": 67
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_b1639a35-b526-482c-bf64-0779ac200708",
+      "kind": "main",
+      "idx": 9,
+      "text": "הות בגירסיהו פלוגתא (יוחסין, ובח\"מ חסר ונמצאו הדברים מבולבלים ובלתי מובנים",
+      "coords": {
+        "HPOS": 289,
+        "VPOS": 685,
+        "WIDTH": 2020,
+        "HEIGHT": 74
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_4fcd9203-13af-43bb-8152-5bdca2aceb5e",
+      "kind": "main",
+      "idx": 10,
+      "text": "ודוק) וידעי מאי דאיתיה דברי הכל, ומאי דאיתיה פלוגתא, ומאי דאיתיה ליחיד,",
+      "coords": {
+        "HPOS": 299,
+        "VPOS": 757,
+        "WIDTH": 2008,
+        "HEIGHT": 64
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_925e7ec7-f88a-48fd-9368-e0463deb39a8",
+      "kind": "main",
+      "idx": 11,
+      "text": "ומאי דאיתיה לרבים\" ר\"ל שאפי' שהיו יודעים, איזה דין הוא דברי הכל, ואיזה דין יש בו פלוגתא,",
+      "coords": {
+        "HPOS": 293,
+        "VPOS": 817,
+        "WIDTH": 2016,
+        "HEIGHT": 74
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_a1d8f343-b3da-4a69-917f-cec0d6b0606c",
+      "kind": "main",
+      "idx": 12,
+      "text": "ויודעים ג\"כ צדדי המחלוקת, לאיזה צד הוא סברת היחיד, ולאיזה צד סברת הרבים, עכ\"ז לא היו",
+      "coords": {
+        "HPOS": 293,
+        "VPOS": 885,
+        "WIDTH": 2018,
+        "HEIGHT": 59
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_04d5451b-9186-4716-adce-937b98a2fa19",
+      "kind": "main",
+      "idx": 13,
+      "text": "גורסין בגירסתם הדין עם המחלוקת שלו, כמו שהוא היום בסדר משנתנו שתקן רבי, וזהו הריוח הד'.",
+      "coords": {
+        "HPOS": 308,
+        "VPOS": 953,
+        "WIDTH": 2005,
+        "HEIGHT": 60
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_ec07c568-ecc5-4939-851f-6ba89322f8aa",
+      "kind": "main",
+      "idx": 14,
+      "text": "ומוסיף עוד הריוח החמישי והוא: \"ולא היו להם דברים מתוקנים, ומשנה ידועה וכו' עד",
+      "coords": {
+        "HPOS": 295,
+        "VPOS": 1026,
+        "WIDTH": 2020,
+        "HEIGHT": 55
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_7f6d5a53-0dba-4d0d-a089-4f102637e53e",
+      "kind": "main",
+      "idx": 15,
+      "text": "כל אחד ואחד מתני לתלמודיו באיזה דיבור (ד) שירצה, ובאיזה דרך שירצה יש אוחז",
+      "coords": {
+        "HPOS": 289,
+        "VPOS": 1079,
+        "WIDTH": 2022,
+        "HEIGHT": 55
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_a96dc1c7-cd68-4c98-be75-f96e5bcdeb55",
+      "kind": "main",
+      "idx": 16,
+      "text": "דרך קצרה וכו' ואית (ח\"מ חסר) דתני כללות, ואית דפרטין, ואית דמרווחין (ח\"מ,",
+      "coords": {
+        "HPOS": 299,
+        "VPOS": 1136,
+        "WIDTH": 2010,
+        "HEIGHT": 81
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_207ac8fc-646a-482a-8db8-ceb06299d9a8",
+      "kind": "main",
+      "idx": 17,
+      "text": "וביוחסין \"מומחין\" טעות) ופשטין דמויי ודמויי דדמויי\" ר\"ל דמלבד דהרוחנו פשיטות הספקות",
+      "coords": {
+        "HPOS": 291,
+        "VPOS": 1221,
+        "WIDTH": 2024,
+        "HEIGHT": 53
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_e769f6e4-4a8e-4a55-a0cf-a48bd3b63c36",
+      "kind": "main",
+      "idx": 18,
+      "text": "ובירורן",
+      "coords": {
+        "HPOS": 423,
+        "VPOS": 1279,
+        "WIDTH": 167,
+        "HEIGHT": 57
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_883e3783-09bf-4d5e-ad17-e3f527b5a86b",
+      "kind": "main",
+      "idx": 19,
+      "text": "שהרי הגאון לאו רוכלא הוא לחזור ולומר שהראשונים לא הוה אית להו הנך ספיקא, שכבר הודיע דבר זה כמה פעמים אין",
+      "coords": {
+        "HPOS": 289,
+        "VPOS": 1393,
+        "WIDTH": 2028,
+        "HEIGHT": 60
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_d30ece62-c62d-433f-86e0-da9a745cb146",
+      "kind": "main",
+      "idx": 20,
+      "text": "מספר. אבל בעל הנוסח הזה היה בידו להשמיט כל השורה הזאת כמו שתראה עוד למטה, שהשמיט ולא חמל על דברים",
+      "coords": {
+        "HPOS": 291,
+        "VPOS": 1448,
+        "WIDTH": 2026,
+        "HEIGHT": 53
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_72f28059-c769-4534-925f-fb8092ae9c9f",
+      "kind": "main",
+      "idx": 21,
+      "text": "רבים, אלא שראה דלא היה נשאר שום קשר לדברים אומרו אח\"כ \"ולא נמי פה אחד הוו גרסי\" דחוזר על הראשונים ואם",
+      "coords": {
+        "HPOS": 291,
+        "VPOS": 1503,
+        "WIDTH": 2024,
+        "HEIGHT": 51
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_bc9503c7-1e0d-4067-9580-f255ad906cc5",
+      "kind": "main",
+      "idx": 22,
+      "text": "ישמיט כל ענין זה יחזרו דברים אלו על מי שדיבר מהם סמוך ונדאה שהם דורו של ר\"הק שכבר היו גורסים בפה אחד,",
+      "coords": {
+        "HPOS": 293,
+        "VPOS": 1562,
+        "WIDTH": 2020,
+        "HEIGHT": 53
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_97ff70e2-0e4c-4a4c-ae48-9293d932ec44",
+      "kind": "main",
+      "idx": 23,
+      "text": "וזהו עיקר מלאכתם. וא\"כ הוו תרתי דסתרן ע\"כ בעל הנוסח הוכרח להניח דבר זה שידבר על הראשונים. והפך הקערה,",
+      "coords": {
+        "HPOS": 297,
+        "VPOS": 1607,
+        "WIDTH": 2020,
+        "HEIGHT": 61
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_4f5188c5-2059-43ca-9e99-5ccd015642a9",
+      "kind": "main",
+      "idx": 24,
+      "text": "שהכונה על הספקות שלא היו להם שהוא דבר ידוע ונגלה. והגאון לא ישליך טיפת דיו לאבדון. ועוד והיא היותר גדולה,",
+      "coords": {
+        "HPOS": 300,
+        "VPOS": 1661,
+        "WIDTH": 2017,
+        "HEIGHT": 53
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_88e5b068-88a8-4faa-91c3-d3c75f06a0d1",
+      "kind": "main",
+      "idx": 25,
+      "text": "מה ראה הגאון להפסיק בתוך דבריו שמדבר על אופן מלאכת ר\"הק מה פעל ועשה, להודיענו שעד סוף יומיהון דרבנן",
+      "coords": {
+        "HPOS": 293,
+        "VPOS": 1716,
+        "WIDTH": 2020,
+        "HEIGHT": 56
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_56e60b83-0bee-4cf4-bb87-4f3587f4a3ac",
+      "kind": "main",
+      "idx": 26,
+      "text": "ליכא דכתב מדעם, שהוא דבר שאין לו קשר עם מה שהוא מספר והולך. שהנה שורת מחבר אדיר כמו שהוא גאוננו,",
+      "coords": {
+        "HPOS": 299,
+        "VPOS": 1767,
+        "WIDTH": 2014,
+        "HEIGHT": 62
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_8fc7aa11-8575-401e-8f81-49d910657637",
+      "kind": "main",
+      "idx": 27,
+      "text": "מחייב שאחר שסיפר דע\"י טרחות שטרחו רבינו הקדוש ובני דורו פשטו כל הספקות, תכף יבאר שלא זאת עשו בלבד, אלא",
+      "coords": {
+        "HPOS": 293,
+        "VPOS": 1831,
+        "WIDTH": 2022,
+        "HEIGHT": 40
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_9646ca9d-17cb-45bd-9b8f-1d8d6bea8550",
+      "kind": "main",
+      "idx": 28,
+      "text": "שגם סידרו הכל בפה אחד ולשון אחד. וכן כמה תיקונים שעשה והצליח כמו שבאמת הולך ומספר אותם הגאון אחד אל",
+      "coords": {
+        "HPOS": 293,
+        "VPOS": 1873,
+        "WIDTH": 2024,
+        "HEIGHT": 52
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_37e08025-ac0c-496b-ad64-7e6c2daf6d42",
+      "kind": "main",
+      "idx": 29,
+      "text": "אחך, לא להפסיק כדי להודיענו אימתי היתה הכתיבה? באמת דבר זה אין לו שחר, אבל מה יעשה בעל הנוסח הצרפתי",
+      "coords": {
+        "HPOS": 297,
+        "VPOS": 1925,
+        "WIDTH": 2018,
+        "HEIGHT": 55
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_5760b445-86ef-4b59-ac81-8ad8a52386af",
+      "kind": "main",
+      "idx": 30,
+      "text": "הזה שגאוני ארצו כך סבירא להו, דעך דורות האחרונים התחי' הכתיבה? ע\"כ בעל כרחו לבלבל לנו כל הדברים, ובמקום:",
+      "coords": {
+        "HPOS": 295,
+        "VPOS": 1980,
+        "WIDTH": 2022,
+        "HEIGHT": 53
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_e96c7a08-8b63-407f-b2c5-5aeb526774a6",
+      "kind": "main",
+      "idx": 31,
+      "text": "\"יומי רבינו הקדוש\" יזיד ויכתוב \"יומיהון דרבנן\" שארי ליה מאריה! ועוד מאי מדעם מדעם ב' פעמים? ומאי כל עיקר?",
+      "coords": {
+        "HPOS": 297,
+        "VPOS": 2033,
+        "WIDTH": 2010,
+        "HEIGHT": 57
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_823dfac7-13b9-40dd-8798-4f9436426ec9",
+      "kind": "main",
+      "idx": 32,
+      "text": "אין דרך מחבר הגיוני כגאוננו, להכביד אזן השומע להשתמש מלשון אחר בתוך שורה אחת ואף גם זאת דרך מחבר מובהק",
+      "coords": {
+        "HPOS": 295,
+        "VPOS": 2088,
+        "WIDTH": 2020,
+        "HEIGHT": 60
+      },
+      "para_start": true,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_d328fef3-5394-4392-9877-d4d3aef9bfaa",
+      "kind": "main",
+      "idx": 33,
+      "text": "לפרש דבריו הדק היטב, ולהסיר כל מין ספק מעל אמריו אם לא בענין אשר שם כל מגמת פניו לבארו ולבררו לא בענין שמביאו",
+      "coords": {
+        "HPOS": 299,
+        "VPOS": 2139,
+        "WIDTH": 2018,
+        "HEIGHT": 53
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_c501e3b0-2e1d-448d-a211-b5d2229e083d",
+      "kind": "main",
+      "idx": 34,
+      "text": "מילתא אגב אודחיה כמו שהוא ענין הכתיבה שלא נכתבה עד סוף יומיהון דרבנן שהוא ממש מילתא אגב אורחיה, לפי סידור",
+      "coords": {
+        "HPOS": 299,
+        "VPOS": 2196,
+        "WIDTH": 2018,
+        "HEIGHT": 49
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_cd3e9ddb-4aec-4199-9d83-c1cb9712e21d",
+      "kind": "main",
+      "idx": 35,
+      "text": "בעל הנוסח הזה, וא\"כ מאי כל עיקר? אין דעת גאוננו מטופל עכשיו בפרט הזה, ואין טבעו מחייבו להחזיק דבריו בכל",
+      "coords": {
+        "HPOS": 297,
+        "VPOS": 2249,
+        "WIDTH": 2020,
+        "HEIGHT": 50
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_ca689504-7210-4d7d-955a-a838fecabc4d",
+      "kind": "main",
+      "idx": 36,
+      "text": "עיקר (ועיין מוהרלג\"ח דר\"ד ע\"ד, ועיין ש\"ות חכם צבי סי' ק\"ן) אם לא שבעל הנוסח באמת דעתיה עליה לבער כל מין",
+      "coords": {
+        "HPOS": 299,
+        "VPOS": 2297,
+        "WIDTH": 2016,
+        "HEIGHT": 62
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_8c39211d-a849-45b0-8ea5-e13380c1c800",
+      "kind": "main",
+      "idx": 37,
+      "text": "לשון כתיבה מהאגרת החמודה הזאת, וע\"כ החזיק דבריו בהוסיף \"כל עיקר\" לשרש אחר סברת הכתיבה עד דורות אחרונים",
+      "coords": {
+        "HPOS": 299,
+        "VPOS": 2352,
+        "WIDTH": 2016,
+        "HEIGHT": 55
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_567d8b06-4ee7-4dbf-be7c-55a3517049cf",
+      "kind": "main",
+      "idx": 38,
+      "text": "ולפי נוסחתינו יבואר הכל באר היטב, וקשר הדברים כמין חומר עיין בהם הדק היטב, ואפי' אם לא נוסיף תיבת \"מנהון\"",
+      "coords": {
+        "HPOS": 304,
+        "VPOS": 2410,
+        "WIDTH": 2013,
+        "HEIGHT": 50
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_da176054-febd-4d64-8731-a383e45e0ca4",
+      "kind": "main",
+      "idx": 39,
+      "text": "בנוסח יוחסין עכ\"ז כונתנו בהירה בשמים דהכונה על הס' שנולדו בג' שנים של מהומה דעלייהו קא משתעי הגאין ז\"ל ולא",
+      "coords": {
+        "HPOS": 302,
+        "VPOS": 2460,
+        "WIDTH": 2016,
+        "HEIGHT": 51
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_9e112f85-8c47-4f22-86fc-647f9330d4f5",
+      "kind": "main",
+      "idx": 40,
+      "text": "ע\"כ תושבע\"פ וכמובן הפשום, כ\"ש שאנו רואים בנוסח ה\"חמ \"מנהון מדעם\" נכרים דברי אמת שכך יצאו הדברים מפי הגאון",
+      "coords": {
+        "HPOS": 300,
+        "VPOS": 2513,
+        "WIDTH": 2017,
+        "HEIGHT": 59
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_3a6f1d41-a9d9-4998-acad-d22120636782",
+      "kind": "main",
+      "idx": 41,
+      "text": "ז\"ל כיון דעלייהו קאי ר\"ל על הס' שנולדו בג' שנים של מהומה, ובעל הנוסח אינו חשוד כי אם להוסיף ולגרוע כענין השייך",
+      "coords": {
+        "HPOS": 306,
+        "VPOS": 2566,
+        "WIDTH": 2009,
+        "HEIGHT": 53
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_1092759b-2ff0-4e7b-bc32-5f8266113e01",
+      "kind": "main",
+      "idx": 42,
+      "text": "רעיון של כתיבה לשרש אחריו, והשאר מניח הדברים כמו שמצאן והוא ברור. שאעפ\"י שתיבת \"מנהון\" אינה ביוחסין דהוי",
+      "coords": {
+        "HPOS": 308,
+        "VPOS": 2630,
+        "WIDTH": 2009,
+        "HEIGHT": 41
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_c960030c-d0b5-4403-9f0b-a4dfe34bb437",
+      "kind": "main",
+      "idx": 43,
+      "text": "להשתמש ממנה כי ודאי הושמטה והענין עד לעצמו.",
+      "coords": {
+        "HPOS": 1454,
+        "VPOS": 2684,
+        "WIDTH": 864,
+        "HEIGHT": 38
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_2fbf5efa-8bd6-4a27-8cf1-9629dbd4b663",
+      "kind": "footnote",
+      "idx": 0,
+      "text": "(ד) בנוסח ח\"מ שינה, וכתב במקום חיבור, דיבור, והוא הולך לפי דרכו לשרש אחר כל מין לשון שיובן ממנו כתיבה, אבל",
+      "coords": {
+        "HPOS": 302,
+        "VPOS": 2726,
+        "WIDTH": 2011,
+        "HEIGHT": 57
+      },
+      "para_start": false
+    },
+    {
+      "line_id": "_9cf2c3cf-95c2-4875-8ce4-7cf4cec4f800",
+      "kind": "footnote",
+      "idx": 1,
+      "text": "זה לא מעלה ולא תוריד דאם שנוכל לומר דאמת בנוסחתו דיבור במקום חיבור, אבל הוא כותיה ולא מטעמיהי. מפני שכן",
+      "coords": {
+        "HPOS": 299,
+        "VPOS": 2779,
+        "WIDTH": 1951,
+        "HEIGHT": 57
+      },
+      "para_start": false
+    },
+    {
+      "line_id": "_9d3aaceb-3728-4cca-ad09-64799e1d60d2",
+      "kind": "footnote",
+      "idx": 2,
+      "text": "משמע ריהטא דלישנא שעל אופן שמלמד הרב לתלמיד קא משתעי הגאון. וא\"כ לפי זה יותר שייך דיבור מחיבור בלי ספק",
+      "coords": {
+        "HPOS": 299,
+        "VPOS": 2828,
+        "WIDTH": 2018,
+        "HEIGHT": 63
+      },
+      "para_start": false
+    },
+    {
+      "line_id": "_0e1a2482-66a3-4682-a2a3-08c00e230727",
+      "kind": "footnote",
+      "idx": 3,
+      "text": "והוא ברור.",
+      "coords": {
+        "HPOS": 2107,
+        "VPOS": 2940,
+        "WIDTH": 210,
+        "HEIGHT": 55
+      },
+      "para_start": false
+    },
+    {
+      "line_id": "_e05b744c-bfe1-4d45-b2c3-2a5f05c37f27",
+      "kind": "footnote",
+      "idx": 4,
+      "text": "כיון שלכל אפיא אסורים היו ללמוד מתוך דבר, והרב שונה לתלמידו בע\"פ, ועל אופן כזה שיין לשון דבור ולא לשון חיבור",
+      "coords": {
+        "HPOS": 308,
+        "VPOS": 2885,
+        "WIDTH": 2009,
+        "HEIGHT": 81
+      },
+      "para_start": false
+    }
+  ]
+}

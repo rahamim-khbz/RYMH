@@ -1,0 +1,611 @@
+{
+  "page_id": "page-71",
+  "image": "page_images/page-71.jpg",
+  "page_width": 2550,
+  "page_height": 3300,
+  "base_hash": "sha256:4be4e87db093c5d4cb991150177b46454e12357cf20280ddb267e251c3249c60",
+  "lines": [
+    {
+      "line_id": "eSc_line_43f3ccf1",
+      "kind": "main",
+      "idx": 0,
+      "text": ",מגלה, כי מגלה אינה אלא דף אחד, או ספר קטן, כמו שהן חמש מגלות, וכמו שהיא מגלת תענית",
+      "coords": {
+        "HPOS": 231,
+        "VPOS": 232,
+        "WIDTH": 2005,
+        "HEIGHT": 79
+      },
+      "para_start": true,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_efe51161",
+      "kind": "main",
+      "idx": 1,
+      "text": "וכן משמע ממה שנחלקו אם התורה חתומה נתנה או מגלה מגלה נתנה ואמנם המשנה כלה, ובפרט",
+      "coords": {
+        "HPOS": 229,
+        "VPOS": 302,
+        "WIDTH": 2010,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_631bc426",
+      "kind": "main",
+      "idx": 2,
+      "text": "בימי איסי בן יהודה שהיה בימי רבינו הקדוש (ט\"ל) היתה ספר גדול יותר מספר תורה, ואיך תקרא",
+      "coords": {
+        "HPOS": 229,
+        "VPOS": 372,
+        "WIDTH": 2007,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_dcea3620",
+      "kind": "main",
+      "idx": 3,
+      "text": "מגלה? ומלבד כל זה, הנה באלפי מקומות נזכרו בתלמוד משניות חוץ מאותן שסידר רבי, והן כל",
+      "coords": {
+        "HPOS": 227,
+        "VPOS": 425,
+        "WIDTH": 2011,
+        "HEIGHT": 71
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_52b32829",
+      "kind": "main",
+      "idx": 4,
+      "text": "הברייתות הירועות בלשון תניא, ותנו רבנן וזולתם, ובכמה מקומות נזכרו מגלות סתרים? הלוא הם",
+      "coords": {
+        "HPOS": 227,
+        "VPOS": 491,
+        "WIDTH": 2011,
+        "HEIGHT": 70
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_71ec679a",
+      "kind": "main",
+      "idx": 5,
+      "text": ",בטלים באלף או ברבוא, הלא דבר הוא האין זו ראיה ברורה, כי ההלכות הכתובות כמו זר נחשכו",
+      "coords": {
+        "HPOS": 243,
+        "VPOS": 557,
+        "WIDTH": 1996,
+        "HEIGHT": 77
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_d187f317",
+      "kind": "main",
+      "idx": 6,
+      "text": "ואינן אלא דבר היוצא מן הכלל דרך זרות, לא שהיו כל התנאים או רובם כותבים משניות, אלא ממש",
+      "coords": {
+        "HPOS": 229,
+        "VPOS": 621,
+        "WIDTH": 2012,
+        "HEIGHT": 79
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_7cfdb5e4",
+      "kind": "main",
+      "idx": 7,
+      "text": "כמו שפי' רש\"י",
+      "coords": {
+        "HPOS": 1097,
+        "VPOS": 698,
+        "WIDTH": 297,
+        "HEIGHT": 61
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_2bd398f4",
+      "kind": "main",
+      "idx": 8,
+      "text": "אמר המשיב בשתי הראיות אתחתן כדי להשיב עליהם, ווגם על השלישית, והיא הראשונה ממ\"ש",
+      "coords": {
+        "HPOS": 227,
+        "VPOS": 749,
+        "WIDTH": 2012,
+        "HEIGHT": 79
+      },
+      "para_start": true,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_31406016",
+      "kind": "main",
+      "idx": 9,
+      "text": "'ר\"יוח תורה מיעוטה בכתב, ורובה ע\"פ, לא אחשוך פי כי אין מדרש בלא חדוש, ותחי",
+      "coords": {
+        "HPOS": 234,
+        "VPOS": 814,
+        "WIDTH": 1793,
+        "HEIGHT": 78
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_886c2edf",
+      "kind": "main",
+      "idx": 10,
+      "text": "נאמר מה שכבר כתבנו בזה למדי במה שקדם, דכוונת מיעוטה בכתב ר\"ל מיעוטה מהחיוב המוטל",
+      "coords": {
+        "HPOS": 227,
+        "VPOS": 889,
+        "WIDTH": 2012,
+        "HEIGHT": 58
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_f1707032",
+      "kind": "main",
+      "idx": 11,
+      "text": "ללמדה מתוך הכתב ורובה מהחיוב המוטל ללומרה בע\"פ, וכן נראה ממש מדברי ר\"יוח גופיה הובאו",
+      "coords": {
+        "HPOS": 227,
+        "VPOS": 947,
+        "WIDTH": 2012,
+        "HEIGHT": 65
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_f2857db1",
+      "kind": "main",
+      "idx": 12,
+      "text": "דבריו בש\"ר פמ\"ז סי' ד' \"כי על פי הדברים האלה, תורה שבכתב ושבע\"פ, כרתי אתך ברית, ואם",
+      "coords": {
+        "HPOS": 227,
+        "VPOS": 1010,
+        "WIDTH": 2009,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_b08a933c",
+      "kind": "main",
+      "idx": 13,
+      "text": "המרת אותה ועשית מה שבעל פה בכתב, ומה שכתוב, בעל פה, אינך מקבל שכר, למה שכך נתתיה",
+      "coords": {
+        "HPOS": 227,
+        "VPOS": 1078,
+        "WIDTH": 2011,
+        "HEIGHT": 64
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_478ae430",
+      "kind": "main",
+      "idx": 14,
+      "text": "תורה ככתב, ותורה בע\"פ\" ירצה, ללמוד דברים שבכתב בע\"פ, אחדי שיש לך ספר תורה כאשר",
+      "coords": {
+        "HPOS": 232,
+        "VPOS": 1138,
+        "WIDTH": 2006,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_9e50dd09",
+      "kind": "main",
+      "idx": 15,
+      "text": "צויתיך במצוה בפ\"ע לכתוב ספר תורה, מקרא דעתה כתבו לכם את השירה, ועכ\"ז אתה לומד דברים",
+      "coords": {
+        "HPOS": 231,
+        "VPOS": 1206,
+        "WIDTH": 2007,
+        "HEIGHT": 64
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_646883e1",
+      "kind": "main",
+      "idx": 16,
+      "text": "בע\"פ, אסור לך, וכן להפך \"מה שבע\"פ ככתב\" ירצה שדברים שבע\"פ אתה לומדן מתוך הכתב הגנוז",
+      "coords": {
+        "HPOS": 227,
+        "VPOS": 1276,
+        "WIDTH": 2011,
+        "HEIGHT": 64
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_fba53e0c",
+      "kind": "main",
+      "idx": 17,
+      "text": "לך לזכרון, אשר לא צויתיך ולא עלתה על לבי לאסור כתיבתו הסודיית לעת מצוא זו שכחה, ומפני זה",
+      "coords": {
+        "HPOS": 229,
+        "VPOS": 1334,
+        "WIDTH": 2007,
+        "HEIGHT": 70
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_189266b6",
+      "kind": "main",
+      "idx": 18,
+      "text": "יעלה בדעתך להקל מעליך טורח לקיחת דברים בע\"פ, ותלמוד מתוך הכתב, לזה הנני מצוך היום",
+      "coords": {
+        "HPOS": 227,
+        "VPOS": 1397,
+        "WIDTH": 2011,
+        "HEIGHT": 77
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_87462049",
+      "kind": "main",
+      "idx": 19,
+      "text": "לקחת הדברים בע\"פ, ולא ללמוד מתוך הכתב הגנוז המועיל לזכרון דוקא, ואם עכרת ועשית להפך",
+      "coords": {
+        "HPOS": 232,
+        "VPOS": 1461,
+        "WIDTH": 2004,
+        "HEIGHT": 73
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_54b1d74e",
+      "kind": "main",
+      "idx": 20,
+      "text": "מכל האמור והמרת, לא לבד שיש לך עונש כעוכר את פי ה' אלא אף גם זאת שאינך מקבל שכר",
+      "coords": {
+        "HPOS": 232,
+        "VPOS": 1527,
+        "WIDTH": 2006,
+        "HEIGHT": 75
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_357e5ad2",
+      "kind": "main",
+      "idx": 21,
+      "text": "דפעמים מצוה הבאה בעבירה יקובל עליה שכר, במ\"ש הרכ יפ\"ת שם עיש\"ב ואין לפרש כל מאמר",
+      "coords": {
+        "HPOS": 232,
+        "VPOS": 1591,
+        "WIDTH": 2004,
+        "HEIGHT": 70
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_3e93c335",
+      "kind": "main",
+      "idx": 22,
+      "text": "זה על איסור הכתיבה ולא על איסור הלימוד מתוך הכתב שמלכד שפשט הדברים אומרו, ואם המרת",
+      "coords": {
+        "HPOS": 227,
+        "VPOS": 1655,
+        "WIDTH": 2011,
+        "HEIGHT": 70
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_28080869",
+      "kind": "main",
+      "idx": 23,
+      "text": ",וכו' דהוא ממש דבר והופכו, רמה דברים שבכתב הענין הוא שיש כתב, ואדרכה מצוה לכתוב ס\"ת",
+      "coords": {
+        "HPOS": 232,
+        "VPOS": 1730,
+        "WIDTH": 2004,
+        "HEIGHT": 63
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_7499b888",
+      "kind": "main",
+      "idx": 24,
+      "text": "ועיקר האיסור המחודש הוא ללמוד מתוכו ולא בע\"פ, ולא על מצות כתיבת ס\"ת קא אתי' כן נמי",
+      "coords": {
+        "HPOS": 232,
+        "VPOS": 1785,
+        "WIDTH": 2000,
+        "HEIGHT": 70
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_eedcba79",
+      "kind": "main",
+      "idx": 25,
+      "text": "דומה בדומה הוא \"מה שבע\"פ בכתב\" ר\"ל דיש כתב גנוז, והאיסור הוא שלא ללמור מתוכו כ\"א",
+      "coords": {
+        "HPOS": 229,
+        "VPOS": 1848,
+        "WIDTH": 2007,
+        "HEIGHT": 69
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_c1253d98",
+      "kind": "main",
+      "idx": 26,
+      "text": "בע\"פ, וכמו דלא משתעי כדברים שבכתב לחייב כתיבתם, ולחדש מצות כתיבת ס\"ח, כן בדברים",
+      "coords": {
+        "HPOS": 231,
+        "VPOS": 1926,
+        "WIDTH": 2003,
+        "HEIGHT": 55
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_c3c858bb",
+      "kind": "main",
+      "idx": 27,
+      "text": "שבע\"פ לא משתעי לאסור כתיכתם ולחדש איסור לאו מהיותם בספר נכתבים, ומלבד כ\"ז מדבריו של",
+      "coords": {
+        "HPOS": 227,
+        "VPOS": 1978,
+        "WIDTH": 2009,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_ca6e20b2",
+      "kind": "main",
+      "idx": 28,
+      "text": "ר\"י בי\"ר המוסיף על ר\"יוח אסור מפר ברית משמע להדיא כן שהרי הוא אומר על מנת שתהא",
+      "coords": {
+        "HPOS": 229,
+        "VPOS": 2051,
+        "WIDTH": 2001,
+        "HEIGHT": 62
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_21f1cc55",
+      "kind": "main",
+      "idx": 29,
+      "text": "קורא בהן בך, תורה בכתב, ותורה בע\"פ, ולא אמר על מנת שתהא נוהג כהן כנך, שבו",
+      "coords": {
+        "HPOS": 231,
+        "VPOS": 2106,
+        "WIDTH": 2001,
+        "HEIGHT": 88
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_dde2375f",
+      "kind": "main",
+      "idx": 30,
+      "text": "בפרק אפשר שהיה נשמע איסור הכתיבה לדברים שבע\"פ, אבל בהדיא",
+      "coords": {
+        "HPOS": 231,
+        "VPOS": 2179,
+        "WIDTH": 1491,
+        "HEIGHT": 61
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_8335e152",
+      "kind": "main",
+      "idx": 31,
+      "text": ",קאמר, ע\"מ שתהא קורא בהן כך, ר\"ל תורה שבכתב מתוך הכתב, ותושבע\"פ שלא מתוך הכתב",
+      "coords": {
+        "HPOS": 232,
+        "VPOS": 2236,
+        "WIDTH": 2004,
+        "HEIGHT": 75
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_7b1a92a6",
+      "kind": "main",
+      "idx": 32,
+      "text": "אבל ודאי מותר לך, להיות כתב גנוז לעת הצורך, וכזה לא נפל מחלוקת בין ר\"יוח וריב\"ש, דודאי",
+      "coords": {
+        "HPOS": 232,
+        "VPOS": 2306,
+        "WIDTH": 2002,
+        "HEIGHT": 70
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_4b65f4f3",
+      "kind": "main",
+      "idx": 33,
+      "text": "כולהו משתעי באיסור הלמוד מתוך הכתב, ולא באיסור הכתיבה, אלא רלר\"יוח אם המיר ועשה מה",
+      "coords": {
+        "HPOS": 229,
+        "VPOS": 2365,
+        "WIDTH": 2005,
+        "HEIGHT": 67
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_266175cb",
+      "kind": "main",
+      "idx": 34,
+      "text": "שבע\"פ בכתב, ולהפך בהפך אינו נוטל שכר, ויהיה לו עונש, אבל לא יתחשב מפר ברית, כ\"א על",
+      "coords": {
+        "HPOS": 229,
+        "VPOS": 2429,
+        "WIDTH": 2007,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_2d329823",
+      "kind": "main",
+      "idx": 35,
+      "text": "מי שאינו מקבל תושבע\"פ, ואינו נכנס תחת עולה, שבאמת אם אין תורה בע\"פ אין תורה ככתב",
+      "coords": {
+        "HPOS": 251,
+        "VPOS": 2495,
+        "WIDTH": 1983,
+        "HEIGHT": 73
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_cc852e6a",
+      "kind": "main",
+      "idx": 36,
+      "text": "וזהו שאמר ר\"יוח כגטין ד\"ס, לא כרת הקב\"ה ברית לישראל אלא בשביל דכרים שבע\"פ, ירצה, כשביל",
+      "coords": {
+        "HPOS": 231,
+        "VPOS": 2559,
+        "WIDTH": 2007,
+        "HEIGHT": 71
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_07bf69c9",
+      "kind": "main",
+      "idx": 37,
+      "text": "קיומם והאמונה בהם, וכאשר פירשנו לעיל בענף הא', והוא אמתות התורה, וכן פי' הרב הנשיא",
+      "coords": {
+        "HPOS": 231,
+        "VPOS": 2627,
+        "WIDTH": 2003,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_a11c5ef4",
+      "kind": "main",
+      "idx": 38,
+      "text": "לעיל סי' ס\"ב לענין כלאים עי\"ש ותרוה צמאונך, ומחילה מכבוד רש\"י, כי אנן שליחותייהו דהגאונים",
+      "coords": {
+        "HPOS": 232,
+        "VPOS": 2691,
+        "WIDTH": 2002,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_a604b485",
+      "kind": "main",
+      "idx": 39,
+      "text": "קא עכדינן לפרש כל הסוגיאות לפי משקלם הזהב, וזהו דעת ר\"יוח, דעל למודם מתוך הכתב לא",
+      "coords": {
+        "HPOS": 231,
+        "VPOS": 2762,
+        "WIDTH": 1999,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_b0e757c3",
+      "kind": "main",
+      "idx": 40,
+      "text": ".יכנס בכלל מפר ברית, וריב\"ש פליג עליה כזה, וס\"ל דגם כלמודם מתוך הכתב הוא בכלל מפר ברית",
+      "coords": {
+        "HPOS": 238,
+        "VPOS": 2817,
+        "WIDTH": 1990,
+        "HEIGHT": 79
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_ae85ddd7",
+      "kind": "main",
+      "idx": 41,
+      "text": "כלל",
+      "coords": {
+        "HPOS": 361,
+        "VPOS": 2874,
+        "WIDTH": 82,
+        "HEIGHT": 77
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_f23b71f8",
+      "kind": "main",
+      "idx": 42,
+      "text": ".ט\"ל) ר\"ל ודאי שהיה בימי ילדוחו של ר\"הק עיין סד\"ה)",
+      "coords": {
+        "HPOS": 1282,
+        "VPOS": 2964,
+        "WIDTH": 943,
+        "HEIGHT": 83
+      },
+      "para_start": false,
+      "is_catchword": false
+    }
+  ]
+}

@@ -1,0 +1,653 @@
+{
+  "page_id": "page-61",
+  "image": "page_images/page-61.jpg",
+  "page_width": 2550,
+  "page_height": 3300,
+  "base_hash": "sha256:d875e19afa8fa70d51548c5b96ab3cbd0a2c3ca22ae448048ac45d45eccb3232",
+  "lines": [
+    {
+      "line_id": "eSc_line_9c99433f",
+      "kind": "main",
+      "idx": 0,
+      "text": "לס' זרעים, ובהקדמתו לס' היד, ולא חזינא כהאי סימנא, ואדרבא משם מוכח להדיא דהכתיבה",
+      "coords": {
+        "HPOS": 203,
+        "VPOS": 199,
+        "WIDTH": 2040,
+        "HEIGHT": 72
+      },
+      "para_start": true,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_15bc70d6",
+      "kind": "main",
+      "idx": 1,
+      "text": "הסודיית לכל התורה שבע\"פ ביד כל ראש ב\"ד ונביא, לא נמנעה מימות יהושע בן נון ואילך וכאשר",
+      "coords": {
+        "HPOS": 209,
+        "VPOS": 262,
+        "WIDTH": 2032,
+        "HEIGHT": 73
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_10034256",
+      "kind": "main",
+      "idx": 2,
+      "text": "ביררנו דבריו יפה יפה במה שקדם, ואדרבא אני הוא שצעקתי שם \"שלא ראינו בתלמוד אימתי הותר",
+      "coords": {
+        "HPOS": 209,
+        "VPOS": 331,
+        "WIDTH": 2030,
+        "HEIGHT": 76
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_aaa90798",
+      "kind": "main",
+      "idx": 3,
+      "text": "דבר זה החמור לכתוב תושבע\"פ (לדעת האוסרין) או אפי' המשניות משום עת לעשות לה', זה לא",
+      "coords": {
+        "HPOS": 205,
+        "VPOS": 394,
+        "WIDTH": 2038,
+        "HEIGHT": 73
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_295573d4",
+      "kind": "main",
+      "idx": 4,
+      "text": "נמצא בתלמוד, ובפה כ\"ע הוא כך אבל בתלמוד לית ריח מזה\" עיין לעיל בגוף דברי המשך הדברים",
+      "coords": {
+        "HPOS": 205,
+        "VPOS": 462,
+        "WIDTH": 2040,
+        "HEIGHT": 69
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_a178522f",
+      "kind": "main",
+      "idx": 5,
+      "text": "הנאותים, ועכשיו יאמר לנו החכם הפקח הזה, הי\"ו, שהרמב\"ם הוא המוליד חדוש זה, וחפשנו אחד",
+      "coords": {
+        "HPOS": 209,
+        "VPOS": 531,
+        "WIDTH": 2036,
+        "HEIGHT": 63
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_076940c4",
+      "kind": "main",
+      "idx": 6,
+      "text": "דבריו, ומצאנו כי לא לבד שלא הוזכר פסוק זה בתוך דבריו שם, אלא אדרבא מגיד דבריו ליעקב כי",
+      "coords": {
+        "HPOS": 210,
+        "VPOS": 594,
+        "WIDTH": 2037,
+        "HEIGHT": 67
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_e8e9030f",
+      "kind": "main",
+      "idx": 7,
+      "text": "מעולם לא נאסרה הכתיבה הסודיית ביד ראשי סנהדראות, ולא חידש הרמב\"ם בהקדמתו שם בענין",
+      "coords": {
+        "HPOS": 209,
+        "VPOS": 663,
+        "WIDTH": 2034,
+        "HEIGHT": 74
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_44e0655e",
+      "kind": "main",
+      "idx": 8,
+      "text": "רבינו הקדוש ז\"ל, כ\"א מה ששמענו מפי גאוננו ר\"ש באגרתו החמודה ממש ממש, אבל בקיצור",
+      "coords": {
+        "HPOS": 214,
+        "VPOS": 722,
+        "WIDTH": 2029,
+        "HEIGHT": 71
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_b52a4d34",
+      "kind": "main",
+      "idx": 9,
+      "text": "נמרץ ומדוקדק, והוא \"סידור חבור המשנה בלשון אחד ופה אחד\". ושננו לחכמים ברבים",
+      "coords": {
+        "HPOS": 209,
+        "VPOS": 790,
+        "WIDTH": 2036,
+        "HEIGHT": 80
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_638f1bcc",
+      "kind": "main",
+      "idx": 10,
+      "text": ",דוק לשון שננו שהוא בע\"פ) וכתבוהו כולם (רוצה לומר החכמים הרובצים) ורבצו בכל מקום",
+      "coords": {
+        "HPOS": 218,
+        "VPOS": 854,
+        "WIDTH": 2018,
+        "HEIGHT": 79
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_b0980967",
+      "kind": "main",
+      "idx": 11,
+      "text": "כדי שלא תשתכח התורה שבעל פה מישראל, כונתו מבוארת כאשר ביאר הגאון ז\"ל באגרתו",
+      "coords": {
+        "HPOS": 210,
+        "VPOS": 916,
+        "WIDTH": 2033,
+        "HEIGHT": 79
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_e83467d5",
+      "kind": "main",
+      "idx": 12,
+      "text": "דמסיבת עירבוב הלשונות והסדרים חד קצר וחד ארוך, חד בלשון משובשת וחד בלשון צחה, היתה",
+      "coords": {
+        "HPOS": 209,
+        "VPOS": 984,
+        "WIDTH": 2040,
+        "HEIGHT": 79
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_b4fef225",
+      "kind": "main",
+      "idx": 13,
+      "text": "גורמת שתשכח תורה שבע\"פ מקדב ישראל, ולא על הכתיבה דכבר היתה מימי עולם ומשנים",
+      "coords": {
+        "HPOS": 209,
+        "VPOS": 1050,
+        "WIDTH": 2041,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_b6892dd4",
+      "kind": "main",
+      "idx": 14,
+      "text": "קדמוניות לפי דבריו שם, והוא ברור יותר מביעתא בכותחא, וכל העומד על דברי הרמב\"ם בהקדמתו",
+      "coords": {
+        "HPOS": 212,
+        "VPOS": 1118,
+        "WIDTH": 2037,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_7b338c60",
+      "kind": "main",
+      "idx": 15,
+      "text": "\"הנז', מד\"ה \"ומימות משה רבינו ועד רבינו הקדוש עד סוף הדיבור כדי שילמדוהו במהרה ולא ישכח",
+      "coords": {
+        "HPOS": 221,
+        "VPOS": 1186,
+        "WIDTH": 2028,
+        "HEIGHT": 73
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_e5b0bac3",
+      "kind": "main",
+      "idx": 16,
+      "text": "בעיניו יראה ולבבו יבין דאין להוציא ממשמעות דבריו אלא שבעה הקדמות אלו, א': שהכתיבה היתה",
+      "coords": {
+        "HPOS": 214,
+        "VPOS": 1246,
+        "WIDTH": 2036,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_905e6948",
+      "kind": "main",
+      "idx": 17,
+      "text": "מימי עולם ומשנים קדמוניות, ב': שהיתה סודיית ביד ראשי אב\"ד, ג': שהיתה אסורה הלמוד מתוך",
+      "coords": {
+        "HPOS": 221,
+        "VPOS": 1312,
+        "WIDTH": 2029,
+        "HEIGHT": 74
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_959d328c",
+      "kind": "main",
+      "idx": 18,
+      "text": ":'הכתב, ובפרט ברבים היה איסור חמור, ד': שעד רבינו הקדוש לא היה חבור מסודר ומתוקן, ה",
+      "coords": {
+        "HPOS": 223,
+        "VPOS": 1382,
+        "WIDTH": 2029,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_4b400526",
+      "kind": "main",
+      "idx": 19,
+      "text": "שחסרון הסידור והתיקון בלשון ופה אחד היה גרמא בנזיקין שתשתכח תורה שבע\"פ מקרב ישראל ע\"י ריבוי",
+      "coords": {
+        "HPOS": 220,
+        "VPOS": 1450,
+        "WIDTH": 2032,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_78e4f7fe",
+      "kind": "main",
+      "idx": 20,
+      "text": "הצרות, ופיזור גליות והדומה, ו': שרבינו הקדוש לא חידש כי אם הסידור והתחון הזה ותו לא (כ\"א מעט",
+      "coords": {
+        "HPOS": 216,
+        "VPOS": 1505,
+        "WIDTH": 2036,
+        "HEIGHT": 84
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_f5e27868",
+      "kind": "main",
+      "idx": 21,
+      "text": ",וכמ\"ש הגאון באגרתו והרמב\"ם קיצר בזה ודוק), ז': שרבינו הקדוש לא אסר ולא התיר אלא תיקן, ר\"ל",
+      "coords": {
+        "HPOS": 231,
+        "VPOS": 1571,
+        "WIDTH": 2021,
+        "HEIGHT": 80
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_3a3599b7",
+      "kind": "main",
+      "idx": 22,
+      "text": "לא אסר הכתיבה הסודיית שכבר היתה מותרת, ולא התיר הלמוד מתוך הכתב שכבר נשאר באסורו עד",
+      "coords": {
+        "HPOS": 220,
+        "VPOS": 1640,
+        "WIDTH": 2036,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_ca1ada68",
+      "kind": "main",
+      "idx": 23,
+      "text": "הזמן אשר ההכרח פרץ הגדר ועשה לו דרך לעצמו (יהיה בזמן רבנן סבוראי או קודם או אחר כי לא",
+      "coords": {
+        "HPOS": 220,
+        "VPOS": 1714,
+        "WIDTH": 2036,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_1245d821",
+      "kind": "main",
+      "idx": 24,
+      "text": "נודע עד היום ולא יודע, מאחר שהגאון רב שרירא לא גלה דבר זה היסופר בקבר מי? ומה? ואיך",
+      "coords": {
+        "HPOS": 255,
+        "VPOS": 1778,
+        "WIDTH": 1999,
+        "HEIGHT": 62
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_c88ddb83",
+      "kind": "main",
+      "idx": 25,
+      "text": "?ומה שכתב במחזור ויטרי המובא לקמן הוא דרך רמז, ואין הענין מבורר) ומה עשה דבינו הקדוש",
+      "coords": {
+        "HPOS": 221,
+        "VPOS": 1840,
+        "WIDTH": 2035,
+        "HEIGHT": 64
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_73ac5a1c",
+      "kind": "main",
+      "idx": 26,
+      "text": "תיקן הלשון והסדר והקיצור הראוי וההרחבה הראויה, ונעשה חיבור שלם מתוקן ומקובל וטוב ויפה",
+      "coords": {
+        "HPOS": 221,
+        "VPOS": 1901,
+        "WIDTH": 2033,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_a7a2fe31",
+      "kind": "main",
+      "idx": 27,
+      "text": "וקל להבין ולשמוע זהו פעולת האדם הגדול שבזכותו אנו חיים, וזהו מ\"ש ביבמות דס\"ד ע\"ב \"מכדי",
+      "coords": {
+        "HPOS": 225,
+        "VPOS": 1965,
+        "WIDTH": 2029,
+        "HEIGHT": 75
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_8398f70c",
+      "kind": "main",
+      "idx": 28,
+      "text": "אלו",
+      "coords": {
+        "HPOS": 2120,
+        "VPOS": 2068,
+        "WIDTH": 136,
+        "HEIGHT": 115
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_e82e2745",
+      "kind": "main",
+      "idx": 29,
+      "text": "מתניתין מאן תקין רבי\" לא חידש, ולא כתב, אלא תיקן מה שהיה כבר",
+      "coords": {
+        "HPOS": 544,
+        "VPOS": 2029,
+        "WIDTH": 1415,
+        "HEIGHT": 77
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_bf6bec84",
+      "kind": "main",
+      "idx": 30,
+      "text": "הם שכעת ההקדמות יפות ובריאות היוצאות מהקדמת מאור גולתנו הרמב\"ם ז\"ל וכולם שאבם",
+      "coords": {
+        "HPOS": 221,
+        "VPOS": 2095,
+        "WIDTH": 1866,
+        "HEIGHT": 73
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_7cd1558c",
+      "kind": "main",
+      "idx": 31,
+      "text": ".מבאר מים חיים היא האגרת של הגאון ר\"ש, המאירה כאור החמה שבעתים",
+      "coords": {
+        "HPOS": 532,
+        "VPOS": 2163,
+        "WIDTH": 1535,
+        "HEIGHT": 64
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_070c0e02",
+      "kind": "main",
+      "idx": 32,
+      "text": "הרי",
+      "coords": {
+        "HPOS": 2131,
+        "VPOS": 2223,
+        "WIDTH": 119,
+        "HEIGHT": 87
+      },
+      "para_start": true,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_b5c1f5a8",
+      "kind": "main",
+      "idx": 33,
+      "text": "לך בהדיא דעת הרמב\"ם, כי רכי לא התיר הכתיבה, שכבר שהיתה מותרת ולא התיר ג\"כ",
+      "coords": {
+        "HPOS": 225,
+        "VPOS": 2234,
+        "WIDTH": 1866,
+        "HEIGHT": 57
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_d15018d8",
+      "kind": "main",
+      "idx": 34,
+      "text": "הלמוד מתוך הכתב שכבר נשאר באיסורו, אלא שמלאכתו היתה תיקון וסדור ותו לא, הפך",
+      "coords": {
+        "HPOS": 231,
+        "VPOS": 2291,
+        "WIDTH": 1854,
+        "HEIGHT": 75
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_b5676345",
+      "kind": "main",
+      "idx": 35,
+      "text": "מה שכתב בשמו החכם השד\"ל נר\"ו גם בלי רשימת מקום, איה הוא המקום שכתב כן הרמב\"ם? ואיני",
+      "coords": {
+        "HPOS": 229,
+        "VPOS": 2355,
+        "WIDTH": 2031,
+        "HEIGHT": 76
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_1fa3b172",
+      "kind": "main",
+      "idx": 36,
+      "text": ",מוצא התנצלות להחכם הזה נר\"ו, כ\"א שנגרר אחר מה שכתב הרב חיד\"א ז\"ל בס' יעיר אזן דכ\"ה ע\"ד",
+      "coords": {
+        "HPOS": 240,
+        "VPOS": 2418,
+        "WIDTH": 2021,
+        "HEIGHT": 80
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_2a772c91",
+      "kind": "main",
+      "idx": 37,
+      "text": "שבאמת כל דבריו תמוהים שם כאלו רבי הוא המחדש הכתיבה דוקא למשנה, ולשאר תושבע\"פ נשאר",
+      "coords": {
+        "HPOS": 232,
+        "VPOS": 2487,
+        "WIDTH": 2033,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_72d53688",
+      "kind": "main",
+      "idx": 38,
+      "text": "'באיסורו, ומביא דבר זה בשם הרמב\"ם ור\"ש הנגיד, כאלו כרוזא קרו בחיל. וממ\"ש ר\"ש הנגיד בתחי",
+      "coords": {
+        "HPOS": 238,
+        "VPOS": 2552,
+        "WIDTH": 2025,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_d1555b64",
+      "kind": "main",
+      "idx": 39,
+      "text": "דבריו \"והוא ר' יהודה הנשיא כתבה למען תעמוד ימים רבים פן תשכח מלב הקוראים ותאבד\" נראה",
+      "coords": {
+        "HPOS": 229,
+        "VPOS": 2619,
+        "WIDTH": 2029,
+        "HEIGHT": 74
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_e42314f0",
+      "kind": "main",
+      "idx": 40,
+      "text": "ומזה נדמה לו שהוא הוא המתחיל בכתיבה ולא זכר שלמטה כתב ר\"ש הנגד על הקודמים לר\"הק כל",
+      "coords": {
+        "HPOS": 231,
+        "VPOS": 2687,
+        "WIDTH": 2032,
+        "HEIGHT": 64
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_aca8605b",
+      "kind": "main",
+      "idx": 41,
+      "text": "אחד ואחד העתיק לנפשו מה שלמד שאין לפרשו קבל לנפשו מה שלמד וכמובן הפשוט, ועוד שהרי בלשון",
+      "coords": {
+        "HPOS": 231,
+        "VPOS": 2750,
+        "WIDTH": 2034,
+        "HEIGHT": 73
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_f2f8cc65",
+      "kind": "main",
+      "idx": 42,
+      "text": "זה השתמש באומרו וכשבא ר\"הק להעתיק הוצרך לכתוב וכו', נמצא דההעתקה אשר בפה רבינו שמואל",
+      "coords": {
+        "HPOS": 231,
+        "VPOS": 2817,
+        "WIDTH": 2034,
+        "HEIGHT": 65
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_16f3bcb3",
+      "kind": "main",
+      "idx": 43,
+      "text": "הנגיד היא כתיבה ממש שכל א' כותב לנפשו מה שלמד, ומ\"ש למעלה כי כתבה ר\"הק למען תעמוד",
+      "coords": {
+        "HPOS": 236,
+        "VPOS": 2885,
+        "WIDTH": 2031,
+        "HEIGHT": 70
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_97e23960",
+      "kind": "main",
+      "idx": 44,
+      "text": "ימים רבים, ר\"ל על הסידור והקיצור וכאשר פי' ר\"ש הגאון באורך באגרתו הובאה לעיל, והוא ברור",
+      "coords": {
+        "HPOS": 238,
+        "VPOS": 2948,
+        "WIDTH": 2025,
+        "HEIGHT": 75
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_b0022ed1",
+      "kind": "main",
+      "idx": 45,
+      "text": "כשמש",
+      "coords": {
+        "HPOS": 363,
+        "VPOS": 3021,
+        "WIDTH": 137,
+        "HEIGHT": 57
+      },
+      "para_start": false,
+      "is_catchword": true
+    }
+  ]
+}

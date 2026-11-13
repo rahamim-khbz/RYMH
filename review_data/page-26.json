@@ -1,0 +1,625 @@
+{
+  "page_id": "page-26",
+  "image": "page_images/page-26.jpg",
+  "page_width": 2550,
+  "page_height": 3300,
+  "base_hash": "sha256:55b7096925856e7092a8e4f21c6c11354dd8649006a946544e6331721df592ba",
+  "lines": [
+    {
+      "line_id": "eSc_line_2f2b1f04",
+      "kind": "main",
+      "idx": 0,
+      "text": "תנו רבנן אלא תניא ותגינא\" (כח\"מ, ויוחסין טעיות) ועכשיו מצא הגאון את עצמו מחויב",
+      "coords": {
+        "HPOS": 269,
+        "VPOS": 194,
+        "WIDTH": 2027,
+        "HEIGHT": 82
+      },
+      "para_start": true,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_cf9ef15b",
+      "kind": "main",
+      "idx": 1,
+      "text": "להודיענו דבר, שאל נתמה על החפץ איך לא פשטו גם שאר הברייתות בימי הראשונים כמו בימים",
+      "coords": {
+        "HPOS": 273,
+        "VPOS": 265,
+        "WIDTH": 2027,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_e12e8192",
+      "kind": "main",
+      "idx": 2,
+      "text": "אחרונים, שהרי עדיפא מהם, והם הספרא והספרי, לאו מתחלה פשטו רבנן בהו במשנתנו דמשעת",
+      "coords": {
+        "HPOS": 269,
+        "VPOS": 330,
+        "WIDTH": 2031,
+        "HEIGHT": 67
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_aac1bc5a",
+      "kind": "main",
+      "idx": 3,
+      "text": "תקונה פשטה אלא תלי תלי ר\"ל מועטים הוו בקיאים בהו כדאמר ר\"י לר\"ל, \"ראיתי לבן פדת יושב",
+      "coords": {
+        "HPOS": 273,
+        "VPOS": 392,
+        "WIDTH": 2023,
+        "HEIGHT": 70
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_058143dd",
+      "kind": "main",
+      "idx": 4,
+      "text": "ודורש כמשה מפי הגבורה\" וסוף דבר היתה תוספתא אחת בתורת כהנים, ור\"יוח לא ידעה, ואפילו",
+      "coords": {
+        "HPOS": 275,
+        "VPOS": 463,
+        "WIDTH": 2027,
+        "HEIGHT": 65
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_e2396966",
+      "kind": "main",
+      "idx": 5,
+      "text": "שדברי תורת כהנים הם כמשה מפי הגבורה, ר\"ל שמוציא הדינים מעומק פשטי המקראות וחכמת",
+      "coords": {
+        "HPOS": 273,
+        "VPOS": 537,
+        "WIDTH": 2029,
+        "HEIGHT": 58
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_bffcbfba",
+      "kind": "main",
+      "idx": 6,
+      "text": "לשון הקדש, שבאמת הוא דבר גדול עד שקרא הלימוד בזה \"כמשה מפי הגבורה\" שר\"ל כמעט פשט",
+      "coords": {
+        "HPOS": 273,
+        "VPOS": 592,
+        "WIDTH": 2027,
+        "HEIGHT": 71
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_1aa03469",
+      "kind": "main",
+      "idx": 7,
+      "text": "הכתוב (ועיין פי' רש\"י שם ודוק שפי' זה נראה יותר פשטי) ובאמת ובתמים יש נחת רוח עצום בלימוד",
+      "coords": {
+        "HPOS": 280,
+        "VPOS": 656,
+        "WIDTH": 2020,
+        "HEIGHT": 64
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_7f91059f",
+      "kind": "main",
+      "idx": 8,
+      "text": "על אופן זה, ובפרט למי שלא היה להם כ\"א תורה שבכתב והשאר רובו בעל פה כרבנן קמאי שבזמן",
+      "coords": {
+        "HPOS": 275,
+        "VPOS": 720,
+        "WIDTH": 2025,
+        "HEIGHT": 73
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_17ddb607",
+      "kind": "main",
+      "idx": 9,
+      "text": "הבית שהזכיר הגאון למעלה, ועם כל מעלת לימוד ספרא וספרי הללו, ר\"יוח לא היה בקי בהן, עד",
+      "coords": {
+        "HPOS": 282,
+        "VPOS": 784,
+        "WIDTH": 2020,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_c64280ee",
+      "kind": "main",
+      "idx": 10,
+      "text": "שמרוב חשקו נפק ותנייה בג' יומי, וסברה בתלתא ירחי (יג) וז\"א: \"ו ספרא וספרי לאו",
+      "coords": {
+        "HPOS": 288,
+        "VPOS": 852,
+        "WIDTH": 2014,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_2b38c8b0",
+      "kind": "main",
+      "idx": 11,
+      "text": "מתחילה פשטו וכו', כמשנתנו דמשעת תקונה (ח\"מ) פשטה וכו' עד",
+      "coords": {
+        "HPOS": 286,
+        "VPOS": 922,
+        "WIDTH": 2016,
+        "HEIGHT": 69
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_55a66d64",
+      "kind": "main",
+      "idx": 12,
+      "text": "דסברה\" בתלתא ירחי\" וזאת ראיה חותכת שמביא הגאון ז\"ל שלא פשטו באותם הימים",
+      "coords": {
+        "HPOS": 275,
+        "VPOS": 977,
+        "WIDTH": 2025,
+        "HEIGHT": 77
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_fd975ad4",
+      "kind": "main",
+      "idx": 13,
+      "text": "כ\"א המשניות והברייתות דר\"ח ור\"א, אבל שאר הברייתות והתוספתות וספרא וספרי (שכולם הם",
+      "coords": {
+        "HPOS": 280,
+        "VPOS": 1043,
+        "WIDTH": 2024,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_5816bfbd",
+      "kind": "main",
+      "idx": 14,
+      "text": "ביאורים לאופנים שונים על שרשי הדינים שבמשניות והברייתות דר\"א ור\"ח) לא פשטו, וע\"ז האריך",
+      "coords": {
+        "HPOS": 282,
+        "VPOS": 1107,
+        "WIDTH": 2022,
+        "HEIGHT": 77
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_b6fc7acc",
+      "kind": "main",
+      "idx": 15,
+      "text": "עוד הגאון ז\"ל לבאר שבימים אחרונים אחרי רבי היו צריכין רבנן בתראי לברייתות, אלא לפשוט מהם",
+      "coords": {
+        "HPOS": 282,
+        "VPOS": 1175,
+        "WIDTH": 2024,
+        "HEIGHT": 64
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_ec145313",
+      "kind": "main",
+      "idx": 16,
+      "text": ",איזה ספקות ולהבין קיצור דברי המשנה, וגם שהלימודים בלי טעם ופלפול וסברא כמו שהוא המשנה",
+      "coords": {
+        "HPOS": 286,
+        "VPOS": 1239,
+        "WIDTH": 2018,
+        "HEIGHT": 77
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_d0407e0c",
+      "kind": "main",
+      "idx": 17,
+      "text": "אין בה נחת כל עיקר, וע\"כ הוו צריכין רבנן לפלפולא וסברא, שהמשנה אינה אלא גזרות בלי טעם",
+      "coords": {
+        "HPOS": 280,
+        "VPOS": 1299,
+        "WIDTH": 2024,
+        "HEIGHT": 72
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_a36ed3ff",
+      "kind": "main",
+      "idx": 18,
+      "text": "כחיבורו של הרמב\"ם ז\"ל (ועיין הקדמת בית הבחירה להמאירי ותתעדן בדשן נפשך) וכיון שהוצרכו",
+      "coords": {
+        "HPOS": 280,
+        "VPOS": 1373,
+        "WIDTH": 2026,
+        "HEIGHT": 64
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_df9fd673",
+      "kind": "main",
+      "idx": 19,
+      "text": "\"להם קבעום ללימוד, ומי שהיה בקי בהן היו העולם צריכין לו על דרך: \"הכל צריכין למארי חיטיא",
+      "coords": {
+        "HPOS": 295,
+        "VPOS": 1435,
+        "WIDTH": 2012,
+        "HEIGHT": 77
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_65d2d95c",
+      "kind": "main",
+      "idx": 20,
+      "text": "והיה מן החכמים על היותו בקי בהם קרי אנפשיה רב תבואות בכח שור וז\"א: \"ו בתר הכ",
+      "coords": {
+        "HPOS": 300,
+        "VPOS": 1508,
+        "WIDTH": 2004,
+        "HEIGHT": 59
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_f2447104",
+      "kind": "main",
+      "idx": 21,
+      "text": "אקבעון ספרא וספרי ותוספתא וכוליה תלמודא והנך כרייתא לא (ח\"מ",
+      "coords": {
+        "HPOS": 282,
+        "VPOS": 1563,
+        "WIDTH": 2025,
+        "HEIGHT": 77
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_fdab0ce7",
+      "kind": "main",
+      "idx": 22,
+      "text": "חסר) הוה אית להו קץ וכו' ורבנן אמוראי דבתר רבי הוו צריכין טובא",
+      "coords": {
+        "HPOS": 282,
+        "VPOS": 1637,
+        "WIDTH": 2024,
+        "HEIGHT": 60
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_75be958b",
+      "kind": "main",
+      "idx": 23,
+      "text": "לאלין ברייתא וכו', ושבחו רבנן למאי דגמיר טובא, ומגליין ליה טעמי",
+      "coords": {
+        "HPOS": 286,
+        "VPOS": 1694,
+        "WIDTH": 2020,
+        "HEIGHT": 75
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_1c21934c",
+      "kind": "main",
+      "idx": 24,
+      "text": "תורה וכו' וכו' מאי טעמא? דמאן דגמיר יכול לאורוייה וכו', והיכא",
+      "coords": {
+        "HPOS": 284,
+        "VPOS": 1756,
+        "WIDTH": 2023,
+        "HEIGHT": 70
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_34a11d8e",
+      "kind": "main",
+      "idx": 25,
+      "text": "דפליגי אמוראי וסוגיין דעלמא כחד מנהון ותניא בברייתא כאידך",
+      "coords": {
+        "HPOS": 295,
+        "VPOS": 1818,
+        "WIDTH": 2012,
+        "HEIGHT": 81
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_9c96a091",
+      "kind": "main",
+      "idx": 26,
+      "text": "עבדינן כההוא דתניא מתניתא כותיה כדאמרי' וכו' דהכל",
+      "coords": {
+        "HPOS": 506,
+        "VPOS": 1888,
+        "WIDTH": 1796,
+        "HEIGHT": 64
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_8d3c94b6",
+      "kind": "main",
+      "idx": 27,
+      "text": "צר",
+      "coords": {
+        "HPOS": 418,
+        "VPOS": 1892,
+        "WIDTH": 80,
+        "HEIGHT": 67
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_7b3f28eb",
+      "kind": "main",
+      "idx": 28,
+      "text": "למארי חיטיא דזהו גמרא\" ואחר שהודיע לנו הגאון מהצורך הגדול שהיה לנו בברייתות",
+      "coords": {
+        "HPOS": 280,
+        "VPOS": 1950,
+        "WIDTH": 2024,
+        "HEIGHT": 77
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_be935f17",
+      "kind": "main",
+      "idx": 29,
+      "text": "לפרש המשניות ולפלפול וסברא ולהבין דבר מתוך דבר, ושהברייתות כבר היו מקדם קדמתה, ע\"ז",
+      "coords": {
+        "HPOS": 284,
+        "VPOS": 2018,
+        "WIDTH": 2023,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_bf74a2bf",
+      "kind": "main",
+      "idx": 30,
+      "text": "מסיים דבריו דמפני כל הטעמים האמורים ראה ר' חייא לברר מכל הברייתות והתוספתות שהיו לפניו",
+      "coords": {
+        "HPOS": 284,
+        "VPOS": 2080,
+        "WIDTH": 2020,
+        "HEIGHT": 70
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_1de57536",
+      "kind": "main",
+      "idx": 31,
+      "text": "ולפני פניו דבר הראוי, ולתרצם ולקבעם בברייתא דיליה שהם עכשיו הברייתות שבידינו שכבר אמרנו",
+      "coords": {
+        "HPOS": 286,
+        "VPOS": 2148,
+        "WIDTH": 2021,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_df8234e5",
+      "kind": "main",
+      "idx": 32,
+      "text": "שהברייתות שלפניו היו הרבה והיה טורח גדול להפוך בדפיהם ולשנותם בע\"פ, וע\"ז תרצם וקצרם",
+      "coords": {
+        "HPOS": 286,
+        "VPOS": 2212,
+        "WIDTH": 2020,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_4c5af01e",
+      "kind": "main",
+      "idx": 33,
+      "text": "וזקק וליבן הדברים, והשאר נשאר, ועכ\"ז אם צריך התלמוד להביא איזה ראיה מאותם הברייתות",
+      "coords": {
+        "HPOS": 284,
+        "VPOS": 2278,
+        "WIDTH": 2020,
+        "HEIGHT": 76
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_2d5111c2",
+      "kind": "main",
+      "idx": 34,
+      "text": "שהניח ר\"ח ולא שנאם משתמשים מהם, ומה שלא הוצרכו נשארו, ולא סמכינן עלייהו כמו דלא סמכינן",
+      "coords": {
+        "HPOS": 289,
+        "VPOS": 2341,
+        "WIDTH": 2020,
+        "HEIGHT": 79
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_d968f664",
+      "kind": "main",
+      "idx": 35,
+      "text": ":לאורוייה ממסכתות קטיעות, כמו הלכות דרך ארץ, דלאו הלכתא נינהו ולזה סיים הגאון ז\"ל וז\"ל",
+      "coords": {
+        "HPOS": 291,
+        "VPOS": 2405,
+        "WIDTH": 2016,
+        "HEIGHT": 79
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_2c30403e",
+      "kind": "main",
+      "idx": 36,
+      "text": "הבין (ח\"מ וכן בכ\"י שבאוצר וויין יע\"א וכצ\"ל) ר אה ר' חייא ותרצינון לברייתא\"",
+      "coords": {
+        "HPOS": 293,
+        "VPOS": 2473,
+        "WIDTH": 1994,
+        "HEIGHT": 79
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_e0bac7bf",
+      "kind": "main",
+      "idx": 37,
+      "text": "דיליה וכד משכחינן וכו' לא סמכינן עליהו וכו' ובברייתות נמי אחרות",
+      "coords": {
+        "HPOS": 286,
+        "VPOS": 2535,
+        "WIDTH": 2014,
+        "HEIGHT": 79
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_fe772753",
+      "kind": "main",
+      "idx": 38,
+      "text": "דקרו ליה קטיעות (ח\"מ, ויוחסין קטנות) דלאו לאורויי מנייהו כגון הלכות",
+      "coords": {
+        "HPOS": 286,
+        "VPOS": 2599,
+        "WIDTH": 2014,
+        "HEIGHT": 88
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_0dbcc81c",
+      "kind": "main",
+      "idx": 39,
+      "text": "דרן",
+      "coords": {
+        "HPOS": 436,
+        "VPOS": 2676,
+        "WIDTH": 61,
+        "HEIGHT": 72
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_10e8c28c",
+      "kind": "main",
+      "idx": 40,
+      "text": "יג) ומכאן הוכחה שהיה בכתב סודיי אלא שהיה אסור ללמדו מתוך הכתב, והיו מוכרחים ליקח הדברים בע\"פ כדי לפלפל)",
+      "coords": {
+        "HPOS": 284,
+        "VPOS": 2779,
+        "WIDTH": 2022,
+        "HEIGHT": 66
+      },
+      "para_start": true,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_202b23e6",
+      "kind": "main",
+      "idx": 41,
+      "text": "?בהם ולהסבירם, הא לאו הכי ממי למד ר\"יוח? ולמה לא יאמר נפק ותנייה מר' פלוני כמו שמצינו במקומות אחרים",
+      "coords": {
+        "HPOS": 288,
+        "VPOS": 2832,
+        "WIDTH": 1937,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_c8b12746",
+      "kind": "main",
+      "idx": 42,
+      "text": ".הוא על משקל זה",
+      "coords": {
+        "HPOS": 1984,
+        "VPOS": 2937,
+        "WIDTH": 320,
+        "HEIGHT": 73
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_761ccd67",
+      "kind": "main",
+      "idx": 43,
+      "text": "ואם נשחדל לחפש בתלמוד נמצא אלף ראיות פ\"ז ולדעחי, כל \"נפק דק ואשכח, וכל \"פוק עין וכלומה הנמצא בתלמוד",
+      "coords": {
+        "HPOS": 289,
+        "VPOS": 2883,
+        "WIDTH": 2018,
+        "HEIGHT": 116
+      },
+      "para_start": true,
+      "is_catchword": false
+    }
+  ]
+}

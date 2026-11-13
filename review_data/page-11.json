@@ -1,0 +1,653 @@
+{
+  "page_id": "page-11",
+  "image": "page_images/page-11.png",
+  "page_width": 2550,
+  "page_height": 3300,
+  "base_hash": "sha256:7a7bfb5ece6f4a1cfcb10707120c22271e9d3d5b4dc97bd21b84bd22c1acbc20",
+  "lines": [
+    {
+      "line_id": "_898aead9-807e-467a-b0d4-e2064eb8420f",
+      "kind": "main",
+      "idx": 0,
+      "text": "לא הותר כלל אפי' כתיבה, וכן נראה מההיא דר' חייא בר אבא הובא שם) וכיון דר\"י ור\"ל היו לומדים",
+      "coords": {
+        "HPOS": 144,
+        "VPOS": 273,
+        "WIDTH": 1996,
+        "HEIGHT": 68
+      },
+      "para_start": true,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_09624e29-eedf-4360-ade0-a2c0f7b175ae",
+      "kind": "main",
+      "idx": 1,
+      "text": "מתוך הספר ע\"ז הוצרכו להרן משום עת לעשות לה', הכונה, כיון שלא היו יכולים ללוקחם בע\"פ גם",
+      "coords": {
+        "HPOS": 146,
+        "VPOS": 342,
+        "WIDTH": 1993,
+        "HEIGHT": 65
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_f98535e0-a93e-409a-b142-279bdb1af601",
+      "kind": "main",
+      "idx": 2,
+      "text": "אלו כמו שהיו עושים במשניות, והברייתות והתלמוד, כדי לגורסם ברבים, או בשעה שהיו צריכים,",
+      "coords": {
+        "HPOS": 155,
+        "VPOS": 407,
+        "WIDTH": 1985,
+        "HEIGHT": 64
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_18f40ea7-acb8-4cd7-ad7b-4b4352fa04ca",
+      "kind": "main",
+      "idx": 3,
+      "text": "כיון דאגדות אין בהם מן הצורך, ואין למדין מהם הלכה, ולא יועילו כ\"א למוסר השכל, והלכות דרך",
+      "coords": {
+        "HPOS": 157,
+        "VPOS": 467,
+        "WIDTH": 1985,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_72fc97af-baa1-4d40-8834-e3ca3658be11",
+      "kind": "main",
+      "idx": 4,
+      "text": "ארץ וכדומה, ע\"ז כיון שלא היה זמנם מספיק ללוקחם בע\"פ, ע\"ז התירו פרושים את הדבר ללמוד",
+      "coords": {
+        "HPOS": 154,
+        "VPOS": 533,
+        "WIDTH": 1990,
+        "HEIGHT": 64
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_5b24e738-ed21-4149-bb0f-de1ca2953711",
+      "kind": "main",
+      "idx": 5,
+      "text": "האגדה מתוך הספר משום עת לעשות לה', דסוף סוף קילא מהלכות דבהם נאמר \"אלה\" \"אלה אתה",
+      "coords": {
+        "HPOS": 150,
+        "VPOS": 595,
+        "WIDTH": 1996,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_b0dbccaf-8719-4984-899f-9174099383dc",
+      "kind": "main",
+      "idx": 6,
+      "text": "כותב ואי אתה כותב הלכות\" ואגדות אינם בעדך הלכות, וע\"ז בחרו להשתמש מאיסור קל, ולא מאיסור",
+      "coords": {
+        "HPOS": 155,
+        "VPOS": 660,
+        "WIDTH": 1993,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_531e45ad-9cf9-482a-a9ef-cf3696d8b366",
+      "kind": "main",
+      "idx": 7,
+      "text": "חמור, וכבר ראיתי להגאון הצ\"ח נר\"ו בהגהותיו אשר נדפסו בתלמודים חדשים שבווין, שרוצה להכריח,",
+      "coords": {
+        "HPOS": 155,
+        "VPOS": 722,
+        "WIDTH": 1993,
+        "HEIGHT": 70
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_96917c01-d595-410a-879b-8cb75bfcada0",
+      "kind": "main",
+      "idx": 8,
+      "text": "דאגדה אינה בכלל הלכות לגמרי, והותרו מימי עולם ומשנים קדמוניות, והביא ראיה אי מדיוק זה",
+      "coords": {
+        "HPOS": 152,
+        "VPOS": 792,
+        "WIDTH": 1996,
+        "HEIGHT": 53
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_7061d8ca-f007-48e8-b30f-f3873b060959",
+      "kind": "main",
+      "idx": 9,
+      "text": "שאמרו \"כותבי הלכות\" ולא אמרו \"כותבי אגדות\" ואי ממעשה דברבי חייא, המובא בירושלמי פ\"ג",
+      "coords": {
+        "HPOS": 154,
+        "VPOS": 852,
+        "WIDTH": 1994,
+        "HEIGHT": 55
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_5fad048e-2e2a-406f-bbf5-b7a4f910eb3e",
+      "kind": "main",
+      "idx": 10,
+      "text": "דכלאים, וכפ' הנושא ובב\"ר פ' ל\"ג דהיה מסתכל בספר אגדת תהלים, וע\"ז דחה דברי רש\"י דכייל",
+      "coords": {
+        "HPOS": 152,
+        "VPOS": 916,
+        "WIDTH": 1998,
+        "HEIGHT": 55
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_326dee01-4e34-494e-8ebb-39ab7c83dcc2",
+      "kind": "main",
+      "idx": 11,
+      "text": "אגדות באיסור כתיבת דברים שבע\"פ, והוציא פשט הסוגיא לענין שבת, כמו שיראה הרואה בדבריו",
+      "coords": {
+        "HPOS": 152,
+        "VPOS": 980,
+        "WIDTH": 1998,
+        "HEIGHT": 63
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_edd29bbe-99d8-4f97-8547-ecfac6017af9",
+      "kind": "main",
+      "idx": 12,
+      "text": "נר\"ו, ואינו יכול להאריך עוד כי אם לומר, דהירושלמי בכלאים, ובפ' הנושא אינו אומר כי אם אשגרית",
+      "coords": {
+        "HPOS": 152,
+        "VPOS": 1045,
+        "WIDTH": 1992,
+        "HEIGHT": 58
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_5d34554a-5d79-4c2c-847e-8fdb5c5188f5",
+      "kind": "main",
+      "idx": 13,
+      "text": "עיינין בספר תהלים אגדה, וא\"כ מי אמר שהיה ספר אגדה בידו, אימור שהיה ספר תהלים בידו,",
+      "coords": {
+        "HPOS": 159,
+        "VPOS": 1109,
+        "WIDTH": 1991,
+        "HEIGHT": 62
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_b55dc4f2-3836-4ef7-8042-ca2cc60fd4a2",
+      "kind": "main",
+      "idx": 14,
+      "text": "ומעיין בו לחבר בו אגדותיו? אי נמי שלא היה לו שום ספר בידו, כ\"א מסתכל בתורה שבע\"פ באגדת",
+      "coords": {
+        "HPOS": 152,
+        "VPOS": 1171,
+        "WIDTH": 1999,
+        "HEIGHT": 59
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_74011c4c-3073-48f5-8562-b0c52cb86d71",
+      "kind": "main",
+      "idx": 15,
+      "text": "תהלים, וכן משמע לי מלשון הובא בב\"ר \"מסתכל הוית באגדת תהלים\" ולשון הסתכלות רובו על",
+      "coords": {
+        "HPOS": 152,
+        "VPOS": 1233,
+        "WIDTH": 2003,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_e4679d29-dfef-4b38-9cf1-94dc565ba6f2",
+      "kind": "main",
+      "idx": 16,
+      "text": "הסתכלות השכל נאמר, ועם שהוא קצת דחוק עכ\"ז אין ראיה חתוכה מכאן שכבר היו כותבים",
+      "coords": {
+        "HPOS": 154,
+        "VPOS": 1299,
+        "WIDTH": 2001,
+        "HEIGHT": 65
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_8b80df75-00ed-4cc0-a400-e043af9f4745",
+      "kind": "main",
+      "idx": 17,
+      "text": "ומותרים לעיין מתוכם, דא\"כ מה כל החרדה של ריב\"ל לומר: \"הכותבה אין לו חלק לעו\"הב, והדורשה",
+      "coords": {
+        "HPOS": 155,
+        "VPOS": 1362,
+        "WIDTH": 2000,
+        "HEIGHT": 60
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_368ac643-bd5a-407f-8b58-f632cf5a716e",
+      "kind": "main",
+      "idx": 18,
+      "text": "מתחרך או מתברך (ועיין יפ\"מ שם) וכי מי חשיד רבי חייא דבה הקדוש לדורשה מתוך הספר?",
+      "coords": {
+        "HPOS": 159,
+        "VPOS": 1430,
+        "WIDTH": 1996,
+        "HEIGHT": 62
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_dc06bc7d-2947-4d8c-ba2f-0f162e136def",
+      "kind": "main",
+      "idx": 19,
+      "text": "ולהיות מכת המבורכים ב\"מ! ועוד שבכל המאמרים שהובאו בשמות רבה פ' מ\"ז כענין זה מתחילת",
+      "coords": {
+        "HPOS": 155,
+        "VPOS": 1490,
+        "WIDTH": 2004,
+        "HEIGHT": 57
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_65d0ef96-30d2-45f6-ac71-8c1559850005",
+      "kind": "main",
+      "idx": 20,
+      "text": "הפרשה עד סופה כוללים גם אגדות בכלל איסור דברים שבע\"פ א\"א רשאי לאומרם, ומהם שהקדימו",
+      "coords": {
+        "HPOS": 159,
+        "VPOS": 1554,
+        "WIDTH": 1998,
+        "HEIGHT": 61
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_aa427a43-2233-4cc8-bcf3-76c9a70c08ae",
+      "kind": "main",
+      "idx": 21,
+      "text": "אגדות להלכות כיעוי\"ש. ועוד מה שהוציא מהפשט ענין האגדות, דלא לענין איסור כתיבת דברים",
+      "coords": {
+        "HPOS": 155,
+        "VPOS": 1618,
+        "WIDTH": 2000,
+        "HEIGHT": 55
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_ea45dcff-4578-457d-9b99-b1c1caf9a351",
+      "kind": "main",
+      "idx": 22,
+      "text": "שבע\"פ איירי לא סבירא לי שהרי ר\"ח בר אבא אמר אי אית בה דבר טוב יתקטע ידא דאכתבא משום",
+      "coords": {
+        "HPOS": 155,
+        "VPOS": 1681,
+        "WIDTH": 2002,
+        "HEIGHT": 62
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_9d2b0a24-37db-41ad-a1b8-9feb63984f3b",
+      "kind": "main",
+      "idx": 23,
+      "text": "דהוו דברים שבע\"פ בכתב כמן שפי' ופ\"מ שם, ואין לדברים הללו פי' אחר, כללן של דברים שהגאון",
+      "coords": {
+        "HPOS": 157,
+        "VPOS": 1743,
+        "WIDTH": 1998,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_68a55132-ad4e-4c99-99e8-08f7a628dcee",
+      "kind": "main",
+      "idx": 24,
+      "text": "הצ\"ח נר\"ו בלבל עלינו את הדברים.",
+      "coords": {
+        "HPOS": 812,
+        "VPOS": 1807,
+        "WIDTH": 695,
+        "HEIGHT": 64
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_66853b29-fbf5-4072-b539-115f8ad7437e",
+      "kind": "main",
+      "idx": 25,
+      "text": "יהיה",
+      "coords": {
+        "HPOS": 2010,
+        "VPOS": 1870,
+        "WIDTH": 74,
+        "HEIGHT": 75
+      },
+      "para_start": true,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_e415a177-9d6f-4172-88ba-f2bf2db949f6",
+      "kind": "main",
+      "idx": 26,
+      "text": "איך שיהיה הרי מצאנו עוד ראיה דהיה כתיבה, ועיקר האיסור לא הוי כ\"א על הלימוד",
+      "coords": {
+        "HPOS": 163,
+        "VPOS": 1873,
+        "WIDTH": 1799,
+        "HEIGHT": 64
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_68ba9278-30c3-44e8-b7ed-2b4e40af3e1f",
+      "kind": "main",
+      "idx": 27,
+      "text": "ואל",
+      "coords": {
+        "HPOS": 2034,
+        "VPOS": 1976,
+        "WIDTH": 117,
+        "HEIGHT": 101
+      },
+      "para_start": true,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_a17f78d6-e520-4dd9-9fad-5e8c8207ad11",
+      "kind": "main",
+      "idx": 28,
+      "text": "כדעת גאוני ספרד והוא ברור ומבורר.",
+      "coords": {
+        "HPOS": 1186,
+        "VPOS": 1948,
+        "WIDTH": 760,
+        "HEIGHT": 52
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_2f5b242f-a1e8-465c-b8ef-759528690562",
+      "kind": "main",
+      "idx": 29,
+      "text": "וקניטוני חכמי ישראל שאני מפרש ד' מאמרים שירדו כרוכים בירוש\" פ' אין עומדין בזה אחר",
+      "coords": {
+        "HPOS": 161,
+        "VPOS": 2013,
+        "WIDTH": 1816,
+        "HEIGHT": 53
+      },
+      "para_start": true,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_4cdfb3e8-7d1c-4fa3-947d-3eacb0608caf",
+      "kind": "main",
+      "idx": 30,
+      "text": "זה על משקל האמור חד הוא: \"היגע תלמודו בב\"הכ לא במהרה הוא משכח\" הב': \"ברית",
+      "coords": {
+        "HPOS": 157,
+        "VPOS": 2064,
+        "WIDTH": 1826,
+        "HEIGHT": 62
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_6586c487-c9a0-4a57-86c2-4c3639e8c17a",
+      "kind": "main",
+      "idx": 31,
+      "text": "כרותה היא היגע תלמודו בצינעא לא במהרה הוא משכח\" שנאמר ואת צנועים חכמה\" הג': הלומד",
+      "coords": {
+        "HPOS": 161,
+        "VPOS": 2130,
+        "WIDTH": 1992,
+        "HEIGHT": 55
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_ce6b6a7c-2b3c-47fe-9acd-bf11c60b7528",
+      "kind": "main",
+      "idx": 32,
+      "text": "אגדה מתוך הספר לא במהרה הוא משכח\" הד': בשם ר\"ת הסובר תלמודו לא במהרה הוא משכח, מה",
+      "coords": {
+        "HPOS": 157,
+        "VPOS": 2192,
+        "WIDTH": 1998,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_3121feff-1516-4744-9342-7fb607eee46b",
+      "kind": "main",
+      "idx": 33,
+      "text": "טעם? פן תשכח את הדברים אשר ראו עיניך\" ע\"כ. ולא נאריך בקושיות ודקדוקים שכבר מפרשי הירוש'",
+      "coords": {
+        "HPOS": 163,
+        "VPOS": 2264,
+        "WIDTH": 1992,
+        "HEIGHT": 58
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_5b692e56-5858-4617-9537-d382a640be5e",
+      "kind": "main",
+      "idx": 34,
+      "text": "טחנו הרבה, ולא הוציאו דבר שיש בו כדי שביעה, והדקדוק הגדול שבכולם הוא: דנדאה תרתי מאמרי",
+      "coords": {
+        "HPOS": 165,
+        "VPOS": 2324,
+        "WIDTH": 1988,
+        "HEIGHT": 63
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_121963a3-0d0b-4c2b-b540-aab321b09675",
+      "kind": "main",
+      "idx": 35,
+      "text": "דסתדן, דב\"הכ הוא מקום שרבים דשים בו, ואפי' שלא בשעת התמידין כסדרן, עכ\"ז הוא רשות",
+      "coords": {
+        "HPOS": 155,
+        "VPOS": 2385,
+        "WIDTH": 1996,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_609c658a-cd98-4cd0-90df-4585b0ab22b3",
+      "kind": "main",
+      "idx": 36,
+      "text": "הרבים, ולכל הפחות אינו מקום מוצנע, וא\"כ איך יתפרש בצנעה שאמר אח\"ך? ולפרש בדרך צניעות,",
+      "coords": {
+        "HPOS": 165,
+        "VPOS": 2449,
+        "WIDTH": 1990,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_41950428-f72b-4ec9-8aeb-16a01f947456",
+      "kind": "main",
+      "idx": 37,
+      "text": "והעדר גאוה, כמו שפירשו המפרשים, נוציא הדברים מידי פשיטותן, אמת שהרמב\"ם (פ\"ג מהת\"ת",
+      "coords": {
+        "HPOS": 161,
+        "VPOS": 2511,
+        "WIDTH": 1994,
+        "HEIGHT": 61
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_e04661c1-476b-41c5-981b-3726e4eac93d",
+      "kind": "main",
+      "idx": 38,
+      "text": "די\"ב) נראה דלא הוה גריס \"היגע תלמודו בב\"הכ\" כי אם \"היגע בתלמודו\" וא\"כ שפיר פסק הך",
+      "coords": {
+        "HPOS": 166,
+        "VPOS": 2574,
+        "WIDTH": 1985,
+        "HEIGHT": 67
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_2c819157-667c-4e2c-be61-53bcb1af96af",
+      "kind": "main",
+      "idx": 39,
+      "text": "דבצנעא (ועיין כ\" מ דנראה דהוה גריס בב\"הכ) איך שיהיה לפי גירסתנו קשיה, ועוד היכי הוא ראיה",
+      "coords": {
+        "HPOS": 163,
+        "VPOS": 2651,
+        "WIDTH": 1990,
+        "HEIGHT": 45
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_dd248698-36dc-4f7d-bace-42150bf7262f",
+      "kind": "main",
+      "idx": 40,
+      "text": "על הסובר תלמודו מקרא דהשמר לך פן תשכח את הדברים אשר ראו עיניך? והרב מוהדר\"א ז\"ל",
+      "coords": {
+        "HPOS": 165,
+        "VPOS": 2706,
+        "WIDTH": 1990,
+        "HEIGHT": 55
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_388b829e-abfe-443c-a7d8-a24d201fec2b",
+      "kind": "main",
+      "idx": 41,
+      "text": "בפירושו לשם פורש וז\"ל: \"פן תשכח את הדברים וכו' נ\"ל דאתרוויהו קאי, אלומד מתוך הספר, והיינו",
+      "coords": {
+        "HPOS": 163,
+        "VPOS": 2768,
+        "WIDTH": 1992,
+        "HEIGHT": 64
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_6bdbb6f6-55cb-4c5e-83cc-769a986ac78f",
+      "kind": "main",
+      "idx": 42,
+      "text": "אשר ראו עיניך, וגם לשון \"ראית השכל\" והבנת הלב יש במשמע לר\"ת, כי הדיבור אי אפשר לראותו",
+      "coords": {
+        "HPOS": 161,
+        "VPOS": 2827,
+        "WIDTH": 1992,
+        "HEIGHT": 67
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_e1d64d28-783a-445e-8344-06a425135051",
+      "kind": "main",
+      "idx": 43,
+      "text": "בעיניו כי אם בעין השכל\" עכ\"ד, ושפתים ישק משיב דברים נכוחים, ונשענים על משפטי הטבע",
+      "coords": {
+        "HPOS": 161,
+        "VPOS": 2900,
+        "WIDTH": 1994,
+        "HEIGHT": 60
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_b4c53f34-c074-4ef6-b343-2a07a9cbfcd8",
+      "kind": "main",
+      "idx": 44,
+      "text": "וחוקותיו, שהנה טבענו מחייב שאין אנו יכולים ליקח סידור דברים בדורים בע\"פ, אם לא נלקחו",
+      "coords": {
+        "HPOS": 165,
+        "VPOS": 2962,
+        "WIDTH": 1990,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_dc520e60-1224-4190-9409-c5cb76833c42",
+      "kind": "main",
+      "idx": 45,
+      "text": "מתחילה",
+      "coords": {
+        "HPOS": 295,
+        "VPOS": 3023,
+        "WIDTH": 176,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": true
+    }
+  ]
+}

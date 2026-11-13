@@ -1,0 +1,639 @@
+{
+  "page_id": "page-89",
+  "image": "page_images/page-89.jpg",
+  "page_width": 2550,
+  "page_height": 3300,
+  "base_hash": "sha256:523a29ed1eaf9638591a3f05c4505788ff7384899c0e9dcce8fa7307f00ef6b3",
+  "lines": [
+    {
+      "line_id": "eSc_line_403c043e",
+      "kind": "main",
+      "idx": 0,
+      "text": "'",
+      "coords": {
+        "HPOS": 750,
+        "VPOS": 97,
+        "WIDTH": 24,
+        "HEIGHT": 119
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_9b1cdc06",
+      "kind": "main",
+      "idx": 1,
+      "text": ".קפ\"ד בתוך האיי\"ם ודי בזה כדי דלא להוי שתיקה כהוראה",
+      "coords": {
+        "HPOS": 719,
+        "VPOS": 295,
+        "WIDTH": 1179,
+        "HEIGHT": 79
+      },
+      "para_start": true,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_1204d18d",
+      "kind": "main",
+      "idx": 2,
+      "text": "קמינום וענין זה רגיל והוה הוא כתלמוד וכפוסקים קידועים לכל תופס ספר ומכללם עיון לעיל סימן",
+      "coords": {
+        "HPOS": 304,
+        "VPOS": 229,
+        "WIDTH": 2016,
+        "HEIGHT": 130
+      },
+      "para_start": true,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_88384f95",
+      "kind": "main",
+      "idx": 3,
+      "text": "סימן קפ\"ה",
+      "coords": {
+        "HPOS": 1141,
+        "VPOS": 421,
+        "WIDTH": 352,
+        "HEIGHT": 105
+      },
+      "para_start": true,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_4e3c16a8",
+      "kind": "main",
+      "idx": 4,
+      "text": "וששאלתם",
+      "coords": {
+        "HPOS": 1970,
+        "VPOS": 511,
+        "WIDTH": 354,
+        "HEIGHT": 105
+      },
+      "para_start": true,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_ec83ba4d",
+      "kind": "main",
+      "idx": 5,
+      "text": "'חמאה של גוים אסור או מותר ביון דקים להו לרבנן דחלב טהור עומר טמא",
+      "coords": {
+        "HPOS": 304,
+        "VPOS": 515,
+        "WIDTH": 1644,
+        "HEIGHT": 77
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_372fa9d2",
+      "kind": "main",
+      "idx": 6,
+      "text": "אינו עומד מותר אלא שאין הדעת מקבלת ומי שיפה דעתו ואכל מותר",
+      "coords": {
+        "HPOS": 443,
+        "VPOS": 592,
+        "WIDTH": 1505,
+        "HEIGHT": 71
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_282ba11c",
+      "kind": "main",
+      "idx": 7,
+      "text": "א",
+      "coords": {
+        "HPOS": 1418,
+        "VPOS": 674,
+        "WIDTH": 38,
+        "HEIGHT": 79
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_fcb97bbb",
+      "kind": "main",
+      "idx": 8,
+      "text": "י",
+      "coords": {
+        "HPOS": 1333,
+        "VPOS": 667,
+        "WIDTH": 26,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_814a9245",
+      "kind": "main",
+      "idx": 9,
+      "text": "הי\"ו",
+      "coords": {
+        "HPOS": 1207,
+        "VPOS": 674,
+        "WIDTH": 88,
+        "HEIGHT": 77
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_94485a26",
+      "kind": "main",
+      "idx": 10,
+      "text": "תשובה זאת היא מובאה כדמותה במנהיג סי' קל\"ה וז\"ל: \"וזה שנמצא בתשו' הגאונים \"וחמאה",
+      "coords": {
+        "HPOS": 300,
+        "VPOS": 759,
+        "WIDTH": 2024,
+        "HEIGHT": 80
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_60e7ba58",
+      "kind": "main",
+      "idx": 11,
+      "text": "של גוים כיון דקי\"ל לרבנן דחלב טהור עומד טמא אינו עומד מי שדעתו יפה ומקבלתו",
+      "coords": {
+        "HPOS": 308,
+        "VPOS": 830,
+        "WIDTH": 1702,
+        "HEIGHT": 75
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_8c4c6dad",
+      "kind": "main",
+      "idx": 12,
+      "text": "לאכול מותר\" אין לסמוך על זה שהרי הוכחנו שהטעם חלב שחלכו גוי וכו' משום גלד, ומשום חלב",
+      "coords": {
+        "HPOS": 302,
+        "VPOS": 892,
+        "WIDTH": 2011,
+        "HEIGHT": 77
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_9e45a42a",
+      "kind": "main",
+      "idx": 13,
+      "text": "טמא, וכן סוברים אנשי מערב, אנשי מזרח מתירין את החמאה של גוים וכו', עכ\"ד. הראיתיך איך",
+      "coords": {
+        "HPOS": 311,
+        "VPOS": 957,
+        "WIDTH": 1998,
+        "HEIGHT": 78
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_766cbcc2",
+      "kind": "main",
+      "idx": 14,
+      "text": "העתיק תשו' שלפנינו אות באות, אלא שחסר מ\"ש לפנינו \"אלא שאין הדעת מקבלת\" והראיתיך איך",
+      "coords": {
+        "HPOS": 311,
+        "VPOS": 1021,
+        "WIDTH": 2013,
+        "HEIGHT": 77
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_7c790379",
+      "kind": "main",
+      "idx": 15,
+      "text": "אנשי מזרח הוא על בני בבל המתירין, והכלבו ג\"כ דקי\"ד כתב דהחמאה שלהם יש מן הגאונים",
+      "coords": {
+        "HPOS": 302,
+        "VPOS": 1090,
+        "WIDTH": 2022,
+        "HEIGHT": 70
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_9cb5bdc6",
+      "kind": "main",
+      "idx": 16,
+      "text": "שהתירוה, וכן כתב הרמב\"ם פ\"ג מה' מ\"א הי\"ד, החמאה, מקצת הגאונים התירוה שהרי לא גזרו על",
+      "coords": {
+        "HPOS": 302,
+        "VPOS": 1151,
+        "WIDTH": 2022,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_2830ae66",
+      "kind": "main",
+      "idx": 17,
+      "text": "החמאה, וחלב הטמאה אינו עומד, ומקצת הגאונים אסרוה, מפני צחצוחי חלב שישאר בה, ע\"כ",
+      "coords": {
+        "HPOS": 330,
+        "VPOS": 1219,
+        "WIDTH": 1994,
+        "HEIGHT": 62
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_99b8d3ab",
+      "kind": "main",
+      "idx": 18,
+      "text": "וזהו א\"כ שתראה שבתשו' שלפנינו כתוב \"אלא שאין הדעת מקבלת\" מפני כי ידע כי מקצת גאונים",
+      "coords": {
+        "HPOS": 300,
+        "VPOS": 1281,
+        "WIDTH": 2026,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_ae038919",
+      "kind": "main",
+      "idx": 19,
+      "text": "אסרוה והוא ברור. כי הא לאו הכי אין לו סכנה, ושו\"ר להרב המפורסם מר שניי בס' חקקי לב ס\"א",
+      "coords": {
+        "HPOS": 304,
+        "VPOS": 1343,
+        "WIDTH": 2018,
+        "HEIGHT": 77
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_55e371e3",
+      "kind": "main",
+      "idx": 20,
+      "text": ",דל\"ב סע\"ו שעמד על דברים אלו, והנחם בצ\"י, ולפי חומר הנושא מה שכתבתי יש בו שליש ישוכ",
+      "coords": {
+        "HPOS": 311,
+        "VPOS": 1411,
+        "WIDTH": 2007,
+        "HEIGHT": 72
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_b93d1124",
+      "kind": "main",
+      "idx": 21,
+      "text": "ועיין תשב\"ן ח\"ג סימן יו\"ד וסי' רנ\"ח",
+      "coords": {
+        "HPOS": 922,
+        "VPOS": 1475,
+        "WIDTH": 817,
+        "HEIGHT": 77
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_7cc9a8e0",
+      "kind": "main",
+      "idx": 22,
+      "text": "סימן קפ\"ט",
+      "coords": {
+        "HPOS": 1352,
+        "VPOS": 1600,
+        "WIDTH": 346,
+        "HEIGHT": 103
+      },
+      "para_start": true,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_c7c0b9ae",
+      "kind": "main",
+      "idx": 23,
+      "text": "רב כהן צדק ז\"ל",
+      "coords": {
+        "HPOS": 946,
+        "VPOS": 1591,
+        "WIDTH": 356,
+        "HEIGHT": 79
+      },
+      "para_start": true,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_987dcd11",
+      "kind": "main",
+      "idx": 24,
+      "text": "ודבש",
+      "coords": {
+        "HPOS": 2131,
+        "VPOS": 1706,
+        "WIDTH": 191,
+        "HEIGHT": 87
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_bcb23112",
+      "kind": "main",
+      "idx": 25,
+      "text": "בישולי גוים שכך אמרו חכמים ואלו מותרים באכילה חרב שחלבו גוי וישראר רואהו",
+      "coords": {
+        "HPOS": 308,
+        "VPOS": 1771,
+        "WIDTH": 1777,
+        "HEIGHT": 62
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_27f58c3d",
+      "kind": "main",
+      "idx": 26,
+      "text": "דבורים שעושים ממנו שבר אם בשאר ימות השנה מותר רשתות ממנו ואין בו משום",
+      "coords": {
+        "HPOS": 306,
+        "VPOS": 1701,
+        "WIDTH": 1781,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_070162e8",
+      "kind": "main",
+      "idx": 27,
+      "text": "והרבש ואמרינן (ע\"ז רף ט\"ל ע\"ב) האי דבש למאי ליחוש ליה משום בישורי גוים נאכל כמו",
+      "coords": {
+        "HPOS": 310,
+        "VPOS": 1842,
+        "WIDTH": 2014,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_2817bd71",
+      "kind": "main",
+      "idx": 28,
+      "text": "שהוא חי הוא ואי משום גיעורי גוים נותן טעם לפגם הוא ואי משום דמערבי ביה אסרוחי מסרח",
+      "coords": {
+        "HPOS": 304,
+        "VPOS": 1912,
+        "WIDTH": 2014,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_4a1880fd",
+      "kind": "main",
+      "idx": 29,
+      "text": "הילכך מותר לכתחילה",
+      "coords": {
+        "HPOS": 1080,
+        "VPOS": 1989,
+        "WIDTH": 501,
+        "HEIGHT": 60
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_70b2a953",
+      "kind": "main",
+      "idx": 30,
+      "text": "א",
+      "coords": {
+        "HPOS": 1423,
+        "VPOS": 2060,
+        "WIDTH": 35,
+        "HEIGHT": 85
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_a3a3028b",
+      "kind": "main",
+      "idx": 31,
+      "text": "תשובה זאת כדמותה מובאה בפרדס די\"ז ע\"א בלי שם וכנוי, אבל נראה שם אסיפת תשובת",
+      "coords": {
+        "HPOS": 304,
+        "VPOS": 2150,
+        "WIDTH": 2025,
+        "HEIGHT": 77
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_e1717fdb",
+      "kind": "main",
+      "idx": 32,
+      "text": "קדמונים לבד, שמוסיף בסוף התשו' אחר אסרוחי מסרח, ואסור לשתות ממנו בימי",
+      "coords": {
+        "HPOS": 310,
+        "VPOS": 2227,
+        "WIDTH": 1717,
+        "HEIGHT": 70
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_c2c75989",
+      "kind": "main",
+      "idx": 33,
+      "text": "\"הפסח, ואיסורו והתרו כמו שצונו\" ע\"כ, ואני רואה שתשו' שלפנינו עיקר שאינו מוסיף בה דברים הללו",
+      "coords": {
+        "HPOS": 308,
+        "VPOS": 2284,
+        "WIDTH": 2021,
+        "HEIGHT": 75
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_d6854429",
+      "kind": "main",
+      "idx": 34,
+      "text": "'ועיין בשמים ראש סימן ח' ומה שהאריכו המגיהים עיש\"ב, ומי יגלה עפר מעיני השואל שבתשו",
+      "coords": {
+        "HPOS": 315,
+        "VPOS": 2346,
+        "WIDTH": 2014,
+        "HEIGHT": 77
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_2587561c",
+      "kind": "main",
+      "idx": 35,
+      "text": "הר\"ן סימן ה' והר\"ן עצמו שם שעל מה שרצו להעליל על ר\"ה גאון ז\"ל שהדבש השנוי במשנת אין",
+      "coords": {
+        "HPOS": 308,
+        "VPOS": 2421,
+        "WIDTH": 2020,
+        "HEIGHT": 63
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_978d1d3a",
+      "kind": "main",
+      "idx": 36,
+      "text": "מעמידין וכו' ואלו מותרים באכילה, חלב שחלבו וכו', והדבש שהוא הדב\"ס של ישמעאלים הנעשה",
+      "coords": {
+        "HPOS": 310,
+        "VPOS": 2478,
+        "WIDTH": 2019,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_591d829d",
+      "kind": "main",
+      "idx": 37,
+      "text": "מיין ענבים, ע\"ז חרדו השואל והר\"ן ז\"ל חרדה גדולה לאמר חס ליה למרן ר\"ה ז\"ל לתלות כו דברים",
+      "coords": {
+        "HPOS": 310,
+        "VPOS": 2541,
+        "WIDTH": 2016,
+        "HEIGHT": 77
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_ff7b3118",
+      "kind": "main",
+      "idx": 38,
+      "text": ",משובשים! יעו\"ש שהאריכו, ומי יתן שיתגלה להם תשו' זאת שלפנינו לרב כהן צדק הקודם לר\"ה ז\"ל",
+      "coords": {
+        "HPOS": 313,
+        "VPOS": 2605,
+        "WIDTH": 2013,
+        "HEIGHT": 73
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_0aa5b81b",
+      "kind": "main",
+      "idx": 39,
+      "text": "דמפרש הדבש השנוי במשנה זאת על דבש דבורים, והוא האמה, והוא הצדק שיתעלה, ודוק שינוי",
+      "coords": {
+        "HPOS": 311,
+        "VPOS": 2674,
+        "WIDTH": 2017,
+        "HEIGHT": 74
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_03b2e99d",
+      "kind": "main",
+      "idx": 40,
+      "text": "הגירסא שלפנינו בתלמוד בע\"ז דט\"ל ע\"ב ועיין מוסף הערוך ערך סר אחרון ודוק ונמצא דהכל אחד",
+      "coords": {
+        "HPOS": 337,
+        "VPOS": 2735,
+        "WIDTH": 1989,
+        "HEIGHT": 79
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_2ff23e68",
+      "kind": "main",
+      "idx": 41,
+      "text": "?סימן",
+      "coords": {
+        "HPOS": 1267,
+        "VPOS": 2841,
+        "WIDTH": 202,
+        "HEIGHT": 96
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_ec595dc3",
+      "kind": "main",
+      "idx": 42,
+      "text": "והיכא",
+      "coords": {
+        "HPOS": 2118,
+        "VPOS": 2948,
+        "WIDTH": 206,
+        "HEIGHT": 78
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_a4cd70fe",
+      "kind": "main",
+      "idx": 43,
+      "text": ":דאיערבה ביצה טרפה בחדי ביצים אחרות אפילו בארף כלן אסורות",
+      "coords": {
+        "HPOS": 614,
+        "VPOS": 2937,
+        "WIDTH": 1468,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_1d6a19f1",
+      "kind": "main",
+      "idx": 44,
+      "text": "שי' קצ\"א",
+      "coords": {
+        "HPOS": 403,
+        "VPOS": 3008,
+        "WIDTH": 176,
+        "HEIGHT": 68
+      },
+      "para_start": true,
+      "is_catchword": false
+    }
+  ]
+}

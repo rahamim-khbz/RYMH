@@ -1,0 +1,625 @@
+{
+  "page_id": "page-07",
+  "image": "page_images/page-07.png",
+  "page_width": 2550,
+  "page_height": 3300,
+  "base_hash": "sha256:1e1e258c0fccb8d84f01890303920b208fecfdbb0f57a42c0057e985535e72de",
+  "lines": [
+    {
+      "line_id": "_c43d9d5c-ceec-40e8-ab90-ca5f8d4ac265",
+      "kind": "main",
+      "idx": 0,
+      "text": "מדרשת ריב\"ן שבודאי היתה קבלה בידו, או מדרשת ודיוק תנא דברי\"ש, ושם כבר הוברר כשמש בחצי",
+      "coords": {
+        "HPOS": 137,
+        "VPOS": 262,
+        "WIDTH": 2005,
+        "HEIGHT": 64
+      },
+      "para_start": true,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_f6c36ad2-5f92-4d50-a9c2-477eec37f3c9",
+      "kind": "main",
+      "idx": 1,
+      "text": "השמים דעיקר האיסור הוא האמירה והקריאה בכתב, ולא דעיקר האיסור הוא הכתיבה, ועוד דאיהו",
+      "coords": {
+        "HPOS": 137,
+        "VPOS": 328,
+        "WIDTH": 2007,
+        "HEIGHT": 62
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_0f96b33d-fb99-4a16-b12b-0e9ce353856b",
+      "kind": "main",
+      "idx": 2,
+      "text": "גופיה בהדיא קאמר, שעיקר הברית אשר כרת ה' עם משה וישראל היינו משום דברים שבע\"פ, ואע\"פי",
+      "coords": {
+        "HPOS": 139,
+        "VPOS": 394,
+        "WIDTH": 2007,
+        "HEIGHT": 60
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_c42f3e77-922e-450e-98ba-dd13e568e5fb",
+      "kind": "main",
+      "idx": 3,
+      "text": "שכונת הדברים הוא על שמירתן ואמונתם וכדומה, עכ\"פ מדבריו למדנו שעיקר הטעם שנקראו",
+      "coords": {
+        "HPOS": 137,
+        "VPOS": 454,
+        "WIDTH": 2011,
+        "HEIGHT": 63
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_f9b25705-23a1-4a3f-aec4-122d23a836be",
+      "kind": "main",
+      "idx": 4,
+      "text": "בשם זה היינו משום שמחויבים לאומרם בע\"פ שלא מן הכתב, אבל כתיבה בלי קריאה כרי שתשאר לזכד",
+      "coords": {
+        "HPOS": 139,
+        "VPOS": 517,
+        "WIDTH": 2007,
+        "HEIGHT": 56
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_9dd6e188-bd84-4023-93f4-4f4af46dcecd",
+      "kind": "main",
+      "idx": 5,
+      "text": "עולם מהיכן נולד האיסור? ואם ס\"ל לר\"יוח להפך, ונוכל לומר דפליג על תנא דברי\"ש, או מפרש א\"כ",
+      "coords": {
+        "HPOS": 137,
+        "VPOS": 577,
+        "WIDTH": 2009,
+        "HEIGHT": 62
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_346d8917-48c6-422b-8ca1-abe71df7838f",
+      "kind": "main",
+      "idx": 6,
+      "text": "היה לו להודיענו מאין הוציא רינו המחודש הזה? אלא ע\"כ יפרשו להם גאוני ספרד דר \"יוח אתא להוסיף",
+      "coords": {
+        "HPOS": 139,
+        "VPOS": 643,
+        "WIDTH": 2009,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_b0d5a8dc-559d-4ba6-b01d-98e835b076ac",
+      "kind": "main",
+      "idx": 7,
+      "text": "האיסור של הכתיבה הפומביית שאם נתנו ליכתב אף שלא ללמוד מתוכן כי אם לזכרון, יבואו מן ההתר",
+      "coords": {
+        "HPOS": 143,
+        "VPOS": 709,
+        "WIDTH": 2003,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_7c018c0b-55c0-4cd6-8d9d-f853a38e549b",
+      "kind": "main",
+      "idx": 8,
+      "text": "אל האיסור, וזהו הגדר והסיג, כי לאו כ\"ע דינא גמירי, ולאו כ\"ע מיראי ה' ומחושבי שמז, וע\"ז אמר",
+      "coords": {
+        "HPOS": 141,
+        "VPOS": 773,
+        "WIDTH": 2005,
+        "HEIGHT": 64
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_26504a78-9a06-4f79-abd6-2268bdc47991",
+      "kind": "main",
+      "idx": 9,
+      "text": "\"כותבי\" דדייקא, שמלאכתם בכך, כמו כותבי ספרים ומזוזות ותפילין שמלאכתן לא לעצמן אלא",
+      "coords": {
+        "HPOS": 139,
+        "VPOS": 839,
+        "WIDTH": 1992,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_d9ee052f-27f4-4e4b-bc0b-d2d44c19eac0",
+      "kind": "main",
+      "idx": 10,
+      "text": "לאחרים הרי הם כשורפי תורה ממש, כמו שפרש\"י שאין מצילין אותם מפני הדליקה, וממילא ריבוי",
+      "coords": {
+        "HPOS": 141,
+        "VPOS": 903,
+        "WIDTH": 2007,
+        "HEIGHT": 55
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_01872d04-bf7a-4a0d-9526-9be79a684770",
+      "kind": "main",
+      "idx": 11,
+      "text": "הכתיבה ללא צורך גדול (שהצורך הגדול הוא כמו שהיו כותבין כל אחד לעצמו זכרון שמועות והלכות",
+      "coords": {
+        "HPOS": 139,
+        "VPOS": 964,
+        "WIDTH": 2009,
+        "HEIGHT": 62
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_7a2f0ab1-80ab-4239-89c0-d0f391650f0f",
+      "kind": "main",
+      "idx": 12,
+      "text": "כמו ששמעו מרבם) הא ודאי הוי כשורפי תורה בלי ספק, והלמד מהן אינו נוטל שכר, ר\"ל שכל",
+      "coords": {
+        "HPOS": 137,
+        "VPOS": 1030,
+        "WIDTH": 2011,
+        "HEIGHT": 64
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_cc33ff38-ab62-4b80-a7f3-ac93231412b4",
+      "kind": "main",
+      "idx": 13,
+      "text": "שהספרים לא כתבום כ\"א לעצמן לצורך הזכרון כמו שהיו נוהגים, והגיעו הדברים ליד כותבי הלכות",
+      "coords": {
+        "HPOS": 135,
+        "VPOS": 1094,
+        "WIDTH": 2015,
+        "HEIGHT": 57
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_3141f937-cb3a-4b54-9ee9-26138276ef5c",
+      "kind": "main",
+      "idx": 14,
+      "text": "ולקבוע מלאכתן בכך, הא ודאי אסורים להשתמש מהן, אפי' ללמור מהן, ר\"ל אפי' בדרך שהיו עושים",
+      "coords": {
+        "HPOS": 141,
+        "VPOS": 1158,
+        "WIDTH": 2012,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_16112191-accc-4b18-bd65-4305a7387a84",
+      "kind": "main",
+      "idx": 15,
+      "text": "בזכרונותיהם שרואים מתוך הכתב וקוראים בע\"פ גם זה לא, ואם נהנה מהם, הרי איבד זמנו לבטלה,",
+      "coords": {
+        "HPOS": 146,
+        "VPOS": 1222,
+        "WIDTH": 2004,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_34b7e4de-6e41-40e2-aca5-734a7cba7170",
+      "kind": "main",
+      "idx": 16,
+      "text": "ואינו נוטל שכר, ותקנה גדולה היא זאת לגזור מלמטה והקב\"ה יקיים מלמעלה, שלא יטלו שכר מהנאת",
+      "coords": {
+        "HPOS": 139,
+        "VPOS": 1285,
+        "WIDTH": 2014,
+        "HEIGHT": 62
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_5e913bb4-dbc3-4896-88d7-1b4fcaf0e602",
+      "kind": "main",
+      "idx": 17,
+      "text": "ספרים אלו, דאי לאו הכי, כל ערום יעשה בדעת, ויקבע מלאכתו בכך, ואחרים משתמשים מהם",
+      "coords": {
+        "HPOS": 144,
+        "VPOS": 1354,
+        "WIDTH": 2007,
+        "HEIGHT": 65
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_e11998fd-9657-49a3-9d08-16080495588f",
+      "kind": "main",
+      "idx": 18,
+      "text": "בראיה בכתב, וקריאה בע\"פ, וע\"ז מתרבים ספרי תורה שבע\"פ, ומלבד שיש לחוש, שע\"י רבויים",
+      "coords": {
+        "HPOS": 143,
+        "VPOS": 1417,
+        "WIDTH": 2007,
+        "HEIGHT": 57
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_e68f3f93-5a44-47b6-bd24-2aefe7b8fed0",
+      "kind": "main",
+      "idx": 19,
+      "text": "יבואו ללמוד מתוך הכתב, מה שהוא עיקר האיסור, אלא עוד זאת, דכל שהם מרובים, הם יותר",
+      "coords": {
+        "HPOS": 148,
+        "VPOS": 1481,
+        "WIDTH": 2005,
+        "HEIGHT": 64
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_9004a076-d8f4-4dc1-b09c-b2b17dff16b1",
+      "kind": "main",
+      "idx": 20,
+      "text": "עלולים לשריפה, מפני שאין מצילין אותם, לא אכחד שרש\"י פ' הלמד מהן מתוך הספרים ע\"כ. אבל",
+      "coords": {
+        "HPOS": 141,
+        "VPOS": 1543,
+        "WIDTH": 2012,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_8735a506-f1a3-43f2-8532-e0e63895d8ee",
+      "kind": "main",
+      "idx": 21,
+      "text": "אין להביא ראיה מפירושו ז\"ל, שהוא מוכרח לדחוק עצמו ולפרש כן כיון שהוא סובר, דכל מין כתיבה",
+      "coords": {
+        "HPOS": 141,
+        "VPOS": 1606,
+        "WIDTH": 2010,
+        "HEIGHT": 71
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_9630bcd8-aec8-4e33-afd6-3645fd7a610e",
+      "kind": "main",
+      "idx": 22,
+      "text": "אסורה, בין לעצמו בדרך סוד כמוס, בין לאחרים, א\"כ מאי כל הלמד מהן אינו נוטל שבר? אם הוא",
+      "coords": {
+        "HPOS": 141,
+        "VPOS": 1668,
+        "WIDTH": 2012,
+        "HEIGHT": 70
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_c8549552-4c94-4616-aee2-0f4d4c8e728b",
+      "kind": "main",
+      "idx": 23,
+      "text": "לא כתבן, וגם לא ילמוד מתוכן כי אם ראיה בעלמא למה לא יטול שכר? וכי טוביה חטא וזיגוד",
+      "coords": {
+        "HPOS": 148,
+        "VPOS": 1734,
+        "WIDTH": 2007,
+        "HEIGHT": 59
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_d483cd00-1875-4bdb-b745-1f234bf7f999",
+      "kind": "main",
+      "idx": 24,
+      "text": "מינגד? ע\"ז נדחק לפרש שמה שאינו נוטל שכר היינו משום דלומד דברים שבע\"פ מתוך הספרים, וזה",
+      "coords": {
+        "HPOS": 143,
+        "VPOS": 1800,
+        "WIDTH": 2008,
+        "HEIGHT": 73
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_2481757a-1046-4cab-82e6-2b100b026834",
+      "kind": "main",
+      "idx": 25,
+      "text": "באיסורא קאי, אלא רבאמת שפיד אמרתי, רפי' דחיק ואתי מרחיק דאי ללמוד דברים שבע\"פ מתוך",
+      "coords": {
+        "HPOS": 150,
+        "VPOS": 1860,
+        "WIDTH": 2003,
+        "HEIGHT": 70
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_1cfdeb78-1d3d-488c-b1da-537d390af419",
+      "kind": "main",
+      "idx": 26,
+      "text": "הספרים מאי \"אינו נוטל שכר\"? איסורא קא עביד! ואפי' למאן דאמר דאיסור זה הוא מדרבנן, הרי",
+      "coords": {
+        "HPOS": 150,
+        "VPOS": 1925,
+        "WIDTH": 2005,
+        "HEIGHT": 67
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_dd3a1a9c-557d-41ed-a54d-f1a2a8dcb8d6",
+      "kind": "main",
+      "idx": 27,
+      "text": "אמרו העובר על דברי חכמים תייב מיתה, ולכל הפחות לא סגי דלא ליהוי ליה עונש, ואיך נפטר הדבר",
+      "coords": {
+        "HPOS": 148,
+        "VPOS": 1992,
+        "WIDTH": 2005,
+        "HEIGHT": 57
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_599e7bc9-3d94-49d2-91f1-0e2826bb94dc",
+      "kind": "main",
+      "idx": 28,
+      "text": "באינו נוטל שכר? ולדרכנו הוא מובן מאליו, דכל דבר תורה שבע\"פ שלא כתבו, מי שכתבו לעצמו",
+      "coords": {
+        "HPOS": 146,
+        "VPOS": 2055,
+        "WIDTH": 2007,
+        "HEIGHT": 58
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_57764c05-4758-4dc5-af85-2a4b96b9317b",
+      "kind": "main",
+      "idx": 29,
+      "text": "(בדדך זכרון שמועות, וסידור חיבורים, שכתבו גדולי הדור לעצמן כדי שיהיו סדורים למגרסי נהו בע\"פ)",
+      "coords": {
+        "HPOS": 144,
+        "VPOS": 2123,
+        "WIDTH": 2006,
+        "HEIGHT": 67
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_e16de3a1-4860-45db-9526-4d188f46f655",
+      "kind": "main",
+      "idx": 30,
+      "text": "הם אסורים ללמוד מהן, אפי' בראיה בעלמא כיון שנעשה בהן איסור, והלומד מהן אינו נוטל שכר",
+      "coords": {
+        "HPOS": 148,
+        "VPOS": 2181,
+        "WIDTH": 2007,
+        "HEIGHT": 72
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_d5dcee69-addc-46d4-a48e-759bc0195846",
+      "kind": "main",
+      "idx": 31,
+      "text": "כלל, והוא עונש כי היכי דלא לכתבו, ולא יהיה חוטא נשכר, וע\"כ יתפרש כל הלומד מהן, כל הנהנה",
+      "coords": {
+        "HPOS": 146,
+        "VPOS": 2245,
+        "WIDTH": 2009,
+        "HEIGHT": 72
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_9c19e2e6-dfc3-4589-aa67-5743f7b8acf1",
+      "kind": "main",
+      "idx": 32,
+      "text": "מהן בלימודו בכל אופן, ר\"ל אפי' המותר, דהיינו ראיה מבפנים, וקריאה מבחוץ בעל פה, עכ\"ז אינו",
+      "coords": {
+        "HPOS": 150,
+        "VPOS": 2311,
+        "WIDTH": 2007,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_23f180b7-5ef0-43b4-96e5-20f659d7e936",
+      "kind": "main",
+      "idx": 33,
+      "text": "נוטל שכר, וקנס קנסו רבנן לכותבי הלכות ע\"י גזרתם זאת והוא ברור, ושוב מצאתי להי\"מ פ' כל כתבי",
+      "coords": {
+        "HPOS": 148,
+        "VPOS": 2377,
+        "WIDTH": 2007,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_a02a853a-5979-40f0-ba55-016c7f8ade45",
+      "kind": "main",
+      "idx": 34,
+      "text": "סי' ד' דברים כהויתן על שומע דברים מפי הקורא בספרים שלא ניתנו ליכתב ראינו נוטל שכר כיון",
+      "coords": {
+        "HPOS": 146,
+        "VPOS": 2438,
+        "WIDTH": 2005,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_691981cd-707d-49a5-9748-f2f79d4b72e3",
+      "kind": "main",
+      "idx": 35,
+      "text": "דשמיעתו ע\"י עוברי עברה, והוא ממש כונתנו עלז לבי בה', והיה נראה לדחוק ולישב דברי רש\"י באופן",
+      "coords": {
+        "HPOS": 150,
+        "VPOS": 2509,
+        "WIDTH": 2003,
+        "HEIGHT": 65
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_24198d1f-ec41-4810-bd22-cadbfe3162ca",
+      "kind": "main",
+      "idx": 36,
+      "text": "אחר אלא שאינו נראה כלל דאנו בורחים מארי ונפגע בדוב ודוק.",
+      "coords": {
+        "HPOS": 515,
+        "VPOS": 2568,
+        "WIDTH": 1281,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_c63a3d13-e3fe-4f7d-a20e-edb30c86d6ec",
+      "kind": "main",
+      "idx": 37,
+      "text": "ומעתה לא נשאר לנו לישב לדעת גאוני ספרד, כי אם אותה שהקשו בתמורה, על רב דימי שהיה",
+      "coords": {
+        "HPOS": 150,
+        "VPOS": 2630,
+        "WIDTH": 2003,
+        "HEIGHT": 72
+      },
+      "para_start": true,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_ac252e6b-1995-49dd-b9da-ce431a7d74a2",
+      "kind": "main",
+      "idx": 38,
+      "text": "רוצה לשלוח אגרת כתוב בה תושבע\"פ, לרב יוסף ולא מצא ע\"י מי לשלחה, והקשו",
+      "coords": {
+        "HPOS": 148,
+        "VPOS": 2695,
+        "WIDTH": 1721,
+        "HEIGHT": 71
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_7566b0ed-9dd9-49cc-b6ba-9e89a1198880",
+      "kind": "main",
+      "idx": 39,
+      "text": "בגמרא מהני תרתי מימרי דר\"י, ודריב\"ן, וחדא תוספתא דר\"יש, דלפי פשטן של דברים נראה דאסור",
+      "coords": {
+        "HPOS": 152,
+        "VPOS": 2757,
+        "WIDTH": 2001,
+        "HEIGHT": 71
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_e874cea1-0349-41fc-8c32-56839e6c259d",
+      "kind": "main",
+      "idx": 40,
+      "text": "לכתוב, ותירץ \"דילמא מילתא חדתא שאני, דהא ר\"יוח ורש\"ל מעייני בספרא דאגדתא בשבתא ודרשי,",
+      "coords": {
+        "HPOS": 159,
+        "VPOS": 2821,
+        "WIDTH": 1996,
+        "HEIGHT": 73
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_87247154-6f18-4c78-a6d2-791e6512a185",
+      "kind": "main",
+      "idx": 41,
+      "text": "הכי \"עת לעשות לה' הפרו תורתך\" אמרי, מוטב תעקר תורה, ואל תשכח תורה מישראל\" ע\"כ",
+      "coords": {
+        "HPOS": 170,
+        "VPOS": 2889,
+        "WIDTH": 1983,
+        "HEIGHT": 70
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_3ef0461b-c6ae-4014-a53e-6ece84a5f8d5",
+      "kind": "main",
+      "idx": 42,
+      "text": "ואש כפי דעת גאוני ספרד דהיו כותבין זכרון שמועות כל אחד כפי מה ששמע מרבותיו, ועיקר האיסור",
+      "coords": {
+        "HPOS": 155,
+        "VPOS": 2955,
+        "WIDTH": 1998,
+        "HEIGHT": 93
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_21f89f7d-a519-4348-b325-fe923faac12d",
+      "kind": "main",
+      "idx": 43,
+      "text": "אינו",
+      "coords": {
+        "HPOS": 286,
+        "VPOS": 3034,
+        "WIDTH": 86,
+        "HEIGHT": 46
+      },
+      "para_start": false,
+      "is_catchword": true
+    }
+  ]
+}

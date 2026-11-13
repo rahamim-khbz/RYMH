@@ -1,0 +1,653 @@
+{
+  "page_id": "page-83",
+  "image": "page_images/page-83.jpg",
+  "page_width": 2550,
+  "page_height": 3300,
+  "base_hash": "sha256:512478ac99a30734b25047cf08f8f3ea583b138bb3c0b24e07570a289e45d2ef",
+  "lines": [
+    {
+      "line_id": "eSc_line_dc02b433",
+      "kind": "main",
+      "idx": 0,
+      "text": "ודאי היו חוזרים רבותינו הצרפתים מסברותיהם בלי שום ריח ספק, ומאי שנא ענין זה מכל שאר",
+      "coords": {
+        "HPOS": 247,
+        "VPOS": 243,
+        "WIDTH": 2003,
+        "HEIGHT": 57
+      },
+      "para_start": true,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_707f4320",
+      "kind": "main",
+      "idx": 1,
+      "text": "הדינים וההוראות אשר בית ישראל נכון עליהם אם באיסורים, ואם בדיני ממונוה, דלא אמרינן הלכה",
+      "coords": {
+        "HPOS": 245,
+        "VPOS": 309,
+        "WIDTH": 2005,
+        "HEIGHT": 65
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_dff7b7e9",
+      "kind": "main",
+      "idx": 2,
+      "text": "בבתראי אם האחרון לא ראה דברי הראשון שקדמו וז\"ל מוהרי\"קו שורש צ\"ד \"ולפי הנלמד דוקא היכא",
+      "coords": {
+        "HPOS": 242,
+        "VPOS": 361,
+        "WIDTH": 2007,
+        "HEIGHT": 77
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_b8168beb",
+      "kind": "main",
+      "idx": 3,
+      "text": "שדברי הראשונים כתובים על ספר ידוע ומפורסם (הוא דאמרינן הלכה כבתראי) אבל מה שנמצא כתוב",
+      "coords": {
+        "HPOS": 242,
+        "VPOS": 438,
+        "WIDTH": 2007,
+        "HEIGHT": 58
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_e630c910",
+      "kind": "main",
+      "idx": 4,
+      "text": "בתשו' גאון אחד ולא עלה זכרונו על ספר ידוע, אפילו אם ימצא פוסק אחרון שיפסוק הפך מהגאון",
+      "coords": {
+        "HPOS": 243,
+        "VPOS": 502,
+        "WIDTH": 2007,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_51ccf820",
+      "kind": "main",
+      "idx": 5,
+      "text": "הקודם לו איכא למימר, דילמא לא שמיע ליה לאותו פוסק האחרון דבריו, ואי הוה שמיע ליה הוה",
+      "coords": {
+        "HPOS": 243,
+        "VPOS": 561,
+        "WIDTH": 2007,
+        "HEIGHT": 73
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_ce048c34",
+      "kind": "main",
+      "idx": 6,
+      "text": "'הדר ביה, ויש להביא ראיה מההיא דגרסינן בכתובות פרק מציאת האשה (דס\"ט ע\"א) תלה ליה וכו",
+      "coords": {
+        "HPOS": 251,
+        "VPOS": 621,
+        "WIDTH": 1999,
+        "HEIGHT": 75
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_3100b581",
+      "kind": "main",
+      "idx": 7,
+      "text": "וכתב ר\"ה גאון בתשו' וז\"ל \"עכשיו באנו לחקור דברי ר' יוחנן שהוא בתרא, מימר אמרינן ששמע דברי",
+      "coords": {
+        "HPOS": 247,
+        "VPOS": 687,
+        "WIDTH": 2007,
+        "HEIGHT": 77
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_29ae427b",
+      "kind": "main",
+      "idx": 8,
+      "text": "רבי מוציאין לפרנסה וראה בהם קושיא ודחאם, וכיון שדחאם ר\"יוח שהוא בתרא לא עבדינן כרבי, א\"ד",
+      "coords": {
+        "HPOS": 251,
+        "VPOS": 755,
+        "WIDTH": 1999,
+        "HEIGHT": 73
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_3f4a5f1b",
+      "kind": "main",
+      "idx": 9,
+      "text": ",לא שמע אותה, שאילו שמע לא היה חולק עליו, ת\"ש וכו', עד, נמצא דלא אפשיט אי שמיע ליה אי לא",
+      "coords": {
+        "HPOS": 247,
+        "VPOS": 815,
+        "WIDTH": 2003,
+        "HEIGHT": 81
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_3c7edf61",
+      "kind": "main",
+      "idx": 10,
+      "text": "הילכך מספיקא לא מחזקינן פלוגתא בין ר' ובין ר\"יוח\" עכ\"ל. הרי לך להדיא שכתב ר\"ה גאון דאין",
+      "coords": {
+        "HPOS": 247,
+        "VPOS": 881,
+        "WIDTH": 2003,
+        "HEIGHT": 79
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_87c488e5",
+      "kind": "main",
+      "idx": 11,
+      "text": "להחזיק פלוגתא, וא\"כ אית לן למימר דלא שמיע ליה וכו' \"ואי הוה שמיע ליה לא היה חולק, וע\"כ",
+      "coords": {
+        "HPOS": 247,
+        "VPOS": 951,
+        "WIDTH": 2005,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_3cd4f846",
+      "kind": "main",
+      "idx": 12,
+      "text": "היינו טעמא, דכיון דלא מצינו בשום ברייתא או מימרא משמיה דרבי דלימא הכי דמוציאין לפרנסה",
+      "coords": {
+        "HPOS": 243,
+        "VPOS": 1019,
+        "WIDTH": 2009,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_26b76e8a",
+      "kind": "main",
+      "idx": 13,
+      "text": ",'וכו' אלא שהשיב בתשו' שאלה לרב וכו' וכו', משום הכי איכא לספוקי דילמא לא שמיע ליה לר\"יוח ונו",
+      "coords": {
+        "HPOS": 253,
+        "VPOS": 1074,
+        "WIDTH": 2001,
+        "HEIGHT": 79
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_7b96b933",
+      "kind": "main",
+      "idx": 14,
+      "text": "אבל אי הוה מתני בברייתא משמיה דר' וכו' וכו' מסתמא אמרינן דשמיע ליה לר\"יוח, ולא קבלה, והוה",
+      "coords": {
+        "HPOS": 243,
+        "VPOS": 1147,
+        "WIDTH": 2009,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_d46b8854",
+      "kind": "main",
+      "idx": 15,
+      "text": "פסקינן כוותיה וכו' וכו', ומשום הכי כתבו הגאונים דהלכתא כבתראי, ולא דלא שמיע להו ונו, אבל",
+      "coords": {
+        "HPOS": 245,
+        "VPOS": 1206,
+        "WIDTH": 2004,
+        "HEIGHT": 77
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_935817c2",
+      "kind": "main",
+      "idx": 16,
+      "text": "במה שנמצא בתשו' שאלה כי ההיא דתלה ליה רב ביני חיטי וכו' בההיא הוא דאיכא לספוקי דילמא",
+      "coords": {
+        "HPOS": 242,
+        "VPOS": 1276,
+        "WIDTH": 2007,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_1947878d",
+      "kind": "main",
+      "idx": 17,
+      "text": "לא שמיע ליה\" עכ\"ד. ותשו' זאת דמוהרי\"קו נכתב עליה הנפק מכל הבאים אחריו (מכללם עיין",
+      "coords": {
+        "HPOS": 247,
+        "VPOS": 1336,
+        "WIDTH": 2003,
+        "HEIGHT": 72
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_9fecfd03",
+      "kind": "main",
+      "idx": 18,
+      "text": "מוהר\"ם אלשיך סי' ט\"ל, מוהרשד\"ם ח\"מ סי' א', מוהרימ\"ט ח\"מ סי' ג\"ן, שמחת יו\"ט סי' י\"ז, ש\"ד",
+      "coords": {
+        "HPOS": 258,
+        "VPOS": 1398,
+        "WIDTH": 1992,
+        "HEIGHT": 81
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_b5caecab",
+      "kind": "main",
+      "idx": 19,
+      "text": "ו\"ד סי' רמ\"ב או' ס\"ח) העולה מכל האמור דכשהענין הוא תשו' שאלה אמרי' מספיקא לא מחזקינן",
+      "coords": {
+        "HPOS": 245,
+        "VPOS": 1464,
+        "WIDTH": 2002,
+        "HEIGHT": 77
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_2c788e11",
+      "kind": "main",
+      "idx": 20,
+      "text": "מחלוקת, ואמרינן ודאי לא שמיע להו, ואי שמיע להו, הוו הדרי בהו, וא\"כ ב' תשובות הללו מרב",
+      "coords": {
+        "HPOS": 243,
+        "VPOS": 1530,
+        "WIDTH": 2007,
+        "HEIGHT": 76
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_c88e0ddf",
+      "kind": "main",
+      "idx": 21,
+      "text": "שדירא הנז', חדא ביוחסין, וחדא אשר לפנינו בשערי תשובה דנשלחו לספרד או לאפ\"ריקא, מאין הידים",
+      "coords": {
+        "HPOS": 243,
+        "VPOS": 1602,
+        "WIDTH": 2009,
+        "HEIGHT": 70
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_9b505eab",
+      "kind": "main",
+      "idx": 22,
+      "text": "לומר, דשמיע ליה לרש\"י והנגררים אחריו בסברא זאת דלא נכתבה אפילו אות אחת מתורה שבע\"פ",
+      "coords": {
+        "HPOS": 243,
+        "VPOS": 1664,
+        "WIDTH": 2007,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_ebdcf506",
+      "kind": "main",
+      "idx": 23,
+      "text": ",עד תחי' זמן הגאונים, והגאונים המפורסמים, אשר עיני כל ישראל עליהם, מעידים בגדלם להפך",
+      "coords": {
+        "HPOS": 251,
+        "VPOS": 1723,
+        "WIDTH": 1996,
+        "HEIGHT": 79
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_77555eb6",
+      "kind": "main",
+      "idx": 24,
+      "text": "ואינם הפך שורשי הגמ' חלילה! וכאשר הארכנו לעיל, כדי שיבא עלינו הגאון הרמ\"ז ז\"ל \"דכמה",
+      "coords": {
+        "HPOS": 245,
+        "VPOS": 1789,
+        "WIDTH": 2005,
+        "HEIGHT": 75
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_19defcca",
+      "kind": "main",
+      "idx": 25,
+      "text": "דברי הגאונים נדחו מפני שאינם על שורשי הגמ'\" דבאמת זה אינו, וא\"כ לא נשאר מנגד לפנה",
+      "coords": {
+        "HPOS": 245,
+        "VPOS": 1855,
+        "WIDTH": 2007,
+        "HEIGHT": 73
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_0de9f785",
+      "kind": "main",
+      "idx": 26,
+      "text": "האמחית הזאת לדעת הגאונים, כ\"א דעת רבותינו הצרפתים, וא\"כ בתראי נינהו, אשר ודאי לא",
+      "coords": {
+        "HPOS": 243,
+        "VPOS": 1917,
+        "WIDTH": 2007,
+        "HEIGHT": 75
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_732e5224",
+      "kind": "main",
+      "idx": 27,
+      "text": "שמיע להו, שאין בין פטירת רבינו האיי גאון לפשירת רש\"י, כי אם פחות מע' שנה, דידים מוכיחות",
+      "coords": {
+        "HPOS": 242,
+        "VPOS": 1983,
+        "WIDTH": 2008,
+        "HEIGHT": 70
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_959347e7",
+      "kind": "main",
+      "idx": 28,
+      "text": "הווין ידים לומר בודאי לא שמיע להו, ואי שמיע להו הוו הדרי, והאריכות עוד בדבר זה אינו אלא",
+      "coords": {
+        "HPOS": 243,
+        "VPOS": 2044,
+        "WIDTH": 2004,
+        "HEIGHT": 77
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_ecec66e6",
+      "kind": "main",
+      "idx": 29,
+      "text": "(יגיעת בשר. (מ\"ד",
+      "coords": {
+        "HPOS": 1053,
+        "VPOS": 2117,
+        "WIDTH": 392,
+        "HEIGHT": 70
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_1dec4dc1",
+      "kind": "main",
+      "idx": 30,
+      "text": "ומעתה",
+      "coords": {
+        "HPOS": 376,
+        "VPOS": 2192,
+        "WIDTH": 174,
+        "HEIGHT": 53
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_9e53d553",
+      "kind": "main",
+      "idx": 31,
+      "text": "מד) וטוב הגאין שי\"ר נר\"ו האיר את עיני (תולדות ר\"ן כ\"ע הערה ל\"ב) והראני מ\"ש רש\"י בכתובות ד\"ז ע\"ב ונגטין)",
+      "coords": {
+        "HPOS": 243,
+        "VPOS": 2278,
+        "WIDTH": 2006,
+        "HEIGHT": 76
+      },
+      "para_start": true,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_d1370932",
+      "kind": "main",
+      "idx": 32,
+      "text": "ד\"ם ע\"ב, דמשם מוכח להדיא דהיתה ביד רש\"י ז\"ל האגרת החמודה הזאת, ומכאן טובה תוכחת מגולה מאהבה",
+      "coords": {
+        "HPOS": 243,
+        "VPOS": 2341,
+        "WIDTH": 1896,
+        "HEIGHT": 60
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_b3ab9f26",
+      "kind": "main",
+      "idx": 33,
+      "text": "עצמית, אל כל אחרון שלא להחליט הנהותיו בזדון גמור, כי א\"א לילודי אשה בלי השמטות הא קמןז כמה אלפי פעמים",
+      "coords": {
+        "HPOS": 243,
+        "VPOS": 2383,
+        "WIDTH": 2006,
+        "HEIGHT": 71
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_da992d18",
+      "kind": "main",
+      "idx": 34,
+      "text": "עברתי על ב' סוגייאות הנ\"ל, ואני זוכר ג\"כ עתה תסו' התשב\"ץ ח\"א סי' קמ\"ב ד\"ע ע\"ד שהביא דברי רש\"י הנז\"ל, ועכ\"ז",
+      "coords": {
+        "HPOS": 243,
+        "VPOS": 2445,
+        "WIDTH": 2009,
+        "HEIGHT": 63
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_33c6bbce",
+      "kind": "main",
+      "idx": 35,
+      "text": "אשתמיטו מנאי דברי רש\"י הנז\"ל קרואים והולכים לתומם, ועכ\"ז ידי על העליונה לומר: שאפשר לא ראה אותה כולה כמות",
+      "coords": {
+        "HPOS": 242,
+        "VPOS": 2500,
+        "WIDTH": 2008,
+        "HEIGHT": 59
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_7b440e10",
+      "kind": "main",
+      "idx": 36,
+      "text": "שהיא, שאפשר, שאחר שהגיעה לקירוואן היו מעתיקים ממנה פסקי פסקי להשיב על איזה פרט מפרטים הכתובים בה אשר",
+      "coords": {
+        "HPOS": 247,
+        "VPOS": 2553,
+        "WIDTH": 2005,
+        "HEIGHT": 65
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_f4336fbc",
+      "kind": "main",
+      "idx": 37,
+      "text": ",רבו לימנות, והעד ע\"ז הוא אותה תשובה דלקמן סי' ע\"א, שהיא ניצוץ אחד יוצא מפטיש החזק שבאגרת החמודה הזאת",
+      "coords": {
+        "HPOS": 243,
+        "VPOS": 2601,
+        "WIDTH": 2007,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_a4204331",
+      "kind": "main",
+      "idx": 38,
+      "text": "ורשום עליה מהמעתיק שהיא מוצאת מאותה האגרת הגדולה, א\"כ גם רש\"י היה לו אותם הפירושים כניצוצות הניתזין",
+      "coords": {
+        "HPOS": 243,
+        "VPOS": 2660,
+        "WIDTH": 2007,
+        "HEIGHT": 64
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_98f4bca7",
+      "kind": "main",
+      "idx": 39,
+      "text": ",מאותה אגרת וידע שהם לקוחים משם, וע\"ז כתבם בסימניהן ובמצריהן, ולעולם עיקר התשו' לא ראה אותה, ויש לי ראיה",
+      "coords": {
+        "HPOS": 247,
+        "VPOS": 2717,
+        "WIDTH": 2002,
+        "HEIGHT": 58
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_8648f7ed",
+      "kind": "main",
+      "idx": 40,
+      "text": "שהרי התוספות בריש כתובות ע\"כ ד\"ה פשיטי, מביאין משם הרשב\"ם, דמחבר השאלתות היה סוף האמוראים, ולא שמיע",
+      "coords": {
+        "HPOS": 243,
+        "VPOS": 2768,
+        "WIDTH": 2007,
+        "HEIGHT": 60
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_929981f2",
+      "kind": "main",
+      "idx": 41,
+      "text": "ליה, דרב שדירא באגרתו זאת כתב דהוה אחר כמה גאונים, ועיין ועד לחכמים בריש ספרו ודוק, ועוד יש לי כדמות ראיה",
+      "coords": {
+        "HPOS": 242,
+        "VPOS": 2821,
+        "WIDTH": 2007,
+        "HEIGHT": 62
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_ac11a780",
+      "kind": "main",
+      "idx": 42,
+      "text": ",'שלא ראה רש\"י כל אגרת ר\"ש בצביונה ובקומתה שהרי בפ\"ק דנדה ד\"ז ע\"ב ד\"ה הא קמ\"ל דאין למדין הלכה מפי הגמ",
+      "coords": {
+        "HPOS": 251,
+        "VPOS": 2876,
+        "WIDTH": 1998,
+        "HEIGHT": 64
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_5fc41084",
+      "kind": "main",
+      "idx": 43,
+      "text": "האריך לפרש דהאי גמרא הוא על גמרת התנאים, כיעוש\"ב, ואילו ראה אגרת רבינו הגאון דקיימינן בה בעינה, היה לו",
+      "coords": {
+        "HPOS": 245,
+        "VPOS": 2922,
+        "WIDTH": 2002,
+        "HEIGHT": 70
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_58738cf1",
+      "kind": "main",
+      "idx": 44,
+      "text": "ראשונים",
+      "coords": {
+        "HPOS": 348,
+        "VPOS": 3030,
+        "WIDTH": 156,
+        "HEIGHT": 59
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_d58ea107",
+      "kind": "main",
+      "idx": 45,
+      "text": "להעתיק דבריו, כאו שהארין לעיל בז\"ה ותלמוד נמי זשאלתון עליה שביאר עליה הגאון ביאור דאנ, אין אפי' ראשוני",
+      "coords": {
+        "HPOS": 249,
+        "VPOS": 2977,
+        "WIDTH": 1996,
+        "HEIGHT": 88
+      },
+      "para_start": false,
+      "is_catchword": false
+    }
+  ]
+}

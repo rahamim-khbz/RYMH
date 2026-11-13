@@ -1,0 +1,667 @@
+{
+  "page_id": "page-12",
+  "image": "page_images/page-12.png",
+  "page_width": 2550,
+  "page_height": 3300,
+  "base_hash": "sha256:0efa30223de7abdf7b035234acc064f676db3b4a6bd78ad295a15c69829f3d0b",
+  "lines": [
+    {
+      "line_id": "_2c8177f6-3abf-4874-a2b2-d3d6f38a842f",
+      "kind": "main",
+      "idx": 0,
+      "text": "מתחילה מתוך הכתב, שעל ידי רשימת הכתב שנשארה בין עינינו אנו זוכרים הדברים, והיינו ששכלנו",
+      "coords": {
+        "HPOS": 280,
+        "VPOS": 227,
+        "WIDTH": 2026,
+        "HEIGHT": 60
+      },
+      "para_start": true,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_018c2973-0975-4d92-8156-4617e7812c11",
+      "kind": "main",
+      "idx": 1,
+      "text": "מצייר הכתב בין עיניו בעת השנון בע\"פ, ועל יד על יד, הוא עובר בזכרונו בין רפיו ועליו ועמודיו",
+      "coords": {
+        "HPOS": 278,
+        "VPOS": 287,
+        "WIDTH": 2028,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_3816000b-6850-4d7e-906b-7d24d48c1c1a",
+      "kind": "main",
+      "idx": 2,
+      "text": "כאלו הכתב לנגד עיניו, ודבר זה הוא סגולת הטבע האמיתית שלא ישכח דבר וחצי דבר, והוא רמז",
+      "coords": {
+        "HPOS": 277,
+        "VPOS": 350,
+        "WIDTH": 2030,
+        "HEIGHT": 58
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_ecaf3d51-c2f9-47f7-bd09-bf58df954421",
+      "kind": "main",
+      "idx": 3,
+      "text": "נכון בצוויו יתברך, \"השמר לך פן תשכח את הדברים\" ואיך יצוונו על דבר שהוא תחת הנמנעות בטבע",
+      "coords": {
+        "HPOS": 275,
+        "VPOS": 419,
+        "WIDTH": 2032,
+        "HEIGHT": 65
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_4ac34a39-350e-4c08-95f9-d2c4c45beeca",
+      "kind": "main",
+      "idx": 4,
+      "text": "קיים, שאם טבענו הוא שכחן גמור, מה נעשה כי יקום אל לצוותינו כיום הזה? וע\"ז נותן טעם נכון",
+      "coords": {
+        "HPOS": 278,
+        "VPOS": 484,
+        "WIDTH": 2028,
+        "HEIGHT": 67
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_2a1414d6-0207-4eb4-9ae4-cdbdaab2d98f",
+      "kind": "main",
+      "idx": 5,
+      "text": "\"אשר ראו עיניך\" ואחר שראית הדברים מתחילתן בעיניך עיני בשר, ציווי שלא תשכח הוא טבעי,",
+      "coords": {
+        "HPOS": 289,
+        "VPOS": 544,
+        "WIDTH": 2006,
+        "HEIGHT": 70
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_b8bc8738-da6d-46a8-b63f-e2e62e73b2f0",
+      "kind": "main",
+      "idx": 6,
+      "text": "והוא אמיתות התורה, ואחר שעשה זה ישתדל שבעת שיחזור על לימודו בע\"פ, יהיה המקום פנוי,",
+      "coords": {
+        "HPOS": 299,
+        "VPOS": 608,
+        "WIDTH": 2008,
+        "HEIGHT": 72
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_f6c4a6bf-8699-4966-9cd5-d586958111b8",
+      "kind": "main",
+      "idx": 7,
+      "text": "שבאופן כזה ודאי יוכל ליקח הדברים בע\"פ, ויהיו לו שנונים על מתכונתם, וגם ישתדל להסביר",
+      "coords": {
+        "HPOS": 284,
+        "VPOS": 674,
+        "WIDTH": 2025,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_f8aed98b-b977-400f-bd62-5250de45c1c0",
+      "kind": "main",
+      "idx": 8,
+      "text": "הדברים על פי שורשם וטעמם, וסדר הליכותיהם מן הקל אל החמור, כיצד עולים הענינים במררגתם,",
+      "coords": {
+        "HPOS": 291,
+        "VPOS": 737,
+        "WIDTH": 2018,
+        "HEIGHT": 73
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_9fe8b865-8fe1-4882-9bc7-4d68412956e6",
+      "kind": "main",
+      "idx": 9,
+      "text": "ובאותה שעה בעיניו יראה, כי הדברים יהיו חקוקים בששר בזכרונו, ואחרי אשר הגענו לידי ביאור",
+      "coords": {
+        "HPOS": 282,
+        "VPOS": 812,
+        "WIDTH": 2029,
+        "HEIGHT": 60
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_d00c3ec0-4f30-42e2-9ca0-fafd131c992a",
+      "kind": "main",
+      "idx": 10,
+      "text": "אמיתי ומקובל על השכל הלזה, ויש בידינו בירורים גדולים, כדעת גאוני ספרד, דבצנעה גדולה היו",
+      "coords": {
+        "HPOS": 280,
+        "VPOS": 872,
+        "WIDTH": 2029,
+        "HEIGHT": 64
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_b6a957db-e345-44ce-b186-3a97c90f4d7a",
+      "kind": "main",
+      "idx": 11,
+      "text": "רואים מתוך הכתב, וזהירין למגרסינהו ע\"פ, א\"כ למה לא נפרש כל ד' מימרות על משקל אחד, כזה",
+      "coords": {
+        "HPOS": 280,
+        "VPOS": 933,
+        "WIDTH": 2029,
+        "HEIGHT": 69
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_2c3d19ae-96e7-4171-ad52-acd99b857ca2",
+      "kind": "main",
+      "idx": 12,
+      "text": "האופן: מתחי' קאי על השנון ממש, למצוא תרופה שיהא שנון הרק היטב בפי הגורס, ולזה מצא לו",
+      "coords": {
+        "HPOS": 280,
+        "VPOS": 997,
+        "WIDTH": 2029,
+        "HEIGHT": 70
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_3f9ef82f-8576-4a8f-9dc0-217efc0b76ec",
+      "kind": "main",
+      "idx": 13,
+      "text": "תרופה שיהיה יגע בב\"הכ, שהמקום גורם, אי מצד קדושתו, ואי מצד שהוא פנוי מכל מחשבה חומריית,",
+      "coords": {
+        "HPOS": 289,
+        "VPOS": 1070,
+        "WIDTH": 2018,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_2c5653ae-649b-4eb2-94f1-5d0a129e8364",
+      "kind": "main",
+      "idx": 14,
+      "text": "כי אין בו כי אם ד' כותלים פשוטים, והיכל ודוכן, ומפני פינוי המחשבה, נאסרו בו ציורי העופות",
+      "coords": {
+        "HPOS": 278,
+        "VPOS": 1129,
+        "WIDTH": 2029,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_0195fb09-1db1-4da7-b0b4-3698592a154c",
+      "kind": "main",
+      "idx": 15,
+      "text": "והבע\"ח כנודע, וא\"כ מקום פנוי מועיל הרבה לשנון, וע\"ז יאמר האומר, ומה תיקון אם שכח הסידור",
+      "coords": {
+        "HPOS": 284,
+        "VPOS": 1193,
+        "WIDTH": 2027,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_61563da2-0b8f-4610-81bd-196119f26c28",
+      "kind": "main",
+      "idx": 16,
+      "text": "או הענין, ומאין יבא עזרו לזכור הדברים? ואם אשתמיט מזכרונו ענין אחר איך ובמה ישנן אותו",
+      "coords": {
+        "HPOS": 282,
+        "VPOS": 1263,
+        "WIDTH": 2029,
+        "HEIGHT": 62
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_b647451c-42bb-4637-a31f-9d3a030c5b6f",
+      "kind": "main",
+      "idx": 17,
+      "text": "בב\"הכ? ע\"ז אמר כל הלומד תלמודו בצנעה, רומז אל ההלכות אשר היו כתובים להם בצנעה, והיו",
+      "coords": {
+        "HPOS": 282,
+        "VPOS": 1320,
+        "WIDTH": 2027,
+        "HEIGHT": 69
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_43df88ed-c9d6-4bd1-89fc-75625b7e166c",
+      "kind": "main",
+      "idx": 18,
+      "text": "רואים הדברים מתוך הכתב הכמוס וגורסין בע\"פ, וע\"כ מי שמתנהג על האופן, באמת לא במהרה",
+      "coords": {
+        "HPOS": 282,
+        "VPOS": 1386,
+        "WIDTH": 2029,
+        "HEIGHT": 69
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_f29700db-9bcd-4206-892b-570240c6a5c2",
+      "kind": "main",
+      "idx": 19,
+      "text": "הוא משכח, שתמיד הוא בעין שכלו סידור הדברים בזה אחר זה, כמו שהם כתובים על הלוחות אשר",
+      "coords": {
+        "HPOS": 284,
+        "VPOS": 1452,
+        "WIDTH": 2025,
+        "HEIGHT": 58
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_d20c48f3-75ff-4dde-a0fd-da860109fe2c",
+      "kind": "main",
+      "idx": 20,
+      "text": "ראה, ובדרך הערה אסמכיה על מ\"מ \"ואת צנועים חכמה\" בררך הערה ממש שהוא חוץ מפשוטו",
+      "coords": {
+        "HPOS": 284,
+        "VPOS": 1514,
+        "WIDTH": 2025,
+        "HEIGHT": 73
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_58c7bb7e-5ae7-4779-a4d5-e4ffbf08d04e",
+      "kind": "main",
+      "idx": 21,
+      "text": "לגמרי, כמו שכן היה דרכם כנורע, שגם אופן משובח זה היה מועיל להם לזכרון כל דבר קטון וגדול",
+      "coords": {
+        "HPOS": 282,
+        "VPOS": 1582,
+        "WIDTH": 2029,
+        "HEIGHT": 69
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_2897831b-a7f7-4bdf-8fc3-74a77c207214",
+      "kind": "main",
+      "idx": 22,
+      "text": "מתושבע\"פ שיוצא מפיהם, ויען שדבר זה בע\"כ טמן אותו ברמז עצום לומד בצנעה, שהכונה הוא על",
+      "coords": {
+        "HPOS": 284,
+        "VPOS": 1655,
+        "WIDTH": 2025,
+        "HEIGHT": 51
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_cdfae499-85c7-4ac6-b540-27a6881772e6",
+      "kind": "main",
+      "idx": 23,
+      "text": "ראיית הדברים מתוך הספר בצנעה שהם ההלכות, ע\"ז גילה הדברים באומרו: \"הלומד אגדה מתוך",
+      "coords": {
+        "HPOS": 288,
+        "VPOS": 1712,
+        "WIDTH": 2021,
+        "HEIGHT": 70
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_e6d5e157-cb8f-4db7-9515-e958bdf881c9",
+      "kind": "main",
+      "idx": 24,
+      "text": "הספר לא במהרה הוא משכח\" הכונה, כיון דבאגרה התירו לעצמן ללמוד בגלוי מתוך הספר, וכמ\"ש",
+      "coords": {
+        "HPOS": 284,
+        "VPOS": 1782,
+        "WIDTH": 2025,
+        "HEIGHT": 56
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_8db99178-84e0-46d5-b623-c76480a27c2e",
+      "kind": "main",
+      "idx": 25,
+      "text": "בגטין הנז\"ל והוא ר\"יוח גופיה, ע\"ז כאן גילה הדברים, כלומר ראה איך לימוד הדברים מתוך הספר מועיל",
+      "coords": {
+        "HPOS": 284,
+        "VPOS": 1837,
+        "WIDTH": 2025,
+        "HEIGHT": 71
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_a5e526fb-e3e6-4b86-aaea-b86eb8f4343e",
+      "kind": "main",
+      "idx": 26,
+      "text": "לזכירה, א\"כ גם מה שאמרתי לך בצנעה ר\"ל ראית הספרים אותם שהם בצנעה כהלכות, בצנעה, ואותם",
+      "coords": {
+        "HPOS": 282,
+        "VPOS": 1908,
+        "WIDTH": 2029,
+        "HEIGHT": 57
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_2a5b9e99-dabc-4b9c-b648-090f6c04632b",
+      "kind": "main",
+      "idx": 27,
+      "text": "שמותרים בפהרסיא בפהרסיא כאגדות ולעולם ראיית הדברים מתוך הספר הוא מועיל הרבה, ותן לחכם",
+      "coords": {
+        "HPOS": 282,
+        "VPOS": 1970,
+        "WIDTH": 2029,
+        "HEIGHT": 57
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_7d1f364a-63a7-4e75-849e-2b9bb1e816e7",
+      "kind": "main",
+      "idx": 28,
+      "text": "ויחכם, שבענין ההלכות שעדין לא הותרו בפומבי לא היה יכול לגלותו, כי אם לומר \"בצנעה\" והמבין",
+      "coords": {
+        "HPOS": 284,
+        "VPOS": 2033,
+        "WIDTH": 2029,
+        "HEIGHT": 71
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_35879102-66b6-4f9b-aac6-a0b73b4d6c38",
+      "kind": "main",
+      "idx": 29,
+      "text": "יבין שבצנעה היו יכולים להביט מתוך הספר ולגדוס בע\"פ, וע\"ז אתא להוסיף גם הסברא וכנז\"ל שהוא",
+      "coords": {
+        "HPOS": 282,
+        "VPOS": 2099,
+        "WIDTH": 2029,
+        "HEIGHT": 58
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_c05f9cca-58dc-4959-bf3f-b21c23589c9d",
+      "kind": "main",
+      "idx": 30,
+      "text": "ג\"כ מועיל לזכירה, וכל ארבעתם מקרא אחד דרשו שהסברא הראשונה והאחרונה, יוצאים \"מפן תשכח",
+      "coords": {
+        "HPOS": 282,
+        "VPOS": 2165,
+        "WIDTH": 2024,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_d666cac2-97ad-4a71-b58a-164fde3cd439",
+      "kind": "main",
+      "idx": 31,
+      "text": "את הרברים\" ר\"ל התחכם להזררז ולעשות ענינים שלא תשכח, והיינו המקום פנוי לחזור תלמודך ואין",
+      "coords": {
+        "HPOS": 286,
+        "VPOS": 2227,
+        "WIDTH": 2029,
+        "HEIGHT": 72
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_128ecb6d-c1f0-40ab-8f60-884524c35128",
+      "kind": "main",
+      "idx": 32,
+      "text": "למעלה מב\"הכ, והשתדל להסביר הענינים כשורשם, ואם כה תאמר, ואת כל אלה ידי עשתה, ולבי",
+      "coords": {
+        "HPOS": 286,
+        "VPOS": 2295,
+        "WIDTH": 2027,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_508bdd2e-fa51-4f63-8ee8-ee5347eaf9f5",
+      "kind": "main",
+      "idx": 33,
+      "text": "יצוק כמו אבן אין זכירה בו, לזה מסיים \"אשר ראו עיניך\" לא תקח הדברים בע\"פ מעיקרא, כ\"א אחר",
+      "coords": {
+        "HPOS": 288,
+        "VPOS": 2355,
+        "WIDTH": 2023,
+        "HEIGHT": 74
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_fe0c02d4-1610-42da-b824-925ea31ad81f",
+      "kind": "main",
+      "idx": 34,
+      "text": "שראיתם מתוך הכתב, הא בצנעה כהלכות, הא בפהרסיא כאגדות, ובזה כל ד' מימרות ממקרא אחד",
+      "coords": {
+        "HPOS": 289,
+        "VPOS": 2423,
+        "WIDTH": 2022,
+        "HEIGHT": 70
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_731119fd-ff40-4207-ac52-b65f6b24cdf2",
+      "kind": "main",
+      "idx": 35,
+      "text": "נדרשו, ונדרשו כמין חומר ודוק היטב.",
+      "coords": {
+        "HPOS": 920,
+        "VPOS": 2500,
+        "WIDTH": 767,
+        "HEIGHT": 55
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_187dc6e2-96ac-451b-b4a9-8d78df04c1a6",
+      "kind": "main",
+      "idx": 36,
+      "text": "הענף הב'",
+      "coords": {
+        "HPOS": 1972,
+        "VPOS": 2546,
+        "WIDTH": 334,
+        "HEIGHT": 95
+      },
+      "para_start": true,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_d30b5000-3f5c-4392-9a4f-c868062b7fa8",
+      "kind": "main",
+      "idx": 37,
+      "text": "גדולי הדורות מעולם לא נאסרה) מבורר יוצא מפשטי הסוגיאות, דבבלי ודירוש',",
+      "coords": {
+        "HPOS": 295,
+        "VPOS": 2618,
+        "WIDTH": 1634,
+        "HEIGHT": 67
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_c0349cdf-72c0-40ef-83e4-94955cc0a2ef",
+      "kind": "main",
+      "idx": 38,
+      "text": "ואחרי הודיע אלהים אותנו את כל זאת שדעת גאוני ספרר (שהכתיבה הסוריית ביד",
+      "coords": {
+        "HPOS": 289,
+        "VPOS": 2553,
+        "WIDTH": 1651,
+        "HEIGHT": 63
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_91e90fd5-2c38-48cb-8a57-7fb2570c9217",
+      "kind": "main",
+      "idx": 39,
+      "text": "ולכל הפחות אין מי שיוכל להכחיש, כי לא יתנגדו לסברתם הנחמרת הזאת יען וביען יתפרשו כמין חומר",
+      "coords": {
+        "HPOS": 288,
+        "VPOS": 2684,
+        "WIDTH": 2027,
+        "HEIGHT": 71
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_9ee6881e-8706-41e1-b8cb-52a37fc3abe9",
+      "kind": "main",
+      "idx": 40,
+      "text": "לפי דעתם דעת עליון. מעתה חובה עלינו לשים משטר קולמוסנו לברר דבריהם אחד אל אחד שלא",
+      "coords": {
+        "HPOS": 286,
+        "VPOS": 2751,
+        "WIDTH": 2025,
+        "HEIGHT": 57
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_e6eebe2c-710a-44e8-9d27-dcb85dbe4653",
+      "kind": "main",
+      "idx": 41,
+      "text": "ישאר בדבריהם דבר נפתל ועקש ולא כלום, וראשון לכל דבר שבקדושה הוא גאוננו רבינו שרירא זיע\"א",
+      "coords": {
+        "HPOS": 286,
+        "VPOS": 2812,
+        "WIDTH": 2025,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_264a60c5-cde8-49a5-a170-225c657d0be1",
+      "kind": "main",
+      "idx": 42,
+      "text": "כי מפיו אנו חיים בפרט בענינים עתיקים כמו אלה וע\"כ ראשונה חל עלינו חובת ביאור אגרתו",
+      "coords": {
+        "HPOS": 289,
+        "VPOS": 2878,
+        "WIDTH": 2020,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_88b8a97c-d73e-42c8-8188-e7dde389d6d6",
+      "kind": "main",
+      "idx": 43,
+      "text": "החמודה, אשר ינאת מקולמוסו הטהור לישר בה כל מעגל עד מקום שיד שכלנו מגעת, ר\"ל, לעמוד",
+      "coords": {
+        "HPOS": 295,
+        "VPOS": 2942,
+        "WIDTH": 2012,
+        "HEIGHT": 83
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_b4d70dfb-a186-41a4-9e5b-413c60dd7d81",
+      "kind": "main",
+      "idx": 44,
+      "text": "כא",
+      "coords": {
+        "HPOS": 2063,
+        "VPOS": 3014,
+        "WIDTH": 110,
+        "HEIGHT": 64
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_539b0a6c-5f29-4cd6-92fd-f6feb5bcae21",
+      "kind": "main",
+      "idx": 45,
+      "text": "21",
+      "coords": {
+        "HPOS": 1887,
+        "VPOS": 3017,
+        "WIDTH": 74,
+        "HEIGHT": 50
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_a3b26889-558a-4c0e-ba96-39f77be35ee6",
+      "kind": "main",
+      "idx": 46,
+      "text": "על",
+      "coords": {
+        "HPOS": 416,
+        "VPOS": 3008,
+        "WIDTH": 70,
+        "HEIGHT": 64
+      },
+      "para_start": false,
+      "is_catchword": true
+    }
+  ]
+}

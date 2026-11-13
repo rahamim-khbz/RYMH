@@ -1,0 +1,723 @@
+{
+  "page_id": "page-82",
+  "image": "page_images/page-82.jpg",
+  "page_width": 2550,
+  "page_height": 3300,
+  "base_hash": "sha256:12844290a3f75e030ceaf01558a122face621fd70e616159f7912590b8ad1bb1",
+  "lines": [
+    {
+      "line_id": "eSc_line_21ad54c9",
+      "kind": "main",
+      "idx": 0,
+      "text": "וע\"ז נגררו אחר פשטי הסוגייאות וכנז\"ל, ואלו היו רואים גם זאת גם אותה שלפנינו בשערי תשו' אשר",
+      "coords": {
+        "HPOS": 267,
+        "VPOS": 254,
+        "WIDTH": 2005,
+        "HEIGHT": 79
+      },
+      "para_start": true,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_b6e6432f",
+      "kind": "main",
+      "idx": 1,
+      "text": "עיקר מטרין עליה, והוחזקה בשלשה עדים בשדים מעידים לפי תומם שמקולמוס גאוננו היא מוצאת",
+      "coords": {
+        "HPOS": 264,
+        "VPOS": 331,
+        "WIDTH": 2003,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_2551309e",
+      "kind": "main",
+      "idx": 2,
+      "text": ",ובפי' קאמר \"שיתסדרי משנה ואתגניזו מי ומי דהלל\" א\"כ נמצא דהיתה כתיבה בעולם",
+      "coords": {
+        "HPOS": 273,
+        "VPOS": 386,
+        "WIDTH": 1998,
+        "HEIGHT": 77
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_3a8e5d67",
+      "kind": "main",
+      "idx": 3,
+      "text": "ודאי",
+      "coords": {
+        "HPOS": 398,
+        "VPOS": 460,
+        "WIDTH": 97,
+        "HEIGHT": 55
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_bd1c53a1",
+      "kind": "main",
+      "idx": 4,
+      "text": "לו בס' סדר מקבלי התורה אשר אני עתיד לחברו בע\"ה. והיה מאנשי היראה והחכמה לרוב ולא היה בזמנים הקודמים",
+      "coords": {
+        "HPOS": 260,
+        "VPOS": 544,
+        "WIDTH": 2012,
+        "HEIGHT": 61
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_cb3ba4f2",
+      "kind": "main",
+      "idx": 5,
+      "text": ".'כמוהו ולא מי שהגיע למפלתו ביראה ובתורה ובגדולה כאשר אמרו רז\"ל (סנהדרין דל\"ו וגיטין דנ\"ט) מימות משה וכו",
+      "coords": {
+        "HPOS": 271,
+        "VPOS": 599,
+        "WIDTH": 2001,
+        "HEIGHT": 62
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_3426bd0b",
+      "kind": "main",
+      "idx": 6,
+      "text": "וכאשר ראה העתקת האומה בדלדול ובחסרון בגירסא וכחכמה וכאשר אמרו לבם של ראשונים וכו' וראה עוד מה שעבד על",
+      "coords": {
+        "HPOS": 264,
+        "VPOS": 647,
+        "WIDTH": 2008,
+        "HEIGHT": 64
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_5fbc6165",
+      "kind": "main",
+      "idx": 7,
+      "text": "האומה שהשמדות והעול והיו ימיו ימי ישועה לקרבו מהמלך, עלה בידו שיקבץ כל מה שיש בידם מהקבלה לפי שדאה",
+      "coords": {
+        "HPOS": 262,
+        "VPOS": 709,
+        "WIDTH": 2010,
+        "HEIGHT": 59
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_f6ff4642",
+      "kind": "main",
+      "idx": 8,
+      "text": "שאריכות יש בגלות ונתקבץ עם אכמי דורו וקיבץ העיקרים לאנשי אותו זמן למשמרת לאות ותקנה תקון יפה וחברה חיבור",
+      "coords": {
+        "HPOS": 266,
+        "VPOS": 762,
+        "WIDTH": 2008,
+        "HEIGHT": 61
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_e904eab7",
+      "kind": "main",
+      "idx": 9,
+      "text": "נמרץ כפי חכמתו ופלפולו וקראה משנה ובא בתלמוד \"מכדי מאן סתמא למתני' רבי\". ועוד \"מתני' מאן תקין רבי, ואמרו",
+      "coords": {
+        "HPOS": 262,
+        "VPOS": 815,
+        "WIDTH": 2010,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_727eb684",
+      "kind": "main",
+      "idx": 10,
+      "text": "רבי ורבי נתן סוף משנה\". ואח\"ך חברו תלמידיו ר\"ח ור\"ק התוספתא יש בה תוספת ביאור ופתרון אבל העיקר מהמשנה",
+      "coords": {
+        "HPOS": 262,
+        "VPOS": 869,
+        "WIDTH": 1999,
+        "HEIGHT": 55
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_459cf3a1",
+      "kind": "main",
+      "idx": 11,
+      "text": "כאשר אמרו אילפא תלא נפשיה באסקדיה וכו' אתא ההוא סבא יכו' ותמצא עוד אנשי התלמוד יאמרו \"באן שנה דבי אין",
+      "coords": {
+        "HPOS": 264,
+        "VPOS": 924,
+        "WIDTH": 2008,
+        "HEIGHT": 64
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_24ea1da2",
+      "kind": "main",
+      "idx": 12,
+      "text": "השואל רשאי להשאיל\" (ב\"מ דכ\"ט) וכ\"ז עד שיבדרו לנו כי כל מה ששנה ר\"ח ור\"ה בתוספו' רמזו ר\"הק ז\"ל במשנה אבל הוצרכו",
+      "coords": {
+        "HPOS": 262,
+        "VPOS": 975,
+        "WIDTH": 2010,
+        "HEIGHT": 59
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_fabee56a",
+      "kind": "main",
+      "idx": 13,
+      "text": "אלו בתוספתא בעבור דורות הבאות עד שיבינו להם הדרך וידריכום על האורח במעט טורח. אבל כל העיקרים מצויין",
+      "coords": {
+        "HPOS": 266,
+        "VPOS": 1030,
+        "WIDTH": 2006,
+        "HEIGHT": 59
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_235f9927",
+      "kind": "main",
+      "idx": 14,
+      "text": "במשנה. והיה רב ן' אחות ר\"ח וכו' וכו' והיתה ירידתו לבבל בשנת ת\"ק שנה לפסוק הנבואה אשר הוא ת\"מ מלכות אלכסנדרום",
+      "coords": {
+        "HPOS": 260,
+        "VPOS": 1078,
+        "WIDTH": 2012,
+        "HEIGHT": 62
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_6e4d35f0",
+      "kind": "main",
+      "idx": 15,
+      "text": "וכו' ובאותו זמן נכתבה המשנה כאשר הקדמנו ולא סרק האומה לומדת המשנה זמן אחר זמן אל זמן רב אשי והוא היה",
+      "coords": {
+        "HPOS": 260,
+        "VPOS": 1138,
+        "WIDTH": 2011,
+        "HEIGHT": 55
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_5dc4c7de",
+      "kind": "main",
+      "idx": 16,
+      "text": "כמו כן במעלה גדולה ובשררה וקרוב מהמלכות כאשר אמרו שם בגיטין ובסנהדרין אר\"א בריה דרבא אף אנו נאמר מימות",
+      "coords": {
+        "HPOS": 260,
+        "VPOS": 1191,
+        "WIDTH": 2012,
+        "HEIGHT": 57
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_b19fb7e8",
+      "kind": "main",
+      "idx": 17,
+      "text": "ר' ועד ר' אשי וכו'. ויועץ הוא וחכמי דורו לכתוב פתרון המשנה פרק אחר פרק ומשבת אחר מסבת על הגדר וביאור",
+      "coords": {
+        "HPOS": 267,
+        "VPOS": 1243,
+        "WIDTH": 1998,
+        "HEIGHT": 60
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_287b208e",
+      "kind": "main",
+      "idx": 18,
+      "text": "שרשיה וקיבוץ מה שאירע להם ומוסר ומדרשות כאשר ראו לתקן וכו'. ואחר מיתת רב אשי לזמן קצוכ (*) מלך רבינא",
+      "coords": {
+        "HPOS": 260,
+        "VPOS": 1294,
+        "WIDTH": 2012,
+        "HEIGHT": 70
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_0308d54a",
+      "kind": "main",
+      "idx": 19,
+      "text": "ובימיו נחתם התלמוד כאשר אמרו בב\"מ דפ\"ו ער אבא אל מקדשי וכו' כלומר כי אשי ורבינא הם סוף האמוראים. וימת",
+      "coords": {
+        "HPOS": 258,
+        "VPOS": 1353,
+        "WIDTH": 2014,
+        "HEIGHT": 55
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_743f7556",
+      "kind": "main",
+      "idx": 20,
+      "text": "רבינא בתתי\"א לשטרות וכו' והוצרכו אל כתיבת התלמוד כאשר ראו מדלדול וחסוונה וידריכום על הדרך וקרבו להם",
+      "coords": {
+        "HPOS": 260,
+        "VPOS": 1398,
+        "WIDTH": 2007,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_be635668",
+      "kind": "main",
+      "idx": 21,
+      "text": "הענין וביארו הכל באר היטב וכו' וזהו התלמוד אשר הוא ירושה בידינו הנמצא עתה בין עמינו ולפי שהיו אותם אשר",
+      "coords": {
+        "HPOS": 262,
+        "VPOS": 1459,
+        "WIDTH": 2009,
+        "HEIGHT": 60
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_ed1e5746",
+      "kind": "main",
+      "idx": 22,
+      "text": ".כתבוהו גורסין אותו על פה וגם ידעו שמות המעתיקים וכו' וכו' עכ\"ל הצריך לענינינו",
+      "coords": {
+        "HPOS": 476,
+        "VPOS": 1514,
+        "WIDTH": 1598,
+        "HEIGHT": 60
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_28e7f7c2",
+      "kind": "main",
+      "idx": 23,
+      "text": "הנה אל ה' ויאר לנו למצוא דברי חפץ בגאון רבינו נסים מקירוואן שאליו ואל אביו הצדיק נשלחה אגרת דב שרידא ז\"ל",
+      "coords": {
+        "HPOS": 262,
+        "VPOS": 1562,
+        "WIDTH": 2010,
+        "HEIGHT": 62
+      },
+      "para_start": true,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_0f8415b7",
+      "kind": "main",
+      "idx": 24,
+      "text": "המובאה ביוחשין דברים בדורים כשמלה שנוסח היוחסין הוא ולא אחר. ונוסח חופש מטמונים ישאהו רוח כי נדון",
+      "coords": {
+        "HPOS": 258,
+        "VPOS": 1620,
+        "WIDTH": 1877,
+        "HEIGHT": 55
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_5b8c7b5e",
+      "kind": "main",
+      "idx": 25,
+      "text": "בשלוח יד ככל אשר הראתי בכל הילוך הגהתי הארוכה הזאת. א: אתה רואה קורא נעיםז שהילוך דברי ר\"ן ז\"ל בהקדמתו",
+      "coords": {
+        "HPOS": 260,
+        "VPOS": 1664,
+        "WIDTH": 2012,
+        "HEIGHT": 70
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_35ba859d",
+      "kind": "main",
+      "idx": 26,
+      "text": "זאת אשר העתקתי לפניך אינו אלא כי אם העתקת הרעיונים והראיות בעינייהו מאגרת רב שרירא עם נוסח היוחסין אשר",
+      "coords": {
+        "HPOS": 266,
+        "VPOS": 1725,
+        "WIDTH": 2003,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_3c72c50a",
+      "kind": "main",
+      "idx": 27,
+      "text": ".אליו נשלחה אין נגרע אפילו רעיון אחד ואפילו ראיה אחת אלא שהוא קיצר ור\"ש גאזן ז\"ל האריך יותר מבדי יבלתו",
+      "coords": {
+        "HPOS": 269,
+        "VPOS": 1778,
+        "WIDTH": 1998,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_ea037dac",
+      "kind": "main",
+      "idx": 28,
+      "text": "ב: שלעולם ר\"ן ז\"ל משתמש בהקדמתו זאת גם על המשנה והברייתות גם על התלמוד האחרון הכל בלשון כתיבה וחיבור",
+      "coords": {
+        "HPOS": 262,
+        "VPOS": 1826,
+        "WIDTH": 2003,
+        "HEIGHT": 67
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_7d90b08d",
+      "kind": "main",
+      "idx": 29,
+      "text": "וקיבוץ כאשר הוא לפנינו בנוסח היוחסין עשרה פעמים ממש מוזכר בה לשון כתיבה בהדיא חוץ מלשונות החיבור והליקוט",
+      "coords": {
+        "HPOS": 256,
+        "VPOS": 1879,
+        "WIDTH": 2015,
+        "HEIGHT": 77
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_d4126901",
+      "kind": "main",
+      "idx": 30,
+      "text": "והקיבוץ הבאים כתוכה לאלפים ולרבבות שאין להם פי' נכון אם לא בכתיבה כאשר הארכנו יותר מכדי יכלתינו. גהתברר",
+      "coords": {
+        "HPOS": 260,
+        "VPOS": 1937,
+        "WIDTH": 2009,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_74ca9e1c",
+      "kind": "main",
+      "idx": 31,
+      "text": "להדיא דגם עד זמן מחברי התלמוד וכותביו היו נורסין כל תורה שבע\"פ על פה כאשר ביאר הדברים ר\"ן ז\"ל. אשר גם דבר",
+      "coords": {
+        "HPOS": 262,
+        "VPOS": 1992,
+        "WIDTH": 2007,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_ff807bff",
+      "kind": "main",
+      "idx": 32,
+      "text": "זה בדרנוהו יפה יפה מדברי ר\"ש ז\"ל באגרתו החמודה אשר א\"א לפרש דבריו באופן אחר, ובדרו להדיא רבינו המאירי",
+      "coords": {
+        "HPOS": 260,
+        "VPOS": 2046,
+        "WIDTH": 2007,
+        "HEIGHT": 67
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_5835a5fd",
+      "kind": "main",
+      "idx": 33,
+      "text": "בהקדמתו לבית אבות הנז\"ל, ועתה נתפקחו עינינו וראינו הדברים קרואים והולכים לתומם בראשון אדם שאיבל האגדת",
+      "coords": {
+        "HPOS": 258,
+        "VPOS": 2101,
+        "WIDTH": 2007,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_d2d1a6e9",
+      "kind": "main",
+      "idx": 34,
+      "text": "החמודה הזאת שאליו ולאביו נשלחה. דהא ודאי אחר זה אין מי שאבל להתעקש עוד ולפרש פירושים זרים באגרת רב שרירא",
+      "coords": {
+        "HPOS": 256,
+        "VPOS": 2154,
+        "WIDTH": 2011,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_7e4715ce",
+      "kind": "main",
+      "idx": 35,
+      "text": "ז\"ל הזאת או לסמוך על קנה הרצוץ הוא נוסח החופש מטמונים כי עלה כולו קמשונים והוא מזויף תוכו כברו. כאשר",
+      "coords": {
+        "HPOS": 262,
+        "VPOS": 2209,
+        "WIDTH": 2001,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_cca15529",
+      "kind": "main",
+      "idx": 36,
+      "text": "בררנו הדברים בכל הילוך ההערות שנתעסקנו בהם לברר הזיוף כשמש בחצי השמים, ואין ספק כי מן השמים סייעונו למצוא",
+      "coords": {
+        "HPOS": 258,
+        "VPOS": 2258,
+        "WIDTH": 2007,
+        "HEIGHT": 74
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_59892fec",
+      "kind": "main",
+      "idx": 37,
+      "text": "מציאה נחמדת כזאת ובער\"ב היא באה בסוף ההערות כלומר הרי זה מנוש אחרון אשר עליו אין להוסיף והתבדר הדבר בשמלה",
+      "coords": {
+        "HPOS": 256,
+        "VPOS": 2315,
+        "WIDTH": 2011,
+        "HEIGHT": 64
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_1440145f",
+      "kind": "main",
+      "idx": 38,
+      "text": ".בת מאה אלף ידיעות, תלי\"ת",
+      "coords": {
+        "HPOS": 1001,
+        "VPOS": 2365,
+        "WIDTH": 523,
+        "HEIGHT": 69
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_7f1f07a3",
+      "kind": "main",
+      "idx": 39,
+      "text": "אמת שעל קודם דבינו הקדוש ז\"ל לא נזכרה בהקדמת ר\"ן ז\"ל שום ענין, באשו באחת לא נזכרה גם באגרת רש\"ג ז\"ל",
+      "coords": {
+        "HPOS": 256,
+        "VPOS": 2405,
+        "WIDTH": 2015,
+        "HEIGHT": 79
+      },
+      "para_start": true,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_2cae04d5",
+      "kind": "main",
+      "idx": 40,
+      "text": "מה שאין כן בדברי ר\"ש הנגיד והרמב\"ם והמאירי ז\"ל המובאים למפלה. אלא דמה שכתבנו לעיל בביאור דעת",
+      "coords": {
+        "HPOS": 258,
+        "VPOS": 2476,
+        "WIDTH": 1864,
+        "HEIGHT": 59
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_d25eb159",
+      "kind": "main",
+      "idx": 41,
+      "text": "רש\"ג ז\"ל כן נאמר בדברי ר\"ן גאון ז\"ל המעתיק דעיזניו והוא דרש\"ג לא נטאל כי אם בכתיבת המשנה וחיבורה בסידור",
+      "coords": {
+        "HPOS": 262,
+        "VPOS": 2530,
+        "WIDTH": 2005,
+        "HEIGHT": 60
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_6ed22533",
+      "kind": "main",
+      "idx": 42,
+      "text": "גאה ולשון צחה וכיוצא. ועם שקודם לכן היתה כתיבה בעולם היתה בלי סידור וכלי ישוב ובלי לשון אחד ושפה אחת כי",
+      "coords": {
+        "HPOS": 262,
+        "VPOS": 2583,
+        "WIDTH": 2003,
+        "HEIGHT": 62
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_a90d3007",
+      "kind": "main",
+      "idx": 43,
+      "text": "על אופן זכרון שמועות והדומה ואפי' אם היתה מסכתא משודרת במו עוקצין ודדמי עכ\"ז בטלה במיעוטה נגד שכל עיקרי",
+      "coords": {
+        "HPOS": 267,
+        "VPOS": 2634,
+        "WIDTH": 1998,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_d9db9ce1",
+      "kind": "main",
+      "idx": 44,
+      "text": ".הדינים הרבים ונכבדים איו בלי שידור וחיבור ותיקון וזהו האמת גם בדעת ד\"ן המעתיק ממנו ומינה לא נזופ",
+      "coords": {
+        "HPOS": 359,
+        "VPOS": 2691,
+        "WIDTH": 1796,
+        "HEIGHT": 64
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_fa36fd35",
+      "kind": "main",
+      "idx": 45,
+      "text": "יהיה איך שיהיה היום הנה ראינו כי ידבר אלהים מתוך גרונם של בני פנק הללו בי כל דבריהם דברי קבלה בי המשנה",
+      "coords": {
+        "HPOS": 260,
+        "VPOS": 2746,
+        "WIDTH": 2000,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_487c54a3",
+      "kind": "main",
+      "idx": 46,
+      "text": "והברייתות והתוספתות והתלמוד האחרון נכתבו והיו גורשין אותה על פה עד אחרי פסירת רבינא זיע\"א. זאחד",
+      "coords": {
+        "HPOS": 264,
+        "VPOS": 2795,
+        "WIDTH": 1854,
+        "HEIGHT": 65
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_162fdf26",
+      "kind": "main",
+      "idx": 47,
+      "text": "שהתברר דבר זה כשמש בחצי השמים אין לנו עוד לעשות עיקר משום פירוש מראשון ואחרון המנגד הישזד המוסד לנו מסי",
+      "coords": {
+        "HPOS": 262,
+        "VPOS": 2847,
+        "WIDTH": 2003,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_e6b47535",
+      "kind": "main",
+      "idx": 48,
+      "text": ".המקבלים הנאמנים האלה וזאת התעודה ביש' הא לאו הכי נחוג וננופ כשכור בלב ים וכל חכמתנו תתבלת ה' יצילנו אכי\"ו",
+      "coords": {
+        "HPOS": 269,
+        "VPOS": 2896,
+        "WIDTH": 1996,
+        "HEIGHT": 74
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_34355985",
+      "kind": "main",
+      "idx": 49,
+      "text": "רוצה לומר \"לזמן קצור\" מפני שלא מלך אכף שהרי מלכו אחר רב אשי חמשת מלכי רבנן כמבואר באגרת רב שרירא שביוחסין שעיקר מטרין (*)",
+      "coords": {
+        "HPOS": 262,
+        "VPOS": 2986,
+        "WIDTH": 1998,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_21f676ad",
+      "kind": "main",
+      "idx": 50,
+      "text": ".עליה. וע\"ג שנה עכרו בין פטי' ר? אשי לפטי' רבינא שר\"א כנל\"ע נמשל\"ח ורבינא בתמי\"א לשמרות וכמו שינא לקמן",
+      "coords": {
+        "HPOS": 541,
+        "VPOS": 3041,
+        "WIDTH": 1647,
+        "HEIGHT": 59
+      },
+      "para_start": false,
+      "is_catchword": false
+    }
+  ]
+}

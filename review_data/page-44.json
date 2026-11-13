@@ -1,0 +1,681 @@
+{
+  "page_id": "page-44",
+  "image": "page_images/page-44.jpg",
+  "page_width": 2550,
+  "page_height": 3300,
+  "base_hash": "sha256:588bfc0a5fe17d99ab8115b1225d0c031ee591d0bbaad6de533c0caa6fd2c799",
+  "lines": [
+    {
+      "line_id": "eSc_line_96ba7c7d",
+      "kind": "main",
+      "idx": 0,
+      "text": "אחרון לאנשי כנסת הגדולה, וראשון לחכמים כמו שכתבנו, ונתרחבה לו עוד זאת המדה לכתוב",
+      "coords": {
+        "HPOS": 310,
+        "VPOS": 258,
+        "WIDTH": 1997,
+        "HEIGHT": 55
+      },
+      "para_start": true,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_fbfc6cf9",
+      "kind": "main",
+      "idx": 1,
+      "text": "עניניו כמו שהוגד מדבריו בזאת המסכתא, וכן מה שבא מסיפור דבריו הנכתבים בתלמוד דברים",
+      "coords": {
+        "HPOS": 311,
+        "VPOS": 320,
+        "WIDTH": 1993,
+        "HEIGHT": 63
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_24c0d8d1",
+      "kind": "main",
+      "idx": 2,
+      "text": "יש להם מבוא בהשתלשלות לעניני מסכתא זאת, באמרם ז\"ל במס' נדרים ר\"ט ע\"ב, אמר שמעון",
+      "coords": {
+        "HPOS": 308,
+        "VPOS": 374,
+        "WIDTH": 1998,
+        "HEIGHT": 77
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_b561bba3",
+      "kind": "main",
+      "idx": 3,
+      "text": "הצדיק מימי לא אכלחי אשם נזיר טמא וכו', ואחריו של שמעון הצדיק וכו' וכו', ואחר דור שמעיה",
+      "coords": {
+        "HPOS": 308,
+        "VPOS": 447,
+        "WIDTH": 1998,
+        "HEIGHT": 64
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_4e48b7b7",
+      "kind": "main",
+      "idx": 4,
+      "text": "(ואבטליון נתמנה נשיא הלל הזקן וכו' והלל זה עלה מבבל וכו' וכו' דור חמישי (מהתנאים שאחר החרבן",
+      "coords": {
+        "HPOS": 310,
+        "VPOS": 500,
+        "WIDTH": 1997,
+        "HEIGHT": 70
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_8d66441d",
+      "kind": "main",
+      "idx": 5,
+      "text": "הוא רבינו הקדוש, זה שהוליד, כחמלת ה' על עמו, רבן שמעון שהזכרנו ושמו ר' יהודה הנשיא, ונקרא",
+      "coords": {
+        "HPOS": 311,
+        "VPOS": 575,
+        "WIDTH": 1996,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_e7efe6d8",
+      "kind": "main",
+      "idx": 6,
+      "text": "בפי כל רבינו הקדוש וכו' ורבינו הקדוש זה קבל מאביו ומר\"א בן שמוע, וראה בזמנו צרות גדולות",
+      "coords": {
+        "HPOS": 306,
+        "VPOS": 632,
+        "WIDTH": 2000,
+        "HEIGHT": 70
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_fa045994",
+      "kind": "main",
+      "idx": 7,
+      "text": ",מתפשטות והתלמידים מתמעטים, וחבר ס' המשנה בששה סדרים הידועים בק\"ן שנים אחר החרבן",
+      "coords": {
+        "HPOS": 313,
+        "VPOS": 698,
+        "WIDTH": 1994,
+        "HEIGHT": 72
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_02b912e9",
+      "kind": "main",
+      "idx": 8,
+      "text": "וכלל בו כל מה שנתקבל בתורה שבע\"פ מביאורי התורה והמצות ומה שנתחדש בכל דור ודור ממה",
+      "coords": {
+        "HPOS": 310,
+        "VPOS": 759,
+        "WIDTH": 1999,
+        "HEIGHT": 64
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_5d3ec3e1",
+      "kind": "main",
+      "idx": 9,
+      "text": "שנודעלו עם מה שמצא לכל החכמים אן מסכיות שלימות כמו שאמרו ביום",
+      "coords": {
+        "HPOS": 306,
+        "VPOS": 825,
+        "WIDTH": 2001,
+        "HEIGHT": 78
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_f0a0e5f2",
+      "kind": "main",
+      "idx": 10,
+      "text": "שנתמנה ראב\"ע נשיא בו ביום נשנית מס' עדויות וכמ\"ש בסוף הוריות לדרוש לן מר מילי דעוקצין, הן",
+      "coords": {
+        "HPOS": 310,
+        "VPOS": 892,
+        "WIDTH": 1996,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_3e59c3cd",
+      "kind": "main",
+      "idx": 11,
+      "text": "(מה שלא מצאו מסודר וסדרו מתחלה הן מה שהוסיף בכח שכלו וסברתו וכו' וכו' (עיין מדכ\"ג ואילך",
+      "coords": {
+        "HPOS": 310,
+        "VPOS": 946,
+        "WIDTH": 1996,
+        "HEIGHT": 69
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_a7c28381",
+      "kind": "main",
+      "idx": 12,
+      "text": "וכן חברו קצת חכמים אחרים תכף לאותם הזמנים ברייתות אחרות משנת המשכן (?) (*) ודרך ארץ רבא",
+      "coords": {
+        "HPOS": 310,
+        "VPOS": 1012,
+        "WIDTH": 1988,
+        "HEIGHT": 67
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_fa4c0154",
+      "kind": "main",
+      "idx": 13,
+      "text": "וזוטא ומס' סופרים (עיין לעיל סי' קנ\"א מ\"ש שם) וכו' וכו', וכן נתחברו באותם הזמנים ברייתות",
+      "coords": {
+        "HPOS": 308,
+        "VPOS": 1074,
+        "WIDTH": 1999,
+        "HEIGHT": 73
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_dbcae15b",
+      "kind": "main",
+      "idx": 14,
+      "text": "אחרות שלא נודע לנו, וכן בר קפרא חידש תוספתא בכל ש\"ם כעין ברייתות של ר\"ח ור\"א, אין בהם",
+      "coords": {
+        "HPOS": 310,
+        "VPOS": 1138,
+        "WIDTH": 1997,
+        "HEIGHT": 73
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_6416d017",
+      "kind": "main",
+      "idx": 15,
+      "text": "הפרש כלל אלא בלשון, לא בסידור ולא בענין, זולתי מקצת מקומות מועטים, והיא הסיבה שלא נמצאו",
+      "coords": {
+        "HPOS": 311,
+        "VPOS": 1202,
+        "WIDTH": 1996,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_8ea9da4c",
+      "kind": "main",
+      "idx": 16,
+      "text": "אותם התוספתות בשלימות בידינו היום, וכן זו היא הסיבה שהרבה פעמים אנו מוצאים קצת ברייתות",
+      "coords": {
+        "HPOS": 310,
+        "VPOS": 1274,
+        "WIDTH": 1996,
+        "HEIGHT": 58
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_582ad821",
+      "kind": "main",
+      "idx": 17,
+      "text": "בש\"ס שלא נמצאו בברייתא דר\"ח ור\"א, ולא ידענו איזהו מקומן וכו', וכן מצינו תנא שלא נודע לנו",
+      "coords": {
+        "HPOS": 310,
+        "VPOS": 1329,
+        "WIDTH": 1996,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_856af703",
+      "kind": "main",
+      "idx": 18,
+      "text": ",מקומה, מפני שהרבה מן החכמים היו עושין משניות וברייתות מעצמן אנו קורין אותם תוספתות וכו",
+      "coords": {
+        "HPOS": 319,
+        "VPOS": 1402,
+        "WIDTH": 1985,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_e80785d7",
+      "kind": "main",
+      "idx": 19,
+      "text": "כן קודם זמנו של ר\"ח כמו שאתה רואה תמיד, תנא דבי ר' אמי, תנא רב שרביא, בקידושין דבי לוי",
+      "coords": {
+        "HPOS": 315,
+        "VPOS": 1457,
+        "WIDTH": 1987,
+        "HEIGHT": 73
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_1b81932a",
+      "kind": "main",
+      "idx": 20,
+      "text": "תנא דבי ר' ישמעאל, תני רבה בר מרי בדקה לוי במתניתיה וכו', וכן תמיד אתמר בש\"ס ר' פלוני אתא",
+      "coords": {
+        "HPOS": 310,
+        "VPOS": 1527,
+        "WIDTH": 1997,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_2f242bae",
+      "kind": "main",
+      "idx": 21,
+      "text": "ואייתי מתניתא בידיה, וכל אלו וכיוצא בהם, הם ברייתות שלא הוקבעו ולא נתפרסמו אלא שהיה",
+      "coords": {
+        "HPOS": 310,
+        "VPOS": 1578,
+        "WIDTH": 1997,
+        "HEIGHT": 84
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_e391db6f",
+      "kind": "main",
+      "idx": 22,
+      "text": "כל אחד מהם כותבם כמו שהיה מקובל מרבו, או ממה שהיה למד הוא מעצמו, ומתוך",
+      "coords": {
+        "HPOS": 315,
+        "VPOS": 1651,
+        "WIDTH": 1985,
+        "HEIGHT": 76
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_0601c27e",
+      "kind": "main",
+      "idx": 23,
+      "text": "כך לא סמכו עליהם וכמו שאמרו כל ברייתא דלא מתנייא בי ר\"ח ור\"א לאו ברייתא היא, ולא מותבינן",
+      "coords": {
+        "HPOS": 311,
+        "VPOS": 1706,
+        "WIDTH": 1995,
+        "HEIGHT": 81
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_e88a3d25",
+      "kind": "main",
+      "idx": 24,
+      "text": ",מינה בבי מדרשא, מפני שהם היו מיסודו של רבי, ומדבריו נעתקו, והשאר לא היו חבורים מפורסמים",
+      "coords": {
+        "HPOS": 317,
+        "VPOS": 1772,
+        "WIDTH": 1987,
+        "HEIGHT": 81
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_4aec86fe",
+      "kind": "main",
+      "idx": 25,
+      "text": "אלא כל א' שונה כרצונו וכו', ורבינו הקדוש ידע הכל כמ\"ש בנדרים דמ\"א, רבי הוה גמיר תריסד",
+      "coords": {
+        "HPOS": 315,
+        "VPOS": 1844,
+        "WIDTH": 1992,
+        "HEIGHT": 59
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_c2e39265",
+      "kind": "main",
+      "idx": 26,
+      "text": "אפי הלכתא וקבצן בכחו ובחכמתו, ובירר הראוי לברור מדברי הקודמים עם מה שהוסיף הוא עליהם",
+      "coords": {
+        "HPOS": 310,
+        "VPOS": 1910,
+        "WIDTH": 1999,
+        "HEIGHT": 64
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_d61477da",
+      "kind": "main",
+      "idx": 27,
+      "text": "לפי דעתו הרחבה ושכלו הגדול, וסדר הכל אחת אל אחת, לפניו לא היה איש אשר ירקח כמהו",
+      "coords": {
+        "HPOS": 326,
+        "VPOS": 1961,
+        "WIDTH": 1980,
+        "HEIGHT": 79
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_b4deac4e",
+      "kind": "main",
+      "idx": 28,
+      "text": "'ואשר יעשה במתכונתו ואחריו לא יהיה כן וכו' וכו' ואח\"ך באו דבריו של ר\"ח לתוספת ביאור וכו' וכו",
+      "coords": {
+        "HPOS": 317,
+        "VPOS": 2025,
+        "WIDTH": 1992,
+        "HEIGHT": 70
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_2edd8352",
+      "kind": "main",
+      "idx": 29,
+      "text": "ונשוב לענינינו, והוא שאחר שריה\"ק חיבר המשנה, ור\"ח הברייתא, נמשכו אחריו קצת חכמים, וחבר",
+      "coords": {
+        "HPOS": 315,
+        "VPOS": 2091,
+        "WIDTH": 1992,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_e1b60e1c",
+      "kind": "main",
+      "idx": 30,
+      "text": "רב חבור בס' ויקרא וקראו ספרא וכו' וכו' וגילה בהם מצפוני המשניות שבאותם הענינים ואז ירד רב",
+      "coords": {
+        "HPOS": 310,
+        "VPOS": 2165,
+        "WIDTH": 1996,
+        "HEIGHT": 58
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_682f4960",
+      "kind": "main",
+      "idx": 31,
+      "text": "לבבל בק\"ן שנה אחר החרבן (כט) ומצא שם רב שילא וכו' ונתחברו שאר חבורים שלא הוזכרו כגון מכילתא",
+      "coords": {
+        "HPOS": 310,
+        "VPOS": 2220,
+        "WIDTH": 1997,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_42d0228d",
+      "kind": "main",
+      "idx": 32,
+      "text": "ופסיקתא, ומדרש השכם, וספר המדרשות, כגון רבה ותנחומא, ומדרש תהלים, ומדרש חזית, ומדרש",
+      "coords": {
+        "HPOS": 308,
+        "VPOS": 2289,
+        "WIDTH": 2001,
+        "HEIGHT": 72
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_9a2c8e39",
+      "kind": "main",
+      "idx": 33,
+      "text": "'נחמות, ומדרש תמורה (ל) וס' הבהיר ושיעור קומה, ופירקי היכלות וכו', והתחיל זמן האמוראים וכו",
+      "coords": {
+        "HPOS": 319,
+        "VPOS": 2343,
+        "WIDTH": 1988,
+        "HEIGHT": 80
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_8073444e",
+      "kind": "main",
+      "idx": 34,
+      "text": "דור א' וכו' ודור ב' וכו', ואחריהם התחיל זמן רבנן סבוראי וכו' וכו' ואחרון שבהם היה רב ששנא ממוצע",
+      "coords": {
+        "HPOS": 310,
+        "VPOS": 2410,
+        "WIDTH": 1997,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_2f521a02",
+      "kind": "main",
+      "idx": 35,
+      "text": "ן",
+      "coords": {
+        "HPOS": 445,
+        "VPOS": 2482,
+        "WIDTH": 28,
+        "HEIGHT": 75
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_cdb28422",
+      "kind": "main",
+      "idx": 36,
+      "text": ":'א\"ה. מי יתן יאדע היש יאם בין משנת המשכן לר\"ש ובין אדרא דכי משבנא: איך שזהיה ראיני מתאר זה עולה מרום הרים עד ראשי גאוני יש (*)",
+      "coords": {
+        "HPOS": 311,
+        "VPOS": 2535,
+        "WIDTH": 1989,
+        "HEIGHT": 59
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_76c3f76e",
+      "kind": "main",
+      "idx": 37,
+      "text": "נט) כבר נראה שרבינו המאירי נגדר אחר סדר הקבלה לרבינו נסים הביאו לקמן דפ\"ה ע\"א בדור א' לאמוראים וז\"ל: ובסדד)",
+      "coords": {
+        "HPOS": 311,
+        "VPOS": 2585,
+        "WIDTH": 1996,
+        "HEIGHT": 62
+      },
+      "para_start": true,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_fc41cad9",
+      "kind": "main",
+      "idx": 38,
+      "text": "הקבלה לרבינו נסים מצינו שירידת רב לבבל היתה בשנת תק\"ל לשטרות ק\"ן לחרבן הבית וכו' עי\"ש. אבל כבר בא",
+      "coords": {
+        "HPOS": 306,
+        "VPOS": 2632,
+        "WIDTH": 1897,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_6385afa0",
+      "kind": "main",
+      "idx": 39,
+      "text": ",חכם הוא הגאון שי\"ר נר\"ו בכרם חמך ח\"ד מעמוד רכ\"ה ואילך ובערך מלין, והעלה בראיות מופתיות שהואשנת ת\"ק לשטרות",
+      "coords": {
+        "HPOS": 308,
+        "VPOS": 2691,
+        "WIDTH": 2001,
+        "HEIGHT": 64
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_0ebc3d64",
+      "kind": "main",
+      "idx": 40,
+      "text": "ק\"ף לחרכן, ויפה שיער דהסופדים קשרו זמן חבור המשנה עם ירידת רב לבבל שהוא זמן ידוע ונגלה, וכן למעלה רבינו",
+      "coords": {
+        "HPOS": 310,
+        "VPOS": 2744,
+        "WIDTH": 1992,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_476d1ea9",
+      "kind": "main",
+      "idx": 41,
+      "text": "המאירי כותב זמן חיבור המשנה ק\"ן לחדכן, ובאמת אינו אלא ק\"ך לפי הראיות יפות ובריאות של הגאון שי\"ר נר\"ו ועיין מ\"ש",
+      "coords": {
+        "HPOS": 306,
+        "VPOS": 2792,
+        "WIDTH": 2003,
+        "HEIGHT": 73
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_6377b0af",
+      "kind": "main",
+      "idx": 42,
+      "text": ".תצאים המובא בועד לחכמים ובכ\"ח שם",
+      "coords": {
+        "HPOS": 1641,
+        "VPOS": 2893,
+        "WIDTH": 670,
+        "HEIGHT": 67
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_e14638d1",
+      "kind": "main",
+      "idx": 43,
+      "text": "לקמן בסוף הגהותי, לסימן מ' שבח\"כ בהעדה המבקרת קדמוניות ודוק, ומי יודע אם לא ס' הקגלה זה לו\"ז ז\"ל אינו סדר",
+      "coords": {
+        "HPOS": 311,
+        "VPOS": 2841,
+        "WIDTH": 1996,
+        "HEIGHT": 79
+      },
+      "para_start": true,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_55182947",
+      "kind": "main",
+      "idx": 44,
+      "text": ".ל) נדפם כס' הפרדם לרש\"י ובסוף ס' שה\"ג ח\"ב להרב חיז\"א ז\"ל ויש להגיה מזה לזה)",
+      "coords": {
+        "HPOS": 891,
+        "VPOS": 2946,
+        "WIDTH": 1415,
+        "HEIGHT": 69
+      },
+      "para_start": true,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_23bbacde",
+      "kind": "main",
+      "idx": 45,
+      "text": "בה",
+      "coords": {
+        "HPOS": 2118,
+        "VPOS": 3008,
+        "WIDTH": 83,
+        "HEIGHT": 64
+      },
+      "para_start": true,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_76f313b0",
+      "kind": "main",
+      "idx": 46,
+      "text": "2ש",
+      "coords": {
+        "HPOS": 1966,
+        "VPOS": 3001,
+        "WIDTH": 74,
+        "HEIGHT": 57
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_0b1309fb",
+      "kind": "main",
+      "idx": 47,
+      "text": "לא) עיין)",
+      "coords": {
+        "HPOS": 418,
+        "VPOS": 2999,
+        "WIDTH": 167,
+        "HEIGHT": 81
+      },
+      "para_start": true,
+      "is_catchword": false
+    }
+  ]
+}

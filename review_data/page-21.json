@@ -1,0 +1,765 @@
+{
+  "page_id": "page-21",
+  "image": "page_images/page-21.jpg",
+  "page_width": 2550,
+  "page_height": 3300,
+  "base_hash": "sha256:fc7178d97541a241dfe848e6aff4ddfce7e5e38b5d95efdcc98ededca2524417",
+  "lines": [
+    {
+      "line_id": "eSc_line_001c84f6",
+      "kind": "main",
+      "idx": 0,
+      "text": "לן מדתנן מעשה ובדק ן' זכאי ונו' וכו' והתניא מעשה ובדק ן' זכאי (יוחסין",
+      "coords": {
+        "HPOS": 194,
+        "VPOS": 247,
+        "WIDTH": 2003,
+        "HEIGHT": 77
+      },
+      "para_start": true,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_e01350f5",
+      "kind": "main",
+      "idx": 1,
+      "text": "ן' עזאי טעות מדפוס) ואסקינן תלמיד היושב לפני רבו הוה וכו', דאלמא (ח\"מ",
+      "coords": {
+        "HPOS": 194,
+        "VPOS": 311,
+        "WIDTH": 1992,
+        "HEIGHT": 74
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_947a2212",
+      "kind": "main",
+      "idx": 2,
+      "text": "ויוחסין ד\"ק, אבל ד\"א בעלמא ט\"ס) מן ההוא זמן דהלל ושמאי, דתנו רבנן מעשה",
+      "coords": {
+        "HPOS": 190,
+        "VPOS": 372,
+        "WIDTH": 2013,
+        "HEIGHT": 80
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_7d7b6b11",
+      "kind": "main",
+      "idx": 3,
+      "text": "ובדק ן' זכאי בעוקצי תאנים תנייה רבי הכי במתניתין ולא שנייה\" (ח\"מ",
+      "coords": {
+        "HPOS": 218,
+        "VPOS": 436,
+        "WIDTH": 1983,
+        "HEIGHT": 79
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_9553a131",
+      "kind": "main",
+      "idx": 4,
+      "text": "ויוחסין ולא תנייה ט\"ס) ר\"ל דכיון דרבי אחרון הוה היה ראוי להזכירו בשם רבן, ולא בשם תלמיד,",
+      "coords": {
+        "HPOS": 214,
+        "VPOS": 502,
+        "WIDTH": 1991,
+        "HEIGHT": 77
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_cafebeaa",
+      "kind": "main",
+      "idx": 5,
+      "text": "אלא שלא רצה לשנות באיזה דברים הכרחיים מפני כבוד המדומה, וכמה נאה גם שמועה זאת!",
+      "coords": {
+        "HPOS": 194,
+        "VPOS": 575,
+        "WIDTH": 2005,
+        "HEIGHT": 61
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_e0128c54",
+      "kind": "main",
+      "idx": 6,
+      "text": "\"ועודמדתנן וכו' מאברין תנן או מעברין דאלמא (ח\"מ ויוחסין ד\"ק, אבל ר\"א",
+      "coords": {
+        "HPOS": 196,
+        "VPOS": 632,
+        "WIDTH": 1994,
+        "HEIGHT": 77
+      },
+      "para_start": true,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_a9214fbe",
+      "kind": "main",
+      "idx": 7,
+      "text": "ט\"ס) לרבי גופיה דתרציה למתני' מספקא ליה וכו' (ז) שמעינן מינה דבלשון",
+      "coords": {
+        "HPOS": 198,
+        "VPOS": 696,
+        "WIDTH": 2003,
+        "HEIGHT": 75
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_9de070e4",
+      "kind": "main",
+      "idx": 8,
+      "text": "זה אמורה קמיה דרבי וכו', ואף מסכייתא נמי הוו מפסקן (ח\"מ וכ\"י שבוויין,",
+      "coords": {
+        "HPOS": 205,
+        "VPOS": 760,
+        "WIDTH": 1998,
+        "HEIGHT": 76
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_08b4f182",
+      "kind": "main",
+      "idx": 9,
+      "text": "אבל יוחסין ב' דפוסים מספקא ט\"ס) מקמי דרבי מדקאמר וכו' פתח' הני לה בעוקצין",
+      "coords": {
+        "HPOS": 216,
+        "VPOS": 830,
+        "WIDTH": 1981,
+        "HEIGHT": 70
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_e4c33e76",
+      "kind": "main",
+      "idx": 10,
+      "text": "דלית ליה וכו', ואיכא דוכתא דאוסיף בהו ר' פירושי וכו' לבר מן מילי דאתנינן",
+      "coords": {
+        "HPOS": 205,
+        "VPOS": 900,
+        "WIDTH": 1996,
+        "HEIGHT": 62
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_ba941831",
+      "kind": "main",
+      "idx": 11,
+      "text": "ביומיה וביומא דבתריה, מדקאמרין זו משנה ראשונה, משנה אחרונה",
+      "coords": {
+        "HPOS": 198,
+        "VPOS": 955,
+        "WIDTH": 2003,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_5fd07ccd",
+      "kind": "main",
+      "idx": 12,
+      "text": "אמרו וכו' וכן (יוחסין. וח\"מ חסרונות ושיבושים) מסכת עדויות, דאתני ביומא",
+      "coords": {
+        "HPOS": 194,
+        "VPOS": 1021,
+        "WIDTH": 2005,
+        "HEIGHT": 69
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_e973821c",
+      "kind": "main",
+      "idx": 13,
+      "text": "ר'",
+      "coords": {
+        "HPOS": 207,
+        "VPOS": 1147,
+        "WIDTH": 14,
+        "HEIGHT": 44
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_ce9e4ad4",
+      "kind": "main",
+      "idx": 14,
+      "text": "דאתוקם ראב\"ע, דאמרינן אף עדויות נשנית בו ביום ושנינו (יוחסין,",
+      "coords": {
+        "HPOS": 203,
+        "VPOS": 1076,
+        "WIDTH": 1998,
+        "HEIGHT": 90
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_3b66f67c",
+      "kind": "main",
+      "idx": 15,
+      "text": "וח\"מ שיבושים דבר פלא) כל בו ביום\" וכו'. ועוד הפעם כיון שיצא מעט מהכוונה חזר לקשר",
+      "coords": {
+        "HPOS": 205,
+        "VPOS": 1147,
+        "WIDTH": 2000,
+        "HEIGHT": 70
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_c2b7f87b",
+      "kind": "main",
+      "idx": 16,
+      "text": "הדברים, ואמר: \"אבל מסכייתא אחרנייתא אע\"ג דטעמהון הוו תנו להו",
+      "coords": {
+        "HPOS": 203,
+        "VPOS": 1213,
+        "WIDTH": 2000,
+        "HEIGHT": 63
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_05824073",
+      "kind": "main",
+      "idx": 17,
+      "text": "כד חזי, וסתם מתני' ודאי (ח\"מ) ר' מאיר, ולא (יוחסין, וח\"מ טעות מלא אמרן",
+      "coords": {
+        "HPOS": 205,
+        "VPOS": 1270,
+        "WIDTH": 1996,
+        "HEIGHT": 83
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_1dbb7268",
+      "kind": "main",
+      "idx": 18,
+      "text": "מלבו, אלא ההיא אורחא דגמריה דר' מאיר הוה גמיר\". כאן הגיע רבינו הגאון",
+      "coords": {
+        "HPOS": 198,
+        "VPOS": 1338,
+        "WIDTH": 2005,
+        "HEIGHT": 73
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_e888ac3c",
+      "kind": "main",
+      "idx": 19,
+      "text": "להתיר לשואל כל הג' סעיפים שבספק הא' לפרש לו האי דאמרינן סתם משנה ר\"מ היא כי לא מלבו",
+      "coords": {
+        "HPOS": 199,
+        "VPOS": 1397,
+        "WIDTH": 2006,
+        "HEIGHT": 80
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_8e03d08d",
+      "kind": "main",
+      "idx": 20,
+      "text": "אמרן כי אם מפני שהיה תלמידו של ר\"ע שהיה גם הוא לב רחב, והאריך הגאון לברר מעלת ר\"ע ור\"מ",
+      "coords": {
+        "HPOS": 198,
+        "VPOS": 1464,
+        "WIDTH": 2003,
+        "HEIGHT": 76
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_87c52dbc",
+      "kind": "main",
+      "idx": 21,
+      "text": "מן התלמוד, וכן יבאר לו שמה שאמרו ג\"כ סתם תוספתא רבי נחמיה (יוחסין. וח\"מ חנינה טעות",
+      "coords": {
+        "HPOS": 198,
+        "VPOS": 1530,
+        "WIDTH": 2001,
+        "HEIGHT": 72
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_066e3242",
+      "kind": "main",
+      "idx": 22,
+      "text": "ניכר) וסתם ספרא ר\"י, וסתם ספרי ר\"ש, וכולהו אליבא דר' עקיבא, הוא על דרך האמור בסתם משנה",
+      "coords": {
+        "HPOS": 201,
+        "VPOS": 1606,
+        "WIDTH": 1998,
+        "HEIGHT": 58
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_134d2888",
+      "kind": "main",
+      "idx": 23,
+      "text": "ר\"מ שהכל הוא תורתן של ראשונים, ובדרך שאחז ר\"מ תלמידו של ר\"ע כן נמי בכל הברייתות והתוספתות",
+      "coords": {
+        "HPOS": 199,
+        "VPOS": 1659,
+        "WIDTH": 2006,
+        "HEIGHT": 73
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_fe898c05",
+      "kind": "main",
+      "idx": 24,
+      "text": "וכו' הכל הוא תורתן של ראשונים, אלא שאותם החכמים תלמידי ר\"ע, לקטום וחברום בדרך שהיה",
+      "coords": {
+        "HPOS": 203,
+        "VPOS": 1725,
+        "WIDTH": 2003,
+        "HEIGHT": 71
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_080d530e",
+      "kind": "main",
+      "idx": 25,
+      "text": "שונה להם ר' עקיבא רבם ולזה כתב: \"והני ברייתא ותוספתא וספרא וספרי אלין",
+      "coords": {
+        "HPOS": 339,
+        "VPOS": 1796,
+        "WIDTH": 1866,
+        "HEIGHT": 63
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_5b1c7ca5",
+      "kind": "main",
+      "idx": 26,
+      "text": "ברייתא כולהו הוו תנו להו רבנן קמאי ואתו",
+      "coords": {
+        "HPOS": 827,
+        "VPOS": 1851,
+        "WIDTH": 1374,
+        "HEIGHT": 85
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_0a6b3f8f",
+      "kind": "main",
+      "idx": 27,
+      "text": "ר\"י ור\"ן ור\"ש",
+      "coords": {
+        "HPOS": 581,
+        "VPOS": 1844,
+        "WIDTH": 200,
+        "HEIGHT": 75
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_a104a20b",
+      "kind": "main",
+      "idx": 28,
+      "text": "(יוחסין",
+      "coords": {
+        "HPOS": 262,
+        "VPOS": 1853,
+        "WIDTH": 192,
+        "HEIGHT": 75
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_2b3ded71",
+      "kind": "main",
+      "idx": 29,
+      "text": "וח\"מ חסרונות ושיבושים) ו לקטינין כל",
+      "coords": {
+        "HPOS": 1339,
+        "VPOS": 1917,
+        "WIDTH": 864,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_bc0c9788",
+      "kind": "main",
+      "idx": 30,
+      "text": "מניהו",
+      "coords": {
+        "HPOS": 1027,
+        "VPOS": 1915,
+        "WIDTH": 112,
+        "HEIGHT": 81
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_401b1879",
+      "kind": "main",
+      "idx": 31,
+      "text": "תוספתא",
+      "coords": {
+        "HPOS": 293,
+        "VPOS": 1915,
+        "WIDTH": 284,
+        "HEIGHT": 77
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_d8b0422d",
+      "kind": "main",
+      "idx": 32,
+      "text": "ספרא",
+      "coords": {
+        "HPOS": 2010,
+        "VPOS": 1989,
+        "WIDTH": 193,
+        "HEIGHT": 84
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_c7e8d4ed",
+      "kind": "main",
+      "idx": 33,
+      "text": "ר\"י'",
+      "coords": {
+        "HPOS": 1904,
+        "VPOS": 1980,
+        "WIDTH": 55,
+        "HEIGHT": 55
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_7793412b",
+      "kind": "main",
+      "idx": 34,
+      "text": "ספרי ר\"ש,",
+      "coords": {
+        "HPOS": 1748,
+        "VPOS": 1980,
+        "WIDTH": 104,
+        "HEIGHT": 82
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_dad26e1d",
+      "kind": "main",
+      "idx": 35,
+      "text": "ר\"ש,",
+      "coords": {
+        "HPOS": 1533,
+        "VPOS": 1980,
+        "WIDTH": 119,
+        "HEIGHT": 71
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_0d0c0910",
+      "kind": "main",
+      "idx": 36,
+      "text": "ר\"מ",
+      "coords": {
+        "HPOS": 1170,
+        "VPOS": 1978,
+        "WIDTH": 93,
+        "HEIGHT": 53
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_f1bfde8c",
+      "kind": "main",
+      "idx": 37,
+      "text": "ש, ומתני' רכ (יוחסין. וח\"מ חסר) וכולהו אלי בא",
+      "coords": {
+        "HPOS": 277,
+        "VPOS": 1974,
+        "WIDTH": 1317,
+        "HEIGHT": 88
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_1fbe8056",
+      "kind": "main",
+      "idx": 38,
+      "text": "כי כולם תלמידי ר\"ע הם, אבל ברייתא אחרנייתא, לא איכפתל",
+      "coords": {
+        "HPOS": 221,
+        "VPOS": 2044,
+        "WIDTH": 1795,
+        "HEIGHT": 71
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_2b88d048",
+      "kind": "main",
+      "idx": 39,
+      "text": "בהו",
+      "coords": {
+        "HPOS": 335,
+        "VPOS": 2113,
+        "WIDTH": 92,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_4d3b365c",
+      "kind": "main",
+      "idx": 40,
+      "text": "ע\"ם חקה ומה ראה ועל מה נשען? או לומר משום עת לעשות לה', או מטעם שיהיה, ומדשתיק גאוננו מלהודיענו",
+      "coords": {
+        "HPOS": 205,
+        "VPOS": 2240,
+        "WIDTH": 2001,
+        "HEIGHT": 62
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_5a795175",
+      "kind": "main",
+      "idx": 41,
+      "text": "דבר גדול כזה, אלא אדרבא הולך ומספר כדבר פשוט ענין כתיבה, ולא חלי ולא מרגיש להאיר עינינו בטעם מה, מזה ראיה",
+      "coords": {
+        "HPOS": 207,
+        "VPOS": 2295,
+        "WIDTH": 1999,
+        "HEIGHT": 60
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_6ae8ab9f",
+      "kind": "main",
+      "idx": 42,
+      "text": "'חותכת דמימי עולם הכתיבה הסודיית לא נאסרה כ\"א עיקר האיסור הוא הלימוד מתוך הכתב, וזה כבר נשאר עד תחי",
+      "coords": {
+        "HPOS": 209,
+        "VPOS": 2350,
+        "WIDTH": 1997,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_225963ad",
+      "kind": "main",
+      "idx": 43,
+      "text": ".זמן הגאונים, וכמו שיסיים הגאון אגרתו בפרט זה לומר: \"דהוו זהירין רבנן למגרסינהו ע\"פ ועל מקימו נרחיב הדיבור עוד",
+      "coords": {
+        "HPOS": 209,
+        "VPOS": 2409,
+        "WIDTH": 1999,
+        "HEIGHT": 51
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_ae0929bb",
+      "kind": "main",
+      "idx": 44,
+      "text": "ז) לא תידוק מינה דא\"כ הרי שלא היתה כתיבה בעולם דאל\"כ ניתי ס\"ת ונחזי? דאימור דהיתה בע\"פ ולא נמצאה כתובה)",
+      "coords": {
+        "HPOS": 210,
+        "VPOS": 2460,
+        "WIDTH": 1991,
+        "HEIGHT": 60
+      },
+      "para_start": true,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_63ad2e7b",
+      "kind": "main",
+      "idx": 45,
+      "text": "דאין אנו מכריחין דהכל היה כתוב, אלא אנו מכריחין דלא נאסרה הכתיבה הסודיית או כמו שתאמר שהאיסור לא",
+      "coords": {
+        "HPOS": 203,
+        "VPOS": 2515,
+        "WIDTH": 1936,
+        "HEIGHT": 53
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_0dcc50fd",
+      "kind": "main",
+      "idx": 46,
+      "text": "היה כי אם ללמוד מתוך הכתב, וא\"כ אימור זה, או אימור שהיתה כתובה ונאב דה ונשארה בע\"פ גמור, או אימור שהיו שתי",
+      "coords": {
+        "HPOS": 207,
+        "VPOS": 2572,
+        "WIDTH": 2001,
+        "HEIGHT": 49
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_14372139",
+      "kind": "main",
+      "idx": 47,
+      "text": "נוסחאות כתובות, אחת מאותם הקוראים לעיינין אלפין כאשכנזים, ואחת מהנותנים הפרש בין עיינין לאלפין כספרדים",
+      "coords": {
+        "HPOS": 203,
+        "VPOS": 2612,
+        "WIDTH": 2002,
+        "HEIGHT": 62
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_7b3aa7ba",
+      "kind": "main",
+      "idx": 48,
+      "text": "שגלו לבין בני שם, ולא לבין בני יפת האשכנזים וצרפתים, וכבר הוכחנו לקמן שעד היום שהכל כתוב בספר, לא נשתמש",
+      "coords": {
+        "HPOS": 207,
+        "VPOS": 2678,
+        "WIDTH": 2001,
+        "HEIGHT": 48
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_804511b4",
+      "kind": "main",
+      "idx": 49,
+      "text": "בלשון כתיבה לענין תורה שבע\"פ, כ\"א בלשון שינון ותנן וכדומה וכבר נעשה לשון שינון מטבע לתורה שבע\"פ, ואין להביא",
+      "coords": {
+        "HPOS": 207,
+        "VPOS": 2720,
+        "WIDTH": 1999,
+        "HEIGHT": 63
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_a742b13f",
+      "kind": "main",
+      "idx": 50,
+      "text": ",ראיה ממנו, וא\"כ אימור דהיו ב' נוסחאות כתובות לפני רבי, ושתיהן מתפרשים כהוגן, וע\"ז נסתפק מי העיקרית והשורשית",
+      "coords": {
+        "HPOS": 209,
+        "VPOS": 2779,
+        "WIDTH": 1994,
+        "HEIGHT": 62
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_fe72492b",
+      "kind": "main",
+      "idx": 51,
+      "text": "וכל זה יוכל להתפרש בשופי באין מעיק, כיון שרבינו הגאון כל כונתו בהביא משנה זאת אינה אלא לברר דרבי לא לבד שלא",
+      "coords": {
+        "HPOS": 209,
+        "VPOS": 2825,
+        "WIDTH": 1997,
+        "HEIGHT": 62
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_bfad981e",
+      "kind": "main",
+      "idx": 52,
+      "text": "בדה מלבו שום דין, אלא שדקדק לשנות משנתו (בדברים שראה בהם הצורך שלא לשנות) כמו שהיו שונים הראשונים",
+      "coords": {
+        "HPOS": 209,
+        "VPOS": 2878,
+        "WIDTH": 1996,
+        "HEIGHT": 64
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_c5a44013",
+      "kind": "main",
+      "idx": 53,
+      "text": ".והדברים בדורים כשמלה. ולקמן בענף הרביעי נוסיף לדכר עוד מפרט זה",
+      "coords": {
+        "HPOS": 981,
+        "VPOS": 2940,
+        "WIDTH": 1222,
+        "HEIGHT": 61
+      },
+      "para_start": false,
+      "is_catchword": false
+    }
+  ]
+}

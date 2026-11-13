@@ -1,0 +1,653 @@
+{
+  "page_id": "page-62",
+  "image": "page_images/page-62.jpg",
+  "page_width": 2550,
+  "page_height": 3300,
+  "base_hash": "sha256:982386d5ac65a409abc7e415d337806b74cac670d17c81ef3c971d786f316418",
+  "lines": [
+    {
+      "line_id": "eSc_line_1a611a1a",
+      "kind": "main",
+      "idx": 0,
+      "text": "כשמש. והרמב\"ם הבא אחריו כבר פי' ואמר \"כותב לעצמו\" וא\"כ קשה להרב חיד\"א ז\"ל מנין הוציא",
+      "coords": {
+        "HPOS": 258,
+        "VPOS": 269,
+        "WIDTH": 2005,
+        "HEIGHT": 72
+      },
+      "para_start": true,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_47e0f326",
+      "kind": "main",
+      "idx": 1,
+      "text": ",דבר זה על הרמב\"ם, אלא שבאמת כבר חזר בו במקומות שונים ומכללם בועד לחכמים אות גאונים",
+      "coords": {
+        "HPOS": 267,
+        "VPOS": 348,
+        "WIDTH": 1994,
+        "HEIGHT": 60
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_ce925487",
+      "kind": "main",
+      "idx": 2,
+      "text": ",שבראותו תשו' ר\"ש דקיימינן בה נדפסה בשערי צדק, כבר הכיר שהכתיבה היתה מימי עולם וחזר בו",
+      "coords": {
+        "HPOS": 271,
+        "VPOS": 412,
+        "WIDTH": 1994,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_1e83977d",
+      "kind": "main",
+      "idx": 3,
+      "text": "אבל קיצר הרבה, כידוע שרשימות הרב חיד\"א אינם מרווין כל צמאון, כי אגב למורו היה רושם ועושה",
+      "coords": {
+        "HPOS": 262,
+        "VPOS": 476,
+        "WIDTH": 2001,
+        "HEIGHT": 61
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_0a6a7c96",
+      "kind": "main",
+      "idx": 4,
+      "text": "חיבורים כנודע, ועיין מ\"ש לעיל סי' ך', וזה תימה לרב רחומאי הרב המובהק כמוהר\"א פיפירנו נר\"ו",
+      "coords": {
+        "HPOS": 266,
+        "VPOS": 533,
+        "WIDTH": 1997,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_f8f0b7bc",
+      "kind": "main",
+      "idx": 5,
+      "text": ".שלא זכר ש\"ר בהגהותיו על פחד יצחק אות משנה מזה ודוק",
+      "coords": {
+        "HPOS": 676,
+        "VPOS": 597,
+        "WIDTH": 1191,
+        "HEIGHT": 72
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_445a9c3a",
+      "kind": "main",
+      "idx": 6,
+      "text": "באנו להטיב את החלום הב' על התלמוד גופיה והוא: דר\"י ור\"ל דרשו פסוק זה, אבל לא על",
+      "coords": {
+        "HPOS": 260,
+        "VPOS": 656,
+        "WIDTH": 2007,
+        "HEIGHT": 79
+      },
+      "para_start": true,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_b72cbbae",
+      "kind": "main",
+      "idx": 7,
+      "text": "כתיבת הלכות, אלא על כתיבת אגדות, מאריה דאברהם! היכן הוזכרה כתיבה בר\"י ור\"ל",
+      "coords": {
+        "HPOS": 264,
+        "VPOS": 722,
+        "WIDTH": 1781,
+        "HEIGHT": 75
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_400abd9d",
+      "kind": "main",
+      "idx": 8,
+      "text": "או בסת\"ד שהביא עוברא שלהם לראיה? התם תלמודא מחתר אחר ראיה כרי להתיר לקרות מתוך ספר",
+      "coords": {
+        "HPOS": 264,
+        "VPOS": 786,
+        "WIDTH": 2003,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_8facc68d",
+      "kind": "main",
+      "idx": 9,
+      "text": "אפטרתא הכתוב חומשין, ולא כל הספר שלם משום עת לעשות לה', והביא ראיה דר\"יוח ור\"ל מעייני",
+      "coords": {
+        "HPOS": 264,
+        "VPOS": 858,
+        "WIDTH": 2007,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_c9e325af",
+      "kind": "main",
+      "idx": 10,
+      "text": "בספרא דאגדתא בשבתא, ומקשה תלמודא, והיכי הותר להם ללמוד מתוך הספר? הא תושבע\"פ",
+      "coords": {
+        "HPOS": 260,
+        "VPOS": 918,
+        "WIDTH": 2007,
+        "HEIGHT": 64
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_7411f642",
+      "kind": "main",
+      "idx": 11,
+      "text": "כמשמעה ואסורה ללומדה מתוך הספר? וז\"א \"והא לא נתנה ליכתב\"? ר\"ל לא נתנה ללמדה מתוך",
+      "coords": {
+        "HPOS": 266,
+        "VPOS": 979,
+        "WIDTH": 2001,
+        "HEIGHT": 71
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_0e1e270a",
+      "kind": "main",
+      "idx": 12,
+      "text": "\"'הכתב. וכמו שביארנו לעיל ושנבאר לקמן כי שם מקומו, ותי' כיון דלא אפשר, \"עת לעשות לה', וכו",
+      "coords": {
+        "HPOS": 269,
+        "VPOS": 1041,
+        "WIDTH": 2002,
+        "HEIGHT": 81
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_db6dc7a0",
+      "kind": "main",
+      "idx": 13,
+      "text": "הכא נמי, כיון דלא אפשר עת לעשות וכו' ואי עיקר האיסור היא הכתיבה, מאי קושיא? התם שאני",
+      "coords": {
+        "HPOS": 266,
+        "VPOS": 1120,
+        "WIDTH": 2003,
+        "HEIGHT": 62
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_bbe3e82d",
+      "kind": "main",
+      "idx": 14,
+      "text": "שהאיסור ככר נעשה, וע\"ז מפני הדחק התירו ללמוד מתוך הספר, כיון שהם לא עשו האיסור, לא כן",
+      "coords": {
+        "HPOS": 264,
+        "VPOS": 1182,
+        "WIDTH": 2007,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_e3200d91",
+      "kind": "main",
+      "idx": 15,
+      "text": "'בלמוד מתוך ס' אפטרתא הוא האיסור הראשון, ואפי' את\"ל דגם על כתיבת ס' אפטרתא נפרד מס",
+      "coords": {
+        "HPOS": 267,
+        "VPOS": 1233,
+        "WIDTH": 2002,
+        "HEIGHT": 70
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_d2a53efa",
+      "kind": "main",
+      "idx": 16,
+      "text": "נביאים שלם, הוא איסור הראשון, והלימוד מתוכו הוא הגדר הב' כענין איסור כתיבת האגדות עכ\"פ",
+      "coords": {
+        "HPOS": 262,
+        "VPOS": 1303,
+        "WIDTH": 2005,
+        "HEIGHT": 64
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_810710ed",
+      "kind": "main",
+      "idx": 17,
+      "text": "כתמורה קשיא, דשם מתיר כתיבת אגרתא לרב יוסף, מהאי דלימוד אגדה מתוך הספר, וכאשר הארכתי",
+      "coords": {
+        "HPOS": 267,
+        "VPOS": 1375,
+        "WIDTH": 2002,
+        "HEIGHT": 67
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_b896c7cf",
+      "kind": "main",
+      "idx": 18,
+      "text": "כלל",
+      "coords": {
+        "HPOS": 2148,
+        "VPOS": 1490,
+        "WIDTH": 119,
+        "HEIGHT": 81
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_ce5008fc",
+      "kind": "main",
+      "idx": 19,
+      "text": "ל",
+      "coords": {
+        "HPOS": 2128,
+        "VPOS": 1450,
+        "WIDTH": 53,
+        "HEIGHT": 97
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_c5136e49",
+      "kind": "main",
+      "idx": 20,
+      "text": "לעיל בגוף דברי",
+      "coords": {
+        "HPOS": 1119,
+        "VPOS": 1435,
+        "WIDTH": 326,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_a2fd863d",
+      "kind": "main",
+      "idx": 21,
+      "text": "העולה, שפשט הכ' סוגיאות דתמורה ודגטין לא איירו על ענין כתיבה כלל, אלא על איסור",
+      "coords": {
+        "HPOS": 267,
+        "VPOS": 1497,
+        "WIDTH": 1820,
+        "HEIGHT": 70
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_d6137383",
+      "kind": "main",
+      "idx": 22,
+      "text": "למוד מתוך הספר שהוא עיקר האיסור, ולא ר\"יוח ור\"ל דברו על התר הכתיבה כי ידעו כי",
+      "coords": {
+        "HPOS": 266,
+        "VPOS": 1556,
+        "WIDTH": 1807,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_b5782b16",
+      "kind": "main",
+      "idx": 23,
+      "text": "היתה מותרת, ולא סתמא דתלמודא משתעי על התר זה, כי סוד כמוס היה להם הכתיבות, ולא שקלי",
+      "coords": {
+        "HPOS": 269,
+        "VPOS": 1622,
+        "WIDTH": 2002,
+        "HEIGHT": 64
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_fda30f0f",
+      "kind": "main",
+      "idx": 24,
+      "text": ",וטרו, כ\"א על למוד מתוך הספר, ולזה לא בקשו התר זה, דעת לעשות לה', אלא ללמוד מתוך הספרים",
+      "coords": {
+        "HPOS": 280,
+        "VPOS": 1684,
+        "WIDTH": 1991,
+        "HEIGHT": 77
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_f7737a37",
+      "kind": "main",
+      "idx": 25,
+      "text": "ר\"יוח ור\"ל על ספרי אגדתא, וסת\"ד דגטין על ס' אפטרתא, וסת\"ד דתמורה על מלתא חדתא, והכל",
+      "coords": {
+        "HPOS": 267,
+        "VPOS": 1747,
+        "WIDTH": 2002,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_b21908a7",
+      "kind": "main",
+      "idx": 26,
+      "text": "על התר הלמוד מתוך הספר, ולא על הכתיבה עצמה בשום אופן, ומה שהביא מריב\"ל על הדא אגדה",
+      "coords": {
+        "HPOS": 266,
+        "VPOS": 1811,
+        "WIDTH": 2003,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_ac34337e",
+      "kind": "main",
+      "idx": 27,
+      "text": "הכותבה וכו' כבר כתבתי במה שקדם דאגדה חמיר טפי לדעת ריב\"ל, יען אין בה מן הצורך, כיון דאין",
+      "coords": {
+        "HPOS": 269,
+        "VPOS": 1886,
+        "WIDTH": 2002,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_dadd2091",
+      "kind": "main",
+      "idx": 28,
+      "text": "למדין מן הדרש, וכאשר האריך הרב יפ\"מ שם בפ' כל כתבי, וכבר כתב הראב\"ד בפ' ה' מח' תשובה",
+      "coords": {
+        "HPOS": 267,
+        "VPOS": 1939,
+        "WIDTH": 2002,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_2b054556",
+      "kind": "main",
+      "idx": 29,
+      "text": "ה\"ז דהאגדות משבשות את הדעות ביסודי התורה והלכות דעות, וא\"כ אין להתפלא אם מזה הטעם",
+      "coords": {
+        "HPOS": 267,
+        "VPOS": 2003,
+        "WIDTH": 2002,
+        "HEIGHT": 70
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_15a87f65",
+      "kind": "main",
+      "idx": 30,
+      "text": ".עצמו ריב\"ל חרה אפו ונפלו פניו",
+      "coords": {
+        "HPOS": 933,
+        "VPOS": 2069,
+        "WIDTH": 677,
+        "HEIGHT": 72
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_e40a58da",
+      "kind": "main",
+      "idx": 31,
+      "text": "נמצא מבורר מכל האמור דמפשט התלמוד אין להוציא שהכתיבה היתה אסורה או מותרת בשום",
+      "coords": {
+        "HPOS": 269,
+        "VPOS": 2130,
+        "WIDTH": 2003,
+        "HEIGHT": 79
+      },
+      "para_start": true,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_7e44df15",
+      "kind": "main",
+      "idx": 32,
+      "text": "אופן, ואדרבא ממאי דנקיט לעולם בלשונו אי אתה רשאי לאומרם בע\"פ ולא א\"א",
+      "coords": {
+        "HPOS": 267,
+        "VPOS": 2200,
+        "WIDTH": 1763,
+        "HEIGHT": 77
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_77dfd250",
+      "kind": "main",
+      "idx": 33,
+      "text": ",רשאי לכותבם זה מופת חותך שהיתה כתיבה בעולם גנוזה ועומדת ואסור הלמוד מתוכה",
+      "coords": {
+        "HPOS": 280,
+        "VPOS": 2258,
+        "WIDTH": 1987,
+        "HEIGHT": 79
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_a2ffbba7",
+      "kind": "main",
+      "idx": 34,
+      "text": "'וידעתי כי אין להאשים החכם הזה, כמו שאין להאשים גדולים וטובים ממנו שנגררו אחר פירש\"י שפי",
+      "coords": {
+        "HPOS": 277,
+        "VPOS": 2324,
+        "WIDTH": 1995,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_8492b0a7",
+      "kind": "main",
+      "idx": 35,
+      "text": "א\"א רשאי לאומרם א\"א רשאי לכותבם\" וזה גרס לו ששם בעמוד קצ\"ו החזיק הדברים נגד מי שהיה\"",
+      "coords": {
+        "HPOS": 269,
+        "VPOS": 2387,
+        "WIDTH": 1989,
+        "HEIGHT": 77
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_2cad829f",
+      "kind": "main",
+      "idx": 36,
+      "text": "רוצה לומר רגירסא אחרת היתה לפני רש\"י, והיינו א\"א רשאי לכותבם וע\"ז השיבו החכם הזה בטוב",
+      "coords": {
+        "HPOS": 267,
+        "VPOS": 2453,
+        "WIDTH": 2004,
+        "HEIGHT": 64
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_e1252c60",
+      "kind": "main",
+      "idx": 37,
+      "text": ",טעם ודעת באומרו \"לא שהיה גורס כך בתלמוד אך בשכלו הטהור הבין כי האמירה בכתב היא הכתיבה",
+      "coords": {
+        "HPOS": 275,
+        "VPOS": 2520,
+        "WIDTH": 1996,
+        "HEIGHT": 74
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_2bc9f503",
+      "kind": "main",
+      "idx": 38,
+      "text": "ואם היתה כונת האמורא על האמירה ברבים, היה אומר \"לאומרם מתוך הכתב\" א\"ד נר\"ו, ובאמת",
+      "coords": {
+        "HPOS": 267,
+        "VPOS": 2581,
+        "WIDTH": 2005,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_220a92f2",
+      "kind": "main",
+      "idx": 39,
+      "text": "מצד אחד יפה החזיק שלא היתה גירסא אחרת לפני רש\"י, כ\"א שהוא רצה להוציא הענין מידי פשוטו",
+      "coords": {
+        "HPOS": 269,
+        "VPOS": 2643,
+        "WIDTH": 1998,
+        "HEIGHT": 75
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_29f2303f",
+      "kind": "main",
+      "idx": 40,
+      "text": ",לאומרם לכותבם, ואמרתי להוציא הדבר מידי פשיטותו, בדינא ובדיינא, כי איך יפורש לאומרם",
+      "coords": {
+        "HPOS": 277,
+        "VPOS": 2706,
+        "WIDTH": 1994,
+        "HEIGHT": 80
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_a91c4ed5",
+      "kind": "main",
+      "idx": 41,
+      "text": "\"לכותבם, אחרי שאין לנו שום דוחק חיצוני או מקומיי? ודקדוק אומרו התלמוד \"לאומרם בכתב",
+      "coords": {
+        "HPOS": 278,
+        "VPOS": 2773,
+        "WIDTH": 1994,
+        "HEIGHT": 77
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_43195c08",
+      "kind": "main",
+      "idx": 42,
+      "text": ",במקום \"לאומרם מתוך הכתב\", מלבד שאינו כדאי להוציא תיבת לאומרם מידי פשיטות פשיטותה",
+      "coords": {
+        "HPOS": 278,
+        "VPOS": 2834,
+        "WIDTH": 1993,
+        "HEIGHT": 81
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_7e02aeb0",
+      "kind": "main",
+      "idx": 43,
+      "text": "כי הטוען יבא טעון בכח גדול לומר לו: מאי חזית דתידוק מהא, תידוק מהא להפך אפי' דשוו שתי",
+      "coords": {
+        "HPOS": 273,
+        "VPOS": 2900,
+        "WIDTH": 1996,
+        "HEIGHT": 75
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_3bcdf78f",
+      "kind": "main",
+      "idx": 44,
+      "text": "המלות בשיעוריהן, כ\"ש שמלת לאומרם עפ\"י פשיטותה לא תובן כשום אופן לכותבם, ותיבת בכתב",
+      "coords": {
+        "HPOS": 271,
+        "VPOS": 2964,
+        "WIDTH": 1998,
+        "HEIGHT": 79
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_c331d3f7",
+      "kind": "main",
+      "idx": 45,
+      "text": "תתבאר",
+      "coords": {
+        "HPOS": 407,
+        "VPOS": 3034,
+        "WIDTH": 150,
+        "HEIGHT": 69
+      },
+      "para_start": false,
+      "is_catchword": true
+    }
+  ]
+}

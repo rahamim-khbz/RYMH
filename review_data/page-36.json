@@ -1,0 +1,681 @@
+{
+  "page_id": "page-36",
+  "image": "page_images/page-36.jpg",
+  "page_width": 2550,
+  "page_height": 3300,
+  "base_hash": "sha256:53fa948a1a94fe5a73d098f3fec5af9757355f44f06500b3b5225380c7357df8",
+  "lines": [
+    {
+      "line_id": "eSc_line_652d7886",
+      "kind": "main",
+      "idx": 0,
+      "text": "'צג",
+      "coords": {
+        "HPOS": 421,
+        "VPOS": 141,
+        "WIDTH": 94,
+        "HEIGHT": 82
+      },
+      "para_start": true,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_77f2dec7",
+      "kind": "main",
+      "idx": 1,
+      "text": "ומאלה אתה כותב נפקא דבר והופכו, כמו שדרשת \"אלה אתה כותב\" א\"א לפרשה על מצות כתובת",
+      "coords": {
+        "HPOS": 289,
+        "VPOS": 243,
+        "WIDTH": 1994,
+        "HEIGHT": 74
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_d79ad53e",
+      "kind": "main",
+      "idx": 2,
+      "text": "ס\"ת, כי אם על מצות אמירתן מתוך הספר, ואיסורן בע\"פ, כן \"ואי אתה כותב הלכות\" דדרשינן מניה",
+      "coords": {
+        "HPOS": 289,
+        "VPOS": 308,
+        "WIDTH": 1989,
+        "HEIGHT": 78
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_a94bdf2b",
+      "kind": "main",
+      "idx": 3,
+      "text": "אינו על איסור כתיבה, כי אם על איסור קריאתן מתוך הכתב, וכאשר הארכתי לעיל, וכן הך \"דכותבי",
+      "coords": {
+        "HPOS": 293,
+        "VPOS": 379,
+        "WIDTH": 1987,
+        "HEIGHT": 70
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_789cc83d",
+      "kind": "main",
+      "idx": 4,
+      "text": "הלכות כשורפי תורה\" לא הזכירו הגאון ז\"ל, אפשר דס\"ל דלאו הלכה הוא, ואפשר והוא האמת כ\"ש",
+      "coords": {
+        "HPOS": 288,
+        "VPOS": 432,
+        "WIDTH": 1992,
+        "HEIGHT": 83
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_3edc32e0",
+      "kind": "main",
+      "idx": 5,
+      "text": "לעיל דקאי על כותבי הלכות שמלאכתן בכך, כמו כותבי ספרים ומגילות לאחרום, כי באופן כזה ודאי",
+      "coords": {
+        "HPOS": 291,
+        "VPOS": 506,
+        "WIDTH": 1989,
+        "HEIGHT": 69
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_8b13def2",
+      "kind": "main",
+      "idx": 6,
+      "text": "הם כשורפי תורה, שע\"י רוב מציאותן יבואו מן ההתר אל האיסור, כי לאו כ\"ע רבנן דהוו זהירין שלא",
+      "coords": {
+        "HPOS": 289,
+        "VPOS": 570,
+        "WIDTH": 1991,
+        "HEIGHT": 71
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_a75663c1",
+      "kind": "main",
+      "idx": 7,
+      "text": "ללמוד מתוך הכתב, וע\"ז אין ספק שהיו הכתיבות חמדות גנוזות ביד גדולי הדור, וראשי ישיבות, כי",
+      "coords": {
+        "HPOS": 297,
+        "VPOS": 632,
+        "WIDTH": 1983,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_f773a47c",
+      "kind": "main",
+      "idx": 8,
+      "text": "יראת ה' היא אוצרם, ומי יאמר לא כן לגאונים בדורם כרבינו שרירא ובנו דהוו נהירין להו שבילי",
+      "coords": {
+        "HPOS": 291,
+        "VPOS": 694,
+        "WIDTH": 1987,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_e0dbe601",
+      "kind": "main",
+      "idx": 9,
+      "text": "דתלמודא יותר משבילי דנהרדעה. ומי לנו בקיאים בכל עניני הראשונים בקיאות נהיר ובהיר בשחקים",
+      "coords": {
+        "HPOS": 291,
+        "VPOS": 766,
+        "WIDTH": 1987,
+        "HEIGHT": 57
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_926d9c70",
+      "kind": "main",
+      "idx": 10,
+      "text": "אשר ראוי לסמוך עליו יותר מהם? יאמר לי הקורא החפשי המבקש דרך סלולה מחסדו הנעים! הגע",
+      "coords": {
+        "HPOS": 288,
+        "VPOS": 819,
+        "WIDTH": 1990,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_c929cd42",
+      "kind": "main",
+      "idx": 11,
+      "text": "עצמך שגאוננו ר\"ש ובנו מצאו גמרות, והלכות, ומשניות כתובים מימות נביאים ראשונים, כי אינו",
+      "coords": {
+        "HPOS": 289,
+        "VPOS": 891,
+        "WIDTH": 1985,
+        "HEIGHT": 60
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_369871d3",
+      "kind": "main",
+      "idx": 12,
+      "text": ",דבר רחוק אלא קרוב למאד שעדיין התורה היתה שוקטת על שמריה בבבל, וראשי סנהרראות וגאוניה",
+      "coords": {
+        "HPOS": 299,
+        "VPOS": 947,
+        "WIDTH": 1977,
+        "HEIGHT": 77
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_f4675b19",
+      "kind": "main",
+      "idx": 13,
+      "text": "לא הורקו מכלי אל כלי ובגולה לא הלכו, וברי להו לאב ולבן שראו את החדש שהיה כתיבתן וחתימתן",
+      "coords": {
+        "HPOS": 291,
+        "VPOS": 1013,
+        "WIDTH": 1987,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_d6149bdc",
+      "kind": "main",
+      "idx": 14,
+      "text": "של ראשונים, כמו בימינו שיש לנו כתיבתן וחתימתן של ראשונים (כה) וכמו שבאמת מעידין בגודלן",
+      "coords": {
+        "HPOS": 291,
+        "VPOS": 1074,
+        "WIDTH": 1981,
+        "HEIGHT": 71
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_ed083459",
+      "kind": "main",
+      "idx": 15,
+      "text": "בתשו' זאת שבשערי תשובה דאייתין עלה לעיקר מטרין, ובפירושא קאמרי שלאחר שנלב\"ע חד מהגאונים",
+      "coords": {
+        "HPOS": 291,
+        "VPOS": 1136,
+        "WIDTH": 1981,
+        "HEIGHT": 72
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_92adfbd1",
+      "kind": "main",
+      "idx": 16,
+      "text": "מצאו באמתחתו \"שיתא סדרי משנה דאתגניזו מיומי דהלל\" וכבר בתחילת דברינו כתבנו עליה הנפק",
+      "coords": {
+        "HPOS": 291,
+        "VPOS": 1197,
+        "WIDTH": 1981,
+        "HEIGHT": 77
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_71a58bd6",
+      "kind": "main",
+      "idx": 17,
+      "text": "דבתלתא הויא חזקה, א\"כ נמצא דגאוננו ז\"ל ובנו חמודו הוחזקו לטעון טענת ברי שהיו חמדות",
+      "coords": {
+        "HPOS": 289,
+        "VPOS": 1261,
+        "WIDTH": 1985,
+        "HEIGHT": 73
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_cc328a5e",
+      "kind": "main",
+      "idx": 18,
+      "text": "גנוזות מימות תנאים ראשונים, וכיוצא בדבר מעיד לקמן (יוחסין ר\"א דפ\"ח ע\"א) \"שמענו מן",
+      "coords": {
+        "HPOS": 291,
+        "VPOS": 1321,
+        "WIDTH": 1985,
+        "HEIGHT": 77
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_e5bcea0a",
+      "kind": "main",
+      "idx": 19,
+      "text": "הראשונים וראינו כתוב בספרי זכרוניהם\" (כו) ואחר כל ידיעות בריאות וטובות שהיו לגאוננו ובנו ז\"ל",
+      "coords": {
+        "HPOS": 291,
+        "VPOS": 1386,
+        "WIDTH": 1978,
+        "HEIGHT": 69
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_4741c790",
+      "kind": "main",
+      "idx": 20,
+      "text": "רואים סוגיאות הללו וכיוצא בהם דלפי פשטן מבורר יוצא איסורא דרביע על כותבי הלכות, עד דהוו",
+      "coords": {
+        "HPOS": 291,
+        "VPOS": 1452,
+        "WIDTH": 1981,
+        "HEIGHT": 67
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_15d840d7",
+      "kind": "main",
+      "idx": 21,
+      "text": "כשורפי תורה, הנה נמצאו הגאונים כמי שנתנום בין ב' חרבות חדות, התלמוד קורא בגרון לאסור",
+      "coords": {
+        "HPOS": 295,
+        "VPOS": 1523,
+        "WIDTH": 1977,
+        "HEIGHT": 64
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_49df37cb",
+      "kind": "main",
+      "idx": 22,
+      "text": "איסר לכתוב אפי' אות אחת (לפי' פשט פירש\"י בכל התלמוד) וכנגד זה רואים מעשה רב ועדיו בחותמיו",
+      "coords": {
+        "HPOS": 291,
+        "VPOS": 1576,
+        "WIDTH": 1981,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_b2dd487c",
+      "kind": "main",
+      "idx": 23,
+      "text": "זכין לו שהיו מותרין לכתוב ולחבר, א\"כ בהכרח יפרשו כל הסוגיאות הנז\"ל כמו שביארנום מרישא",
+      "coords": {
+        "HPOS": 289,
+        "VPOS": 1639,
+        "WIDTH": 1982,
+        "HEIGHT": 73
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_764d8d19",
+      "kind": "main",
+      "idx": 24,
+      "text": "דסדרא, והוא שהאיסור הוא דוקא ללמוד מתוכן, אבל לכותבם כדי לסדרם ולתרצם, בלשון ופה אחד",
+      "coords": {
+        "HPOS": 295,
+        "VPOS": 1699,
+        "WIDTH": 1974,
+        "HEIGHT": 81
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_221f281f",
+      "kind": "main",
+      "idx": 25,
+      "text": "כדי להיות זהירין למגרסינהו ע\"פ, ועיקר הכהבי יד יהיו גנוזים ועומדים ביד השרידים, הא ודאי",
+      "coords": {
+        "HPOS": 297,
+        "VPOS": 1769,
+        "WIDTH": 1974,
+        "HEIGHT": 71
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_9d3d2f3e",
+      "kind": "main",
+      "idx": 26,
+      "text": "פטור ומותר, וגם דבריו פה בתשו' שלפנינו הנז\"ל באומרו: \"שיתא סדרי משנה דאתגני זו",
+      "coords": {
+        "HPOS": 293,
+        "VPOS": 1829,
+        "WIDTH": 1979,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_9227c86f",
+      "kind": "main",
+      "idx": 27,
+      "text": "מיומי הלל\" מוכח להדיא כן דלעולם היתה כתיבה, אבל בתנאי שתהיה גנוזה ביד השרידים, ולמה",
+      "coords": {
+        "HPOS": 291,
+        "VPOS": 1893,
+        "WIDTH": 1980,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_79479968",
+      "kind": "main",
+      "idx": 28,
+      "text": "יאמר",
+      "coords": {
+        "HPOS": 423,
+        "VPOS": 1956,
+        "WIDTH": 118,
+        "HEIGHT": 71
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_c81bef84",
+      "kind": "main",
+      "idx": 29,
+      "text": ",כה) ואני הדל באלפי נמצא אצלי באמתחת הגאון הרב מר זקני, בעל חקרי לב ז\"ל חת\"י של רבינו הגאון מוהר\"י קארו ז\"ל)",
+      "coords": {
+        "HPOS": 295,
+        "VPOS": 2060,
+        "WIDTH": 1976,
+        "HEIGHT": 75
+      },
+      "para_start": true,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_73250ef5",
+      "kind": "main",
+      "idx": 30,
+      "text": "ומוהר\"י טאיצטאק, והמביט, ומוהרשד\"ם ומוהרימ\"ט, והרב ישראל בנימין (ועיין מו\"הר בס' גט פשוט סימן קנ\"ט",
+      "coords": {
+        "HPOS": 291,
+        "VPOS": 2121,
+        "WIDTH": 1879,
+        "HEIGHT": 60
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_6fe8541a",
+      "kind": "main",
+      "idx": 31,
+      "text": "ס\"ק קכ\"ז שכדבריו כן הוא שחותם בנימן חסר יוד אחרונה) והרב יאשיהו פינטו, והכנ\"הג, ומוהר\"י איסקאפא, בעל ראש",
+      "coords": {
+        "HPOS": 289,
+        "VPOS": 2179,
+        "WIDTH": 1982,
+        "HEIGHT": 57
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_b3df4ead",
+      "kind": "main",
+      "idx": 32,
+      "text": "יוסף ומוהר\"מ אלבילדא ז\"ל, שיש מהם שהם חתומות מזה קרוב לג מאות שנה, וברי לי שהם חתימותיהם, יען שבאו לנו",
+      "coords": {
+        "HPOS": 291,
+        "VPOS": 2227,
+        "WIDTH": 1980,
+        "HEIGHT": 57
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_235fb5d9",
+      "kind": "main",
+      "idx": 33,
+      "text": ",מירושה מאב לבן, מהרב זקני ר' אליהו חזן\" חברו של מוהרימ\"ט ז\"ל, והוא הנחילם להרב מד זקני בנו, בעל עין יהוסף",
+      "coords": {
+        "HPOS": 295,
+        "VPOS": 2277,
+        "WIDTH": 1977,
+        "HEIGHT": 67
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_1c2967b3",
+      "kind": "main",
+      "idx": 34,
+      "text": "שיטה על ב\"מ, חברו של הרב כנ\"הג, והוא הורישה לבנו הרב שנות חיים, והרב שנות חיים לבנו הרב חוזה דור, והרב חוזה",
+      "coords": {
+        "HPOS": 289,
+        "VPOS": 2341,
+        "WIDTH": 1982,
+        "HEIGHT": 53
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_9d15699d",
+      "kind": "main",
+      "idx": 35,
+      "text": "דור לבנו מוהר\"ר חיים ז\"ל, והוא לבנו הגאון המפורסם בעל חק\"ל, והוא להגאון מר אבי, ר אליעזר הגדול ז\"ל בצוואה",
+      "coords": {
+        "HPOS": 289,
+        "VPOS": 2379,
+        "WIDTH": 1980,
+        "HEIGHT": 64
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_acf56704",
+      "kind": "main",
+      "idx": 36,
+      "text": "מיוחדת בזה הלשון: \"והספרים שלי להחכם בני אליעזו\" ומר אבי ז\"ל לי אנכי הכותב המדבר משיחי\"ו, וה' יזכני להנחיל",
+      "coords": {
+        "HPOS": 288,
+        "VPOS": 2432,
+        "WIDTH": 1983,
+        "HEIGHT": 63
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_2c67cd38",
+      "kind": "main",
+      "idx": 37,
+      "text": "אותם עם כל ספרי, לבני הרך בשנים יוסף יפה טו\"הר אשר שמו כשם רבותיו וזקניו, הגאון בעל עין יהוסף, והגאון בעל",
+      "coords": {
+        "HPOS": 288,
+        "VPOS": 2486,
+        "WIDTH": 1983,
+        "HEIGHT": 62
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_9d05084c",
+      "kind": "main",
+      "idx": 38,
+      "text": "חק\"ל כן יאמר ה' בעל הרחמים, ואחד שכן מה תמיה על הגאון שלשלת יוחסין ברבינו שרירא ז\"ל, אם עינו רא\"ה חמדה",
+      "coords": {
+        "HPOS": 286,
+        "VPOS": 2548,
+        "WIDTH": 1981,
+        "HEIGHT": 51
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_328cd6c5",
+      "kind": "main",
+      "idx": 39,
+      "text": ".גנוזה מימות הלל, אחרי היות התורה שיקטת על שמדיה בבבל וכנז\"ל",
+      "coords": {
+        "HPOS": 1122,
+        "VPOS": 2596,
+        "WIDTH": 1149,
+        "HEIGHT": 58
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_861e428c",
+      "kind": "main",
+      "idx": 40,
+      "text": "כו) כאן נפל האמת כמקרה והזדמן שבנוסח ח\"מ עמוד ל\"ח השמיט \"וראינו כתוב\" והעתיק וז\"ל: \"שמעינן מן הראשונים)",
+      "coords": {
+        "HPOS": 282,
+        "VPOS": 2643,
+        "WIDTH": 1983,
+        "HEIGHT": 64
+      },
+      "para_start": true,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_93e401b4",
+      "kind": "main",
+      "idx": 41,
+      "text": "ובספרי זכרוניהם, מפחדו שמא גם לשון הכתיבה פה תהיה לאבן נגף וצור מכשול אל היסוד המוסד לו כי כתיבה לא",
+      "coords": {
+        "HPOS": 282,
+        "VPOS": 2691,
+        "WIDTH": 1897,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_c2b99568",
+      "kind": "main",
+      "idx": 42,
+      "text": "הואי מעולם לתורה שבע\"פ, והמעתיק הבור דק לא ידע דאינו ענין כלל, אי מצד שענין כתיבה זאת, היא סיפור קורא",
+      "coords": {
+        "HPOS": 282,
+        "VPOS": 2753,
+        "WIDTH": 1985,
+        "HEIGHT": 53
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_6a8ca4e5",
+      "kind": "main",
+      "idx": 43,
+      "text": "הדורות מראש, ואינו באיסור, ועוד דלא קאי ספרי זכרונותיהם על מר בר רב אשי ובני דורו, אלא קאי על הראשונים",
+      "coords": {
+        "HPOS": 282,
+        "VPOS": 2805,
+        "WIDTH": 1985,
+        "HEIGHT": 56
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_13135169",
+      "kind": "main",
+      "idx": 44,
+      "text": ".ברוך המאיד עיני חכמים, ולא יחדוך רמיה צידו אמר רחמנא",
+      "coords": {
+        "HPOS": 1252,
+        "VPOS": 2909,
+        "WIDTH": 1009,
+        "HEIGHT": 61
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_6b126dde",
+      "kind": "main",
+      "idx": 45,
+      "text": ".הקודמים לגאוננו שהתירו הכתיבה, וכתבו גם זכרון נם זה, אבל מן שמים נלחמו עם המעתיק להוציא הגזלה מתחת יד",
+      "coords": {
+        "HPOS": 288,
+        "VPOS": 2847,
+        "WIDTH": 1977,
+        "HEIGHT": 91
+      },
+      "para_start": true,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_4ef8b202",
+      "kind": "main",
+      "idx": 46,
+      "text": "בד",
+      "coords": {
+        "HPOS": 2060,
+        "VPOS": 2955,
+        "WIDTH": 73,
+        "HEIGHT": 84
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_c90a3951",
+      "kind": "main",
+      "idx": 47,
+      "text": "22",
+      "coords": {
+        "HPOS": 1860,
+        "VPOS": 2962,
+        "WIDTH": 71,
+        "HEIGHT": 70
+      },
+      "para_start": false,
+      "is_catchword": true
+    }
+  ]
+}

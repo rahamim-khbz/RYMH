@@ -1,0 +1,625 @@
+{
+  "page_id": "page-48",
+  "image": "page_images/page-48.jpg",
+  "page_width": 2550,
+  "page_height": 3300,
+  "base_hash": "sha256:475826b0bdaccdebd3012165d2627511946eb34d64e41a9a04bcda45afc1d726",
+  "lines": [
+    {
+      "line_id": "eSc_line_71b0f998",
+      "kind": "main",
+      "idx": 0,
+      "text": ",שאול בחיד ה' אחרי גוו, כי חלילה לכל בר דעת ומכיר בטיב קורת אומתינו ודתנו שיחשוב הפך זה",
+      "coords": {
+        "HPOS": 278,
+        "VPOS": 251,
+        "WIDTH": 1982,
+        "HEIGHT": 75
+      },
+      "para_start": true,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_a2c30278",
+      "kind": "main",
+      "idx": 1,
+      "text": ",ואחר שכן הענין הברור כשמש הלזה, הוא עצמו יעלה אותנו ממדרגה למדרגה וממעלה למעלה",
+      "coords": {
+        "HPOS": 280,
+        "VPOS": 317,
+        "WIDTH": 1981,
+        "HEIGHT": 71
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_d71d8003",
+      "kind": "main",
+      "idx": 2,
+      "text": "לחשוב מחשבות, מה פעל בדור המשא ומתן הזה המרעיד הלבבות, אם לכנוס ואם לפטור משים",
+      "coords": {
+        "HPOS": 275,
+        "VPOS": 386,
+        "WIDTH": 1986,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_07d89ea0",
+      "kind": "main",
+      "idx": 3,
+      "text": "איסורי לאוין? הא ודאי כל משכיל יודה בדעת שלם, כי אין ספק, כי בו בפרק, דוד היטב חרה לו והיטב",
+      "coords": {
+        "HPOS": 271,
+        "VPOS": 445,
+        "WIDTH": 1987,
+        "HEIGHT": 64
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_5034d50a",
+      "kind": "main",
+      "idx": 4,
+      "text": "נפלו פניו, כי ראה עצמו שהעלוהו לגרדום לידון ובפגם משפחה עצום ונורא, וגמירי שאמר בלבו, הא",
+      "coords": {
+        "HPOS": 273,
+        "VPOS": 507,
+        "WIDTH": 1985,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_abdbca2c",
+      "kind": "main",
+      "idx": 5,
+      "text": "תינח היום כי שמואל וב\"ד קיים יכולתי להציל עצמי עם דין זה הוה ורגיל \"מואבי ולא מואבית\" מה",
+      "coords": {
+        "HPOS": 273,
+        "VPOS": 572,
+        "WIDTH": 1987,
+        "HEIGHT": 64
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_16da2084",
+      "kind": "main",
+      "idx": 6,
+      "text": "נעשה לזרענו וז\"ז אחר מות שמואל? ועם שגם אויביו ימותו כדואג האדומי ודדמי, עכ\"פ האויב תמו",
+      "coords": {
+        "HPOS": 277,
+        "VPOS": 645,
+        "WIDTH": 1983,
+        "HEIGHT": 55
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_66fef3bd",
+      "kind": "main",
+      "idx": 7,
+      "text": "חרבות לנצח, ומה רפואה אבקש שלא יבואו למחר לפסול זרעי והמה מלכי יהודה וישראל? הייטב בעיני",
+      "coords": {
+        "HPOS": 275,
+        "VPOS": 696,
+        "WIDTH": 1985,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_234c85cd",
+      "kind": "main",
+      "idx": 8,
+      "text": ",ה' שלא אשתדל למחות כענן בקר טענה של הבל כזאת, עם שאלך בכבודי ובעצמי לפני שמואל רבי",
+      "coords": {
+        "HPOS": 289,
+        "VPOS": 757,
+        "WIDTH": 1971,
+        "HEIGHT": 80
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_b696453c",
+      "kind": "main",
+      "idx": 9,
+      "text": "אשר בידו להציל בכתיבתו וחתימתו לדורות עולם? ותכף קל חיש כגבור יצא, ויקם ויעמוד לפני שמואל",
+      "coords": {
+        "HPOS": 275,
+        "VPOS": 830,
+        "WIDTH": 1985,
+        "HEIGHT": 59
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_f5458943",
+      "kind": "main",
+      "idx": 10,
+      "text": "הרואה באמור אליו: הושיעה נביא לבב חכמה! הלא אתה משחתני בשם ה' למלך על ישראל, וכיון",
+      "coords": {
+        "HPOS": 277,
+        "VPOS": 885,
+        "WIDTH": 1983,
+        "HEIGHT": 75
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_b98df05f",
+      "kind": "main",
+      "idx": 11,
+      "text": ",שהוא בשמן המשחה, המלכות ירושה היא, כמו שהודעתני רבי! מקרא דלמען יאריך ימים על ממלכתו",
+      "coords": {
+        "HPOS": 284,
+        "VPOS": 951,
+        "WIDTH": 1979,
+        "HEIGHT": 73
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_0b68030e",
+      "kind": "main",
+      "idx": 12,
+      "text": "ומה אעשה אם יקומו דורות הבאים, שונאים חנם, ויפסלו זרעי במקרא דלא יבא וכו' כחרב חדה",
+      "coords": {
+        "HPOS": 275,
+        "VPOS": 1013,
+        "WIDTH": 1988,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_53aec397",
+      "kind": "main",
+      "idx": 13,
+      "text": "בידם? מאין להם ראיה מבוררת על הביאור הקבליי הלזה, אעפ\"י שהוא ג\"כ שכלי, ומבורר מן",
+      "coords": {
+        "HPOS": 277,
+        "VPOS": 1074,
+        "WIDTH": 1983,
+        "HEIGHT": 79
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_4dd0052c",
+      "kind": "main",
+      "idx": 14,
+      "text": "קבלות אחרות אשר אתה הוכחת ביום הזה? כי ירוע כי המקראות לעולם הם ביד המנגדים כחומר",
+      "coords": {
+        "HPOS": 278,
+        "VPOS": 1147,
+        "WIDTH": 1982,
+        "HEIGHT": 63
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_d6a2bad6",
+      "kind": "main",
+      "idx": 15,
+      "text": "ביד היוצר, יטום אל כל אשר יחפוצו? ויען שמואל ויאמר לדוד: מה תועיל כי תפגע בי? ומה רפואה",
+      "coords": {
+        "HPOS": 275,
+        "VPOS": 1202,
+        "WIDTH": 1983,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_536c09ea",
+      "kind": "main",
+      "idx": 16,
+      "text": "אבקש לדורות הבאים? ויען דוד ויאמר: שאלתי ובקשתי, שתכתוב זאת זכרון בספר, ותתן בידי, ואני",
+      "coords": {
+        "HPOS": 278,
+        "VPOS": 1270,
+        "WIDTH": 1982,
+        "HEIGHT": 70
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_55d2f8e7",
+      "kind": "main",
+      "idx": 17,
+      "text": "אורישנו לזרעי הבא אחרי, ואחרי כן יצאו זרעי אחרי, כבעל חוב ושטרו בידו מקויים בקיום כ\"ד של",
+      "coords": {
+        "HPOS": 275,
+        "VPOS": 1331,
+        "WIDTH": 1985,
+        "HEIGHT": 73
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_9b2cd658",
+      "kind": "main",
+      "idx": 18,
+      "text": "שמואל ובית דינו, בו בפרק שרתה רוח הקרש על שמואל, וכה אמר לדור, וכה ענהו: הלא אתה ידעת",
+      "coords": {
+        "HPOS": 275,
+        "VPOS": 1395,
+        "WIDTH": 1985,
+        "HEIGHT": 64
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_6b4ba646",
+      "kind": "main",
+      "idx": 19,
+      "text": "בי דבר זה שאתה מבקש אינו אלא ביאור מקרא שכתוב, מפורש ושום שכל \"מואבי ולא מואבית\" ודבר",
+      "coords": {
+        "HPOS": 280,
+        "VPOS": 1453,
+        "WIDTH": 1981,
+        "HEIGHT": 79
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_a5d0b126",
+      "kind": "main",
+      "idx": 20,
+      "text": ",זה לא נתן ליכתב וליפרסם, כדי שיהיה בידך לעדות ולראיה מהימנא, אשר כל הבא ועמר וערער",
+      "coords": {
+        "HPOS": 289,
+        "VPOS": 1518,
+        "WIDTH": 1972,
+        "HEIGHT": 75
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_99da02d4",
+      "kind": "main",
+      "idx": 21,
+      "text": "תצא לפניו כאשר אמרת כבעל חוב ושטרו בירו, כי הוא איסור חמור, וגם כן הכתיבה והגניזה שבאוצרות",
+      "coords": {
+        "HPOS": 275,
+        "VPOS": 1587,
+        "WIDTH": 1986,
+        "HEIGHT": 63
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_c32b379d",
+      "kind": "main",
+      "idx": 22,
+      "text": "הקבלה לא מהני, כל ששום אדם לא יכול ללמוד הביאור מתוך דברים שבכתב, וא\"כ מאי אהניא כתיבתי",
+      "coords": {
+        "HPOS": 278,
+        "VPOS": 1644,
+        "WIDTH": 1983,
+        "HEIGHT": 75
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_0eba7067",
+      "kind": "main",
+      "idx": 23,
+      "text": "וחתימתי? אבל זאת אעשה שאחר שכבר כתבתי בספרי ספר שמואל את כל הקורא בין המלך שאול",
+      "coords": {
+        "HPOS": 277,
+        "VPOS": 1708,
+        "WIDTH": 1986,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_e2c656ee",
+      "kind": "main",
+      "idx": 24,
+      "text": "ובינך, שע\"י שרוח רעה בעתתו, בקש מאת אביך שתעמוד לפניו ושתהיה נושא כליו והיית זמן רב",
+      "coords": {
+        "HPOS": 277,
+        "VPOS": 1772,
+        "WIDTH": 1984,
+        "HEIGHT": 76
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_e00f74e5",
+      "kind": "main",
+      "idx": 25,
+      "text": "עייל בלא בר לפני המלך, וגם שבשעת מלחמה דיבר עמך כאשר ידבר איש את מכרו, ולא שאל עליך",
+      "coords": {
+        "HPOS": 280,
+        "VPOS": 1831,
+        "WIDTH": 1981,
+        "HEIGHT": 81
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_558e74f4",
+      "kind": "main",
+      "idx": 26,
+      "text": "מה ומי ואיך, וידעו כל הקוראים דברי אלה ויאמינו כי גם המלך וגם משנהו אבנר הכירוך וידעוך בטיב",
+      "coords": {
+        "HPOS": 278,
+        "VPOS": 1899,
+        "WIDTH": 1980,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_d9be93c0",
+      "kind": "main",
+      "idx": 27,
+      "text": "הידיעה כבן בית ממש, על זה אני אבא להפוך הקערה על פיה, ואספר שבשעת חלות תנאי הנשואין",
+      "coords": {
+        "HPOS": 278,
+        "VPOS": 1965,
+        "WIDTH": 1983,
+        "HEIGHT": 71
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_2521a9fc",
+      "kind": "main",
+      "idx": 28,
+      "text": "שהוא שעת הנצחון שנצחת לגלית, אכתוב שהמלך שאל לאבנר בן מי זה העלם, כלומר לפי הפשט שלא",
+      "coords": {
+        "HPOS": 280,
+        "VPOS": 2027,
+        "WIDTH": 1983,
+        "HEIGHT": 64
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_28758e74",
+      "kind": "main",
+      "idx": 29,
+      "text": "הכירך מעולם, אבל הוא משתמע לתרי אנפי, כלומר בן מי זה העלם, אם נלך אחר הזכר או לא, וגם",
+      "coords": {
+        "HPOS": 280,
+        "VPOS": 2090,
+        "WIDTH": 1980,
+        "HEIGHT": 73
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_4408a265",
+      "kind": "main",
+      "idx": 30,
+      "text": "תשובת אבנר אכתבנה בשבועה חמורה, כאשר היה באמת שנשבע שלא ידע מי דוד ומי בן ישי, וגם",
+      "coords": {
+        "HPOS": 284,
+        "VPOS": 2163,
+        "WIDTH": 1977,
+        "HEIGHT": 55
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_ce4181e7",
+      "kind": "main",
+      "idx": 31,
+      "text": ",זה משתמע לתרי אנפי, כלומר שלא ידע הדין, ושהמלך גזר עליו שישאל, וגם זה ישתמע שישאל לב\"ד",
+      "coords": {
+        "HPOS": 284,
+        "VPOS": 2214,
+        "WIDTH": 1977,
+        "HEIGHT": 77
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_086242d5",
+      "kind": "main",
+      "idx": 32,
+      "text": "והגזר דין אתן אותו בפיך עם תיבת בית הלחמי שר\"ל, משפחת האב קרויה משפחה, וגם",
+      "coords": {
+        "HPOS": 280,
+        "VPOS": 2280,
+        "WIDTH": 1981,
+        "HEIGHT": 77
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_7469e455",
+      "kind": "main",
+      "idx": 33,
+      "text": "אטמון ברמז, שאהכת יהונתן עמך, לא נגמר בשולה עד שכלית לדבר דבר של חכמה זה, ותשקוט",
+      "coords": {
+        "HPOS": 280,
+        "VPOS": 2346,
+        "WIDTH": 1978,
+        "HEIGHT": 70
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_665ca5e5",
+      "kind": "main",
+      "idx": 34,
+      "text": ",הארץ, ועלתה בידינו תרתי לטיבותא, האחת, כי לא עברנו על איסור חמור לכתוב דברים שבע\"פ",
+      "coords": {
+        "HPOS": 288,
+        "VPOS": 2405,
+        "WIDTH": 1970,
+        "HEIGHT": 75
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_040f84a4",
+      "kind": "main",
+      "idx": 35,
+      "text": "והב' כי נעשה כל חפצך ורצונך ותנוח דעתך, והיה כי יבאו עליך בעלילות מצעדי גבר כאלה, אף אתה",
+      "coords": {
+        "HPOS": 282,
+        "VPOS": 2469,
+        "WIDTH": 1979,
+        "HEIGHT": 73
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_d2647fbb",
+      "kind": "main",
+      "idx": 36,
+      "text": "חגור חרבך על ירך גבור, וצא לפניהם עם מקראות הללו דלאו סיפייהו רישייהו, ואמור אליהם, אי",
+      "coords": {
+        "HPOS": 286,
+        "VPOS": 2533,
+        "WIDTH": 1974,
+        "HEIGHT": 74
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_37a4a53d",
+      "kind": "main",
+      "idx": 37,
+      "text": "פנים שלא עמדו בסיני! הגם על שמואל וב\"ד תפטירו בשפה תניעו ראש, כי לא ידע מה כתב תוך כדי",
+      "coords": {
+        "HPOS": 288,
+        "VPOS": 2605,
+        "WIDTH": 1970,
+        "HEIGHT": 57
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_85e24415",
+      "kind": "main",
+      "idx": 38,
+      "text": ",דבור? א\"כ צאו ובארו לי מקראות הללו מה פירושן פירוש ראוי לסופר מובהק ונביא לבב חכמה כמוהו",
+      "coords": {
+        "HPOS": 289,
+        "VPOS": 2662,
+        "WIDTH": 1965,
+        "HEIGHT": 73
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_e6fe9321",
+      "kind": "main",
+      "idx": 39,
+      "text": "ומובילנא מאנייכו לבי מסותא, וכשהם בהכרח לא ימצאו מענה להשיב, כי אפשר לחבר אל האהל שני",
+      "coords": {
+        "HPOS": 282,
+        "VPOS": 2720,
+        "WIDTH": 1976,
+        "HEIGHT": 70
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_1d6a96f3",
+      "kind": "main",
+      "idx": 40,
+      "text": "הפכיים, בו בפרק אמור להם הפירוש האמתי הלזה בעל פה כנהוג ובטענה מספקת, כי לא היה אפשר",
+      "coords": {
+        "HPOS": 286,
+        "VPOS": 2784,
+        "WIDTH": 1972,
+        "HEIGHT": 72
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_193fdd5e",
+      "kind": "main",
+      "idx": 41,
+      "text": "לכתוב דבר זה מבורר לרורות, כמו שלא יוכלו להכחיש השמש בחצי השמים, כי איסור דברים שבע\"פ",
+      "coords": {
+        "HPOS": 280,
+        "VPOS": 2849,
+        "WIDTH": 1978,
+        "HEIGHT": 67
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_75fb79e4",
+      "kind": "main",
+      "idx": 42,
+      "text": ",בכתב הוא נודע ומפורסם, וכזה יכבשו פניהם בקרקע וילכו לדרכם. ויהי כשמוע דור דברי איש הרוח",
+      "coords": {
+        "HPOS": 289,
+        "VPOS": 2916,
+        "WIDTH": 1965,
+        "HEIGHT": 76
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_cd1023dd",
+      "kind": "main",
+      "idx": 43,
+      "text": "השתחוה",
+      "coords": {
+        "HPOS": 409,
+        "VPOS": 2986,
+        "WIDTH": 176,
+        "HEIGHT": 59
+      },
+      "para_start": false,
+      "is_catchword": true
+    }
+  ]
+}

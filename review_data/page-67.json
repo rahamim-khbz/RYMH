@@ -1,0 +1,639 @@
+{
+  "page_id": "page-67",
+  "image": "page_images/page-67.jpg",
+  "page_width": 2550,
+  "page_height": 3300,
+  "base_hash": "sha256:b4467f62febbe8c093aa12a97fa7a8286e260ae01cd9dd8627929b51df69bdae",
+  "lines": [
+    {
+      "line_id": "eSc_line_a9c9d33e",
+      "kind": "main",
+      "idx": 0,
+      "text": "המורם",
+      "coords": {
+        "HPOS": 2040,
+        "VPOS": 199,
+        "WIDTH": 231,
+        "HEIGHT": 83
+      },
+      "para_start": true,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_41c0bf17",
+      "kind": "main",
+      "idx": 1,
+      "text": "מכל האמור כי להיות איסור לימוד דברים שבע\"כ מתוך הכתב רבוע על התנאים ועל",
+      "coords": {
+        "HPOS": 245,
+        "VPOS": 194,
+        "WIDTH": 1749,
+        "HEIGHT": 73
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_e4859cb1",
+      "kind": "main",
+      "idx": 2,
+      "text": "האמוראים, ע\"ז איך אפשר שיאמרו בפומבי ניתי ס\"ת ונחזי אם הענין להם סוד גדול",
+      "coords": {
+        "HPOS": 247,
+        "VPOS": 262,
+        "WIDTH": 1750,
+        "HEIGHT": 79
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_ef38d233",
+      "kind": "main",
+      "idx": 3,
+      "text": "יותר מסוד העיבור ולא היו החמדות גנוזות כ\"א ביד גדולי הדור או תלמידיהם הנאמנים אשר יכירו",
+      "coords": {
+        "HPOS": 249,
+        "VPOS": 333,
+        "WIDTH": 2022,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_bc19e934",
+      "kind": "main",
+      "idx": 4,
+      "text": "בהם סימנים ראויים לכך. וכבר הבאתי לעיל כי זהו שאנו מוצאים בריו\"ח נפק תניה לתורת כהנים",
+      "coords": {
+        "HPOS": 245,
+        "VPOS": 392,
+        "WIDTH": 2026,
+        "HEIGHT": 71
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_227d57f8",
+      "kind": "main",
+      "idx": 5,
+      "text": "'בתלתא יומי וסברא בתלתא ירחי, היכן נפק, וממי תנייה? אם לא היתה בכתב, והל\"ל, \"תנייה מר",
+      "coords": {
+        "HPOS": 260,
+        "VPOS": 458,
+        "WIDTH": 2012,
+        "HEIGHT": 81
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_14909833",
+      "kind": "main",
+      "idx": 6,
+      "text": "פלוני\" כדאשכחן בכתובות ד\"ן ע\"א תנא מיניה דר\"י בר חנינא שר\"ל שלמד ממנו בע\"פ, אם לא שמוכרח",
+      "coords": {
+        "HPOS": 245,
+        "VPOS": 524,
+        "WIDTH": 2027,
+        "HEIGHT": 79
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_31627cff",
+      "kind": "main",
+      "idx": 7,
+      "text": "דנפק למקום המשומר ששם גנוז לו הת\"כ ותנייה בתורה שבע\"פ בג' ימים כק\"ש, ואח\"כ היה מסביר",
+      "coords": {
+        "HPOS": 249,
+        "VPOS": 590,
+        "WIDTH": 2020,
+        "HEIGHT": 79
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_7d443d62",
+      "kind": "main",
+      "idx": 8,
+      "text": "אותה במשך ג' ירחים והוא פשיטות הענין, וכן בגיטין דמ\"ד ע\"א על בעיא דעבר שהפיל עצמו",
+      "coords": {
+        "HPOS": 247,
+        "VPOS": 658,
+        "WIDTH": 2025,
+        "HEIGHT": 77
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_1bcccac0",
+      "kind": "main",
+      "idx": 9,
+      "text": "לגייסות, אמר ליה ר' ירמיה לר' זריקא פוק עיין במכלתיך, נפק דק ואשכח דתניא וכו', וכאן רש\"י לפי",
+      "coords": {
+        "HPOS": 249,
+        "VPOS": 716,
+        "WIDTH": 2025,
+        "HEIGHT": 87
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_f4cbfd96",
+      "kind": "main",
+      "idx": 10,
+      "text": "דרכו כבר נמצא במצור ובמצוק, ופי' עיין במכלתיך במשנה הסדורה לך לידע מה נשיב וכמעט הוציא",
+      "coords": {
+        "HPOS": 243,
+        "VPOS": 784,
+        "WIDTH": 2028,
+        "HEIGHT": 74
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_6dc770ef",
+      "kind": "main",
+      "idx": 11,
+      "text": "הדברים מידי פשיטותן, למה אמר פוק? ולהיכן יצא? וכן ר' זריקא למה נפק? ולאיזה מקום? ולמה",
+      "coords": {
+        "HPOS": 243,
+        "VPOS": 852,
+        "WIDTH": 2029,
+        "HEIGHT": 77
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_8e8827b6",
+      "kind": "main",
+      "idx": 12,
+      "text": "יאמר עיין במכלתיך? ולא עיין והשב תשו' ופשוט בעיא זו? אם לא שתאמר דמנהגם כמנהגינו היום",
+      "coords": {
+        "HPOS": 243,
+        "VPOS": 920,
+        "WIDTH": 2028,
+        "HEIGHT": 77
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_9d042821",
+      "kind": "main",
+      "idx": 13,
+      "text": "שכשנפל לנו ספק בדין אחד אנו מעיינים בדינים הדומים להם ומדמים מילתא למלתא, או בהצד",
+      "coords": {
+        "HPOS": 243,
+        "VPOS": 980,
+        "WIDTH": 2029,
+        "HEIGHT": 72
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_5b857390",
+      "kind": "main",
+      "idx": 14,
+      "text": "השוה או בק\"ו, כן היו חכמי המשנה והתלמוד בהנהגת תלמודם אלא דאנחנו היום מותרים בפומבי",
+      "coords": {
+        "HPOS": 242,
+        "VPOS": 1046,
+        "WIDTH": 2029,
+        "HEIGHT": 77
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_2b2381c0",
+      "kind": "main",
+      "idx": 15,
+      "text": "להיות לנו ספרים וללמוד מתוכם, והם היו אסורים להיות להם ספרים פומביים של תושע\"פ, ואפילו",
+      "coords": {
+        "HPOS": 242,
+        "VPOS": 1112,
+        "WIDTH": 2030,
+        "HEIGHT": 70
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_396ab1dd",
+      "kind": "main",
+      "idx": 16,
+      "text": "בחשאי היו אסורים ללמוד מתוכם כי אם ראיה בעלמא, וזהירין רבנן למגרסינהו על פה, וכן ההיא",
+      "coords": {
+        "HPOS": 240,
+        "VPOS": 1177,
+        "WIDTH": 2029,
+        "HEIGHT": 71
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_ac8cad7c",
+      "kind": "main",
+      "idx": 17,
+      "text": "דא\"ל רב חסדא לרבה בב\"מ דח\"י ע\"ב על ספק דב' יוסף ן' שמעון פוק עיין בה, דלאורתא בעי מינך",
+      "coords": {
+        "HPOS": 247,
+        "VPOS": 1237,
+        "WIDTH": 2020,
+        "HEIGHT": 90
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_4316bb3c",
+      "kind": "main",
+      "idx": 18,
+      "text": "\"רב הונא, נפק דק ואשכח, דתנן כל מעשה ב\"ד וכו', ודוק קורא חביב! דכל מקום שנמצא לשון \"פוק",
+      "coords": {
+        "HPOS": 245,
+        "VPOS": 1307,
+        "WIDTH": 2024,
+        "HEIGHT": 86
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_2944865d",
+      "kind": "main",
+      "idx": 19,
+      "text": "או \"נפק דק ואשכח\" מביאים בידם משנה או ברייתא, או לקיחת דברים בע\"פ, וזה אות ומופת דלא",
+      "coords": {
+        "HPOS": 238,
+        "VPOS": 1371,
+        "WIDTH": 2029,
+        "HEIGHT": 86
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_e6c02cf1",
+      "kind": "main",
+      "idx": 20,
+      "text": "עאלו ונפקו כדי להתבורד ולמצוא סברא, כ\"א לחפש הסתרים ולחזור על משנתם אולי יוכלו למצוא",
+      "coords": {
+        "HPOS": 236,
+        "VPOS": 1435,
+        "WIDTH": 2029,
+        "HEIGHT": 84
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_67f7a1f0",
+      "kind": "main",
+      "idx": 21,
+      "text": "'דמיון להתרת ספקם, וכן ההיא דיבמות דס\"א ע\"ב נפק ומצא הברייתא במחלוקת ד\"מ וד\"י, ובזה פי",
+      "coords": {
+        "HPOS": 245,
+        "VPOS": 1503,
+        "WIDTH": 2016,
+        "HEIGHT": 82
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_cce3eafd",
+      "kind": "main",
+      "idx": 22,
+      "text": "סברת ר' אליעזר עי\"ש כי לקצר אני צריך, ואם שלדעת רש\"י וסיעת מרחמוהי יתפרש הכל על העיון",
+      "coords": {
+        "HPOS": 238,
+        "VPOS": 1562,
+        "WIDTH": 2025,
+        "HEIGHT": 91
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_5cdb71ee",
+      "kind": "main",
+      "idx": 23,
+      "text": "וההתבודדות, אין מי שיוכל להכחיש כי יותר מרווח פירוש הגאונים כפשטן של דברים מפי' ז\"ל, ולו יהי",
+      "coords": {
+        "HPOS": 240,
+        "VPOS": 1639,
+        "WIDTH": 2025,
+        "HEIGHT": 73
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_98a58058",
+      "kind": "main",
+      "idx": 24,
+      "text": "כי שקולים הם ויבואו שניהם, חזרנו לדמעיקרא גברא אגברא קא רמית? ואחר שכ\"ע מודים, ר\"ל, כל",
+      "coords": {
+        "HPOS": 238,
+        "VPOS": 1695,
+        "WIDTH": 2023,
+        "HEIGHT": 83
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_dbc6f295",
+      "kind": "main",
+      "idx": 25,
+      "text": "ב' הכתות, מעידין בגדלן דלכל אפיא היו אסורים הלמוד מתוך הכתב, א\"כ בהכרח נפלו טעיות אגב",
+      "coords": {
+        "HPOS": 236,
+        "VPOS": 1761,
+        "WIDTH": 2024,
+        "HEIGHT": 81
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_23e8ce36",
+      "kind": "main",
+      "idx": 26,
+      "text": ".שיטפא דגירסא, כאשר כתב רש\"י בחולין דע\"ד ע\"ב ד\"ה חלבו דמאי, ועיין תוס' שם בריש העמוד",
+      "coords": {
+        "HPOS": 251,
+        "VPOS": 1827,
+        "WIDTH": 2009,
+        "HEIGHT": 81
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_3bca7d57",
+      "kind": "main",
+      "idx": 27,
+      "text": "ובעין לזה כתב התיו\"ט בפ\"ב דמס' מכות על ריש משנה ח' כיוצא בו וע\"ז התנא מסרך סריך בלישניה",
+      "coords": {
+        "HPOS": 236,
+        "VPOS": 1897,
+        "WIDTH": 2025,
+        "HEIGHT": 79
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_0d7c57e1",
+      "kind": "main",
+      "idx": 28,
+      "text": "ממשנה ח' דפרק בתרא דשביעית ששם שייך נוסח זה דהתם קאי אדלעיל מיניה ולא הכא עי\"ש, וכל זה",
+      "coords": {
+        "HPOS": 234,
+        "VPOS": 1958,
+        "WIDTH": 2024,
+        "HEIGHT": 75
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_521ba0f8",
+      "kind": "main",
+      "idx": 29,
+      "text": "גרמא השינון בע\"פ, ובהכרח אמר ר' חייא \"מתנינא\" ולא \"וכתיבנא\" ובהכרח היו צריכין לסימנים",
+      "coords": {
+        "HPOS": 234,
+        "VPOS": 2024,
+        "WIDTH": 2024,
+        "HEIGHT": 80
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_4c829a9e",
+      "kind": "main",
+      "idx": 30,
+      "text": "המפוזרים היום בתלמודנו, ובהכרח ג\"כ נמצא בו קיבוץ כמה ענינים שונים זה מזה יחד, אם בעבור",
+      "coords": {
+        "HPOS": 236,
+        "VPOS": 2097,
+        "WIDTH": 2022,
+        "HEIGHT": 71
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_83f22a01",
+      "kind": "main",
+      "idx": 31,
+      "text": "בעל המימרא, אם בעבור ההתדמות בלשון ובסגנון, והכל יסוב באמת כדי להקל על הזכרון ולסייעו",
+      "coords": {
+        "HPOS": 234,
+        "VPOS": 2152,
+        "WIDTH": 2020,
+        "HEIGHT": 77
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_162106d9",
+      "kind": "main",
+      "idx": 32,
+      "text": "סיוע שיש בו ממש כיון דסוף סוף היו אסורים ללמוד מתוך הכתב, והכתב לא היה נמצא להם בגלוי",
+      "coords": {
+        "HPOS": 234,
+        "VPOS": 2222,
+        "WIDTH": 2020,
+        "HEIGHT": 71
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_1f365cc7",
+      "kind": "main",
+      "idx": 33,
+      "text": "בבית המדרש, ואם ישכח הרב המלמד לתלמידיו בו בפרק אין תרופה למכתו, ובהכדח צריך לקום",
+      "coords": {
+        "HPOS": 234,
+        "VPOS": 2286,
+        "WIDTH": 2016,
+        "HEIGHT": 71
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_05d944c4",
+      "kind": "main",
+      "idx": 34,
+      "text": "ולסגור בית המדרש לפי שעה, יואם יחזור ויבא תכף לבית המדרש תגלה ותראה לעין כל, כי נפק דק",
+      "coords": {
+        "HPOS": 234,
+        "VPOS": 2348,
+        "WIDTH": 2022,
+        "HEIGHT": 86
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_89e1ed0b",
+      "kind": "main",
+      "idx": 35,
+      "text": "בספרים הגנוזים ואשכח, ולפי ערך האיסור היה הרב בו בפרק כהולך רכיל מגלה סוד, ע\"כ אלין דהוו",
+      "coords": {
+        "HPOS": 232,
+        "VPOS": 2416,
+        "WIDTH": 2018,
+        "HEIGHT": 81
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_6e95fd65",
+      "kind": "main",
+      "idx": 36,
+      "text": "השתדלו",
+      "coords": {
+        "HPOS": 365,
+        "VPOS": 2486,
+        "WIDTH": 178,
+        "HEIGHT": 75
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_90f1cb37",
+      "kind": "main",
+      "idx": 37,
+      "text": "על אמונתם, וע\"ז נקראו עידיהן לחד תנא שיתנו עידיהן על אמונתם הכוזבת ודוק. ואגב אורחין אומר: מה שהחיוב",
+      "coords": {
+        "HPOS": 229,
+        "VPOS": 2572,
+        "WIDTH": 2023,
+        "HEIGHT": 69
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_9c4c18b2",
+      "kind": "main",
+      "idx": 38,
+      "text": "מוטל על כל\"דורש חכמה באיזה חכמה שתהיה והוא: כי לא טוב הדבר להשתמש בכלים המסורים לנו כדי לנהל החכמה",
+      "coords": {
+        "HPOS": 231,
+        "VPOS": 2623,
+        "WIDTH": 2019,
+        "HEIGHT": 73
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_5686ace0",
+      "kind": "main",
+      "idx": 39,
+      "text": ",שבידינו שימוש תמידי, כי ע\"י זה מעט מעט יתהפך כאומר חותם, ועוד מעט ונראהו ולא מראה ופנים חדשות באו לכאן",
+      "coords": {
+        "HPOS": 236,
+        "VPOS": 2689,
+        "WIDTH": 2014,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_bcf5bfd3",
+      "kind": "main",
+      "idx": 40,
+      "text": "והראשונות עוד לא תזכרנה, כן אני אומר עם שהרשות נתונה בידינו ממי אשר יצק מים ע\"י הגאונים כר\"ח לפרש כרצוננו",
+      "coords": {
+        "HPOS": 231,
+        "VPOS": 2737,
+        "WIDTH": 2019,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_7ed15f3b",
+      "kind": "main",
+      "idx": 41,
+      "text": "איזה ענינים, כי דבר אין להם עם הדין וההלכה, עכ\"ז לא טוב הדבר להשתמש ממנו יותר מדי, כי באמת הזקו מרובה",
+      "coords": {
+        "HPOS": 229,
+        "VPOS": 2792,
+        "WIDTH": 2021,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_e1484880",
+      "kind": "main",
+      "idx": 42,
+      "text": "מתועלתו למיימינים בו ולא נשתמש בו ב\"א פעם ביובל בדבר שיש לו עליו אלף מופתים מן השכל, ומכללי החכמה, ושהפירוש",
+      "coords": {
+        "HPOS": 231,
+        "VPOS": 2839,
+        "WIDTH": 2019,
+        "HEIGHT": 76
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_de358d0d",
+      "kind": "main",
+      "idx": 43,
+      "text": ".החכמה",
+      "coords": {
+        "HPOS": 2093,
+        "VPOS": 2964,
+        "WIDTH": 157,
+        "HEIGHT": 57
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_6587f857",
+      "kind": "main",
+      "idx": 44,
+      "text": "הקדמון קשה כברזל ועמדו על קושייתו שדי צבאות ישראל והאחדון מתוק מדבש כוורת, ודי כזה לאוהבי החכמה בעבור",
+      "coords": {
+        "HPOS": 234,
+        "VPOS": 2898,
+        "WIDTH": 2016,
+        "HEIGHT": 90
+      },
+      "para_start": false,
+      "is_catchword": false
+    }
+  ]
+}

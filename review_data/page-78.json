@@ -1,0 +1,653 @@
+{
+  "page_id": "page-78",
+  "image": "page_images/page-78.jpg",
+  "page_width": 2550,
+  "page_height": 3300,
+  "base_hash": "sha256:d0abdd8c2f6cd537a732b430771b4187192f756746d98fdddc896e06f584b2c2",
+  "lines": [
+    {
+      "line_id": "eSc_line_5d7e6714",
+      "kind": "main",
+      "idx": 0,
+      "text": "מפי כתבם, בשלמא בכל המשניות והברייתות והתוס' שכבר סודרו וחוברו ונתפרסמו בין הרובצים שיש",
+      "coords": {
+        "HPOS": 343,
+        "VPOS": 315,
+        "WIDTH": 1968,
+        "HEIGHT": 55
+      },
+      "para_start": true,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_6f4cfde4",
+      "kind": "main",
+      "idx": 1,
+      "text": "חיבורים אלו גנוזים ביד גדולי הדורות טופסים שונים, ומהרורות מחולפות, כאלה וכיוצא באלה אינו",
+      "coords": {
+        "HPOS": 346,
+        "VPOS": 372,
+        "WIDTH": 1965,
+        "HEIGHT": 64
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_9fe24bbc",
+      "kind": "main",
+      "idx": 2,
+      "text": "צריך המשתמש מהם בב\"המ להזכיר המקכל כי די שיאמר תנן, או תניא, או תנא, או תא שמע, או",
+      "coords": {
+        "HPOS": 350,
+        "VPOS": 440,
+        "WIDTH": 1965,
+        "HEIGHT": 67
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_1c14189d",
+      "kind": "main",
+      "idx": 3,
+      "text": "ורמינהי, או נפק דק ואשכח, או אתא ואייתיה מתניתא בידיה, או איש פלוני העלה בירו, (*) וכיון",
+      "coords": {
+        "HPOS": 348,
+        "VPOS": 498,
+        "WIDTH": 1967,
+        "HEIGHT": 72
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_325ca9d5",
+      "kind": "main",
+      "idx": 4,
+      "text": "ששנה האמורא חד מלשונות הללו כבר אנו יודעים מאיזה באר שאב מים חיים, כי שם בחיבורים הללו",
+      "coords": {
+        "HPOS": 350,
+        "VPOS": 572,
+        "WIDTH": 1967,
+        "HEIGHT": 56
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_9047efbd",
+      "kind": "main",
+      "idx": 5,
+      "text": "אוצר הקבלה ואפי' שאינה בידינו עתה נקבל אותה ממנו כאלו אמרה מפי המקבל עצמו, והוא על",
+      "coords": {
+        "HPOS": 348,
+        "VPOS": 628,
+        "WIDTH": 1969,
+        "HEIGHT": 72
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_98547516",
+      "kind": "main",
+      "idx": 6,
+      "text": "דרך מילתא דעבירא לאגלויי לא משקרי בה אינשי, אפילו יהיה אדם דעלמא, כ\"ש חכם מחכמי",
+      "coords": {
+        "HPOS": 350,
+        "VPOS": 687,
+        "WIDTH": 1963,
+        "HEIGHT": 70
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_81cd18d3",
+      "kind": "main",
+      "idx": 7,
+      "text": "הישיבה, וכל זה תינח בכל החיבורים הגנוזים, הידועים והמפורסמים, אבל אם מצא חר תנא או",
+      "coords": {
+        "HPOS": 350,
+        "VPOS": 764,
+        "WIDTH": 1967,
+        "HEIGHT": 51
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_437ce4e5",
+      "kind": "main",
+      "idx": 8,
+      "text": "אמורא דבר פרטי, אחד כתוב ואינו נתון בתוך החיבורים הגדולים הנזכרים, וכחוץ יעמוד על דרך",
+      "coords": {
+        "HPOS": 355,
+        "VPOS": 823,
+        "WIDTH": 1962,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_c1474b62",
+      "kind": "main",
+      "idx": 9,
+      "text": "השמטה שהוא הרגל טבעי לכל החובורים ראשונים ואחרונים, והוא לא שמע הדבר המחודש הזה, לא",
+      "coords": {
+        "HPOS": 352,
+        "VPOS": 880,
+        "WIDTH": 1966,
+        "HEIGHT": 64
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_5acdb605",
+      "kind": "main",
+      "idx": 10,
+      "text": "מפי המקבל, ולא מפי אחרים, מה יעשה לדורשה ולפרסמה בבית המדרש? אחרי שטבע הקבלה מחייב",
+      "coords": {
+        "HPOS": 348,
+        "VPOS": 944,
+        "WIDTH": 1972,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_2cbe8c31",
+      "kind": "main",
+      "idx": 11,
+      "text": "לאומרה בשם אומרו ובדקדוק עצום, שיובן איך הגיעה הקבלה הקדומה הזאת אל האומר האחרון ובלשונה",
+      "coords": {
+        "HPOS": 350,
+        "VPOS": 1012,
+        "WIDTH": 1972,
+        "HEIGHT": 60
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_475413ae",
+      "kind": "main",
+      "idx": 12,
+      "text": "וסידורה כאשר יצאת מפי המקבל, ואפי' אם נתערבו בה איזה זלזול או קנטור (מ) או טעות לשון או",
+      "coords": {
+        "HPOS": 350,
+        "VPOS": 1068,
+        "WIDTH": 1970,
+        "HEIGHT": 76
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_2ef26313",
+      "kind": "main",
+      "idx": 13,
+      "text": "גמגום מוצאה, חייב לאומרה בעינה. אחר הדברים והאמת האלה כקש לו תיקון, הקורא ירחמך",
+      "coords": {
+        "HPOS": 354,
+        "VPOS": 1131,
+        "WIDTH": 1968,
+        "HEIGHT": 73
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_cd89cc70",
+      "kind": "main",
+      "idx": 14,
+      "text": "האל! להחכם המוצא הגניזה ההיא, הנמצא במצור ובמצוק בעת ההיא לדורשה ברבים, ולקיים בה",
+      "coords": {
+        "HPOS": 352,
+        "VPOS": 1197,
+        "WIDTH": 1968,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_7a5a4a64",
+      "kind": "main",
+      "idx": 15,
+      "text": "כל האמור בטבעה של קבלה. הא אין עליך אלא לומר דלא ימלט משתים אלה או יקום על רגליו ויעיד",
+      "coords": {
+        "HPOS": 355,
+        "VPOS": 1259,
+        "WIDTH": 1965,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_f7810ab1",
+      "kind": "main",
+      "idx": 16,
+      "text": "על נפשו שהוא יורע בבירור ששמועה זו אמרה המקבל הקדמון ההוא, והשומעים יבינו כי מגילת",
+      "coords": {
+        "HPOS": 352,
+        "VPOS": 1323,
+        "WIDTH": 1968,
+        "HEIGHT": 64
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_7944b78b",
+      "kind": "main",
+      "idx": 17,
+      "text": "סתרים בידו ויודע ועד כי מיד אותו קדמון נגזרה, ואינו דוצה לגלותה כי חייש לאיסורה או שיאמר",
+      "coords": {
+        "HPOS": 355,
+        "VPOS": 1387,
+        "WIDTH": 1965,
+        "HEIGHT": 63
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_0877f2ca",
+      "kind": "main",
+      "idx": 18,
+      "text": "בפירוש מצאתי כתוב כך וכך ברשות מי שראוי לסמוך עליו או שאני מכיר כתיבתו וחתימת ידו של בעל",
+      "coords": {
+        "HPOS": 352,
+        "VPOS": 1455,
+        "WIDTH": 1970,
+        "HEIGHT": 63
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_8a2e7262",
+      "kind": "main",
+      "idx": 19,
+      "text": "המימרא, וחוץ מב' אופנים הללו אין תקומה לפרסם המי מרא ההיא כשיקויים בה משפטי ודיני הערויות",
+      "coords": {
+        "HPOS": 354,
+        "VPOS": 1521,
+        "WIDTH": 1970,
+        "HEIGHT": 61
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_652f7038",
+      "kind": "main",
+      "idx": 20,
+      "text": "אשר הם טבעיים לתושבע\"פ, והנה האופן הראשון הוא שאמרנו בשמועה דיבמות די\"ו שכשנמצא",
+      "coords": {
+        "HPOS": 354,
+        "VPOS": 1585,
+        "WIDTH": 1968,
+        "HEIGHT": 57
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_8ce37dd9",
+      "kind": "main",
+      "idx": 21,
+      "text": "מוכרח רבי דוסא בן הרכינס להעיד דבר ממגילת סתרים אשר היתה בידו איש מפי איש עד חגי",
+      "coords": {
+        "HPOS": 355,
+        "VPOS": 1650,
+        "WIDTH": 1967,
+        "HEIGHT": 62
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_2b0a0a00",
+      "kind": "main",
+      "idx": 22,
+      "text": "הנביא, אשר ביניהם יותר על ד' מאות שנה, וחשש הרבה מלהוציא דבר כתיבה מפיו, שבאותם הימים",
+      "coords": {
+        "HPOS": 355,
+        "VPOS": 1706,
+        "WIDTH": 1969,
+        "HEIGHT": 70
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_dcd2d60c",
+      "kind": "main",
+      "idx": 23,
+      "text": "עדיין היה האיסור בתקפו ובגבורתו ובפרט בפי ר\"ד בן הרכינס שהיה מהקדמונים מזמן הלל ושמאי",
+      "coords": {
+        "HPOS": 359,
+        "VPOS": 1780,
+        "WIDTH": 1963,
+        "HEIGHT": 51
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_0a5b9ed3",
+      "kind": "main",
+      "idx": 24,
+      "text": "היה חושש יותר, ע\"ז לא מצא תרופה להגיד קבלתו זאת כי אם בשקם על רגליו ואמר בתורת עדות",
+      "coords": {
+        "HPOS": 352,
+        "VPOS": 1829,
+        "WIDTH": 1974,
+        "HEIGHT": 75
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_c66c692c",
+      "kind": "main",
+      "idx": 25,
+      "text": "גמורה \" מעיד אני עלי שמים וארץ שעל מדוכה זו ישב חגי הנביא\" וכו'. והשומעים כבר הבינו שהיתה",
+      "coords": {
+        "HPOS": 354,
+        "VPOS": 1903,
+        "WIDTH": 1972,
+        "HEIGHT": 56
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_1853cf55",
+      "kind": "main",
+      "idx": 26,
+      "text": "מגילת סתרים בידו, וכמו שפירש רבינו הישר בתלמודו הוא רבינו המאיר\"י הנז\"ל ופי' זה שריר ובריר",
+      "coords": {
+        "HPOS": 361,
+        "VPOS": 1963,
+        "WIDTH": 1965,
+        "HEIGHT": 59
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_13df4bf1",
+      "kind": "main",
+      "idx": 27,
+      "text": "וקיים, והוא ולא אחר, אחרי שלא נשתמש כ\"א בלשון \"מעיד אני שעל מדוכה זו\" ולא \"במקובל אני",
+      "coords": {
+        "HPOS": 355,
+        "VPOS": 2018,
+        "WIDTH": 1973,
+        "HEIGHT": 70
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_b5e5d61d",
+      "kind": "main",
+      "idx": 28,
+      "text": "שעל מדוכה\" דלשון מקובל אני יפול על דבר הנשמע מפה לאזן כמו שהוא מורגל בכל התלמוד, ובפרט",
+      "coords": {
+        "HPOS": 355,
+        "VPOS": 2084,
+        "WIDTH": 1973,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_2c945c43",
+      "kind": "main",
+      "idx": 29,
+      "text": "בסוף עדויות ודוק היטב, שלפירוש רבינו שרירא ז\"ל בתשו' כ\"י הנז\"ל, אינו מתיישב כלל, ורוק במ\"ש",
+      "coords": {
+        "HPOS": 354,
+        "VPOS": 2146,
+        "WIDTH": 1972,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_efa354fb",
+      "kind": "main",
+      "idx": 30,
+      "text": "לעיל הערה (כ\"ח). והאופן השני הוא שהתחיל רב להשתמש ממנו שכבר ירדו הדורות וככר נתפרסם",
+      "coords": {
+        "HPOS": 355,
+        "VPOS": 2216,
+        "WIDTH": 1974,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_ebfb5685",
+      "kind": "main",
+      "idx": 31,
+      "text": "הרבה שהיתה כל תורה שבע\"פ כתובה וגנוזה, ורב עצמו הביא לבבל מהדורא בתרא של המשניות",
+      "coords": {
+        "HPOS": 354,
+        "VPOS": 2277,
+        "WIDTH": 1974,
+        "HEIGHT": 60
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_b3a9cc43",
+      "kind": "main",
+      "idx": 32,
+      "text": "מ\"א) וע\"ז הרהיב בנפשו עז ואמר \"מצאתי מגילת סתרים וכתוב בה כך וכך, וכיון שלא היה יכול",
+      "coords": {
+        "HPOS": 359,
+        "VPOS": 2339,
+        "WIDTH": 1956,
+        "HEIGHT": 73
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_e766730a",
+      "kind": "main",
+      "idx": 33,
+      "text": "לומר",
+      "coords": {
+        "HPOS": 493,
+        "VPOS": 2401,
+        "WIDTH": 106,
+        "HEIGHT": 63
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_7ebd995a",
+      "kind": "main",
+      "idx": 34,
+      "text": "א",
+      "coords": {
+        "HPOS": 2271,
+        "VPOS": 2530,
+        "WIDTH": 49,
+        "HEIGHT": 60
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_2a686036",
+      "kind": "main",
+      "idx": 35,
+      "text": "נדרים דכ\"ז ע\"ב, ועיין מה שפי' שם הר\"ן ופי' נאות לדעת גאוני צרפת דלא היתה כתיבה בעולם, ולדעת גאוני בבל",
+      "coords": {
+        "HPOS": 357,
+        "VPOS": 2522,
+        "WIDTH": 1895,
+        "HEIGHT": 59
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_dd0c1ff6",
+      "kind": "main",
+      "idx": 36,
+      "text": "וספרד שאנו בהם אין הלשונות והרעיונים הללו יוצאים מידי פשטותם, ואדרכה הם ראיה למדקדק היטב, כי המשל",
+      "coords": {
+        "HPOS": 359,
+        "VPOS": 2577,
+        "WIDTH": 1897,
+        "HEIGHT": 57
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_22aa7742",
+      "kind": "main",
+      "idx": 37,
+      "text": "הזא יותר מצוי ונגלה ומפורסם מהנמשל, ודוק היטב ותראה כי אם תושבע\"פ לא היתה באפשרות ללוקחה ביד ע\"י הכתיבה",
+      "coords": {
+        "HPOS": 359,
+        "VPOS": 2625,
+        "WIDTH": 1967,
+        "HEIGHT": 60
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_0d33487d",
+      "kind": "main",
+      "idx": 38,
+      "text": ".בשום אופן שבעולם, מציצת \"העלה בידו\" לא תעלה על לב מלין לעולם אפילו היותר משורר שבעולם",
+      "coords": {
+        "HPOS": 513,
+        "VPOS": 2676,
+        "WIDTH": 1679,
+        "HEIGHT": 61
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_4b91c714",
+      "kind": "main",
+      "idx": 39,
+      "text": "מ) מאד הייתי חפץ להעתיק לפניך קורא נעיםז מה שהתעלסו בזה החכמים והסוחר המקובל בחיבורי נצח ישראל",
+      "coords": {
+        "HPOS": 366,
+        "VPOS": 2729,
+        "WIDTH": 1958,
+        "HEIGHT": 63
+      },
+      "para_start": true,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_1c9a0b6a",
+      "kind": "main",
+      "idx": 40,
+      "text": "נגד תשובת הרב חוות יאיר שי' קנ\"ב בעבור תברכני נפשך לשמוע חרשות ונצורות אבל מתיירא אני להוציאך מידי",
+      "coords": {
+        "HPOS": 366,
+        "VPOS": 2786,
+        "WIDTH": 1890,
+        "HEIGHT": 53
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_547185f6",
+      "kind": "main",
+      "idx": 41,
+      "text": "הכוונה, ובלאז הכי אין לדבר סוף, כי באמת החכמה היא שלשלת ישרה מלאה טבעות זהב, וכלם מעורים זה בזה, ואין",
+      "coords": {
+        "HPOS": 363,
+        "VPOS": 2832,
+        "WIDTH": 1966,
+        "HEIGHT": 64
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_ce842773",
+      "kind": "main",
+      "idx": 42,
+      "text": ".לדבר סוף כי אחד מושך את חברו ה' יזכני לגומרה של תורה, ולהוציאה לאור, וישמחו כו אוהבי החכמה והתושיה הישראלית",
+      "coords": {
+        "HPOS": 370,
+        "VPOS": 2887,
+        "WIDTH": 1959,
+        "HEIGHT": 59
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_2d9a2119",
+      "kind": "main",
+      "idx": 43,
+      "text": "מא) עיין להבקי בחדרי תורה הגאון שי\"ר נר\"ו בכ\"ח ח\"ז מעמוד ק\"ם ואילך, ותרוה צמאונך מראיות בריאות ונעימות",
+      "coords": {
+        "HPOS": 374,
+        "VPOS": 2938,
+        "WIDTH": 1946,
+        "HEIGHT": 70
+      },
+      "para_start": true,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_4f060a18",
+      "kind": "main",
+      "idx": 44,
+      "text": "ומהם תכריח משיקול דעתך שכל השינויים הגלויים הללו לא אסשר בלא כתיבה, וכן פי' דבריו יותר שם בח\"ו מעמוד",
+      "coords": {
+        "HPOS": 368,
+        "VPOS": 2993,
+        "WIDTH": 1860,
+        "HEIGHT": 61
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_eeb44258",
+      "kind": "main",
+      "idx": 45,
+      "text": "רנ\"ד",
+      "coords": {
+        "HPOS": 475,
+        "VPOS": 3048,
+        "WIDTH": 79,
+        "HEIGHT": 57
+      },
+      "para_start": false,
+      "is_catchword": true
+    }
+  ]
+}

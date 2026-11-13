@@ -1,0 +1,625 @@
+{
+  "page_id": "page-38",
+  "image": "page_images/page-38.jpg",
+  "page_width": 2550,
+  "page_height": 3300,
+  "base_hash": "sha256:d4382a0f59ccd763f79e648391fdefb9cfe83cf4b163a25a4e5e8a1f08db0114",
+  "lines": [
+    {
+      "line_id": "eSc_line_56e7045d",
+      "kind": "main",
+      "idx": 0,
+      "text": "עת לעשות לה' הפרו תורתך\" וכיוצא לזה? כי ודאי ענין גדול כזה קלא אית ליה, וצריך אסיפה גדולה",
+      "coords": {
+        "HPOS": 291,
+        "VPOS": 267,
+        "WIDTH": 1996,
+        "HEIGHT": 77
+      },
+      "para_start": true,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_d1d69ca7",
+      "kind": "main",
+      "idx": 1,
+      "text": "של גאונים וכמה אלפי סופרים לפניהם, שהגאונים מפיהם יקראו והסופרים יכתבו, ומעשה מפורסם",
+      "coords": {
+        "HPOS": 293,
+        "VPOS": 342,
+        "WIDTH": 1994,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_1bbd003f",
+      "kind": "main",
+      "idx": 2,
+      "text": "כזה איך העלים עיניו בו גאוננו המאיר לארץ באגרתו החמודה? והלא כמה דברים קלים מאלו, שאם",
+      "coords": {
+        "HPOS": 291,
+        "VPOS": 397,
+        "WIDTH": 1994,
+        "HEIGHT": 76
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_fd90b8fa",
+      "kind": "main",
+      "idx": 3,
+      "text": "ידענום הרי הם כאלו לא ידענום, העלם בספר ובדיו, כ\"ש דבר אדיר ונורא כזה ישתוק ממנו? הא",
+      "coords": {
+        "HPOS": 295,
+        "VPOS": 465,
+        "WIDTH": 1990,
+        "HEIGHT": 72
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_e7d65244",
+      "kind": "main",
+      "idx": 4,
+      "text": "ודאי אין לך משפט מעוקל אל השכל הישר, לגזור הפך זה, אלא מוכרח דהתר הכתיבה היתה מימות",
+      "coords": {
+        "HPOS": 291,
+        "VPOS": 528,
+        "WIDTH": 1994,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_3d2738cb",
+      "kind": "main",
+      "idx": 5,
+      "text": "תנאים זכרון שמועות וכדומה, וכל מילתא חדתא יכתבוה ויגנזוה ביד ראשי סנהדראות כדי למגרסינהו",
+      "coords": {
+        "HPOS": 295,
+        "VPOS": 592,
+        "WIDTH": 1990,
+        "HEIGHT": 64
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_9036ff7e",
+      "kind": "main",
+      "idx": 6,
+      "text": "ע\"פ. ומעט ומעט כשראו שנתרבו החיבורים הגנוזים, והיה בלתי אפשר לשומרם בע\"פ, הותר",
+      "coords": {
+        "HPOS": 299,
+        "VPOS": 658,
+        "WIDTH": 1986,
+        "HEIGHT": 60
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_d4c4a7b7",
+      "kind": "main",
+      "idx": 7,
+      "text": "הדבר מדיליה ללמוד מתוך הספר. וע\"ז לא ידענו באיזה זמן ובאיזה אופן כי ההכרח הוא כמלך פורץ",
+      "coords": {
+        "HPOS": 299,
+        "VPOS": 716,
+        "WIDTH": 1986,
+        "HEIGHT": 76
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_56f49d1c",
+      "kind": "main",
+      "idx": 8,
+      "text": "גדר לעשות לו דרך, ואין ממחין בידו, ונהרא נהרא ופשטיה, ודבר זה באמת יקבלו השכל באהבה",
+      "coords": {
+        "HPOS": 291,
+        "VPOS": 782,
+        "WIDTH": 1994,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_a46b900e",
+      "kind": "main",
+      "idx": 9,
+      "text": "'וחיבת הקדש. ן\". השתא דאייתית להכי דלכל הפחות דעת רבינו שרירא הגאון ברור מללו גם בתשו",
+      "coords": {
+        "HPOS": 300,
+        "VPOS": 843,
+        "WIDTH": 1985,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_53aa9e3c",
+      "kind": "main",
+      "idx": 10,
+      "text": "זאת דיוחסין וגם בזאת שלפנינו דהכתיבה מעולם לא נאסרה לפי כל האמור ומדובר, אחר שכן למה",
+      "coords": {
+        "HPOS": 293,
+        "VPOS": 907,
+        "WIDTH": 1994,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_819b18f9",
+      "kind": "main",
+      "idx": 11,
+      "text": "נאמין לפי' רש\"י יותר מפי' הגאונים ז\"ל אשר מימיהם אנו שותים, ולמתנגד שיתנגד מפני איזה טעם",
+      "coords": {
+        "HPOS": 293,
+        "VPOS": 982,
+        "WIDTH": 1994,
+        "HEIGHT": 53
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_a795ccdb",
+      "kind": "main",
+      "idx": 12,
+      "text": "'שימצא אני אבא עליו בכח גדול וביד חזקה כמו שבא ר\"ת לפני רבי' משולם, הלא היא כתובה בס",
+      "coords": {
+        "HPOS": 299,
+        "VPOS": 1035,
+        "WIDTH": 1988,
+        "HEIGHT": 65
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_3125d4e0",
+      "kind": "main",
+      "idx": 13,
+      "text": "הישר דע\"ד ע\"ג וז\"ל \"תמיה אני עליך שאתה מאמין לפי טעותך לרב יאודאי להתיר נדה לבעלה שהיא",
+      "coords": {
+        "HPOS": 293,
+        "VPOS": 1098,
+        "WIDTH": 1990,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_40ee3db7",
+      "kind": "main",
+      "idx": 14,
+      "text": "בכרת וכו', ולרב שרירא להגבות לב\"ח מטלטלי דיתמי, ואינך מאמין לרב עמרם (שמפיו אנו למדין",
+      "coords": {
+        "HPOS": 293,
+        "VPOS": 1160,
+        "WIDTH": 1989,
+        "HEIGHT": 75
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_c6bfcc71",
+      "kind": "main",
+      "idx": 15,
+      "text": "כל ברכות ותפלות, כגון ברכות מפטיר ורוב ברכות שאינן בתלמוד ולא במס' סופרים) לברך על הדלקת",
+      "coords": {
+        "HPOS": 291,
+        "VPOS": 1224,
+        "WIDTH": 1992,
+        "HEIGHT": 70
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_42a24455",
+      "kind": "main",
+      "idx": 16,
+      "text": "הנר בשבת, הוי פקח ושחקת ולא יענישון מלאכי שלום\" ע\"כ. וכן לענין פרשת קרבנות היום כשאר",
+      "coords": {
+        "HPOS": 297,
+        "VPOS": 1296,
+        "WIDTH": 1985,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_ce4fbba6",
+      "kind": "main",
+      "idx": 17,
+      "text": ".ימות החג, כתבו התוס' במגילה ד\"ל ע\"ב דלא מצינו סמך בתלמוד אך בסדר רב עמרם ישנו ע\"כ",
+      "coords": {
+        "HPOS": 304,
+        "VPOS": 1351,
+        "WIDTH": 1981,
+        "HEIGHT": 73
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_396f1f9d",
+      "kind": "main",
+      "idx": 18,
+      "text": "ולקמן נאריך עוד בבירורים אחת ותשע, דכל שלא נמצא מופת חותך הפך דבריהם של גאונים, החולק",
+      "coords": {
+        "HPOS": 295,
+        "VPOS": 1413,
+        "WIDTH": 1987,
+        "HEIGHT": 77
+      },
+      "para_start": true,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_90f1260d",
+      "kind": "main",
+      "idx": 19,
+      "text": "עליהם כחולק על התלמוד, עיין לקמן באורך בענף הה'. ודון מכל זה לנדון שלפנינו שודאי נגרור",
+      "coords": {
+        "HPOS": 300,
+        "VPOS": 1479,
+        "WIDTH": 1980,
+        "HEIGHT": 72
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_71cea61e",
+      "kind": "main",
+      "idx": 20,
+      "text": "בתר הגאונים ולא בתר רש\"י, אחרי שאינו אלא פי' שמפרשים הגאונים בהמשך כל הסוגיאות ופירושם",
+      "coords": {
+        "HPOS": 295,
+        "VPOS": 1541,
+        "WIDTH": 1987,
+        "HEIGHT": 65
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_0ead2b5a",
+      "kind": "main",
+      "idx": 21,
+      "text": "'יותר מרווח בריהטא דשמעתתא כאשר הארכנו, וכבר כתב התשב\"ץ ח\"א סי' קמ\"ב ד\"ע ע\"ד דפי",
+      "coords": {
+        "HPOS": 304,
+        "VPOS": 1602,
+        "WIDTH": 1978,
+        "HEIGHT": 75
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_5401619f",
+      "kind": "main",
+      "idx": 22,
+      "text": "הגאון יותר נכון מפי' רש\"י, וראוי לסמוך עליו כי דבריו דברי קבלה ע\"כ (כז) והזמן הספיק לברר",
+      "coords": {
+        "HPOS": 300,
+        "VPOS": 1668,
+        "WIDTH": 1982,
+        "HEIGHT": 75
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_6264f303",
+      "kind": "main",
+      "idx": 23,
+      "text": "דבר זה כשמש בחצי השמים. עתה כי אל ה' ויאר לנו לזכותינו בתשו' ר\"ה גאון ז\"ל דיוט\"ב ש\"ג ששם",
+      "coords": {
+        "HPOS": 295,
+        "VPOS": 1728,
+        "WIDTH": 1985,
+        "HEIGHT": 70
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_f4acb6ca",
+      "kind": "main",
+      "idx": 24,
+      "text": "ביאר הסוגייא דביצה באופן מסכים ומשובח, היא הסוגייא אשר דבו עליה מפני ביאור רש\"י דדחיק",
+      "coords": {
+        "HPOS": 295,
+        "VPOS": 1791,
+        "WIDTH": 1987,
+        "HEIGHT": 80
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_01fdfdd2",
+      "kind": "main",
+      "idx": 25,
+      "text": "ואתי מרחיק, ואין השכל הישר שופטו, ועתה הרחיב ה' לנו בביאור הגאון ז\"ל, ונסתמו פי המקטרגים",
+      "coords": {
+        "HPOS": 295,
+        "VPOS": 1855,
+        "WIDTH": 1990,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_3949daa2",
+      "kind": "main",
+      "idx": 26,
+      "text": "ואין להאשים רש\"י ז\"ל כי באיזה ענינים שיש להם יחס עם קורא הדורות, מחסרון ידיעות מועתקות",
+      "coords": {
+        "HPOS": 295,
+        "VPOS": 1917,
+        "WIDTH": 1987,
+        "HEIGHT": 81
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_16c3ef58",
+      "kind": "main",
+      "idx": 27,
+      "text": "מאב לבן כאשר היו לגאונים, נטה קו, וביאר הדברים חוץ מכונתם, והא דידן כאחת מהן, כי לאו",
+      "coords": {
+        "HPOS": 297,
+        "VPOS": 1983,
+        "WIDTH": 1983,
+        "HEIGHT": 74
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_307c6bcf",
+      "kind": "main",
+      "idx": 28,
+      "text": "בחריפות ופקחות ובקיאות התלמודיי תליא מילתא, כ\"א בידיעות שורשיות ומקובלות ומועתקות איש",
+      "coords": {
+        "HPOS": 293,
+        "VPOS": 2046,
+        "WIDTH": 1985,
+        "HEIGHT": 77
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_be1f4c5e",
+      "kind": "main",
+      "idx": 29,
+      "text": ",מפי איש ממקום שלא פסקה תורה אפילו רגע מיום גלות יהודה מעל אדמתו עד סוף זמן הגאונים",
+      "coords": {
+        "HPOS": 308,
+        "VPOS": 2115,
+        "WIDTH": 1970,
+        "HEIGHT": 72
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_ccd0a9b2",
+      "kind": "main",
+      "idx": 30,
+      "text": "וכל מתחיל להריח ריח אמת, יודה בכל דעתו להפנה האמתית הלזו, ובפרט בדבר זה שהוא סיפור",
+      "coords": {
+        "HPOS": 300,
+        "VPOS": 2170,
+        "WIDTH": 1983,
+        "HEIGHT": 77
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_1e04fa08",
+      "kind": "main",
+      "idx": 31,
+      "text": "קורות תורה שבע\"פ, דכשאדם הוא יותר מתפלסף ויותר חכם בחכמת הבקור, יותר יאמין בסיפורי",
+      "coords": {
+        "HPOS": 299,
+        "VPOS": 2244,
+        "WIDTH": 1981,
+        "HEIGHT": 67
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_6767d2fe",
+      "kind": "main",
+      "idx": 32,
+      "text": "הקורות לראשונים, ולא לאחרונים, ובפרט לרב שרירא, שלא קם מבקר מובהק בקורות תורתינו",
+      "coords": {
+        "HPOS": 297,
+        "VPOS": 2295,
+        "WIDTH": 1985,
+        "HEIGHT": 81
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_54398e0a",
+      "kind": "main",
+      "idx": 33,
+      "text": "וחכמינו כמוהו, וכאשר גאון דורנו המאיר לארץ ולדרים, בחקירותיו ויריעותיו החדות והחודרות בחדרי",
+      "coords": {
+        "HPOS": 300,
+        "VPOS": 2361,
+        "WIDTH": 1980,
+        "HEIGHT": 71
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_db63cbad",
+      "kind": "main",
+      "idx": 34,
+      "text": "חדרים",
+      "coords": {
+        "HPOS": 427,
+        "VPOS": 2440,
+        "WIDTH": 149,
+        "HEIGHT": 51
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_f7fd3d16",
+      "kind": "main",
+      "idx": 35,
+      "text": ",כז) ועיין להמאירי בפתי' לאבות דל\"ד ע\"א שעם שהאריך בשבח רש\"י שיים וכתב \"אלא שלא כיון הרב בהם לענין פסק)",
+      "coords": {
+        "HPOS": 300,
+        "VPOS": 2513,
+        "WIDTH": 1978,
+        "HEIGHT": 81
+      },
+      "para_start": true,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_af613bbc",
+      "kind": "main",
+      "idx": 36,
+      "text": "ע\"כ. והם הדברים אות באות שמצא הרב שה\"ג (ח\"ב דע\"ז ובנדפם מחדש דפפ\"דמין דרמ\"א) בכתב ישן נושן והוא הוא",
+      "coords": {
+        "HPOS": 295,
+        "VPOS": 2575,
+        "WIDTH": 1895,
+        "HEIGHT": 63
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_7db13284",
+      "kind": "main",
+      "idx": 37,
+      "text": "הב\"י נושן שכתב שם דס\"ה ע\"ב. ותימה על המעיר שם איך לא נרגש בזה, ומה שהביא בדפוס החדש שם דרמ\"א מהחכם",
+      "coords": {
+        "HPOS": 293,
+        "VPOS": 2629,
+        "WIDTH": 1987,
+        "HEIGHT": 58
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_7b2402c4",
+      "kind": "main",
+      "idx": 38,
+      "text": "המלין המפואר בתולדות רש\"י אין הספר מצוי אצלי וצר לי מאד אבל אומר שבל ראיותיו הם אמתניותמ להשתדל לכוין דעת",
+      "coords": {
+        "HPOS": 293,
+        "VPOS": 2676,
+        "WIDTH": 1987,
+        "HEIGHT": 70
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_e876a701",
+      "kind": "main",
+      "idx": 39,
+      "text": "רש\"י להלכה, ואם לא נתכוון אין לנו שום קושיא עפ\"י כלל זה והוא האמת ודוק כי לקגר אני צריך. ועבשיו בא לידי שה\"ג",
+      "coords": {
+        "HPOS": 295,
+        "VPOS": 2724,
+        "WIDTH": 1983,
+        "HEIGHT": 70
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_dc333baa",
+      "kind": "main",
+      "idx": 40,
+      "text": "הוצאה חדשה בווילנא מלאכה יפה. ומ\"ש המעיר שם דכבר איתה ביד הרכ חיד\"א ז\"ל פתחה לאבות להמאירי ז\"ל זה אינו",
+      "coords": {
+        "HPOS": 297,
+        "VPOS": 2783,
+        "WIDTH": 1983,
+        "HEIGHT": 62
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_42914aab",
+      "kind": "main",
+      "idx": 41,
+      "text": ".כי הוא להמאירי ז\"ל",
+      "coords": {
+        "HPOS": 1933,
+        "VPOS": 2927,
+        "WIDTH": 345,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_4c198aa5",
+      "kind": "main",
+      "idx": 42,
+      "text": "כאשר יפה העיר מוהרר\"ז ן' כ\"ט נר\"ו בהערותיו להוצאתו החדשה פ' המאירי לאבות הלזה והדין עמו בכל מ\"ש שם כנגד",
+      "coords": {
+        "HPOS": 299,
+        "VPOS": 2834,
+        "WIDTH": 1983,
+        "HEIGHT": 70
+      },
+      "para_start": true,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_e7af8a63",
+      "kind": "main",
+      "idx": 43,
+      "text": "המעיר המ\"ל שכל מ\"ש בזה היה שלא בהשקפה וברור. שהרב חיז\"א ז\"ל לא ראה כי אם כ\"י ישן נושן גלי שם בעלים ולא ידכ",
+      "coords": {
+        "HPOS": 297,
+        "VPOS": 2878,
+        "WIDTH": 1983,
+        "HEIGHT": 81
+      },
+      "para_start": false,
+      "is_catchword": false
+    }
+  ]
+}

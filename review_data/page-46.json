@@ -1,0 +1,639 @@
+{
+  "page_id": "page-46",
+  "image": "page_images/page-46.jpg",
+  "page_width": 2550,
+  "page_height": 3300,
+  "base_hash": "sha256:128d5f9ebf5d60ab7a4d9707788c0c3c03808daeea7efd7c21027869d8c2fbc1",
+  "lines": [
+    {
+      "line_id": "eSc_line_8b249790",
+      "kind": "main",
+      "idx": 0,
+      "text": "והמדרשים, וכמה ספרים קדמונים שבידנו כולם היו נסדרים בכתיבה, אלא שעד סוף זמן רבנן סבוראי",
+      "coords": {
+        "HPOS": 293,
+        "VPOS": 271,
+        "WIDTH": 1985,
+        "HEIGHT": 66
+      },
+      "para_start": true,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_86e858dc",
+      "kind": "main",
+      "idx": 1,
+      "text": "היו גנוזים ולא היו לומדים כי אם בע\"פ, ובימיהם נתפשט חבור הגמרא, כי עד סוף ימי רבנן",
+      "coords": {
+        "HPOS": 291,
+        "VPOS": 341,
+        "WIDTH": 1987,
+        "HEIGHT": 62
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_a5317f3e",
+      "kind": "main",
+      "idx": 2,
+      "text": "סבוראי לא נתפשט מכל וכל חבור הגמרא כלומר היה גנוז, וכל ישר הולך אשר יקח בידו פתיחת רבינו",
+      "coords": {
+        "HPOS": 293,
+        "VPOS": 405,
+        "WIDTH": 1985,
+        "HEIGHT": 55
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_b620e371",
+      "kind": "main",
+      "idx": 3,
+      "text": "המאירי ז\"ל ואגרת החמודה של ר\"ש, המובאה ביוחסין בעיניו יראה דהמאירי ז\"ל אינו אלא כמעתיק",
+      "coords": {
+        "HPOS": 295,
+        "VPOS": 456,
+        "WIDTH": 1983,
+        "HEIGHT": 70
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_2c843bf9",
+      "kind": "main",
+      "idx": 4,
+      "text": "דבריו אות באות, ומקצר במקום שנראה לו לקצר ולהאריך במקום שנראה לו להאריך, אבל היא היא",
+      "coords": {
+        "HPOS": 291,
+        "VPOS": 518,
+        "WIDTH": 1987,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_74033a6b",
+      "kind": "main",
+      "idx": 5,
+      "text": "מאין המלט, וא\"כ גם רבינו המאירי כן הבין פשטות אגרת ר\"ש דהיו כתובים, אבל \"הוו זחירין רבנן",
+      "coords": {
+        "HPOS": 291,
+        "VPOS": 584,
+        "WIDTH": 1985,
+        "HEIGHT": 74
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_e1bf5d34",
+      "kind": "main",
+      "idx": 6,
+      "text": "למגרסינהו ע\"פ\" הכל כאשר הארכנו לעיל, לא נופל דבר אפי' דבור אחד, והוא: כי אסיפת המשניות",
+      "coords": {
+        "HPOS": 289,
+        "VPOS": 645,
+        "WIDTH": 1989,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_6791e647",
+      "kind": "main",
+      "idx": 7,
+      "text": "כבר היתה אלא שלא היו בסדרים, ולא באופנים משוכחים, ולא בפה אחד, ולשון אחד, אבל כבר היו",
+      "coords": {
+        "HPOS": 293,
+        "VPOS": 709,
+        "WIDTH": 1981,
+        "HEIGHT": 75
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_e58f88d3",
+      "kind": "main",
+      "idx": 8,
+      "text": ",מסכתות שלמות מסודרות ומתוקנות על אופנים שונים כמו שהוכחנו גם מאגרת ר\"ש גאון ז\"ל לעיל",
+      "coords": {
+        "HPOS": 302,
+        "VPOS": 775,
+        "WIDTH": 1978,
+        "HEIGHT": 75
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_232c3508",
+      "kind": "main",
+      "idx": 9,
+      "text": "גם מסי' זה גופיה, גם מדברי ר\"ה ז\"ל לעיל סי' ך', והם הדברים שהובאו במ\"ו שעד שמאי והלל היו",
+      "coords": {
+        "HPOS": 293,
+        "VPOS": 836,
+        "WIDTH": 1990,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_2524746d",
+      "kind": "main",
+      "idx": 10,
+      "text": ",ת\"ר סדרי משנה, ומהלל ושמאי ששה, וגם מדברי ר\"ש הנגיד והרמב\"ם, ועכשיו האיר ה' את עינינו",
+      "coords": {
+        "HPOS": 299,
+        "VPOS": 902,
+        "WIDTH": 1981,
+        "HEIGHT": 71
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_a12ff11b",
+      "kind": "main",
+      "idx": 11,
+      "text": "ומצאנו לרבינו המאירי והרוה לנו כל צמאון, דהתברר דהכתיבה לא נאסרה מעולם, או כבר הותרה",
+      "coords": {
+        "HPOS": 293,
+        "VPOS": 962,
+        "WIDTH": 1992,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_8ee7a596",
+      "kind": "main",
+      "idx": 12,
+      "text": ".מימות אנשי כנ\"הג",
+      "coords": {
+        "HPOS": 1086,
+        "VPOS": 1032,
+        "WIDTH": 412,
+        "HEIGHT": 58
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_09d00e20",
+      "kind": "main",
+      "idx": 13,
+      "text": "ומי לא יראה כמה דינים שהם הלמ\"מ, וכולם הם תושבע\"פ בכל פינות חלקיהם. ועכ\"ז כתבום",
+      "coords": {
+        "HPOS": 293,
+        "VPOS": 1089,
+        "WIDTH": 1990,
+        "HEIGHT": 71
+      },
+      "para_start": true,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_f8bea433",
+      "kind": "main",
+      "idx": 14,
+      "text": "הנביאים? כמי שרבינו הרמב\"ן בזרוע קדשו קבצם בס' המצות קרוב לסוף השורש השני וחד",
+      "coords": {
+        "HPOS": 299,
+        "VPOS": 1162,
+        "WIDTH": 1830,
+        "HEIGHT": 59
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_a1c84a65",
+      "kind": "main",
+      "idx": 15,
+      "text": "מהם מ\"ש בסנהדרין דכ\"ב עד דאתא יחזקאל מאן אגמרינהו והכונה דהרי קי\"ל אין נביא רשאי לחרש",
+      "coords": {
+        "HPOS": 295,
+        "VPOS": 1217,
+        "WIDTH": 1990,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_40b8aee1",
+      "kind": "main",
+      "idx": 16,
+      "text": "דבר מעתה אלא דהיתה קבלה בידו הלמ\"מ ועפ\"י הנבואה התיר לכותבה ושתהיה נלמדת מתוך הספר",
+      "coords": {
+        "HPOS": 299,
+        "VPOS": 1279,
+        "WIDTH": 1983,
+        "HEIGHT": 70
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_9383284d",
+      "kind": "main",
+      "idx": 17,
+      "text": "כשאר דברי תורה, ולהכי בהרבה מקומות קרו דברי קבלה דאורייתא, כמו שהאריך הרמב\"ן שם, והוא",
+      "coords": {
+        "HPOS": 295,
+        "VPOS": 1347,
+        "WIDTH": 1990,
+        "HEIGHT": 62
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_a3d41e56",
+      "kind": "main",
+      "idx": 18,
+      "text": "ממש ככל היסוד מוסד שאנו בו דבכל הדורות היו מתירין איזה דברים ללומדם מתוך הכתב, הנביאים",
+      "coords": {
+        "HPOS": 297,
+        "VPOS": 1411,
+        "WIDTH": 1986,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_6374c05e",
+      "kind": "main",
+      "idx": 19,
+      "text": "התירו הדברים הללו של תושבע\"פ הנמצאים בתוך נבואותיהם, והתנאים התירו מגלת תענית, וראשי",
+      "coords": {
+        "HPOS": 299,
+        "VPOS": 1474,
+        "WIDTH": 1986,
+        "HEIGHT": 71
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_3dcd86d3",
+      "kind": "main",
+      "idx": 20,
+      "text": "האמוראים התירו ספרי דאגדתא, והתלמוד האחרון התיר מלתא חדתא, ובאו רבנן סבוראי והתירו",
+      "coords": {
+        "HPOS": 299,
+        "VPOS": 1536,
+        "WIDTH": 1988,
+        "HEIGHT": 73
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_a38ad640",
+      "kind": "main",
+      "idx": 21,
+      "text": "הכל, אבל בדורות שלמעלה מנביאים אחרונים היו נזהרים הרבה מלכתוב תושבע\"פ כדי ללמוד מחוך",
+      "coords": {
+        "HPOS": 302,
+        "VPOS": 1602,
+        "WIDTH": 1985,
+        "HEIGHT": 70
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_a9ea8493",
+      "kind": "main",
+      "idx": 22,
+      "text": "הכתב והיה חמיר להו טובא, וכשהיה הענין גדול ודוחק הרבה ונצדך לדורות היו כותבין הדברים כדרך",
+      "coords": {
+        "HPOS": 304,
+        "VPOS": 1670,
+        "WIDTH": 1981,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_ca1bc157",
+      "kind": "main",
+      "idx": 23,
+      "text": "סיפור בעלמא, דלאו סיפיה רישיה כמעט דברים גולמיים בלי שורש וענף כדי שלא יהיה להם פירוש",
+      "coords": {
+        "HPOS": 297,
+        "VPOS": 1721,
+        "WIDTH": 1990,
+        "HEIGHT": 84
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_f62bb86d",
+      "kind": "main",
+      "idx": 24,
+      "text": "אחר כ\"א ביסודי הדינים ותושבע\"פ ולא באופן אחר",
+      "coords": {
+        "HPOS": 807,
+        "VPOS": 1789,
+        "WIDTH": 1003,
+        "HEIGHT": 62
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_645861a7",
+      "kind": "main",
+      "idx": 25,
+      "text": "הא קמן",
+      "coords": {
+        "HPOS": 2016,
+        "VPOS": 1848,
+        "WIDTH": 269,
+        "HEIGHT": 106
+      },
+      "para_start": true,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_371ae2c6",
+      "kind": "main",
+      "idx": 26,
+      "text": "מקראות שאין להם הכרע קרואים והולכים בשמואל א' סימן י\"ו וי\"ז שאחר שהיה דור",
+      "coords": {
+        "HPOS": 302,
+        "VPOS": 1851,
+        "WIDTH": 1686,
+        "HEIGHT": 74
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_905bd443",
+      "kind": "main",
+      "idx": 27,
+      "text": "חד מרואי פני המלך שאול ויאהבהו מאד ויהי לו נשא כליו, וגם לאביו ישי הנכנס",
+      "coords": {
+        "HPOS": 299,
+        "VPOS": 1914,
+        "WIDTH": 1671,
+        "HEIGHT": 73
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_0557134d",
+      "kind": "main",
+      "idx": 28,
+      "text": "באוכלוסא ויוצא באוכלוסא מכידו היה הדק היטב שהרי אחד מהנערים אמר למלך ראיתי בן לישי בית",
+      "coords": {
+        "HPOS": 302,
+        "VPOS": 1974,
+        "WIDTH": 1985,
+        "HEIGHT": 75
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_0689bb50",
+      "kind": "main",
+      "idx": 29,
+      "text": "הלחמי וכו' וישלח שאול מלאכים אל ישי ב' פעמים בכבור גדול שישלח בנו דור כמבואר הכל שם לעיל",
+      "coords": {
+        "HPOS": 300,
+        "VPOS": 2040,
+        "WIDTH": 1991,
+        "HEIGHT": 72
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_98966637",
+      "kind": "main",
+      "idx": 30,
+      "text": "סי' י\"ו ואחר כל זה מה פי' מרווח או אפי' דחיק ואתי מרחיק נוכל למצוא בהבנת הכתובים הבאים",
+      "coords": {
+        "HPOS": 302,
+        "VPOS": 2108,
+        "WIDTH": 1985,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_a685b5d4",
+      "kind": "main",
+      "idx": 31,
+      "text": "אחריהם שם בסי' י\"ז \"ובראות שאול את דוד יוצא לקראת הפלשתי אמר אל אבנר שר הצבא בן מי זה",
+      "coords": {
+        "HPOS": 302,
+        "VPOS": 2172,
+        "WIDTH": 1989,
+        "HEIGHT": 62
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_aa53f1e6",
+      "kind": "main",
+      "idx": 32,
+      "text": ",הנער? אבנר! ויאמר אבנר: חי נפשך המלך! אם ידעתי, ויאמר המלך שאל אתה בן מי זה העלם",
+      "coords": {
+        "HPOS": 310,
+        "VPOS": 2234,
+        "WIDTH": 1981,
+        "HEIGHT": 77
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_63909060",
+      "kind": "main",
+      "idx": 33,
+      "text": "וכשוב דוד מהכות את הפלשתי, ויקח אותו אבנר ויבאהו לפני שאול וכו' ויאמר אליו שאול בן מי אתה",
+      "coords": {
+        "HPOS": 302,
+        "VPOS": 2299,
+        "WIDTH": 1991,
+        "HEIGHT": 64
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_aa0f5115",
+      "kind": "main",
+      "idx": 34,
+      "text": "הנער? ויאמר דור כן עכדך ישי בית הלחמי\" האם אינם אלו מקראות דלית להו בר נגר דלפרקינהו",
+      "coords": {
+        "HPOS": 304,
+        "VPOS": 2363,
+        "WIDTH": 1987,
+        "HEIGHT": 73
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_e54da2ae",
+      "kind": "main",
+      "idx": 35,
+      "text": "שהרי הם מרפסן אגרי לכל האמור למעלה כאשר הקשו כל הבאים אחריהם בים התלמוד ביבמות",
+      "coords": {
+        "HPOS": 300,
+        "VPOS": 2425,
+        "WIDTH": 1991,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_b426bd05",
+      "kind": "main",
+      "idx": 36,
+      "text": "דע\"ו ע\"א, וכל המפרשים אחזו צ\"ער ולא מצאו כל אנשי חיל ידיהם בשום ביאור נאה לשמוע, וגם",
+      "coords": {
+        "HPOS": 302,
+        "VPOS": 2486,
+        "WIDTH": 1987,
+        "HEIGHT": 71
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_9feae111",
+      "kind": "main",
+      "idx": 37,
+      "text": "להרב אברבנאל ז\"ל, שאמר שמפני הרוח רעה היה שוכח מי היה אביו, ודייק במה שאמר \"בן\" מי זה",
+      "coords": {
+        "HPOS": 304,
+        "VPOS": 2552,
+        "WIDTH": 1987,
+        "HEIGHT": 69
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_b6dcd30d",
+      "kind": "main",
+      "idx": 38,
+      "text": "העלם, ולא מי זה העלם, עכ\"פ יגע ולא הונח לנו, כי אם לשאול רוח רעה מבעתתו, אבנר הים",
+      "coords": {
+        "HPOS": 304,
+        "VPOS": 2616,
+        "WIDTH": 1987,
+        "HEIGHT": 73
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_8ab474e9",
+      "kind": "main",
+      "idx": 39,
+      "text": "שפוי בדעתו, והוא שר הצבא, ובוראי מכיר לדוד ולאביו, וזה דבר שאין השכל מחייבו, לומר ששר הצבא",
+      "coords": {
+        "HPOS": 302,
+        "VPOS": 2680,
+        "WIDTH": 1989,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_399400df",
+      "kind": "main",
+      "idx": 40,
+      "text": ",לא יכיר כל רואי פני המלך וגדוליו למשפחותם לבית אבותם ואין לנו לומר שכדי שלא יצטער שאול",
+      "coords": {
+        "HPOS": 313,
+        "VPOS": 2744,
+        "WIDTH": 1978,
+        "HEIGHT": 73
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_980f9225",
+      "kind": "main",
+      "idx": 41,
+      "text": "בשומעו שהוא דור וידוע לנו מאז, כי חליו אשר חלה גרס לו שלא הכיר מי דוד ומי כן ישי, וע\"ז גם",
+      "coords": {
+        "HPOS": 302,
+        "VPOS": 2805,
+        "WIDTH": 1987,
+        "HEIGHT": 77
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_d3c5dedc",
+      "kind": "main",
+      "idx": 42,
+      "text": "אבנר עשה עצמו כאלו לא ידעו, דאלו היה כן מה לו לישבע שבועה חמורה כזאת, חי נפשך המלך",
+      "coords": {
+        "HPOS": 308,
+        "VPOS": 2874,
+        "WIDTH": 1981,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_eeb71076",
+      "kind": "main",
+      "idx": 43,
+      "text": "אם ידעתי? ועוד מפני מה באת לו הרוח רעה עכשיו כראות שאול את דור יוצא לקראת הפלשתי, ולא",
+      "coords": {
+        "HPOS": 304,
+        "VPOS": 2929,
+        "WIDTH": 1981,
+        "HEIGHT": 75
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_fefd3479",
+      "kind": "main",
+      "idx": 44,
+      "text": "קודם",
+      "coords": {
+        "HPOS": 429,
+        "VPOS": 3004,
+        "WIDTH": 110,
+        "HEIGHT": 70
+      },
+      "para_start": false,
+      "is_catchword": true
+    }
+  ]
+}

@@ -1,0 +1,639 @@
+{
+  "page_id": "page-42",
+  "image": "page_images/page-42.jpg",
+  "page_width": 2550,
+  "page_height": 3300,
+  "base_hash": "sha256:3af32dcb2ded644246463d3282c8ea28cd8b97f1c168d78290e6d510d9505dde",
+  "lines": [
+    {
+      "line_id": "eSc_line_216c9ad5",
+      "kind": "main",
+      "idx": 0,
+      "text": "ע\"פ, ולא מתוך הכתב, וגם לא היו מזכירין בפיהם בראיות ותשובות, ענין כתב, כי היה סוד כמוס",
+      "coords": {
+        "HPOS": 328,
+        "VPOS": 264,
+        "WIDTH": 1979,
+        "HEIGHT": 73
+      },
+      "para_start": true,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_7bd45be8",
+      "kind": "main",
+      "idx": 1,
+      "text": "ביד גדולי הדור, יותר מסוד העיבור, ומי ששט בים התלמוד מימי נעוריו, אשר שם אניות גדולות",
+      "coords": {
+        "HPOS": 332,
+        "VPOS": 330,
+        "WIDTH": 1979,
+        "HEIGHT": 69
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_881c257a",
+      "kind": "main",
+      "idx": 2,
+      "text": "יהלכון, בביאורי הגאונים ופסקי גדולי המחברים יודע ועד כי מפני תולדות יותר חלושות מאלו",
+      "coords": {
+        "HPOS": 332,
+        "VPOS": 392,
+        "WIDTH": 1981,
+        "HEIGHT": 71
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_14ef6946",
+      "kind": "main",
+      "idx": 3,
+      "text": "נכנסים הראשונים והאחרונים באלף דוחקים יותר דחוקים מאשר לפנינו (עיין עירובין דל\"ט ע\"ב אמר",
+      "coords": {
+        "HPOS": 339,
+        "VPOS": 465,
+        "WIDTH": 1976,
+        "HEIGHT": 63
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_531d4fb4",
+      "kind": "main",
+      "idx": 4,
+      "text": "רב אשי ומאי קושיא ועיין מה שפי' רש\"י ז\"ל שם, ומוטב לתרוצי הכי ולא נוקי שבשתא עי\"ש) ובסכינא",
+      "coords": {
+        "HPOS": 333,
+        "VPOS": 518,
+        "WIDTH": 1982,
+        "HEIGHT": 70
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_a100c42c",
+      "kind": "main",
+      "idx": 5,
+      "text": "חריפא, יפסיקו כמה משניות וברייתות, וכמה גופי הלכות גדולות ושמועות רחבות והכל כדי לבאר",
+      "coords": {
+        "HPOS": 335,
+        "VPOS": 584,
+        "WIDTH": 1974,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_b43c9d70",
+      "kind": "main",
+      "idx": 6,
+      "text": "הדברים, עפ\"י משפטי הסברא הישרה, והאמת הברור, וכמ\"ש אבינו הורינו ומאור גולתינו ר\"ה",
+      "coords": {
+        "HPOS": 333,
+        "VPOS": 645,
+        "WIDTH": 1978,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_343d7c11",
+      "kind": "main",
+      "idx": 7,
+      "text": "עצמו ז\"ל בריש תשו' התקיעות שבס' תמים דעים סי' קי\"ט הובאה לקמן לארכה ולרחבה בסוף סימן",
+      "coords": {
+        "HPOS": 332,
+        "VPOS": 704,
+        "WIDTH": 1979,
+        "HEIGHT": 80
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_cf842a16",
+      "kind": "main",
+      "idx": 8,
+      "text": ".שנ\"ג בהגהותי וז\"ל \"ודברי הרבים הוא היסוד המוכיח על כל משנה ועל כל גמרא וש\"י למור\"ה ז\"ל",
+      "coords": {
+        "HPOS": 343,
+        "VPOS": 770,
+        "WIDTH": 1972,
+        "HEIGHT": 64
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_a4f23bf1",
+      "kind": "main",
+      "idx": 9,
+      "text": "ו מצוה להביא מן החדש מה שמצאתי לרבינו המאירי בפתיחתו למס' אבות, נרפס בשאלוניקי עם",
+      "coords": {
+        "HPOS": 333,
+        "VPOS": 834,
+        "WIDTH": 1971,
+        "HEIGHT": 69
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_a8eca985",
+      "kind": "main",
+      "idx": 10,
+      "text": "ס' דרכי חיים להרב המפורסם מר שניי כמוהרח\"ף נר\"ו (*) ונעתיק דברי רבינו המאירי ז\"ל פסקי",
+      "coords": {
+        "HPOS": 335,
+        "VPOS": 896,
+        "WIDTH": 1976,
+        "HEIGHT": 73
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_10044f54",
+      "kind": "main",
+      "idx": 11,
+      "text": "פסקי הצריכים לעינינו וז\"ל: \"ודע שכל הזמנים שהוזכרו עד סוף זמן הנביאים, והוא זמן חרבן בית",
+      "coords": {
+        "HPOS": 332,
+        "VPOS": 962,
+        "WIDTH": 1981,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_5a9e24ca",
+      "kind": "main",
+      "idx": 12,
+      "text": "ראשון לא ראו עצמם צריכים לכתוב דבר מן הראוי להיות נמסר בע\"פ, ולא היה להם כתוב רק התורה",
+      "coords": {
+        "HPOS": 332,
+        "VPOS": 1021,
+        "WIDTH": 1981,
+        "HEIGHT": 77
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_ed5a9b20",
+      "kind": "main",
+      "idx": 13,
+      "text": ",והנבואות כי כל הצריך להם מביאורי המצות התלמודיים הכל היה נמסר להם איש מפי איש בשלימות",
+      "coords": {
+        "HPOS": 337,
+        "VPOS": 1087,
+        "WIDTH": 1978,
+        "HEIGHT": 71
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_40a1138b",
+      "kind": "main",
+      "idx": 14,
+      "text": "ומה שהיה מתחדש ויצטרכו בו להתבוננות לפי חדוש הענינים נמסרו להם העיקרים והמדות שמהם",
+      "coords": {
+        "HPOS": 333,
+        "VPOS": 1158,
+        "WIDTH": 1982,
+        "HEIGHT": 63
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_5ca8627f",
+      "kind": "main",
+      "idx": 15,
+      "text": "היו מוצאים תעלומותיהם לאור ומבררים כל הדינים, ומה שלא יספק בהם ההקש והסברא, לפעמים",
+      "coords": {
+        "HPOS": 332,
+        "VPOS": 1213,
+        "WIDTH": 1977,
+        "HEIGHT": 64
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_cefdecc0",
+      "kind": "main",
+      "idx": 16,
+      "text": "היו הולכים בו אחר הרוב, כאומרו אחרי רבים להטות, ולפעמים היתה הנבואה מבררת להם כל",
+      "coords": {
+        "HPOS": 330,
+        "VPOS": 1276,
+        "WIDTH": 1979,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_05cc8f18",
+      "kind": "main",
+      "idx": 17,
+      "text": "תעלומה, כמו שידעת מדברי קצת חכמינו השלמים, שהנבואה תגיד השגות עיוניות אשר לא יוכל",
+      "coords": {
+        "HPOS": 332,
+        "VPOS": 1343,
+        "WIDTH": 1981,
+        "HEIGHT": 63
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_57d4d92e",
+      "kind": "main",
+      "idx": 18,
+      "text": "העיון להשיגם כל שכן הסברא, כי כמו שיגיע לכח המדמה השגה, מה שלא יגיע אליו מן החושים כן",
+      "coords": {
+        "HPOS": 332,
+        "VPOS": 1402,
+        "WIDTH": 1981,
+        "HEIGHT": 75
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_cbf18699",
+      "kind": "main",
+      "idx": 19,
+      "text": "יגיע לכח השכלי השגה מה שלא ישיגהו בעיון ובהקדמות ובסברא, אבל מ\"מ היו נושאים ונותנים",
+      "coords": {
+        "HPOS": 330,
+        "VPOS": 1468,
+        "WIDTH": 1981,
+        "HEIGHT": 62
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_a85d06c5",
+      "kind": "main",
+      "idx": 20,
+      "text": "מדרכי ההקש והמדות והסברא להוציא לאור תעלומותיהם, וכ\"ז באין מחלוקת ביניהם כלל, כי היו",
+      "coords": {
+        "HPOS": 330,
+        "VPOS": 1527,
+        "WIDTH": 1976,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_e038e1f5",
+      "kind": "main",
+      "idx": 21,
+      "text": "אז נמסרים לנביאים, וסרים למשמעתם ונשמעים אליהם, ולפעמים היו סומכין על דברים שהיה",
+      "coords": {
+        "HPOS": 328,
+        "VPOS": 1596,
+        "WIDTH": 1981,
+        "HEIGHT": 61
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_8ac58191",
+      "kind": "main",
+      "idx": 22,
+      "text": "ענינם מקובל להם שכך הוא הל\"מ, והוא בדבר שאין העיון והסברא, ולא אחת מהמדות שהתורה",
+      "coords": {
+        "HPOS": 330,
+        "VPOS": 1655,
+        "WIDTH": 1979,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_05807439",
+      "kind": "main",
+      "idx": 23,
+      "text": "נדרשת בהם שולטת בו, ולפעמים ג\"כ היו סומכין קבלותיהם במקראות דרך אסמכתא בעלמא, והכל",
+      "coords": {
+        "HPOS": 330,
+        "VPOS": 1717,
+        "WIDTH": 1981,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_f57475e4",
+      "kind": "main",
+      "idx": 24,
+      "text": "היה נשאר להם דרך קבלה מאיש לאיש, עם מה שיחדשו להם מנהיגיהם לפי הזמן, ולפי הצורך המתחדש",
+      "coords": {
+        "HPOS": 326,
+        "VPOS": 1776,
+        "WIDTH": 1983,
+        "HEIGHT": 73
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_b4d83597",
+      "kind": "main",
+      "idx": 25,
+      "text": "בלא מחלוקת וכו' וכו', אבל כשהגיע הזמן לאנשי כנ\"הג הכירו בהתחלת חסרונם והיו כותבים",
+      "coords": {
+        "HPOS": 328,
+        "VPOS": 1837,
+        "WIDTH": 1981,
+        "HEIGHT": 82
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_d6a67b18",
+      "kind": "main",
+      "idx": 26,
+      "text": "כל אחד לעצמו מה ששמע מרבו אם ראשוני החכמים במה ששמעו מאחרוני",
+      "coords": {
+        "HPOS": 332,
+        "VPOS": 1910,
+        "WIDTH": 1968,
+        "HEIGHT": 77
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_ed30ee40",
+      "kind": "main",
+      "idx": 27,
+      "text": "הנביאים, אחר שהרגישו בהעדר הנבואה, והתחלת המחלוקת עם הבאים אחריהם במה שהיו שומעים",
+      "coords": {
+        "HPOS": 330,
+        "VPOS": 1969,
+        "WIDTH": 1981,
+        "HEIGHT": 67
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_7a039c67",
+      "kind": "main",
+      "idx": 28,
+      "text": "איש מפי איש, והוא מה שאמרו בראשון של יבמות די\"ו ע\"א א\"ר דוסא בן הרכינס, על מדוכה זו",
+      "coords": {
+        "HPOS": 332,
+        "VPOS": 2031,
+        "WIDTH": 1977,
+        "HEIGHT": 75
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_91365a2a",
+      "kind": "main",
+      "idx": 29,
+      "text": "ושב חגי הנביא, ואמר ג' דברים, חדא צרת הבת מותרת לאחים, ואירך וכו', ואידך וכו', ולא",
+      "coords": {
+        "HPOS": 339,
+        "VPOS": 2091,
+        "WIDTH": 1968,
+        "HEIGHT": 83
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_1ec32f0a",
+      "kind": "main",
+      "idx": 30,
+      "text": "נודע זה הסיפור אלא מדרך שנמצא כתוב בן שהרי ר' דוסא זה היה",
+      "coords": {
+        "HPOS": 341,
+        "VPOS": 2152,
+        "WIDTH": 1961,
+        "HEIGHT": 88
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_83cf404d",
+      "kind": "main",
+      "idx": 31,
+      "text": "בזמן ר\"ע, ומזמן ר\"ע לזמן חגי קרוב\" לת\"ק שנה, ואעפ\"י שאמרנו שם שר' דוסא בן הרכינס",
+      "coords": {
+        "HPOS": 332,
+        "VPOS": 2222,
+        "WIDTH": 1975,
+        "HEIGHT": 75
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_93afd141",
+      "kind": "main",
+      "idx": 32,
+      "text": "שהיה זקן מופלג ביותר הוא שאמר מעיד אני עלי שמים וארץ שעל מרוכה זו וכו', שמשמען של דברים",
+      "coords": {
+        "HPOS": 332,
+        "VPOS": 2280,
+        "WIDTH": 1977,
+        "HEIGHT": 72
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_236762ea",
+      "kind": "main",
+      "idx": 33,
+      "text": "שבפניו נאמר כן והוא היה המעיד אפשר שכך מצא כתוב, והעיד מפי איזה כתב של איזה מומחה",
+      "coords": {
+        "HPOS": 332,
+        "VPOS": 2352,
+        "WIDTH": 1977,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_03715a8f",
+      "kind": "main",
+      "idx": 34,
+      "text": "שאין לעדות של הוראה דקדוק בענין זה כלל (כח) וכו' וכו' ונשוב לענינינו והוא שבזמן אנשי",
+      "coords": {
+        "HPOS": 337,
+        "VPOS": 2403,
+        "WIDTH": 1970,
+        "HEIGHT": 81
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_ef152510",
+      "kind": "main",
+      "idx": 35,
+      "text": "כנ\"הג",
+      "coords": {
+        "HPOS": 469,
+        "VPOS": 2482,
+        "WIDTH": 140,
+        "HEIGHT": 59
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_38a07fc2",
+      "kind": "main",
+      "idx": 36,
+      "text": ")עכשיו הדפיסו בווין אהובינו החכם החוקר מיהדר\"ז ן' כ\"ט וכדלקמן הערה (*",
+      "coords": {
+        "HPOS": 869,
+        "VPOS": 2564,
+        "WIDTH": 1433,
+        "HEIGHT": 72
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_c8a9399f",
+      "kind": "main",
+      "idx": 37,
+      "text": "כח) בם מגן אבית ק\"ק להתשב\"ץ במ\"א כתב ויש מהנביאים שהאריך ימים עד ימות תנאים כמו שנזכר ביבמות, אר\"ד בן)",
+      "coords": {
+        "HPOS": 339,
+        "VPOS": 2616,
+        "WIDTH": 1967,
+        "HEIGHT": 73
+      },
+      "para_start": true,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_ff519095",
+      "kind": "main",
+      "idx": 38,
+      "text": "הרכינס וכו' עי\"ש באורך ומצאתי כתוב בגליון הספר מכתיבתי וחתי' וזה לשוני, עיין מאירי בפתיחתו לאבית שאדרבא",
+      "coords": {
+        "HPOS": 335,
+        "VPOS": 2676,
+        "WIDTH": 1879,
+        "HEIGHT": 59
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_f001a259",
+      "kind": "main",
+      "idx": 39,
+      "text": "הכריח מזה דהיה כתוב אצל ר\"ד בן הרכינם קבלה זאת מפי הנביאים בטוענו טענה טבעית דאיך אפשר דחי ת\"ק שנה? ואלו",
+      "coords": {
+        "HPOS": 335,
+        "VPOS": 2720,
+        "WIDTH": 1974,
+        "HEIGHT": 72
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_7f578b7a",
+      "kind": "main",
+      "idx": 40,
+      "text": "היה כותב דבר זה חד מרבני צרפת ואשכנז הקדמונים אשר מטבעם הקדוש לסבול כמה גוזמות שפיר דמי אבל גאון בדורו",
+      "coords": {
+        "HPOS": 335,
+        "VPOS": 2781,
+        "WIDTH": 1972,
+        "HEIGHT": 57
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_9c8d5553",
+      "kind": "main",
+      "idx": 41,
+      "text": "כהתשב\"ן, וחוקר ומבקר, ורופא וצרי, וגבור כארי, איך יסבול לכתוב דבר זה? והוא פלא. המשי\"ח ס\"ט עכ\"ל. ושאגב",
+      "coords": {
+        "HPOS": 335,
+        "VPOS": 2823,
+        "WIDTH": 1972,
+        "HEIGHT": 70
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_d0c6644a",
+      "kind": "main",
+      "idx": 42,
+      "text": "רשימתי זאת נזכרתי ולקחתי בידים המאירי שאנו בו. ועכשיו אני רואה להרב יעיר אזן דכ\"ה ע\"ב שכתב וז\"ל: \"והרמב\"ם",
+      "coords": {
+        "HPOS": 335,
+        "VPOS": 2883,
+        "WIDTH": 1972,
+        "HEIGHT": 55
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_3e72afbd",
+      "kind": "main",
+      "idx": 43,
+      "text": "כתב כפשטה שרבי דוסא ראה לחגי אך ס' יוחסין ום הדורות יספוק עלימו דאפשר קבלה בידו\" עי\"ש, ואני בעניי אומר כי",
+      "coords": {
+        "HPOS": 341,
+        "VPOS": 2933,
+        "WIDTH": 1961,
+        "HEIGHT": 62
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_bf4c3d52",
+      "kind": "main",
+      "idx": 44,
+      "text": "דבל",
+      "coords": {
+        "HPOS": 447,
+        "VPOS": 2992,
+        "WIDTH": 68,
+        "HEIGHT": 55
+      },
+      "para_start": false,
+      "is_catchword": true
+    }
+  ]
+}

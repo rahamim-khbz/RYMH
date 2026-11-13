@@ -1,0 +1,667 @@
+{
+  "page_id": "page-76",
+  "image": "page_images/page-76.jpg",
+  "page_width": 2550,
+  "page_height": 3300,
+  "base_hash": "sha256:1703adcb640fe54efedf04dc99e3b213590cbdb3eee99403684162ba8a0982fc",
+  "lines": [
+    {
+      "line_id": "eSc_line_d970d1b9",
+      "kind": "main",
+      "idx": 0,
+      "text": ".בימי האמוראים והתנאים שהיו לומרים על פה, אבל אנו לומדים דבר הכתוב, אין לחוש לכל זה ע\"כ",
+      "coords": {
+        "HPOS": 332,
+        "VPOS": 275,
+        "WIDTH": 1968,
+        "HEIGHT": 73
+      },
+      "para_start": true,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_2cdbaac8",
+      "kind": "main",
+      "idx": 1,
+      "text": "ועיין מה שכתבתי לקמן בתשו' החרשו' ח\"ב סי' ל'. גם מלשון ראבי\"ה מוכח להריא שעיקר האיסור",
+      "coords": {
+        "HPOS": 328,
+        "VPOS": 346,
+        "WIDTH": 1974,
+        "HEIGHT": 68
+      },
+      "para_start": true,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_08865100",
+      "kind": "main",
+      "idx": 2,
+      "text": "בימי התנאים והאמוראים לא היה כי אם ללמוד דבר הכתוב, ולא שהיה איסור בכתיבה כדי שלא",
+      "coords": {
+        "HPOS": 322,
+        "VPOS": 405,
+        "WIDTH": 1978,
+        "HEIGHT": 69
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_157d2359",
+      "kind": "main",
+      "idx": 3,
+      "text": "ללמוד מתוכה, ונתבררו הדברים כשמלה שכוונת רז\"ל אומרם ניתן להכתב ירצה ניתן ללומדו מתוך",
+      "coords": {
+        "HPOS": 328,
+        "VPOS": 473,
+        "WIDTH": 1974,
+        "HEIGHT": 69
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_e77e4702",
+      "kind": "main",
+      "idx": 4,
+      "text": "הכתב דוקא ולהפך כוונת לא ניתן להכתב ירצה לא ניתן ללומדו מתוך הכתב כי אם בע\"פ שכוונת",
+      "coords": {
+        "HPOS": 322,
+        "VPOS": 533,
+        "WIDTH": 1980,
+        "HEIGHT": 75
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_995710bd",
+      "kind": "main",
+      "idx": 5,
+      "text": "הענין הוא מוצאת הדברים מתוך הכתב",
+      "coords": {
+        "HPOS": 924,
+        "VPOS": 605,
+        "WIDTH": 804,
+        "HEIGHT": 64
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_509c3ef2",
+      "kind": "main",
+      "idx": 6,
+      "text": "ובעודני כותב זה הגיעוני תשו' הגאונים כ\"י ובפתחי אורו עיני כל מעיני כי מצאתי הון לי",
+      "coords": {
+        "HPOS": 324,
+        "VPOS": 656,
+        "WIDTH": 1972,
+        "HEIGHT": 82
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_c0303fd2",
+      "kind": "main",
+      "idx": 7,
+      "text": "בח\"א סי' י\"ד תשו' אחת לר\"ח, ולהרב הנגיד אלבארג\"לוני ז\"ל הנותן נשמה לפירושנו",
+      "coords": {
+        "HPOS": 326,
+        "VPOS": 720,
+        "WIDTH": 1666,
+        "HEIGHT": 73
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_854d777d",
+      "kind": "main",
+      "idx": 8,
+      "text": "זה עוד ואעתיקנה אשורית ככל המון התשו' אלו למען ירוץ כל קורא בהן, וכל רואיהם יכירום, כי",
+      "coords": {
+        "HPOS": 328,
+        "VPOS": 784,
+        "WIDTH": 1974,
+        "HEIGHT": 81
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_cd9098f9",
+      "kind": "main",
+      "idx": 9,
+      "text": ".ממקור קדוש יהלכו וז\"ת",
+      "coords": {
+        "HPOS": 1054,
+        "VPOS": 859,
+        "WIDTH": 521,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_640f1319",
+      "kind": "main",
+      "idx": 10,
+      "text": "'סימן י\"ד לרבינו חנגאל ז",
+      "coords": {
+        "HPOS": 1506,
+        "VPOS": 929,
+        "WIDTH": 792,
+        "HEIGHT": 105
+      },
+      "para_start": true,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_222b4439",
+      "kind": "main",
+      "idx": 11,
+      "text": "ל\"",
+      "coords": {
+        "HPOS": 1443,
+        "VPOS": 938,
+        "WIDTH": 64,
+        "HEIGHT": 85
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_c9b4e326",
+      "kind": "main",
+      "idx": 12,
+      "text": "הכתב והמכתב\" (פ\"ה דאבוח) \"הכתב\" שאתה כותב\"",
+      "coords": {
+        "HPOS": 322,
+        "VPOS": 936,
+        "WIDTH": 1077,
+        "HEIGHT": 76
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_4320db03",
+      "kind": "main",
+      "idx": 13,
+      "text": "כנון אל\"ף רי\"ש צד\"י. \"והמכתב\" שאתה קורא",
+      "coords": {
+        "HPOS": 324,
+        "VPOS": 1015,
+        "WIDTH": 1072,
+        "HEIGHT": 63
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_9ca50396",
+      "kind": "main",
+      "idx": 14,
+      "text": ",אר\"ץ, וראינו בו לרו\"ל כ' פירושים פי' כתב מיני כתב שבעורם, והמכתב שהוא שהיה כלוחות",
+      "coords": {
+        "HPOS": 328,
+        "VPOS": 1072,
+        "WIDTH": 1976,
+        "HEIGHT": 70
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_190d4a9e",
+      "kind": "main",
+      "idx": 15,
+      "text": "בדכתיב והמכתב מכתב אלהים. והשני, \"כמו שאומרים חכמי אנוים, (ואנכי המחבר אי\"י הי\"ם",
+      "coords": {
+        "HPOS": 326,
+        "VPOS": 1144,
+        "WIDTH": 1980,
+        "HEIGHT": 71
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_dbea801a",
+      "kind": "main",
+      "idx": 16,
+      "text": "(לא ידעתי",
+      "coords": {
+        "HPOS": 1205,
+        "VPOS": 1217,
+        "WIDTH": 235,
+        "HEIGHT": 82
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_57406597",
+      "kind": "main",
+      "idx": 17,
+      "text": "והרב",
+      "coords": {
+        "HPOS": 2131,
+        "VPOS": 1316,
+        "WIDTH": 175,
+        "HEIGHT": 82
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_ace8738b",
+      "kind": "main",
+      "idx": 18,
+      "text": "ר' יהודה אלברגירוני ז\"ל כתב צורת האותיות שהוא כמו אל בע כל אות ואות",
+      "coords": {
+        "HPOS": 324,
+        "VPOS": 1310,
+        "WIDTH": 1750,
+        "HEIGHT": 61
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_fd4bb076",
+      "kind": "main",
+      "idx": 19,
+      "text": "בממשה מפני שהריבור מתחבר מקולות משונות שיוצאים ממקומות ידועים שהם",
+      "coords": {
+        "HPOS": 324,
+        "VPOS": 1386,
+        "WIDTH": 1765,
+        "HEIGHT": 55
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_54dfb4bc",
+      "kind": "main",
+      "idx": 20,
+      "text": "מסוף הגרון הפנימי, ועד סוף שפתים החיצונים, ומבין השמשות ואילך נתן כח הב\"ה באדם",
+      "coords": {
+        "HPOS": 326,
+        "VPOS": 1455,
+        "WIDTH": 1983,
+        "HEIGHT": 55
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_31471fa5",
+      "kind": "main",
+      "idx": 21,
+      "text": "הראשון ובזרעו לדורות לחבר צורות משונות שעומדות אחת אחת מהן כגגד אחת אחת מאותן",
+      "coords": {
+        "HPOS": 324,
+        "VPOS": 1523,
+        "WIDTH": 1983,
+        "HEIGHT": 62
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_c66ef396",
+      "kind": "main",
+      "idx": 22,
+      "text": "קולות וזה הכתב, והרבור המתחבר מאותן צורות זהו הנקרא מכתב שהוא צירוף האותיות",
+      "coords": {
+        "HPOS": 324,
+        "VPOS": 1593,
+        "WIDTH": 1982,
+        "HEIGHT": 64
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_b523c91b",
+      "kind": "main",
+      "idx": 23,
+      "text": "'להיות תיבה להקרות כמלה, ואית דאמרי כתב הוא כתב הקדש שהן כ\"ב אותיות צורת כל א",
+      "coords": {
+        "HPOS": 330,
+        "VPOS": 1662,
+        "WIDTH": 1976,
+        "HEIGHT": 57
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_eda8d78a",
+      "kind": "main",
+      "idx": 24,
+      "text": "מהן מן האותיות שבלוחות שהיתה נקראת כל א' וא' מד' צדדים. מכתב הדבור המתחבר מאותן",
+      "coords": {
+        "HPOS": 326,
+        "VPOS": 1730,
+        "WIDTH": 1981,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_8bde5b4e",
+      "kind": "main",
+      "idx": 25,
+      "text": "חצורות, והפי' הראשון ברור מן האחרון משום דקאמר והלוחות, וכי קאמר והלוחות, רוחות",
+      "coords": {
+        "HPOS": 326,
+        "VPOS": 1794,
+        "WIDTH": 1985,
+        "HEIGHT": 65
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_4ce72740",
+      "kind": "main",
+      "idx": 26,
+      "text": "וכר מה שבהן קאמר ע\"כ. והרב המאיר\"י הובאו דבריו במוהר\"י אברבאניל ז\"ל וכמוהר\"ש אוזידה",
+      "coords": {
+        "HPOS": 326,
+        "VPOS": 1864,
+        "WIDTH": 1983,
+        "HEIGHT": 73
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_a22e255b",
+      "kind": "main",
+      "idx": 27,
+      "text": "ז\"ל פי' כיוצא בזה וז\"ל: אמר: \"הכתב\" על מלאכת הכתיבה בין האנשים \"והמכתב\" על מציאות",
+      "coords": {
+        "HPOS": 326,
+        "VPOS": 1936,
+        "WIDTH": 1980,
+        "HEIGHT": 69
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_2c795c89",
+      "kind": "main",
+      "idx": 28,
+      "text": "הלשון שנקרא מכתב לפי שמה שידבר הארם יעשה טופסו ככתב ולכן היתה הלשון היא דבר הנכתב ע\"כ",
+      "coords": {
+        "HPOS": 343,
+        "VPOS": 2009,
+        "WIDTH": 1964,
+        "HEIGHT": 62
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_8ef21d6a",
+      "kind": "main",
+      "idx": 29,
+      "text": ".ועיין לבעל מאור עינים ריש פ' נ\"ח רקע\"ו ע\"ב",
+      "coords": {
+        "HPOS": 849,
+        "VPOS": 2066,
+        "WIDTH": 967,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_9ec71c41",
+      "kind": "main",
+      "idx": 30,
+      "text": "ועתה גם אנו נאמר כי הלשון הסוכלת לתאר הלשון מפני שניתנה להכתב \"מכתב\" לא יקשה",
+      "coords": {
+        "HPOS": 328,
+        "VPOS": 2124,
+        "WIDTH": 1978,
+        "HEIGHT": 79
+      },
+      "para_start": true,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_d9d118c4",
+      "kind": "main",
+      "idx": 31,
+      "text": "בעיניה אם תשתמש בשימוש תמירי על דבר הנלמד מתוך הכתב ושלילותו עם מילות",
+      "coords": {
+        "HPOS": 326,
+        "VPOS": 2189,
+        "WIDTH": 1745,
+        "HEIGHT": 67
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_4f216a38",
+      "kind": "main",
+      "idx": 32,
+      "text": "ניתן להכתב ולא ניתן להכתב\" שלפי טבעה הרי היא כאילו פירשה הדברים באזני מדבריה שכוונתה",
+      "coords": {
+        "HPOS": 330,
+        "VPOS": 2255,
+        "WIDTH": 1970,
+        "HEIGHT": 75
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_9a7f7a3b",
+      "kind": "main",
+      "idx": 33,
+      "text": "על אמירת דברים מתוך הכתב והפכו, כלומר: בע\"פ, והאריכות עוד בזה הוא יגיעת בשר כי לדעתי",
+      "coords": {
+        "HPOS": 333,
+        "VPOS": 2321,
+        "WIDTH": 1976,
+        "HEIGHT": 64
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_33e80b2d",
+      "kind": "main",
+      "idx": 34,
+      "text": "עם כל האמצעים הללו שנשתמשנו מהם לראיה, חזר הדבר ברור וצלול",
+      "coords": {
+        "HPOS": 625,
+        "VPOS": 2381,
+        "WIDTH": 1411,
+        "HEIGHT": 64
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_00e85d1c",
+      "kind": "main",
+      "idx": 35,
+      "text": "נשאר לנו א\"כ להתטפל ולהשיב על הראיה האחרונה שעליה החכם שר\"ל נר\"ו סומך בכמה",
+      "coords": {
+        "HPOS": 330,
+        "VPOS": 2443,
+        "WIDTH": 1981,
+        "HEIGHT": 74
+      },
+      "para_start": true,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_76be30a6",
+      "kind": "main",
+      "idx": 36,
+      "text": "מקומות ובכל מקום שהגענו אליה הנחנו אותה כרי להשיב עליה פעם אחת, א\"כ הגיע",
+      "coords": {
+        "HPOS": 328,
+        "VPOS": 2508,
+        "WIDTH": 1730,
+        "HEIGHT": 67
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_1e43c503",
+      "kind": "main",
+      "idx": 37,
+      "text": "השעה לצאת ידי חובתינו ונאמר: ראה אתה הידידז מרבה תמיהותיך באזנינו לאמר: \"אם היתה",
+      "coords": {
+        "HPOS": 332,
+        "VPOS": 2574,
+        "WIDTH": 1979,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_4263f457",
+      "kind": "main",
+      "idx": 38,
+      "text": "הכתיבה מותרת מה זה מגלת סתרים? הסתר למה\"? וכיוצא מכל מה שהארכת, אבל דברים אלו הם",
+      "coords": {
+        "HPOS": 330,
+        "VPOS": 2636,
+        "WIDTH": 1979,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_fbc2a751",
+      "kind": "main",
+      "idx": 39,
+      "text": "עיקר כלי זיינך בפרט זה, ואני אומר שעד שאתה שואלנו \"מה זה מגילת סתרים\"? על כוונה אחת אני",
+      "coords": {
+        "HPOS": 332,
+        "VPOS": 2709,
+        "WIDTH": 1974,
+        "HEIGHT": 59
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_b2a39841",
+      "kind": "main",
+      "idx": 40,
+      "text": "אשתמש בלשון זה ממש, ואשאלך ותודיעני על כוונה אחרת \"מה זה מגילת סתרים\"? מגילה מסותרת",
+      "coords": {
+        "HPOS": 330,
+        "VPOS": 2772,
+        "WIDTH": 1979,
+        "HEIGHT": 64
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_64021e53",
+      "kind": "main",
+      "idx": 41,
+      "text": "הול\"ל! שאם אתה אומר רכל הכתיבה היתה אסורה לתושבע\"פ ולא היתה לא כתובה ולא גנוזה, ל\"מ",
+      "coords": {
+        "HPOS": 330,
+        "VPOS": 2828,
+        "WIDTH": 1979,
+        "HEIGHT": 65
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_5509852d",
+      "kind": "main",
+      "idx": 42,
+      "text": ",ולא מקצתה, א\"כ לפי יסוד זה שם מגילת סתרים יפול על עצם הכתיבה שהיתה אסודה מכל וכל",
+      "coords": {
+        "HPOS": 339,
+        "VPOS": 2889,
+        "WIDTH": 1974,
+        "HEIGHT": 79
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_71b9d745",
+      "kind": "main",
+      "idx": 43,
+      "text": "וע\"ז כיון שמגילות נפרדות אלו יצאו מן הכלל שנעשה בהם איסור מפני ההכרח וכמו שפירש\"י, א\"כ",
+      "coords": {
+        "HPOS": 337,
+        "VPOS": 2966,
+        "WIDTH": 1974,
+        "HEIGHT": 60
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_3c30fb60",
+      "kind": "main",
+      "idx": 44,
+      "text": "בט",
+      "coords": {
+        "HPOS": 2071,
+        "VPOS": 3025,
+        "WIDTH": 108,
+        "HEIGHT": 75
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_f057e738",
+      "kind": "main",
+      "idx": 45,
+      "text": "שפ",
+      "coords": {
+        "HPOS": 1882,
+        "VPOS": 3015,
+        "WIDTH": 77,
+        "HEIGHT": 72
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_9c2f4b88",
+      "kind": "main",
+      "idx": 46,
+      "text": "לזה",
+      "coords": {
+        "HPOS": 456,
+        "VPOS": 3025,
+        "WIDTH": 87,
+        "HEIGHT": 58
+      },
+      "para_start": false,
+      "is_catchword": true
+    }
+  ]
+}

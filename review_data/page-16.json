@@ -1,0 +1,652 @@
+{
+  "page_id": "page-16",
+  "image": "page_images/page-16.png",
+  "page_width": 2550,
+  "page_height": 3300,
+  "base_hash": "sha256:ff0e7163ef1e2578919f61190d93b2b0482ce65f2673fdc0dc7006d86f1f09a3",
+  "lines": [
+    {
+      "line_id": "_b675e829-1d29-43a2-aa95-11a71747e4aa",
+      "kind": "main",
+      "idx": 0,
+      "text": "והט\"ס קרוב, ובגתנא ותרש יוכיח) הוו ידעי להון ידיעה ברורה, והוויות ודקדוקים הוו",
+      "coords": {
+        "HPOS": 282,
+        "VPOS": 282,
+        "WIDTH": 2013,
+        "HEIGHT": 62
+      },
+      "para_start": true,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_1beeadbc-f945-4bf7-a3b6-9980cb5b4de7",
+      "kind": "main",
+      "idx": 1,
+      "text": "תנו (ח\"מ) במשנתן ע\"כ דבר\". ודבר שמחדש וכן היא הגירסא באגרת שבאוצר ספרי קמ\"ר וויין",
+      "coords": {
+        "HPOS": 280,
+        "VPOS": 341,
+        "WIDTH": 2015,
+        "HEIGHT": 69
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_6e9c3c8c-1c03-400c-a85f-ccc9b7659e64",
+      "kind": "main",
+      "idx": 2,
+      "text": "וע\"א (עיין לקמן בהערה כ\"ה) כונתו מבוארת שמלבד שכבר הוכית מההיא דפסחים, דהראשונים היו",
+      "coords": {
+        "HPOS": 278,
+        "VPOS": 419,
+        "WIDTH": 2015,
+        "HEIGHT": 54
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_403c5434-34c9-4940-9882-ce2495a16739",
+      "kind": "main",
+      "idx": 3,
+      "text": "לומדים הדינים, וענפי ענפיהם עם טעמיהם, רצה להוכיח שגם הפלפולים והקושיות וההוויות",
+      "coords": {
+        "HPOS": 277,
+        "VPOS": 474,
+        "WIDTH": 2018,
+        "HEIGHT": 55
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_972ba2eb-e66d-480a-bf84-e3dacad3feda",
+      "kind": "main",
+      "idx": 4,
+      "text": "והבעיות אשר כל הלימודים בכללם בשם יקראו \"תלמוד\" גם זה היה להם, והביא ראיה אמתית מרבן",
+      "coords": {
+        "HPOS": 278,
+        "VPOS": 531,
+        "WIDTH": 2020,
+        "HEIGHT": 70
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_4c74bbae-6a8a-4fc3-bc01-d76ca22b92ee",
+      "kind": "main",
+      "idx": 5,
+      "text": "יוחנן בן זכאי וכו' ואחר שהוכיח דכ\"ז הוא להודיעך דאפי' הויות דאביי ודבא",
+      "coords": {
+        "HPOS": 286,
+        "VPOS": 599,
+        "WIDTH": 2005,
+        "HEIGHT": 75
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_ebd84ffb-642e-4aeb-ac2e-6c573aded7fe",
+      "kind": "main",
+      "idx": 6,
+      "text": "(יוחסין, ובח\"מ חסד כל זה) לאו מדעתייהו הוו אלא כולהון נהירין לראשונים, א\"כ בכל זה יחזק קושית",
+      "coords": {
+        "HPOS": 277,
+        "VPOS": 665,
+        "WIDTH": 2016,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_1acec2f1-27df-4618-a66d-280549ab7cd2",
+      "kind": "main",
+      "idx": 7,
+      "text": "השואל יותר שהרי רובא של המשנה סתמא היא וקי\"ל סתם משנה ר' מאיר, ומה שאינו סתם הוא",
+      "coords": {
+        "HPOS": 278,
+        "VPOS": 731,
+        "WIDTH": 2017,
+        "HEIGHT": 64
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_0bfbd9bb-a764-458e-b998-d895985cb690",
+      "kind": "main",
+      "idx": 8,
+      "text": "מוזכר בשם החכמים האחרונים, סמוכים לחרבן, ואפי' אם בדבר שנולד המחלוקת, מוכרח להוכיר",
+      "coords": {
+        "HPOS": 286,
+        "VPOS": 801,
+        "WIDTH": 2009,
+        "HEIGHT": 60
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_74196ea8-e307-40a6-bbd0-e1d7045cb206",
+      "kind": "main",
+      "idx": 9,
+      "text": "האחרונים ולא הראשונים מפני דלא הוה בהון מחלוקת, א\"כ בדברים שהם הלכות פסוקות למה לא",
+      "coords": {
+        "HPOS": 278,
+        "VPOS": 858,
+        "WIDTH": 2018,
+        "HEIGHT": 67
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_a7926fa7-6eab-42af-af39-c6ec73a6f127",
+      "kind": "main",
+      "idx": 10,
+      "text": "יזכיר שמות הראשונים, ולמה נאמר סתם משנה ר\"מ היא? וכדי לבא אל המכוון הזה למה אמרי' סתם",
+      "coords": {
+        "HPOS": 280,
+        "VPOS": 927,
+        "WIDTH": 2020,
+        "HEIGHT": 52
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_0bdef0e1-81a9-42cd-a400-9a0a6b7ad52d",
+      "kind": "main",
+      "idx": 11,
+      "text": "משנה ר\"מ, ומהו פי' מאמר זה, הוכרח הגאון להציע לנו הצעה קצרה בהילוך הדורות, איך ובמה",
+      "coords": {
+        "HPOS": 280,
+        "VPOS": 991,
+        "WIDTH": 2018,
+        "HEIGHT": 65
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_898e3899-4876-45fe-a23b-da2c06ea401c",
+      "kind": "main",
+      "idx": 12,
+      "text": "הגענו לידי מדה זאת שיהיו כל הדינים הפסוקים על שם ר\"מ, ואגב אורחיה הגאון יסדר לנו סדרי",
+      "coords": {
+        "HPOS": 288,
+        "VPOS": 1052,
+        "WIDTH": 2012,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_f5f8efbb-c21b-406d-a506-8c779301d2ae",
+      "kind": "main",
+      "idx": 13,
+      "text": "הדורות והחכמים שחיו בהם, ומה שאירע להם בכל דבר הנוגע ונצרך לעינינו, אבל כחותה על",
+      "coords": {
+        "HPOS": 280,
+        "VPOS": 1118,
+        "WIDTH": 2020,
+        "HEIGHT": 62
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_421014a3-1344-4d36-af59-4ae3399ce2c8",
+      "kind": "main",
+      "idx": 14,
+      "text": "הגחלים כדי שלא לצאת הרבה מהכונה, וע\"ז התחיל \"וכמה דהוה בה\"מ קיים כל חד מרבוותא הוה",
+      "coords": {
+        "HPOS": 282,
+        "VPOS": 1186,
+        "WIDTH": 2018,
+        "HEIGHT": 53
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_b87b8d68-0e94-4a5c-8b21-ef87389ac59b",
+      "kind": "main",
+      "idx": 15,
+      "text": "מגמר להו טעמי אורייתא ודמשנה (שהם הלכות פסוקות) ודתלמוד (שהם הפלפולים והראיות",
+      "coords": {
+        "HPOS": 280,
+        "VPOS": 1246,
+        "WIDTH": 2018,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_1186cd71-d4cb-457b-90d0-6c031b6a4b69",
+      "kind": "main",
+      "idx": 16,
+      "text": "וההכרחיות) במילי דמחבר להון בשעתיה והוה נפישת חכמה ולא הוו צריכין לטרחי",
+      "coords": {
+        "HPOS": 302,
+        "VPOS": 1309,
+        "WIDTH": 2002,
+        "HEIGHT": 73
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_56cbb1bc-512a-4210-afb3-76a9f2441946",
+      "kind": "main",
+      "idx": 17,
+      "text": "אחריני\" (יוחסין) ר\"ל דהמלמדים כל אחד ואחד, היו מלמדים לתלמידיהם כל התורה כולה וכנז\"ל",
+      "coords": {
+        "HPOS": 284,
+        "VPOS": 1369,
+        "WIDTH": 2011,
+        "HEIGHT": 72
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_a8162ea7-ba77-4d69-b57e-da2088781ba9",
+      "kind": "main",
+      "idx": 18,
+      "text": "לפי צחות לשונו, והיו חכמים גדולים, ופקחים עצומים שהיו מבינים בנקל, ומסבירים הדברים עד",
+      "coords": {
+        "HPOS": 288,
+        "VPOS": 1442,
+        "WIDTH": 2014,
+        "HEIGHT": 61
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_2262cb86-45b0-4b25-ab95-aa5170557000",
+      "kind": "main",
+      "idx": 19,
+      "text": "שמסיבת פקחותם לא נולד שום מחלוקת כי אם ההיא דסמיכה, וגם הלל ושמאי לא נחלקו כי אם בג'",
+      "coords": {
+        "HPOS": 288,
+        "VPOS": 1501,
+        "WIDTH": 2012,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_f71e7cca-e76f-411d-9d22-99c7badebea3",
+      "kind": "main",
+      "idx": 20,
+      "text": "הלכות יחידות, מכל זה מוכח, דהוו נהירין להו שבילי דתלמודא כשבילי ירושלים, ואחר החרבן",
+      "coords": {
+        "HPOS": 286,
+        "VPOS": 1571,
+        "WIDTH": 2016,
+        "HEIGHT": 62
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_1709ef42-669a-4ab8-8a83-46f6563f80f9",
+      "kind": "main",
+      "idx": 21,
+      "text": "והשמדות, התלמידים בעל כרחם לא שמשו כל צרכם כי השמדות מנע מהם השיקוד, ומזה נולד",
+      "coords": {
+        "HPOS": 288,
+        "VPOS": 1637,
+        "WIDTH": 2016,
+        "HEIGHT": 60
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_e3e9d612-523d-4ac3-9b02-ecf9050fc30b",
+      "kind": "main",
+      "idx": 22,
+      "text": "המחלוקת, ובפרט \"מן כד נח נפשיה דריב\"ז והוה ר' גמליאל (דיבנה) והוה נמי",
+      "coords": {
+        "HPOS": 456,
+        "VPOS": 1695,
+        "WIDTH": 1842,
+        "HEIGHT": 63
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_ab984684-dc40-4321-abf7-fecec1862de6",
+      "kind": "main",
+      "idx": 23,
+      "text": "(יוחסין וכן הוא בכ\"י שבאוצר ספרי קמ\"ר וויין יע\"א) ר' דוסא בן הרכינס\" שהיה זקן מופלג כנודע",
+      "coords": {
+        "HPOS": 295,
+        "VPOS": 1767,
+        "WIDTH": 2001,
+        "HEIGHT": 60
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_043353a6-6026-4930-9ce3-e1dbbcb4ad7c",
+      "kind": "main",
+      "idx": 24,
+      "text": "שהעיד משום חגי זכריה ומלאכי\", ואחרי (ח\"מ) מן הנך ראשונים הות פלוגתא בין",
+      "coords": {
+        "HPOS": 308,
+        "VPOS": 1824,
+        "WIDTH": 1994,
+        "HEIGHT": 75
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_6ce03a9c-3844-430c-bd7d-c73ce307a527",
+      "kind": "main",
+      "idx": 25,
+      "text": "ב\"ש",
+      "coords": {
+        "HPOS": 2170,
+        "VPOS": 1895,
+        "WIDTH": 123,
+        "HEIGHT": 55
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_65523096-14bb-4ae8-a160-f9bfa124f195",
+      "kind": "main",
+      "idx": 26,
+      "text": "ובין",
+      "coords": {
+        "HPOS": 2030,
+        "VPOS": 1892,
+        "WIDTH": 176,
+        "HEIGHT": 75
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_7e192c8a-8f5f-46e5-8eed-5b57f430fe78",
+      "kind": "main",
+      "idx": 27,
+      "text": "ב\"ה (יוחסין, ובח\"מ חסר כל זה) ואע\"ג דאדחו ב\"ש ונקבעה הלכה כב\"ה",
+      "coords": {
+        "HPOS": 311,
+        "VPOS": 1888,
+        "WIDTH": 1684,
+        "HEIGHT": 71
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_bfe83bf3-2a69-4143-b16f-25ed94b63666",
+      "kind": "main",
+      "idx": 28,
+      "text": "(עכ\"ז) היתה פלוגתא בדורו של ר\"ג בדברים אחרים בין ר\"א ור\"י תלמידי ריב\"ז\" והזכיר",
+      "coords": {
+        "HPOS": 289,
+        "VPOS": 1961,
+        "WIDTH": 2011,
+        "HEIGHT": 59
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_e8ee4f9a-fd2b-40fb-b29d-e0948d9c7584",
+      "kind": "main",
+      "idx": 29,
+      "text": "הגאון כל החכמים שהיו באותו דור ואמר: \"והוה נמי בההוא דרא (יוחסין, ובח\"מ",
+      "coords": {
+        "HPOS": 286,
+        "VPOS": 2018,
+        "WIDTH": 2018,
+        "HEIGHT": 72
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_40b5ef73-9a58-455c-bbb9-a682927d08d0",
+      "kind": "main",
+      "idx": 30,
+      "text": "חסר כל זה) ר\"י הגלילי\" וכו' (ביוחסין מוסיף ר\"א בן תרדיון והוא טעות, ובח\"מ ליכא) ועוד הוסיף",
+      "coords": {
+        "HPOS": 289,
+        "VPOS": 2090,
+        "WIDTH": 2017,
+        "HEIGHT": 60
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_d6de9011-7334-4424-9d38-ed20e0a7a72f",
+      "kind": "main",
+      "idx": 31,
+      "text": "להודיע לנו: \"ורבנן אחרינו נפישי דהוו בההוא דרא, ושניים להם שהיו תלמידים, וחברים",
+      "coords": {
+        "HPOS": 288,
+        "VPOS": 2154,
+        "WIDTH": 2019,
+        "HEIGHT": 55
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_6cefa331-8928-4076-aa89-dc4e1b45a741",
+      "kind": "main",
+      "idx": 32,
+      "text": "היו בימיהם כגון ר\"ע וכי', ועד אותה שעה היה ר' יהודה (וכן הוא בכ\"י שבאוצר וויין יע\"א",
+      "coords": {
+        "HPOS": 288,
+        "VPOS": 2218,
+        "WIDTH": 2018,
+        "HEIGHT": 60
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_d1521b38-86aa-4fa0-9fa8-fc66f1f68429",
+      "kind": "main",
+      "idx": 33,
+      "text": "ובח\"מ אלעזר טעות) בנציבין, ואע\"פי שהיה ר' יהודה בנציבין כזמן הבית עדין אחר",
+      "coords": {
+        "HPOS": 306,
+        "VPOS": 2273,
+        "WIDTH": 2001,
+        "HEIGHT": 75
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_35733a93-f167-4e57-b6e2-db43255110b3",
+      "kind": "main",
+      "idx": 34,
+      "text": "חרבן הבית היה שם (יוחסין, ובח\"מ חסר כ\"ז והניח דכרים בלי קשר) וזמן חשוב",
+      "coords": {
+        "HPOS": 286,
+        "VPOS": 2335,
+        "WIDTH": 2014,
+        "HEIGHT": 77
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_56439abc-899a-4d1a-add7-d557b815c9da",
+      "kind": "main",
+      "idx": 35,
+      "text": "היה וכו', שבאותו זמן ישבו לאחוז הלכותיהם שהיו כאלו אבודות וכו', וענין ראב\"ע\"",
+      "coords": {
+        "HPOS": 295,
+        "VPOS": 2407,
+        "WIDTH": 2011,
+        "HEIGHT": 64
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_8a669744-6c8b-4c00-acc8-67ad88e44ec9",
+      "kind": "main",
+      "idx": 36,
+      "text": "וכו', דמשם יאמת הגאון ז\"ל דבריו שאמר לעיל דהוו רבנן נפישי, \"ושוב מסר ר\"ע את עצמו",
+      "coords": {
+        "HPOS": 291,
+        "VPOS": 2469,
+        "WIDTH": 2016,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_3d8fc931-8b2e-49f9-8199-f9e3c104316a",
+      "kind": "main",
+      "idx": 37,
+      "text": "להריגה (ח\"מ חסר) \"והעמיד ר\"ע תלמידים הרבה\" והוה שמדא (*) על",
+      "coords": {
+        "HPOS": 308,
+        "VPOS": 2533,
+        "WIDTH": 1983,
+        "HEIGHT": 72
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_6a8abb6c-9424-4541-ac56-3ad0d6dc6eb0",
+      "kind": "main",
+      "idx": 38,
+      "text": "ר\"ע",
+      "coords": {
+        "HPOS": 1764,
+        "VPOS": 2599,
+        "WIDTH": 96,
+        "HEIGHT": 46
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_f89edf12-5290-4f96-af23-d48b21391c1f",
+      "kind": "main",
+      "idx": 39,
+      "text": "תלמידים של רע והוה סמכא דישראל על תלמידים שניים (יוחסין",
+      "coords": {
+        "HPOS": 293,
+        "VPOS": 2592,
+        "WIDTH": 2009,
+        "HEIGHT": 82
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_38a4615b-e1a4-447c-a1e0-2eefa431d4e6",
+      "kind": "main",
+      "idx": 40,
+      "text": "ובח\"מ חסרון ובלבול וטעות) וכו' וכו' כדאיתא ביבמות ור' (יוחסין, וח\"מ חכ\"ז) \"מאיר",
+      "coords": {
+        "HPOS": 295,
+        "VPOS": 2662,
+        "WIDTH": 2016,
+        "HEIGHT": 69
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_762fba33-15e5-4e87-aaf9-43f24cb066cf",
+      "kind": "main",
+      "idx": 41,
+      "text": "היה גמיר\" וכו', והאריך הגאון על סמיכת ר\"מ, ושהיה בדור רשב\"ג הנשיא, ורבי נתן הבבלי שהיה",
+      "coords": {
+        "HPOS": 291,
+        "VPOS": 2729,
+        "WIDTH": 2016,
+        "HEIGHT": 65
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_48eef325-d4a0-4346-b673-41d4d49b5b62",
+      "kind": "main",
+      "idx": 42,
+      "text": "האב\"ד, ור\"מ היה חכם, וסיפר בקיציר ענין המובא בהוריות, וסיפר מהחכמים הגדולים שהיו בדורו,",
+      "coords": {
+        "HPOS": 308,
+        "VPOS": 2795,
+        "WIDTH": 2001,
+        "HEIGHT": 65
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_36113787-b7ad-4585-889a-c5f5c22eb2f7",
+      "kind": "main",
+      "idx": 43,
+      "text": "יוחסין",
+      "coords": {
+        "HPOS": 423,
+        "VPOS": 2927,
+        "WIDTH": 132,
+        "HEIGHT": 61
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_035b0acc-23cc-4aae-91eb-daf147e739b5",
+      "kind": "main",
+      "idx": 44,
+      "text": "ומכללם \"אלעזר בן ירמיה, וחנן בן פנחס, ור' חנינא בן גמליאל\"",
+      "coords": {
+        "HPOS": 295,
+        "VPOS": 2850,
+        "WIDTH": 2016,
+        "HEIGHT": 114
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_71ea19c3-70cd-4472-92d9-46e2185277b3",
+      "kind": "footnote",
+      "idx": 0,
+      "text": "(*) בפ' הבע\"י דס\"ג אמרו שמתו באסכרה, ולשון שמדא נראה מיתה בידי אדם.",
+      "coords": {
+        "HPOS": 836,
+        "VPOS": 2979,
+        "WIDTH": 1470,
+        "HEIGHT": 66
+      },
+      "para_start": false
+    }
+  ]
+}

@@ -1,0 +1,625 @@
+{
+  "page_id": "page-06",
+  "image": "page_images/page-06.png",
+  "page_width": 2550,
+  "page_height": 3300,
+  "base_hash": "sha256:eeaf07a6617ab9a9e6978705b2cf14f48f5ec4aae71d5c85e7a02eef26fb1e6c",
+  "lines": [
+    {
+      "line_id": "_68c63cd5-3d7a-413a-bbff-b4cf6e184002",
+      "kind": "main",
+      "idx": 0,
+      "text": "ולעמוד על נפשם לבלתי יכשלו באיסור לימוד מתוך הכתב היו מותרים לכתוב ולסדר הדברים בכתב",
+      "coords": {
+        "HPOS": 335,
+        "VPOS": 276,
+        "WIDTH": 2005,
+        "HEIGHT": 59
+      },
+      "para_start": true,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_27ef38ac-baae-4d62-9848-2ce61edd5eaf",
+      "kind": "main",
+      "idx": 1,
+      "text": "ולומדים בע\"פ שלא מן הכתב, וזהו מאי דדריש ריב\"ן מתורגמניה דר\"ל כתיב: \"כתוב לך את הדברים",
+      "coords": {
+        "HPOS": 337,
+        "VPOS": 342,
+        "WIDTH": 2002,
+        "HEIGHT": 57
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_aa19d604-0bf8-4bc9-828b-a56711aebd69",
+      "kind": "main",
+      "idx": 2,
+      "text": "האלה\" וכתיב \"על פי הדברים האלה\"! הא כיצד? דברים שבכתב אי אתה רשאי לאומרם בע\"פ, דברים",
+      "coords": {
+        "HPOS": 337,
+        "VPOS": 405,
+        "WIDTH": 2000,
+        "HEIGHT": 64
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_8a04078b-454e-4143-8938-97080e99c9ac",
+      "kind": "main",
+      "idx": 3,
+      "text": "שבע\"פ אי אתה רשאי לאומרם בכתב, דבי ר\"י תנא \"אלה\" אלה אתה כותב, ואי אתה כותב הלכות,",
+      "coords": {
+        "HPOS": 341,
+        "VPOS": 467,
+        "WIDTH": 1998,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_c492a5bb-e5ac-4863-9023-17180b52d4b4",
+      "kind": "main",
+      "idx": 4,
+      "text": "אמר ר' יוחנן לא כרת הקב\"ה ברית לישראל אלא בשביל דברים שבע\"פ, שנאמר \"כי על פי הדברים",
+      "coords": {
+        "HPOS": 337,
+        "VPOS": 533,
+        "WIDTH": 2000,
+        "HEIGHT": 62
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_2635c82e-0e60-45ac-9393-59cf00549a70",
+      "kind": "main",
+      "idx": 5,
+      "text": "האלה כרתי אתך ברית ואת ישראל\" ע\"כ. דהנה גם מדברי ריב\"ן מתורגמניה דר\"ל שבאו ראשונה,",
+      "coords": {
+        "HPOS": 344,
+        "VPOS": 595,
+        "WIDTH": 1991,
+        "HEIGHT": 65
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_64c263a4-a283-4e66-8de9-039355e446d9",
+      "kind": "main",
+      "idx": 6,
+      "text": "גם מדברי ר' יוחנן שבאו באחרונה, מבואר יוצא, דעיקר האיסור אינו אלא דומיא דדברים שבכתב,",
+      "coords": {
+        "HPOS": 343,
+        "VPOS": 661,
+        "WIDTH": 1992,
+        "HEIGHT": 63
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_0cf23da6-7a66-4ef2-8129-18e563ed4574",
+      "kind": "main",
+      "idx": 7,
+      "text": "כמו שבדברים שבכתב אפי' שאין יכולת בטבעו לאומרם בכתב, כגון שהוא סגי נהור כרב יוסף, עכ\"ז",
+      "coords": {
+        "HPOS": 335,
+        "VPOS": 726,
+        "WIDTH": 2000,
+        "HEIGHT": 62
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_a7fd90c7-012f-4c47-80a1-1e9d39c5ca63",
+      "kind": "main",
+      "idx": 8,
+      "text": "הם חסורי הלימוד אם לא מתוך הכתב, ואם סגי נהור הוא יתרגם ולא יקרא, כן נמי דברים שבע\"פ,",
+      "coords": {
+        "HPOS": 339,
+        "VPOS": 790,
+        "WIDTH": 1994,
+        "HEIGHT": 62
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_5f451321-abf9-48f3-990a-0c6b5ade793b",
+      "kind": "main",
+      "idx": 9,
+      "text": "אע\"פי שיהא שכחן גדול, ואי אפשר לו ללוקחם בע\"פ אסור לאומרם מתוך הכתב, וזהו אומרו ריב\"ן,",
+      "coords": {
+        "HPOS": 337,
+        "VPOS": 852,
+        "WIDTH": 1994,
+        "HEIGHT": 64
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_5bd85399-2f55-428e-a1de-99543fe31b39",
+      "kind": "main",
+      "idx": 10,
+      "text": "\"דברים שבכתב א\"א רשאי לאומרם בע\"פ\" אלא מתוך כתב, \"ודברים שבע\"פ אי אתה רשאי לאומרם",
+      "coords": {
+        "HPOS": 330,
+        "VPOS": 914,
+        "WIDTH": 1992,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_7a3e1d36-3833-4d0d-ac94-4dc82393f237",
+      "kind": "main",
+      "idx": 11,
+      "text": "בכתב\" אלא בע\"פ, ומסיים והולך סתמא דתלמודא על דרשת ריב\"ן מאי דתנא דבי ר\"י \"אלה\" \"אלה",
+      "coords": {
+        "HPOS": 332,
+        "VPOS": 979,
+        "WIDTH": 2001,
+        "HEIGHT": 64
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_f4dac335-15ca-44ad-8133-c9fa1e6e3d0d",
+      "kind": "main",
+      "idx": 12,
+      "text": "אתה כותב, אבל אי אתה כותב הלכות\" הכוונה, \"אלה אתה כותב\" וחייב ומוכרח ללמוד מתוך הספר,",
+      "coords": {
+        "HPOS": 341,
+        "VPOS": 1045,
+        "WIDTH": 1990,
+        "HEIGHT": 64
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_8e9963b8-27f1-44d0-83f5-ede8aaf7b4c1",
+      "kind": "main",
+      "idx": 13,
+      "text": "ובע\"פ אתה אסור\" \"אבל אי אתה כותב הלכות\" כדי ללמוד מתוך הספר, אלא חייב ומוכרח ללומדם",
+      "coords": {
+        "HPOS": 330,
+        "VPOS": 1107,
+        "WIDTH": 2003,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_4389a503-e79e-4926-861e-06dc083ec0e7",
+      "kind": "main",
+      "idx": 14,
+      "text": "בע\"פ, ומוכרחים אנו לפרש כן דעת ר\"יש גופיה, ודעת סתמא דתלמודא, שהרי רי\"ש דקא דריש אלה",
+      "coords": {
+        "HPOS": 330,
+        "VPOS": 1173,
+        "WIDTH": 2001,
+        "HEIGHT": 55
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_6ed4e4c8-1e69-4958-b8a5-3688d9d257fa",
+      "kind": "main",
+      "idx": 15,
+      "text": "אתה כותב, ע\"כ כונתו כדי שילמדו מתוכו ולאסור הלימוד בע\"פ, ולא שהכתיבה מצוה, שהרי לעיקר",
+      "coords": {
+        "HPOS": 333,
+        "VPOS": 1241,
+        "WIDTH": 1998,
+        "HEIGHT": 51
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_8717eb1d-e2e4-4724-9b86-ac6498674aa0",
+      "kind": "main",
+      "idx": 16,
+      "text": "מצות כתיבת ס\"ת הרי איכא מקרא אחר \"דכתבו לכם את השירה הזאת\" ואחר שכן, דרשת \"אלה אתה",
+      "coords": {
+        "HPOS": 326,
+        "VPOS": 1298,
+        "WIDTH": 2005,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_3e639682-cfa8-40e3-9555-492596fbd8c1",
+      "kind": "main",
+      "idx": 17,
+      "text": "כותב\" אינה אלא כי אם לאסור הלימוד בע\"פ, כאלו יאמר, אלה אתה כותב כדי שתוכל ללמוד מתוכו,",
+      "coords": {
+        "HPOS": 333,
+        "VPOS": 1360,
+        "WIDTH": 1998,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_9d5991b9-5738-4633-b995-6d97a83ef3ad",
+      "kind": "main",
+      "idx": 18,
+      "text": "הא לאו הכי אתה אסור בע\"פ, וא\"כ ממילא בדברים שבע\"פ הוא דבר והופכו מדברים שבכתב,",
+      "coords": {
+        "HPOS": 335,
+        "VPOS": 1428,
+        "WIDTH": 1994,
+        "HEIGHT": 58
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_64a409ef-4eca-4608-a3ff-c3e7edbffc2d",
+      "kind": "main",
+      "idx": 19,
+      "text": "והיינו אי אתה כותב הלכות על מנת ללמוד מתוכן, ועל הכתיבה גופה לא קא משתעי, ובהיתרא קאי,",
+      "coords": {
+        "HPOS": 341,
+        "VPOS": 1486,
+        "WIDTH": 1988,
+        "HEIGHT": 74
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_886daab0-b0ae-467f-9e55-77abdeac95c4",
+      "kind": "main",
+      "idx": 20,
+      "text": "דכמו שכתיבת הדברים שבכתב לא לעצמו יצא למצות כתיבת ס\"ת, כי אם לענין איסור לימוד בע\"פ,",
+      "coords": {
+        "HPOS": 333,
+        "VPOS": 1552,
+        "WIDTH": 1998,
+        "HEIGHT": 70
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_71d9dfac-0957-47ec-b3fb-e5d224781509",
+      "kind": "main",
+      "idx": 21,
+      "text": "כן נמי איסור כתיבת דברים שבע\"פ באומרו \"אי אתה כותב הלכות\" לא לעצמו יצא לאסור כתיבת",
+      "coords": {
+        "HPOS": 324,
+        "VPOS": 1617,
+        "WIDTH": 2002,
+        "HEIGHT": 60
+      },
+      "para_start": true,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_e3bf063d-cb1e-4bad-a026-87ff21c2f49f",
+      "kind": "main",
+      "idx": 22,
+      "text": "דברים שבע\"פ, כי אם לענין לימוד מתוך הכתב, וכן משמע ליה לסתמא דתלמודא, גם בתמורה, גם",
+      "coords": {
+        "HPOS": 326,
+        "VPOS": 1683,
+        "WIDTH": 1998,
+        "HEIGHT": 58
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_7e057f4c-e281-4e24-b8c8-1761b2074fe9",
+      "kind": "main",
+      "idx": 23,
+      "text": "בגטין, שלעולם כשהביא דרשת ריב\"ן המפורשת דעיקר האיסור הוא האמירה מתוך הכתב (דנמצא למד",
+      "coords": {
+        "HPOS": 330,
+        "VPOS": 1756,
+        "WIDTH": 1998,
+        "HEIGHT": 57
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_7fcfc928-3f29-44c0-a952-6b8ae16dc089",
+      "kind": "main",
+      "idx": 24,
+      "text": "דהכתיבה מותרת, דאי הכתיבה אסורה באיסור חמור מצר עצמו גם בלא טעם, מה לו לדרוש אי אתה",
+      "coords": {
+        "HPOS": 324,
+        "VPOS": 1809,
+        "WIDTH": 2007,
+        "HEIGHT": 57
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_8061c436-e0a8-4cb7-b9b0-8c7da015ecc2",
+      "kind": "main",
+      "idx": 25,
+      "text": "רשאי לאומרם בכתב כאילו איכא כתב, והא ליכא דהוא איסור חמור מצד עצמו? אלא מוכרח",
+      "coords": {
+        "HPOS": 322,
+        "VPOS": 1873,
+        "WIDTH": 2006,
+        "HEIGHT": 57
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_4c39b0f6-4711-4cc1-887e-80da047b0584",
+      "kind": "main",
+      "idx": 26,
+      "text": "דהכתיבה מצד עצמה מותרת ולא נאסרה) תכף סמך עליו באומרו: \"דבי ר\"יש תנא\" או \"ותנא דבי",
+      "coords": {
+        "HPOS": 326,
+        "VPOS": 1937,
+        "WIDTH": 2002,
+        "HEIGHT": 57
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_8ddfe2c3-4be0-4498-9a66-16ba3989963b",
+      "kind": "main",
+      "idx": 27,
+      "text": "ר\"יש\" כאילו הכל דבר אחד, ובאמת לפי פשטן של דברים זה אינו שהרי ריב\"ן אוסר האמירה בכתב,",
+      "coords": {
+        "HPOS": 328,
+        "VPOS": 1998,
+        "WIDTH": 1998,
+        "HEIGHT": 73
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_9baa212c-8689-4ec4-8ab5-70c980b10388",
+      "kind": "main",
+      "idx": 28,
+      "text": "ולכתוב בלי לימוד מתוכו מותר גמור, ומדתנא ר\"וש מוכח שעיקר האיסור הוא הכתיבה, ע\"ז הביאו",
+      "coords": {
+        "HPOS": 324,
+        "VPOS": 2066,
+        "WIDTH": 2005,
+        "HEIGHT": 55
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_8e57b6f3-9d38-4b44-bc1a-43af8ebfe607",
+      "kind": "main",
+      "idx": 29,
+      "text": "סתמא דתלמודא תכף אחר דרשת ריב\"ן, להורות דהכל אחד, דריב\"ן דורש \"מכתוב לך את הדברים",
+      "coords": {
+        "HPOS": 324,
+        "VPOS": 2128,
+        "WIDTH": 2000,
+        "HEIGHT": 59
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_98cbb5c1-f63c-41c7-af60-d570f1572812",
+      "kind": "main",
+      "idx": 30,
+      "text": "האלה ועל פי הדברים האלה ור\"יש דריש כל דינו של ריב\"ן מתיבת \"אלה לבד והיינו: \"אלה אתה",
+      "coords": {
+        "HPOS": 324,
+        "VPOS": 2190,
+        "WIDTH": 2000,
+        "HEIGHT": 59
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_ee85ce7c-ac32-44e2-b595-83f4aa9390cf",
+      "kind": "main",
+      "idx": 31,
+      "text": "כותב\" ללמוד מהוכו, ואסור בע\"פ (שפירוש זה לא יוזח מעל דרשת ר\"יש זאת, דאתה כותב לא בא",
+      "coords": {
+        "HPOS": 324,
+        "VPOS": 2258,
+        "WIDTH": 2000,
+        "HEIGHT": 55
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_81d3c28d-1f92-491f-919c-984a9ee73249",
+      "kind": "main",
+      "idx": 32,
+      "text": "למצות כתיבת ס\"ת כי אם לאסור הלימוד בע\"פ) וממילא \"אבל אי אתה כותב הלכות\" הוא דבר והופכו,",
+      "coords": {
+        "HPOS": 332,
+        "VPOS": 2319,
+        "WIDTH": 1990,
+        "HEIGHT": 71
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_f599c17b-be53-4cf0-8f9d-b5f6d7dd2c9f",
+      "kind": "main",
+      "idx": 33,
+      "text": "והיינו לאיסור הלימוד מתוך הכתב דומיא, דדברים שבכתב וכאמור, וע\"ז מסיים סתמא דתלמודא",
+      "coords": {
+        "HPOS": 324,
+        "VPOS": 2387,
+        "WIDTH": 2000,
+        "HEIGHT": 58
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_1bce847b-5476-4cde-9910-4495d79d477a",
+      "kind": "main",
+      "idx": 34,
+      "text": "במאמר ר' יוחנן דעיקר הכריתת ברית הוא על דברים שבע\"פ, שלא יהיו נאמרים ונקראים מתוך הכתב",
+      "coords": {
+        "HPOS": 324,
+        "VPOS": 2462,
+        "WIDTH": 2000,
+        "HEIGHT": 55
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_0ed9becb-143f-490f-aa10-97f5d66bf136",
+      "kind": "main",
+      "idx": 35,
+      "text": "(סברת ריו ח הלזו אנו מפרשה לפי סגנון רש\"י, והפירוש האמיתי עיין לקמן בענף הד') נמצא הדבר",
+      "coords": {
+        "HPOS": 328,
+        "VPOS": 2522,
+        "WIDTH": 1990,
+        "HEIGHT": 59
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_d7c687ce-1205-4c04-b2f2-1327585bdde5",
+      "kind": "main",
+      "idx": 36,
+      "text": "מבורר לדעת גאוני ספרד, דריב\"ן ותנא דבי ר\"יש, שהם עיקד ומקור לדין זה, לא קא משתעי בשום",
+      "coords": {
+        "HPOS": 322,
+        "VPOS": 2577,
+        "WIDTH": 1998,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_f60c2d8e-35b2-4346-8318-79fa6a3c7e98",
+      "kind": "main",
+      "idx": 37,
+      "text": "אופן לאסור הכתיבה לדברים שבע\"פ, אלא כל כונת דרשתם הוא לאסור האמירה והקריאה מתוך",
+      "coords": {
+        "HPOS": 326,
+        "VPOS": 2638,
+        "WIDTH": 1996,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_7516a9cf-a408-4b1e-b0a2-bd759ac7f716",
+      "kind": "main",
+      "idx": 38,
+      "text": "הכתב ותו לא, ואיסור הכתיבה הפומביית, ועונש הלומד מתוך ספרי תורה שבע\"פ עדין לא ידענו",
+      "coords": {
+        "HPOS": 324,
+        "VPOS": 2706,
+        "WIDTH": 1998,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_22a2a20e-512a-4027-9d4c-3252de56318e",
+      "kind": "main",
+      "idx": 39,
+      "text": "לא מדרשת ריב\"ן, ולא מדרשת תנא דבי ר\"יש, וזה נלמד ממאי דאמר ר\"ח בר\"א משום ר\"יוח \"כותבי",
+      "coords": {
+        "HPOS": 326,
+        "VPOS": 2772,
+        "WIDTH": 1994,
+        "HEIGHT": 55
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_24478ff8-d719-49a6-bead-fd4618dc1ad7",
+      "kind": "main",
+      "idx": 40,
+      "text": "הלכות כשורפי תורה, והלמד מהן אינו נוטל שכר\". דאין לומר דר\"יוח ס\"ל דעיקר האיסור הוא הכתיבה,",
+      "coords": {
+        "HPOS": 330,
+        "VPOS": 2830,
+        "WIDTH": 1987,
+        "HEIGHT": 72
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_960158ef-fa1b-4294-8739-7636460074b3",
+      "kind": "main",
+      "idx": 41,
+      "text": "והוא הגדר הא', והלימוד מתוכן הוא הגדר הב', וע\"ז אין לו עונש כ\"א דאינו נוטל שכר, אבל על",
+      "coords": {
+        "HPOS": 324,
+        "VPOS": 2893,
+        "WIDTH": 1996,
+        "HEIGHT": 71
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_f134b3e2-d545-490f-b9b4-5e264944de4f",
+      "kind": "main",
+      "idx": 42,
+      "text": "הכותבים הוא העונש משום דהוו כשורפי תורה דזה אינו ודאי, דמהיכן בא לו לר\"יוח דין זה אם לא או",
+      "coords": {
+        "HPOS": 326,
+        "VPOS": 2960,
+        "WIDTH": 1987,
+        "HEIGHT": 70
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_d55a1170-4676-4dd0-8e3e-7ff37404ae37",
+      "kind": "main",
+      "idx": 43,
+      "text": "מדרשת",
+      "coords": {
+        "HPOS": 449,
+        "VPOS": 3036,
+        "WIDTH": 156,
+        "HEIGHT": 49
+      },
+      "para_start": false,
+      "is_catchword": true
+    }
+  ]
+}

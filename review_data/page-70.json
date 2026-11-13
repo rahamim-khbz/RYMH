@@ -1,0 +1,653 @@
+{
+  "page_id": "page-70",
+  "image": "page_images/page-70.jpg",
+  "page_width": 2550,
+  "page_height": 3300,
+  "base_hash": "sha256:c0eb269302c37340cfde5749c89f4cf8e0ba5b9d42d2fbbe00fbbf8a5f2064d5",
+  "lines": [
+    {
+      "line_id": "eSc_line_50dc04c0",
+      "kind": "main",
+      "idx": 0,
+      "text": "ותקן וקצר והרחיב ר\"הק משניותיו, ור\"ח ור\"א ברייתותיהם, ובר קפרא תוספתותיו, ושאר החבורים",
+      "coords": {
+        "HPOS": 313,
+        "VPOS": 293,
+        "WIDTH": 1980,
+        "HEIGHT": 59
+      },
+      "para_start": true,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_90758b3b",
+      "kind": "main",
+      "idx": 1,
+      "text": "הידועים, \"וכד חזו כולי עלמא צורחא רתרצתא דמתניתין ואמתת אלין טעמא ודיוקא",
+      "coords": {
+        "HPOS": 311,
+        "VPOS": 346,
+        "WIDTH": 1984,
+        "HEIGHT": 70
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_fd06f9ce",
+      "kind": "main",
+      "idx": 2,
+      "text": "דמלה שבקו כולהון הנך תנויי תניני דהוותני ופשטין אלין הלכתא בכל א\"י והנך",
+      "coords": {
+        "HPOS": 322,
+        "VPOS": 419,
+        "WIDTH": 1973,
+        "HEIGHT": 63
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_bb1af3a1",
+      "kind": "main",
+      "idx": 3,
+      "text": "שאר הלכתא כולהון אשתביקו\" כדקאמר גאון ז\"ל באגרתו החמודה הנז\"ל, ולא נכרתו מן השמים",
+      "coords": {
+        "HPOS": 317,
+        "VPOS": 485,
+        "WIDTH": 1978,
+        "HEIGHT": 59
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_57beb608",
+      "kind": "main",
+      "idx": 4,
+      "text": "ח\"וז אלא נגנזו, כמו כל דבר שאין לנו בו צורך, כ\"א לפרקי פרקים, ובא\"י היה נמצא תוספת על",
+      "coords": {
+        "HPOS": 313,
+        "VPOS": 535,
+        "WIDTH": 1980,
+        "HEIGHT": 79
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_e39222de",
+      "kind": "main",
+      "idx": 5,
+      "text": "הסדרים שלנו כאשר העד העיר בנו ר\"ה בר נחשון לעיל סוף סימן קמ\"ג שהוא ראה אותו, וגם כבר",
+      "coords": {
+        "HPOS": 319,
+        "VPOS": 612,
+        "WIDTH": 1977,
+        "HEIGHT": 55
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_feea4b74",
+      "kind": "main",
+      "idx": 6,
+      "text": "היו נמצאים בבבל כל הגניזות עד זמן הגאונים כאשר מעיד בגדלו רבינו הגאון ז\"ל אשר באורו נראה",
+      "coords": {
+        "HPOS": 315,
+        "VPOS": 667,
+        "WIDTH": 1981,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_78199610",
+      "kind": "main",
+      "idx": 7,
+      "text": "אור בעיקר תשו' זאת שעיקר מטרין עליה ונחקרה עדותו בב\"ד של ג' מומחין, וגם במחזור ויטרי",
+      "coords": {
+        "HPOS": 319,
+        "VPOS": 737,
+        "WIDTH": 1976,
+        "HEIGHT": 58
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_71f67046",
+      "kind": "main",
+      "idx": 8,
+      "text": "והם דברי רבינו האיי לעיל סימן ך') מעיד על ת\"ר סדרי משנה משמאי והלל, והוכחנו בראיות)",
+      "coords": {
+        "HPOS": 313,
+        "VPOS": 793,
+        "WIDTH": 1980,
+        "HEIGHT": 74
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_bddf4278",
+      "kind": "main",
+      "idx": 9,
+      "text": "מופתיות מן השכל שא\"א שהיו בע\"פ, דמהוכחה זאת סלקינן, ובה נחתינן, וגם רבינו המאירי",
+      "coords": {
+        "HPOS": 341,
+        "VPOS": 867,
+        "WIDTH": 1954,
+        "HEIGHT": 64
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_eaef5e14",
+      "kind": "main",
+      "idx": 10,
+      "text": "העתקתי דבריו בסוף ענף הג', פושט אפי' בשוק רהרבה ברייתות ותוספתות נתחברו ממה שכל אחד",
+      "coords": {
+        "HPOS": 321,
+        "VPOS": 922,
+        "WIDTH": 1975,
+        "HEIGHT": 73
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_7f867289",
+      "kind": "main",
+      "idx": 11,
+      "text": "היה כותב לעצמו, וכיון שלא סמכו עליהם, זוהי הסיבה שאינם נמצאות בשלמות בידינו, עיין לעיל",
+      "coords": {
+        "HPOS": 317,
+        "VPOS": 982,
+        "WIDTH": 1981,
+        "HEIGHT": 77
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_b1ba7c19",
+      "kind": "main",
+      "idx": 12,
+      "text": "בדבריו באורך, והדב המקובל מוהר\"ם זכות ז\"ל בפי' על הזו\"הק ח\"ג על דמ\"ב כתב דיש ברייתות",
+      "coords": {
+        "HPOS": 317,
+        "VPOS": 1046,
+        "WIDTH": 1978,
+        "HEIGHT": 76
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_df9d6185",
+      "kind": "main",
+      "idx": 13,
+      "text": "לאין חקר שלא הוזכרו בש\"ס עי\"ש, א\"כ אין ראיה ממה שאינם נמצאים כל אותם המשניות והברייתות",
+      "coords": {
+        "HPOS": 317,
+        "VPOS": 1111,
+        "WIDTH": 1981,
+        "HEIGHT": 67
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_2e60686a",
+      "kind": "main",
+      "idx": 14,
+      "text": "'והתוספתות בידינו שלא היתה כתיבה בעולם, והוא בדור כשמש, כי התוספתא עמיקתא שמצא ר",
+      "coords": {
+        "HPOS": 330,
+        "VPOS": 1175,
+        "WIDTH": 1970,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_7764aa85",
+      "kind": "main",
+      "idx": 15,
+      "text": "אבהו (בירוש' שבת פ\"ח) הובאה לעיל בענף הא' היתה כאחת מהן",
+      "coords": {
+        "HPOS": 660,
+        "VPOS": 1235,
+        "WIDTH": 1321,
+        "HEIGHT": 77
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_3087a48e",
+      "kind": "main",
+      "idx": 16,
+      "text": "וז",
+      "coords": {
+        "HPOS": 2203,
+        "VPOS": 1298,
+        "WIDTH": 36,
+        "HEIGHT": 77
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_dc3053cb",
+      "kind": "main",
+      "idx": 17,
+      "text": "הביא ראיה שם ממ\"ש במציעא דכ\"ט על משנת מצא ספרים וכו' אבל לא ילמוד בהן, בתחילה",
+      "coords": {
+        "HPOS": 319,
+        "VPOS": 1299,
+        "WIDTH": 1827,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_de693abd",
+      "kind": "main",
+      "idx": 18,
+      "text": "בגמ' אוקמוה בספרי הקדש בלבד, ולא הזכירו מהו הדין בספרי המשנה ותלמוד וכי,, אם",
+      "coords": {
+        "HPOS": 321,
+        "VPOS": 1371,
+        "WIDTH": 1803,
+        "HEIGHT": 70
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_f767dd09",
+      "kind": "main",
+      "idx": 19,
+      "text": "לא שלא היתה המשנה כתובה אפי' בימי תכמי התלמוד, וכיוצא צזאת היא ראיתו שם ממ\"ש שם",
+      "coords": {
+        "HPOS": 321,
+        "VPOS": 1430,
+        "WIDTH": 1981,
+        "HEIGHT": 64
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_9147a371",
+      "kind": "main",
+      "idx": 20,
+      "text": "במציעא ולא יקרא בו פרשה ויתרגם, דאם היה התרגום כתוב בספר למה לא יקרא בו התרגום כמו",
+      "coords": {
+        "HPOS": 322,
+        "VPOS": 1492,
+        "WIDTH": 1978,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_4c115fd5",
+      "kind": "main",
+      "idx": 21,
+      "text": "שיכול לקרוא בו הפרשה עי\"ש שהאריך, אבל זה תמציח ב' ראיותיו, והשיב על אחרון ראשון, דאחרי",
+      "coords": {
+        "HPOS": 324,
+        "VPOS": 1556,
+        "WIDTH": 1978,
+        "HEIGHT": 73
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_98fc5cce",
+      "kind": "main",
+      "idx": 22,
+      "text": "שהוכחנו איסור הלמוד מתוך הכתב, כל תשבע\"פ ומכללה התרגום מה ראיה ממאי דאמרו, ולא",
+      "coords": {
+        "HPOS": 322,
+        "VPOS": 1617,
+        "WIDTH": 1980,
+        "HEIGHT": 71
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_f0760677",
+      "kind": "main",
+      "idx": 23,
+      "text": "'יקרא פרשה ויתרגם? ומה יאמר התלמוד שלא יקרא בספר כתוב תרגום ביחיד, בלאו הכי אסור אפי",
+      "coords": {
+        "HPOS": 332,
+        "VPOS": 1690,
+        "WIDTH": 1968,
+        "HEIGHT": 60
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_21c50a7c",
+      "kind": "main",
+      "idx": 24,
+      "text": "בשלו, כי \"דברים שבע\"פ א\"א רשאי לאומרם בכתב\" וא\"כ לא היה צריך הדבר לאומרו, ובזה נדחית",
+      "coords": {
+        "HPOS": 321,
+        "VPOS": 1741,
+        "WIDTH": 1981,
+        "HEIGHT": 85
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_45fa9653",
+      "kind": "main",
+      "idx": 25,
+      "text": "גם דאייתו הא' באומרו: מפני מה לא הזכירו מהו הדין בספרי משנה ותלמוד, ואנחנו נשיב לו, דכיון",
+      "coords": {
+        "HPOS": 324,
+        "VPOS": 1807,
+        "WIDTH": 1978,
+        "HEIGHT": 81
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_6c5fca01",
+      "kind": "main",
+      "idx": 26,
+      "text": ",דספרי משנה ותלמוד היו אסורים הלמוד מתוך הכתב, לא אפשר לפסוק דיניהם והרי זה כמי ששואל",
+      "coords": {
+        "HPOS": 333,
+        "VPOS": 1875,
+        "WIDTH": 1971,
+        "HEIGHT": 79
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_db6d357d",
+      "kind": "main",
+      "idx": 27,
+      "text": "מי שמכניס חזיריו לריד איך מעשרן? כן נמי דין ספרים הכתובים תרגום ושאר תשבע\"פ לא נופל",
+      "coords": {
+        "HPOS": 322,
+        "VPOS": 1934,
+        "WIDTH": 1980,
+        "HEIGHT": 73
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_00b8401d",
+      "kind": "main",
+      "idx": 28,
+      "text": "דבר, ומה שנתן שם טעם לעיקר דין זה שלא יקרא פרשה ויתרגם משיקול דעתו מפני טרדת העיון",
+      "coords": {
+        "HPOS": 324,
+        "VPOS": 2003,
+        "WIDTH": 1978,
+        "HEIGHT": 77
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_3b68ce42",
+      "kind": "main",
+      "idx": 29,
+      "text": "מחילה! כי אין אנו צריכין לזה, שכבר הריטב\"א הו\"ד בש\"מ לשם נתן טעם עיקר מפני שמשהה",
+      "coords": {
+        "HPOS": 324,
+        "VPOS": 2062,
+        "WIDTH": 1980,
+        "HEIGHT": 79
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_1654ee63",
+      "kind": "main",
+      "idx": 30,
+      "text": "הספר בידו יותר מדי, והיינו לא יקרא ולא ישנה, דהיינו ב' פעמים, והיינו לא יקרא פרשה ולא יתרגם",
+      "coords": {
+        "HPOS": 324,
+        "VPOS": 2130,
+        "WIDTH": 1978,
+        "HEIGHT": 75
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_fc820550",
+      "kind": "main",
+      "idx": 31,
+      "text": ",דהיינו ב' פעמים, ולפי פירושו יוצא דאפי' אם מתרגם מתורה לבד בלי קריאה פעם ראשונה העכרי",
+      "coords": {
+        "HPOS": 333,
+        "VPOS": 2185,
+        "WIDTH": 1969,
+        "HEIGHT": 88
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_e0c4e82c",
+      "kind": "main",
+      "idx": 32,
+      "text": "אסור מפני העיון והוא הפך כוונת התלמוד, ועיין להרמ\"ז שאני דור שביעי לו בס' עין יהוסף כשיטתו",
+      "coords": {
+        "HPOS": 328,
+        "VPOS": 2256,
+        "WIDTH": 1976,
+        "HEIGHT": 81
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_36364094",
+      "kind": "main",
+      "idx": 33,
+      "text": ".לשם ודוק",
+      "coords": {
+        "HPOS": 1212,
+        "VPOS": 2324,
+        "WIDTH": 217,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_346f989c",
+      "kind": "main",
+      "idx": 34,
+      "text": "ד)",
+      "coords": {
+        "HPOS": 2203,
+        "VPOS": 2377,
+        "WIDTH": 47,
+        "HEIGHT": 87
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_e615e05d",
+      "kind": "main",
+      "idx": 35,
+      "text": "כתב וז\"ל, \"ולא לבד האמוראים האחרונים לא ידעו דבר מכל ספרי התנאים, אלא שו' יוחנן",
+      "coords": {
+        "HPOS": 326,
+        "VPOS": 2377,
+        "WIDTH": 1816,
+        "HEIGHT": 83
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_dbb01a8c",
+      "kind": "main",
+      "idx": 36,
+      "text": "עצמו שהיה מתלמידיו של ר\"הק לא זכד ספרי הראשונים, והיה אומר בגטין ד\"ס חורה רוכ",
+      "coords": {
+        "HPOS": 326,
+        "VPOS": 2445,
+        "WIDTH": 1802,
+        "HEIGHT": 86
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_fc38f023",
+      "kind": "main",
+      "idx": 37,
+      "text": ",ע\"פ, ומיעוט בכתב, ולא ר' יוחנן בלבד, אלא גם רבי רי\"ש שהיה קודם ר\"הק תנא אלה אתה כותב",
+      "coords": {
+        "HPOS": 332,
+        "VPOS": 2504,
+        "WIDTH": 1970,
+        "HEIGHT": 88
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_5d8e7fab",
+      "kind": "main",
+      "idx": 38,
+      "text": "'ואי אתה כותב הלכות, והוא שהיה תנא, לא היה יורע ששאר התנאים כלם היו כותבין הלכות וכו' וכו",
+      "coords": {
+        "HPOS": 333,
+        "VPOS": 2570,
+        "WIDTH": 1973,
+        "HEIGHT": 82
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_49dc2d3b",
+      "kind": "main",
+      "idx": 39,
+      "text": "וכנז\"ל, והראיה האחרת היא מגלת סתרים הנזכרת בתלמוד, כגון בשבת (ר\"ו ע\"ב) אמר רב מצאתי",
+      "coords": {
+        "HPOS": 330,
+        "VPOS": 2638,
+        "WIDTH": 1977,
+        "HEIGHT": 69
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_8aa3d327",
+      "kind": "main",
+      "idx": 40,
+      "text": "מגלת סתרים בי ר' חייא, וכתוב בה איסי בן יהורה אומר אבות מלאכות ארבעים חסר אחת, ואינו",
+      "coords": {
+        "HPOS": 328,
+        "VPOS": 2706,
+        "WIDTH": 1974,
+        "HEIGHT": 73
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_a526e5c8",
+      "kind": "main",
+      "idx": 41,
+      "text": "חייב אלא אחת: ופירש\"י שהסתירוה מפני שלא נתנו להכתב, וכששומעין דברי יחיד חדשים, שאינן",
+      "coords": {
+        "HPOS": 328,
+        "VPOS": 2762,
+        "WIDTH": 1976,
+        "HEIGHT": 85
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_7274e893",
+      "kind": "main",
+      "idx": 42,
+      "text": "נשנין בבית המדרש ונוחבין אותן שלא ישתכחו, מסתירין את המגלה, ונניח פי' רש\"י, ולא נסמוך",
+      "coords": {
+        "HPOS": 332,
+        "VPOS": 2828,
+        "WIDTH": 1970,
+        "HEIGHT": 79
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_8223b065",
+      "kind": "main",
+      "idx": 43,
+      "text": "על עדותו להיותו נוגע בדבר: מ\"מ אם היתה הכתיבה מותרת, מה זה מגלת סתרים? הסתר זה",
+      "coords": {
+        "HPOS": 328,
+        "VPOS": 2898,
+        "WIDTH": 1974,
+        "HEIGHT": 64
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_e8b30cb7",
+      "kind": "main",
+      "idx": 44,
+      "text": "מגלה",
+      "coords": {
+        "HPOS": 460,
+        "VPOS": 3026,
+        "WIDTH": 121,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_29745070",
+      "kind": "main",
+      "idx": 45,
+      "text": "למה' ועוד מן השם הזה עצמו אתה למד שלא היתה כל המשנה בכתב שאם כן תהיה ספר, ולא",
+      "coords": {
+        "HPOS": 332,
+        "VPOS": 2955,
+        "WIDTH": 1970,
+        "HEIGHT": 114
+      },
+      "para_start": false,
+      "is_catchword": false
+    }
+  ]
+}

@@ -1,0 +1,681 @@
+{
+  "page_id": "page-30",
+  "image": "page_images/page-30.jpg",
+  "page_width": 2550,
+  "page_height": 3300,
+  "base_hash": "sha256:d94693f33e47bb484e452fe377bf2ccba2f6f7b8a7c21e3b87fb58f08d1526a0",
+  "lines": [
+    {
+      "line_id": "eSc_line_247e2d6f",
+      "kind": "main",
+      "idx": 0,
+      "text": "של ראשוני ראשונים שהזכיר למעלה) החכמה דתנן וכו', ונסתמו מעינות החכמה)",
+      "coords": {
+        "HPOS": 289,
+        "VPOS": 220,
+        "WIDTH": 2004,
+        "HEIGHT": 88
+      },
+      "para_start": true,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_d433bd33",
+      "kind": "main",
+      "idx": 1,
+      "text": ",ונראה, וכד אסתיים משנה ונח נפשיה דרבי) נוצדו ספקות אחרות בכונת סידור משנתו, ודעתו ר\"ע",
+      "coords": {
+        "HPOS": 300,
+        "VPOS": 344,
+        "WIDTH": 1996,
+        "HEIGHT": 94
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_81363e1b",
+      "kind": "main",
+      "idx": 2,
+      "text": "יוחסין) והכי הוה נמי ביומי דרבי\" (וכשנפטר רבי (שעליו קאי הגאון למעלה סמוך)",
+      "coords": {
+        "HPOS": 293,
+        "VPOS": 289,
+        "WIDTH": 1994,
+        "HEIGHT": 85
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_1b9d4724",
+      "kind": "main",
+      "idx": 3,
+      "text": "אם מפני סידור משניותיו, אם מפני קיצור לשונו, ואם מפני שנגרר אחר דעת יחיד, וע\"ז יצאו",
+      "coords": {
+        "HPOS": 291,
+        "VPOS": 414,
+        "WIDTH": 2004,
+        "HEIGHT": 75
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_4604aa60",
+      "kind": "main",
+      "idx": 4,
+      "text": "ואתוספו פלפולים חדשים וז\"א:) \"ותקינו בה דקדוקי אחריני מלתא דבתר מלתא",
+      "coords": {
+        "HPOS": 289,
+        "VPOS": 471,
+        "WIDTH": 2007,
+        "HEIGHT": 91
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_33b9f198",
+      "kind": "main",
+      "idx": 5,
+      "text": "למאי אתניא ואמרינן מכדי תנא ליה הא, למה לי למתני הא? והיכא",
+      "coords": {
+        "HPOS": 289,
+        "VPOS": 537,
+        "WIDTH": 2007,
+        "HEIGHT": 90
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_e3758985",
+      "kind": "main",
+      "idx": 6,
+      "text": ",דלא יכיל לתרוצה אמרינן ביבמות, כאן שנה רבי משנה שאינה צריכה",
+      "coords": {
+        "HPOS": 293,
+        "VPOS": 606,
+        "WIDTH": 2002,
+        "HEIGHT": 88
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_c9f40586",
+      "kind": "main",
+      "idx": 7,
+      "text": "ומפקינן אצרכתא דכל מלתא ומלתא, ואמרינן מאי קמ\"ל? ופדטין",
+      "coords": {
+        "HPOS": 299,
+        "VPOS": 665,
+        "WIDTH": 1996,
+        "HEIGHT": 95
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_f39e689d",
+      "kind": "main",
+      "idx": 8,
+      "text": "פרטי, ומדמיין דמויי, כולהו הני מילי, כד הוה בימי רבי, הוה פריש",
+      "coords": {
+        "HPOS": 289,
+        "VPOS": 740,
+        "WIDTH": 2004,
+        "HEIGHT": 79
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_f642b700",
+      "kind": "main",
+      "idx": 9,
+      "text": "להו פירושא דכל מלתא ומלתא, למאי הלכתיה, ואצטריכו למילי",
+      "coords": {
+        "HPOS": 299,
+        "VPOS": 792,
+        "WIDTH": 1997,
+        "HEIGHT": 89
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_d03194e4",
+      "kind": "main",
+      "idx": 10,
+      "text": "אחרנייתא דלא הוו צריכין להון קמאי היכא דחזא רבי מדעם ולא",
+      "coords": {
+        "HPOS": 291,
+        "VPOS": 856,
+        "WIDTH": 2007,
+        "HEIGHT": 91
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_835f8ad9",
+      "kind": "main",
+      "idx": 11,
+      "text": "ן",
+      "coords": {
+        "HPOS": 2184,
+        "VPOS": 991,
+        "WIDTH": 13,
+        "HEIGHT": 57
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_479371d5",
+      "kind": "main",
+      "idx": 12,
+      "text": "דברי",
+      "coords": {
+        "HPOS": 1955,
+        "VPOS": 988,
+        "WIDTH": 169,
+        "HEIGHT": 80
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_69efda5c",
+      "kind": "main",
+      "idx": 13,
+      "text": "חזיוה רבנן בתראי פרשהו כי היכי דלא לסמוך עליה כגון דסתם",
+      "coords": {
+        "HPOS": 300,
+        "VPOS": 922,
+        "WIDTH": 1993,
+        "HEIGHT": 104
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_67380d77",
+      "kind": "main",
+      "idx": 14,
+      "text": "ורבות כאלה,וכו', ו\"היכא דסתים' במקום",
+      "coords": {
+        "HPOS": 295,
+        "VPOS": 1002,
+        "WIDTH": 1178,
+        "HEIGHT": 72
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_7139d31b",
+      "kind": "main",
+      "idx": 15,
+      "text": "מחלוקתוכו', ואמרינן בה חולץ וכו' וכו', ואי אית במתני' שבשתא, וברייתא",
+      "coords": {
+        "HPOS": 293,
+        "VPOS": 1057,
+        "WIDTH": 2005,
+        "HEIGHT": 85
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_2ce11886",
+      "kind": "main",
+      "idx": 16,
+      "text": "עדיפא מינה, מברירנן לה למלתא וכו', ואי פליגי תנאי, אמרינן במאי",
+      "coords": {
+        "HPOS": 297,
+        "VPOS": 1125,
+        "WIDTH": 2003,
+        "HEIGHT": 77
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_e536e470",
+      "kind": "main",
+      "idx": 17,
+      "text": "קא מפלגי וכו' ואליבא דמאן נינהו\" ע\"כ האריך הגאון להראות בראיות מופתיות, שלבד",
+      "coords": {
+        "HPOS": 299,
+        "VPOS": 1180,
+        "WIDTH": 2001,
+        "HEIGHT": 90
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_7d013eea",
+      "kind": "main",
+      "idx": 18,
+      "text": "מסיבת סידור המשניות, ודעתו של רבי בפסק הלכה נולדו עוד פלפולים אחרים, ונארך התלמוד",
+      "coords": {
+        "HPOS": 299,
+        "VPOS": 1254,
+        "WIDTH": 2001,
+        "HEIGHT": 78
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_da554526",
+      "kind": "main",
+      "idx": 19,
+      "text": ":הקדמון באנפי אחריני, וזה מלבד קושיות ובעיות, ודרשות רבנן בתראי, ולזה השליס דבריו באומרו",
+      "coords": {
+        "HPOS": 299,
+        "VPOS": 1312,
+        "WIDTH": 2001,
+        "HEIGHT": 79
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_1eb2ae1a",
+      "kind": "main",
+      "idx": 20,
+      "text": "לבד מן פלוגתא דאמוראי וקושיהון, ושינויהון, ותיובתהון, וכו' ולמכתב ארחי",
+      "coords": {
+        "HPOS": 304,
+        "VPOS": 1369,
+        "WIDTH": 1981,
+        "HEIGHT": 99
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_45468880",
+      "kind": "main",
+      "idx": 21,
+      "text": "ח\"מ, ויוחסין ד\"ק ור\"א \"ארמי\" (יח) טעות גמור) דתלמודא (א\"א) דנפישי טובא\" כלל דברי)",
+      "coords": {
+        "HPOS": 300,
+        "VPOS": 1441,
+        "WIDTH": 2000,
+        "HEIGHT": 84
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_94c3db76",
+      "kind": "main",
+      "idx": 22,
+      "text": "הגאון בכל האמור הוא להשמיענו שבין כל אופני לימודים שזכר מריש ועד כאן, ובין כל אותם שלא",
+      "coords": {
+        "HPOS": 295,
+        "VPOS": 1505,
+        "WIDTH": 2007,
+        "HEIGHT": 84
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_450b1809",
+      "kind": "main",
+      "idx": 23,
+      "text": "בא זכרם מפני ריבויים, הן כולם כאחד נקראים בכללם תלמוד, אלא שכאותם הדורות לא היו נקראים",
+      "coords": {
+        "HPOS": 297,
+        "VPOS": 1580,
+        "WIDTH": 2007,
+        "HEIGHT": 64
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_23d26022",
+      "kind": "main",
+      "idx": 24,
+      "text": "ונלמדים ונשמעים על אופן אחד, כמו שבאמת עד היום כן אנו עושים לתלמידינו לפרש ולכתוב",
+      "coords": {
+        "HPOS": 295,
+        "VPOS": 1633,
+        "WIDTH": 2011,
+        "HEIGHT": 86
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_859a4d2a",
+      "kind": "main",
+      "idx": 25,
+      "text": "הדברים, לפי כח הלמד והמלמד, ולזה סיים עוד: \"וה כי הוה בעידנא דרבנן קמאי",
+      "coords": {
+        "HPOS": 308,
+        "VPOS": 1699,
+        "WIDTH": 1996,
+        "HEIGHT": 83
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_91b21a17",
+      "kind": "main",
+      "idx": 26,
+      "text": "2",
+      "coords": {
+        "HPOS": 71,
+        "VPOS": 1699,
+        "WIDTH": 35,
+        "HEIGHT": 64
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_0fa67ba5",
+      "kind": "main",
+      "idx": 27,
+      "text": "וכו' וכו' לפום מאי דיכיל מנהון, עד לדמויי דמויי\" ונתן טעם הגאון כאלו יאמר אל",
+      "coords": {
+        "HPOS": 299,
+        "VPOS": 1760,
+        "WIDTH": 2007,
+        "HEIGHT": 88
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_991414be",
+      "kind": "main",
+      "idx": 28,
+      "text": "תתמה על החפן, איך יצוייר זה? שהרי כבר אמרנו דקודם דאפטר רבי חבור כתוב ומסודר היה",
+      "coords": {
+        "HPOS": 297,
+        "VPOS": 1829,
+        "WIDTH": 2007,
+        "HEIGHT": 88
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_bcefbe60",
+      "kind": "main",
+      "idx": 29,
+      "text": "הענין והסדר הזה במשניות גופייהו וז\"א: \"והא אמרינן דעד דאפטר רבי, גמרהון",
+      "coords": {
+        "HPOS": 304,
+        "VPOS": 1901,
+        "WIDTH": 2002,
+        "HEIGHT": 77
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_f33651ab",
+      "kind": "main",
+      "idx": 30,
+      "text": "דכולהו תלמידי\" (שהוא חבור המשנה) כל חד וחד תלמיד לפני רבו הוה וקטי",
+      "coords": {
+        "HPOS": 308,
+        "VPOS": 1952,
+        "WIDTH": 1998,
+        "HEIGHT": 90
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_5f843efe",
+      "kind": "main",
+      "idx": 31,
+      "text": "כצ\"ל) דאתריץ מתני' כל חד וחד תלמודו לפי משנתו היה\" (ר\"ל כל תלמיד הוה)",
+      "coords": {
+        "HPOS": 299,
+        "VPOS": 2016,
+        "WIDTH": 2007,
+        "HEIGHT": 88
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_e085fd47",
+      "kind": "main",
+      "idx": 32,
+      "text": "גריס מתניתיה כלשון רבו) ובתר דאתרצה (רבי לסדר המשנה) בכל יומי דרבי כל חד",
+      "coords": {
+        "HPOS": 304,
+        "VPOS": 2084,
+        "WIDTH": 2005,
+        "HEIGHT": 86
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_8c7b7327",
+      "kind": "main",
+      "idx": 33,
+      "text": "וחד (מהמלמדים) פשיט להון (לתלמידיו) מתניתין (בלשון שסדרה רכי, וכפי דעתו ד\"ע",
+      "coords": {
+        "HPOS": 315,
+        "VPOS": 2145,
+        "WIDTH": 1991,
+        "HEIGHT": 91
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_2f9ed8c1",
+      "kind": "main",
+      "idx": 34,
+      "text": "ושוב מלמדם עעמי הלכתא וזהו אומרו:) \"והוה גמר להו טעמי הלכתא דיליה (אבל",
+      "coords": {
+        "HPOS": 302,
+        "VPOS": 2212,
+        "WIDTH": 2013,
+        "HEIGHT": 77
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_359fa7bd",
+      "kind": "main",
+      "idx": 35,
+      "text": "בלשון שהיה יודע כמו שהיה קודם סידור המשניות) ובתר דנח נפשיה דרבי אצטריכו",
+      "coords": {
+        "HPOS": 306,
+        "VPOS": 2282,
+        "WIDTH": 2005,
+        "HEIGHT": 77
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_e7b8ec50",
+      "kind": "main",
+      "idx": 36,
+      "text": "הלזה",
+      "coords": {
+        "HPOS": 442,
+        "VPOS": 2416,
+        "WIDTH": 121,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_5cf1defb",
+      "kind": "main",
+      "idx": 37,
+      "text": "למלקטיה, ולמגרסיה כפה אחד ולשון אחד\" (יט) ואחר שיסד הגאון היסוד האמתי",
+      "coords": {
+        "HPOS": 306,
+        "VPOS": 2339,
+        "WIDTH": 2005,
+        "HEIGHT": 101
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_9cfa4b3b",
+      "kind": "main",
+      "idx": 38,
+      "text": "יז) אני גוזר בכח האהבה להקורא המבקר, שאם יש לו נוסח ח\"מ (צד כ\"ט שורה ה) שתכף בהגיתו פה יקום כגבור)",
+      "coords": {
+        "HPOS": 319,
+        "VPOS": 2500,
+        "WIDTH": 1994,
+        "HEIGHT": 72
+      },
+      "para_start": true,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_1f006c1a",
+      "kind": "main",
+      "idx": 39,
+      "text": "אחת, ומרוב שיחו וכעשו ישאג כאריה מנהמת לבו, ויקרא בקול גדול, הני עכברי דשיפי דאכלי משופרי שופרי, והניחז",
+      "coords": {
+        "HPOS": 308,
+        "VPOS": 2603,
+        "WIDTH": 2007,
+        "HEIGHT": 79
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_7fcaa93b",
+      "kind": "main",
+      "idx": 40,
+      "text": "ויקח לי משם הדברים האלה דקיימינן בהו ממש, אשר העתקתי פה אות באות מהיוחסין, וברי לז שלא יבין אפי' אות",
+      "coords": {
+        "HPOS": 304,
+        "VPOS": 2555,
+        "WIDTH": 1926,
+        "HEIGHT": 75
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_5ff62738",
+      "kind": "main",
+      "idx": 41,
+      "text": "?יתרם הצולעה והנדחה, והנשברת, הוא הנוסח, ולמה לא מרחם יומת, ולא יראה אור הדפוס",
+      "coords": {
+        "HPOS": 752,
+        "VPOS": 2660,
+        "WIDTH": 1561,
+        "HEIGHT": 64
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_5601e8d0",
+      "kind": "main",
+      "idx": 42,
+      "text": "חי) כאן צריכים אנו לשלם תודות לחסרון ידיעת המעתיק, הצרפתי, או האשכנזי, שבח\"מ שכתב אדחי מלא וי\"ו, ועי\"ז)",
+      "coords": {
+        "HPOS": 302,
+        "VPOS": 2707,
+        "WIDTH": 2011,
+        "HEIGHT": 72
+      },
+      "para_start": true,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_09601723",
+      "kind": "main",
+      "idx": 43,
+      "text": ",לא טעו המריקים מכתב לכתב כמו שגרס לנו שלימות ידיעת המעתיק השפדדי בדקדוק הכתיבה שכתב ארחי חסר",
+      "coords": {
+        "HPOS": 311,
+        "VPOS": 2759,
+        "WIDTH": 1917,
+        "HEIGHT": 75
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_dedd6aa8",
+      "kind": "main",
+      "idx": 44,
+      "text": ".החופש הכתוב או רחי מלא וי\"ו",
+      "coords": {
+        "HPOS": 1753,
+        "VPOS": 2865,
+        "WIDTH": 564,
+        "HEIGHT": 57
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_5b2f113c",
+      "kind": "main",
+      "idx": 45,
+      "text": "ובהריק המעתיקים מכתב לכתב נדמה להם החית למם, ויצא להם \"ארמי\" במקום ארחי מה שלא היו יכולים לטעות בנוסח",
+      "coords": {
+        "HPOS": 304,
+        "VPOS": 2819,
+        "WIDTH": 2011,
+        "HEIGHT": 74
+      },
+      "para_start": true,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_5f4f70a2",
+      "kind": "main",
+      "idx": 46,
+      "text": "יט) ר\"ל דהוצדכו ללקט התלמוד שהוא ביאור טעמי המשנה, ולסדרו בלשון מסודר אחד כדי שיוכלו למגרסיה בע\"פ, וגם)",
+      "coords": {
+        "HPOS": 306,
+        "VPOS": 2915,
+        "WIDTH": 2005,
+        "HEIGHT": 78
+      },
+      "para_start": true,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_f7c4af22",
+      "kind": "main",
+      "idx": 47,
+      "text": "זאת",
+      "coords": {
+        "HPOS": 410,
+        "VPOS": 2981,
+        "WIDTH": 79,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": true
+    }
+  ]
+}

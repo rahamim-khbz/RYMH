@@ -1,0 +1,695 @@
+{
+  "page_id": "page-52",
+  "image": "page_images/page-52.jpg",
+  "page_width": 2550,
+  "page_height": 3300,
+  "base_hash": "sha256:85914e3710a1f4c4a160a34a7928342435e580a61f3980cd4ec00007a500bb6c",
+  "lines": [
+    {
+      "line_id": "eSc_line_3835a916",
+      "kind": "main",
+      "idx": 0,
+      "text": "אל",
+      "coords": {
+        "HPOS": 2168,
+        "VPOS": 225,
+        "WIDTH": 95,
+        "HEIGHT": 106
+      },
+      "para_start": true,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_8471646f",
+      "kind": "main",
+      "idx": 1,
+      "text": "וחשוב הקורא החביב שאני יצאתי ממרכז הכונה, חלילה! שבכל כחי אני משתדל בחבורי זה",
+      "coords": {
+        "HPOS": 262,
+        "VPOS": 260,
+        "WIDTH": 1845,
+        "HEIGHT": 57
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_001fadcb",
+      "kind": "main",
+      "idx": 2,
+      "text": "שלא לצאת מאגף הכונה ולחוץ ואפי' פסיעה דקה, וגם בכל מה שהארכנו, הרוחנו שנתחזק",
+      "coords": {
+        "HPOS": 262,
+        "VPOS": 315,
+        "WIDTH": 1842,
+        "HEIGHT": 79
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_da320a7e",
+      "kind": "main",
+      "idx": 3,
+      "text": "יסודינו דהכתיבה גנוזה, ואיסור הלמוד מתוך הכתב, עד להפליא, וכל מה שנרבה חיזוקים וראיות",
+      "coords": {
+        "HPOS": 262,
+        "VPOS": 388,
+        "WIDTH": 2001,
+        "HEIGHT": 61
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_3629cd8c",
+      "kind": "main",
+      "idx": 4,
+      "text": ":שיתברר מתוכם יסוד זה, יותר נשקיט שכלינו מזעף הדוחקים ושכלינו אשר חנן אלהים בנחה יאמר",
+      "coords": {
+        "HPOS": 266,
+        "VPOS": 449,
+        "WIDTH": 1999,
+        "HEIGHT": 62
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_3e4ceae5",
+      "kind": "main",
+      "idx": 5,
+      "text": "כי טוב לנו ליסד יסוד מוסד הלזה: שהכתיבה גנוזה ואסור הלמוד מתוכה, כי בזה יתיישר כל מעגל",
+      "coords": {
+        "HPOS": 264,
+        "VPOS": 513,
+        "WIDTH": 2001,
+        "HEIGHT": 60
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_53c8c124",
+      "kind": "main",
+      "idx": 6,
+      "text": "בשופי, וכל המקורות שבתלמוד שנים ושבמדרשים ושבגאונים יהיו לאחדים בידינו, מלילך לנוד אחר",
+      "coords": {
+        "HPOS": 269,
+        "VPOS": 579,
+        "WIDTH": 1996,
+        "HEIGHT": 60
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_f488c60d",
+      "kind": "main",
+      "idx": 7,
+      "text": "יסודו של רש\"י ואחוזת מרעהו שגם הכתיבה היתה אסורה עד זמן אחרון, כי ביסוד זה נגשש כעור",
+      "coords": {
+        "HPOS": 269,
+        "VPOS": 643,
+        "WIDTH": 1996,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_d0a09a24",
+      "kind": "main",
+      "idx": 8,
+      "text": "באפילה, ואנו צריכים להתטפל ולישב כל הפרטים המפוזרים אחד הנה ואחד הנה בכמה מיני ישובים",
+      "coords": {
+        "HPOS": 266,
+        "VPOS": 700,
+        "WIDTH": 2001,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_135e3657",
+      "kind": "main",
+      "idx": 9,
+      "text": ".ודוחקים, צרים ומצוקים, והנפש לא תמלא, והדבר ברור כשמש",
+      "coords": {
+        "HPOS": 636,
+        "VPOS": 764,
+        "WIDTH": 1284,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_5992d450",
+      "kind": "main",
+      "idx": 10,
+      "text": ".",
+      "coords": {
+        "HPOS": 2228,
+        "VPOS": 828,
+        "WIDTH": 50,
+        "HEIGHT": 68
+      },
+      "para_start": true,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_b42915ec",
+      "kind": "main",
+      "idx": 11,
+      "text": "דאף אם נסבול אלף צערים ונגזור הפך כל האמור, ושהיה הכל בע\"פ עד זמן הגאונים, הרי עי\"ז",
+      "coords": {
+        "HPOS": 273,
+        "VPOS": 826,
+        "WIDTH": 1869,
+        "HEIGHT": 76
+      },
+      "para_start": true,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_cdd25735",
+      "kind": "main",
+      "idx": 12,
+      "text": "אנו נותנים הקבלה האמתית, בסכנה עצומה שאין אחריה כמוה, שמי שיראה בתלמוד, אנן",
+      "coords": {
+        "HPOS": 269,
+        "VPOS": 889,
+        "WIDTH": 1860,
+        "HEIGHT": 79
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_049fa864",
+      "kind": "main",
+      "idx": 13,
+      "text": "כאצבעתא בבירה לשכחה, וכנגד זה יראה הכרח זה להאמין שעם כל השכחה הנפלאה הזאת נשמר הכל",
+      "coords": {
+        "HPOS": 267,
+        "VPOS": 964,
+        "WIDTH": 2004,
+        "HEIGHT": 59
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_ef2f6a1f",
+      "kind": "main",
+      "idx": 14,
+      "text": "בע\"פ אם יודה הרי האמין דבר שלא יצוייר בלב, ותורתנו שבכתב ושבע\"פ מכרזת ואומרת אמונה כזאת",
+      "coords": {
+        "HPOS": 267,
+        "VPOS": 1023,
+        "WIDTH": 2002,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_dae62d60",
+      "kind": "main",
+      "idx": 15,
+      "text": "לא כי בשום אופן, ואם יכפור דמו מידינו ידרוש שאנו העמסנו עליו אמונות בלתי מתישבות על לב",
+      "coords": {
+        "HPOS": 267,
+        "VPOS": 1081,
+        "WIDTH": 2004,
+        "HEIGHT": 72
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_c1e4de91",
+      "kind": "main",
+      "idx": 16,
+      "text": "מבין, וכי מלתא זוטרתי היא זאת? לא, כי חיי ראשי, הוא דבר הנוגע לבבת עינינו ויותר מזה, כי אם",
+      "coords": {
+        "HPOS": 271,
+        "VPOS": 1147,
+        "WIDTH": 1996,
+        "HEIGHT": 75
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_8a95da1a",
+      "kind": "main",
+      "idx": 17,
+      "text": "ח\"ו נפל ספק בלבות אנשי אומתנו באמתת הקבלה הזאת, למה לנו חיים? ודבר זה לא יוכל להכחיש בו",
+      "coords": {
+        "HPOS": 271,
+        "VPOS": 1210,
+        "WIDTH": 1998,
+        "HEIGHT": 67
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_cd6f54c8",
+      "kind": "main",
+      "idx": 18,
+      "text": ".כל מתחיל בחקירת האמת. ואבאר את דברי בטוב טעם ודעת, איך הוא דבר הנוגע לבבת עינינו",
+      "coords": {
+        "HPOS": 282,
+        "VPOS": 1287,
+        "WIDTH": 1987,
+        "HEIGHT": 53
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_5506c29b",
+      "kind": "main",
+      "idx": 19,
+      "text": "שמע",
+      "coords": {
+        "HPOS": 2089,
+        "VPOS": 1336,
+        "WIDTH": 172,
+        "HEIGHT": 90
+      },
+      "para_start": true,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_c8d75dde",
+      "kind": "main",
+      "idx": 20,
+      "text": "נא בן הימיני! אמרתי ואומר, \"הכתיבה מימות עולם גנוזה ואסור הלמוד מתוכה\" ומי",
+      "coords": {
+        "HPOS": 282,
+        "VPOS": 1342,
+        "WIDTH": 1787,
+        "HEIGHT": 69
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_53b47fa6",
+      "kind": "main",
+      "idx": 21,
+      "text": "יכחישני? אחרי, כי אמר מר \"דברים שבע\"פ א\"א רשאי לאומרם בכתב\" ולא לכותבם",
+      "coords": {
+        "HPOS": 271,
+        "VPOS": 1402,
+        "WIDTH": 1787,
+        "HEIGHT": 77
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_7046d86d",
+      "kind": "main",
+      "idx": 22,
+      "text": "כאשר פירש\"י, לא כן, כי ה' לא צוה לאסור הכתיבות הגנוזות והסודיות לעת מצוא זו שכחה, כי אם איש",
+      "coords": {
+        "HPOS": 269,
+        "VPOS": 1463,
+        "WIDTH": 2003,
+        "HEIGHT": 77
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_8e6d2b41",
+      "kind": "main",
+      "idx": 23,
+      "text": "אתה וידעת פרק בפילוסופיא האלהית, בהכרח ידוע תדע, כי לא יצוה ה' אלהים דבר נגר הטבע, או",
+      "coords": {
+        "HPOS": 273,
+        "VPOS": 1530,
+        "WIDTH": 1999,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_d3da3d00",
+      "kind": "main",
+      "idx": 24,
+      "text": "מה שהטבע לא יוכל להשיגו, ואחר שדבר זה הוא יסוד מוסד באמונתנו הרוחנית והשכלית שהיא באמת",
+      "coords": {
+        "HPOS": 271,
+        "VPOS": 1593,
+        "WIDTH": 2001,
+        "HEIGHT": 69
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_594c0702",
+      "kind": "main",
+      "idx": 25,
+      "text": "עמודי גולה, רצוני, שאמונה הנחמדת הזאת, היא שעמרה לנו בגלות החל הזה לסבול את משאו ואת",
+      "coords": {
+        "HPOS": 273,
+        "VPOS": 1657,
+        "WIDTH": 1998,
+        "HEIGHT": 77
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_b0d32427",
+      "kind": "main",
+      "idx": 26,
+      "text": "עניו בסבר פנים יפות, מפני מרגלית האמונה הבהירה שבידינו, אחר שכן, איך יעלה ברעת להאמין",
+      "coords": {
+        "HPOS": 277,
+        "VPOS": 1732,
+        "WIDTH": 1995,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_2b4a3e0a",
+      "kind": "main",
+      "idx": 27,
+      "text": "שהאל הגדול הצופה ומביט עד סוף כל הדורות, היודע בטיב חמרינו העכור, כי השכחה רובצת תחת",
+      "coords": {
+        "HPOS": 273,
+        "VPOS": 1785,
+        "WIDTH": 2003,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_1aa6abb6",
+      "kind": "main",
+      "idx": 28,
+      "text": "משא גשמיותו מאין המלט, כאשר כן טבע כל יצור, גם בני אדם, אשר בעפר יסודם, איך אחר כל זה",
+      "coords": {
+        "HPOS": 275,
+        "VPOS": 1849,
+        "WIDTH": 1997,
+        "HEIGHT": 74
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_0303ddde",
+      "kind": "main",
+      "idx": 29,
+      "text": "יאסור גם הכתיבה הסודיית המועלת לזכרון בראיה בעלמא מכל וכל? ואם באת להאמין זה, צא וחשוב",
+      "coords": {
+        "HPOS": 275,
+        "VPOS": 1915,
+        "WIDTH": 1997,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_743ddfd5",
+      "kind": "main",
+      "idx": 30,
+      "text": ",שהרי אתה מעיד ומאמין בפיך ובלבבך, שקודם שהנחילה לנו הקדוש ב\"ה עמד ובטלה, כאלו תאמר",
+      "coords": {
+        "HPOS": 286,
+        "VPOS": 1978,
+        "WIDTH": 1990,
+        "HEIGHT": 77
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_3bc22001",
+      "kind": "main",
+      "idx": 31,
+      "text": "ברא לנו תורה שבכתב (אשר א\"א לה לחיות בלי ביאור רחב רחב והיינו תושבע\"פ) ברא לה בצדה משחית",
+      "coords": {
+        "HPOS": 275,
+        "VPOS": 2042,
+        "WIDTH": 2001,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_cb8b6566",
+      "kind": "main",
+      "idx": 32,
+      "text": "לחבל הוא, איסור הכתיבה מכל וכל, ולמי אלה לפניך? למי שדעתם בל עמם, מיום צאתם מרחם",
+      "coords": {
+        "HPOS": 277,
+        "VPOS": 2104,
+        "WIDTH": 2001,
+        "HEIGHT": 75
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_349750c0",
+      "kind": "main",
+      "idx": 33,
+      "text": "אמם, כי טרפם ארי הזמן ההוה ונפסד, ונשכם חברבר העמל והיגון, אשר האדם יולד להנה. אראה",
+      "coords": {
+        "HPOS": 278,
+        "VPOS": 2172,
+        "WIDTH": 1998,
+        "HEIGHT": 72
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_5f0af948",
+      "kind": "main",
+      "idx": 34,
+      "text": "בנחמה! אם יוכל איש באנשים למצוא לי חבר לאמונה מנגדת השכל והדת כזאת בכל שלשלת הזהב",
+      "coords": {
+        "HPOS": 280,
+        "VPOS": 2234,
+        "WIDTH": 1998,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_f72dde82",
+      "kind": "main",
+      "idx": 35,
+      "text": ",התלויה על צוארינו מהאמונות והדעות אשר הנחילנו לנו תורתנו וחכמיה. מנגדת השכל: הא דאמרן",
+      "coords": {
+        "HPOS": 289,
+        "VPOS": 2299,
+        "WIDTH": 1987,
+        "HEIGHT": 71
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_69b17588",
+      "kind": "main",
+      "idx": 36,
+      "text": ",מנגדת הדת, מטעם כי מנגדת השכל וכל מושכלותיו ראשונות ושניות מאין המלט וכמו שיבא",
+      "coords": {
+        "HPOS": 289,
+        "VPOS": 2365,
+        "WIDTH": 1989,
+        "HEIGHT": 75
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_36781b49",
+      "kind": "main",
+      "idx": 37,
+      "text": "ואעיקרא, אין בדתינו שתתעלה דמיון מצות עשה ול\"ת, כדמות זאת, להלחם נגד הטבע מלחמה חזקה",
+      "coords": {
+        "HPOS": 284,
+        "VPOS": 2438,
+        "WIDTH": 1998,
+        "HEIGHT": 57
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_a0802c7d",
+      "kind": "main",
+      "idx": 38,
+      "text": "ולהביא אותו בתוך מכל צד ופנה, עד כי לא יחיה אחרי נפלו, ובמ\"א הארכנו להראות שכל הדברים",
+      "coords": {
+        "HPOS": 284,
+        "VPOS": 2500,
+        "WIDTH": 1996,
+        "HEIGHT": 59
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_1113af74",
+      "kind": "main",
+      "idx": 39,
+      "text": "הטבעיים שאינם תחת יכולת האדם ורשותו, ונראה בהשקפה ראשונה שבאו עליהם איזה מצות כאלו הם",
+      "coords": {
+        "HPOS": 280,
+        "VPOS": 2559,
+        "WIDTH": 1998,
+        "HEIGHT": 70
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_cf725927",
+      "kind": "main",
+      "idx": 40,
+      "text": "תחת ידו, כשנשקיף בהם בעין ההשקפה החדה והנאותה, יתראה לנו כי משמים הביט ה' ראה את",
+      "coords": {
+        "HPOS": 282,
+        "VPOS": 2630,
+        "WIDTH": 1998,
+        "HEIGHT": 55
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_2fd05201",
+      "kind": "main",
+      "idx": 41,
+      "text": "טבע חומר האדם, כי ברע הוא חומר גס ועכור בלוי ומטודף, וע\"ז ממכון שבתו השגיח לצוות",
+      "coords": {
+        "HPOS": 280,
+        "VPOS": 2693,
+        "WIDTH": 2000,
+        "HEIGHT": 57
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_2c6331d4",
+      "kind": "main",
+      "idx": 42,
+      "text": "עליהם, ר\"ל לאותם המצות, מעשה בפועל, כדי להכריח הטבע, ולהעירו משנת תרדמת חומרו בכל",
+      "coords": {
+        "HPOS": 280,
+        "VPOS": 2742,
+        "WIDTH": 1998,
+        "HEIGHT": 72
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_888d7451",
+      "kind": "main",
+      "idx": 43,
+      "text": "מה שיוכל, למשל: \"זכור את יום השבת לקדשו\" זכרהו על היין מעשה בפועל, \"זכור את היום הזה אשר",
+      "coords": {
+        "HPOS": 286,
+        "VPOS": 2808,
+        "WIDTH": 1992,
+        "HEIGHT": 77
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_bf90f140",
+      "kind": "main",
+      "idx": 44,
+      "text": "יצאתם ממצרים\" הנחת תפלין בכל יום בפועל, \"זכור את אשר עשה לך עמלק\" קדיאת פ' זכור דאודייתא",
+      "coords": {
+        "HPOS": 284,
+        "VPOS": 2880,
+        "WIDTH": 1998,
+        "HEIGHT": 69
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_87ec73fe",
+      "kind": "main",
+      "idx": 45,
+      "text": "כו",
+      "coords": {
+        "HPOS": 2084,
+        "VPOS": 3003,
+        "WIDTH": 62,
+        "HEIGHT": 86
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_73d5eb44",
+      "kind": "main",
+      "idx": 46,
+      "text": "2.",
+      "coords": {
+        "HPOS": 1893,
+        "VPOS": 3014,
+        "WIDTH": 69,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_5bc391d1",
+      "kind": "main",
+      "idx": 47,
+      "text": "אל",
+      "coords": {
+        "HPOS": 407,
+        "VPOS": 2995,
+        "WIDTH": 68,
+        "HEIGHT": 72
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_6aa2df16",
+      "kind": "main",
+      "idx": 48,
+      "text": "אחת כשנה בפועל, ואם יצרנו תקפנו, להאדיך פה ולהרחיב לשון על אחינו כשרינו בשפתי חלקות, הנה",
+      "coords": {
+        "HPOS": 284,
+        "VPOS": 2946,
+        "WIDTH": 1998,
+        "HEIGHT": 84
+      },
+      "para_start": false,
+      "is_catchword": false
+    }
+  ]
+}

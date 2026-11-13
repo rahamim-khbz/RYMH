@@ -1,0 +1,639 @@
+{
+  "page_id": "page-37",
+  "image": "page_images/page-37.jpg",
+  "page_width": 2550,
+  "page_height": 3300,
+  "base_hash": "sha256:273d3a8ef4769b6271611d6ca7581a42a36b52fdaf5c7622ddbb1c8e3c460c11",
+  "lines": [
+    {
+      "line_id": "eSc_line_c746b8a0",
+      "kind": "main",
+      "idx": 0,
+      "text": "יאמר \"דאתגניזו מיומי הלל\"? ולמה לא ראו אוד? אם לא שמסיח לפי תומו הגאון מאיר עיניט",
+      "coords": {
+        "HPOS": 238,
+        "VPOS": 216,
+        "WIDTH": 1989,
+        "HEIGHT": 75
+      },
+      "para_start": true,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_0ffad13d",
+      "kind": "main",
+      "idx": 1,
+      "text": ",ומוריענו איך היה מנהג כתיבות אלו של תורה שבע\"פ, דהיו מוכרחים להיות גנוזים ביד הגדולים",
+      "coords": {
+        "HPOS": 223,
+        "VPOS": 284,
+        "WIDTH": 2002,
+        "HEIGHT": 73
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_64fc90bd",
+      "kind": "main",
+      "idx": 2,
+      "text": "ולא נאסר כי אם לכתוב הלכות פומביות ככותבי תפלין ומזוזות לכ\"ע, דהא ודאי לאו כ\"ע רבנן קדישי",
+      "coords": {
+        "HPOS": 216,
+        "VPOS": 350,
+        "WIDTH": 2012,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_4b2620b6",
+      "kind": "main",
+      "idx": 3,
+      "text": "דיהיו נזהרין למגרסינהו ע\"פ, ויבואו מן ההתר אל האיסור, ובו בפרק בודאי ופשוט הוו כותבי הלכות",
+      "coords": {
+        "HPOS": 212,
+        "VPOS": 412,
+        "WIDTH": 2015,
+        "HEIGHT": 75
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_7060a687",
+      "kind": "main",
+      "idx": 4,
+      "text": "כשורפי תורה, מפני שאין מצילין אותם מפני הדליקה, ואחר שהסוגיאות כולם כמות שהם יתפרשו",
+      "coords": {
+        "HPOS": 214,
+        "VPOS": 478,
+        "WIDTH": 2013,
+        "HEIGHT": 70
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_f52bbb2a",
+      "kind": "main",
+      "idx": 5,
+      "text": ",על אופן זה, כמין חומר, ובפרט אותה סוגיא דעירובין אומרו: כגון מגילת תענית דכתיבא ומנחה",
+      "coords": {
+        "HPOS": 227,
+        "VPOS": 544,
+        "WIDTH": 2001,
+        "HEIGHT": 73
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_a6237308",
+      "kind": "main",
+      "idx": 6,
+      "text": "דכרוזא קרי בחיל דהוו כתיבות אחרות דכתיבי ולא מנחי, ואחר כל זה מי הוא זה ואיזה הוא שלא יפרש",
+      "coords": {
+        "HPOS": 212,
+        "VPOS": 606,
+        "WIDTH": 2013,
+        "HEIGHT": 76
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_bc60f9e2",
+      "kind": "main",
+      "idx": 7,
+      "text": "כל תשו' הגאונים מר\"ש ור\"ה בנו הנז\"ל על משקל זה ממש? אחר דבכל דבריהם מעידים, וחוזרים",
+      "coords": {
+        "HPOS": 216,
+        "VPOS": 671,
+        "WIDTH": 2011,
+        "HEIGHT": 69
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_7990e1a9",
+      "kind": "main",
+      "idx": 8,
+      "text": "ומעידים דהיתה הכתיבה מותרת מימי עולם ומשנים קדמוניות, ובפרט אותה שכתב בפי' לעיל",
+      "coords": {
+        "HPOS": 216,
+        "VPOS": 737,
+        "WIDTH": 2012,
+        "HEIGHT": 69
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_ba67e7ce",
+      "kind": "main",
+      "idx": 9,
+      "text": "אומרו: \"ולא הוה להון להנך קמאי, עד דאפטר דכי חבוד כתוב, וגרסין",
+      "coords": {
+        "HPOS": 227,
+        "VPOS": 806,
+        "WIDTH": 2001,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_6e83bf0e",
+      "kind": "main",
+      "idx": 10,
+      "text": ",ליה ע\"פ, אלא פירושי כתיבי להו כגון דמפרשין אנחנא, לתלמידי דילנא",
+      "coords": {
+        "HPOS": 223,
+        "VPOS": 865,
+        "WIDTH": 2002,
+        "HEIGHT": 73
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_78b77fa9",
+      "kind": "main",
+      "idx": 11,
+      "text": "\"ךכולהו גרסינן ליה, והאי כתיב באנפא חדא, והאי כתוב באנפא אחריתי",
+      "coords": {
+        "HPOS": 225,
+        "VPOS": 929,
+        "WIDTH": 2000,
+        "HEIGHT": 73
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_2943d463",
+      "kind": "main",
+      "idx": 12,
+      "text": "נמצא מפורש דקודם דחיבר רבי, החיבור הכתוב בסידור הלשון ופה אחד שהוא המשנה כדי שיהיו",
+      "coords": {
+        "HPOS": 216,
+        "VPOS": 1001,
+        "WIDTH": 2011,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_8c6ca8ca",
+      "kind": "main",
+      "idx": 13,
+      "text": "גורסין אותו ע\"פ, היה להם פירושים כתובים, אלא שלא היה בערך חיבור, ולא היה אלא כמין",
+      "coords": {
+        "HPOS": 220,
+        "VPOS": 1057,
+        "WIDTH": 2007,
+        "HEIGHT": 76
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_35b0936d",
+      "kind": "main",
+      "idx": 14,
+      "text": ",פירושים, אבל לעולם כתובים וגודסין אותם בע\"פ, הרי נראה להדיא מתוך דברי גאוננו גם בזה",
+      "coords": {
+        "HPOS": 227,
+        "VPOS": 1120,
+        "WIDTH": 2000,
+        "HEIGHT": 71
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_73e49098",
+      "kind": "main",
+      "idx": 15,
+      "text": "רהכתיבה מעולם לא נאסרה, כי האיסור היה ללמוד מתוך הכתב, וע\"ז בכל מקום שההכרח מביאו",
+      "coords": {
+        "HPOS": 220,
+        "VPOS": 1188,
+        "WIDTH": 2007,
+        "HEIGHT": 67
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_34ef72df",
+      "kind": "main",
+      "idx": 16,
+      "text": "לגאון להזכיר הכתיבה, או החיבור, או הליקוט לעולם מזדרז להשלים דבריו ולפרשם, שלעולם הלימוד",
+      "coords": {
+        "HPOS": 221,
+        "VPOS": 1248,
+        "WIDTH": 2006,
+        "HEIGHT": 77
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_d5618261",
+      "kind": "main",
+      "idx": 17,
+      "text": "היה כגירסת בע\"פ, ולא מתוך הכתב, וכאשר כתבתי לעיל בהערה כ\"ב וכ\"ד",
+      "coords": {
+        "HPOS": 478,
+        "VPOS": 1310,
+        "WIDTH": 1530,
+        "HEIGHT": 70
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_02effd6c",
+      "kind": "main",
+      "idx": 18,
+      "text": "'הענף הג",
+      "coords": {
+        "HPOS": 1909,
+        "VPOS": 1375,
+        "WIDTH": 308,
+        "HEIGHT": 102
+      },
+      "para_start": true,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_0aeb1e65",
+      "kind": "main",
+      "idx": 19,
+      "text": "בלימוד פשט הסוגייאות הנז\"ל ודומיהן לפי מה שנגררנו אחרי פי' ופלפולי רבותינו",
+      "coords": {
+        "HPOS": 221,
+        "VPOS": 1453,
+        "WIDTH": 1635,
+        "HEIGHT": 57
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_d56b7bd8",
+      "kind": "main",
+      "idx": 20,
+      "text": "גם אם יאמר האומר כי לא ימלט מן הדוחק, לפי ההרגל שהורגלנו אנחנו האחרונים",
+      "coords": {
+        "HPOS": 218,
+        "VPOS": 1376,
+        "WIDTH": 1655,
+        "HEIGHT": 76
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_01c4aa85",
+      "kind": "main",
+      "idx": 21,
+      "text": "הצדפתים, עכ\"ז אנא הוא דאמרי מי יגלה עפר מעיניך גדול אדוננו הראב\"ד, אשר הופיע רוח הקדש",
+      "coords": {
+        "HPOS": 218,
+        "VPOS": 1514,
+        "WIDTH": 2007,
+        "HEIGHT": 59
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_682b48ae",
+      "kind": "main",
+      "idx": 22,
+      "text": "בבית מדרשך, וכתבת דברים ראויים לפי גודל לכך כלב האריה המבעית כתלמוד: \"כי טוב לסבול דוחק",
+      "coords": {
+        "HPOS": 221,
+        "VPOS": 1573,
+        "WIDTH": 2000,
+        "HEIGHT": 75
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_7069fb28",
+      "kind": "main",
+      "idx": 23,
+      "text": "אחד במשנתנו יותר מלהוציא משפט מעוקל\" (ש\"מ לב\"ב ר\"ן ע\"ג מהשיטה) וכן הכא יותר ראוי והגון",
+      "coords": {
+        "HPOS": 221,
+        "VPOS": 1642,
+        "WIDTH": 2004,
+        "HEIGHT": 63
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_72449907",
+      "kind": "main",
+      "idx": 24,
+      "text": "לבאר כל הסוגייאות עפ\"י סגנון זה לדעת ד\"ש הגאון וסיעת מרחמוהי, מלהוציא אלף משפטים",
+      "coords": {
+        "HPOS": 220,
+        "VPOS": 1705,
+        "WIDTH": 2005,
+        "HEIGHT": 62
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_b273b49c",
+      "kind": "main",
+      "idx": 25,
+      "text": "מעוקלים נגד השכל הישר הנטוע בנו. א. שאעיקרא ענין זה, שכל התורה שבע\"פ שכוללת כרכים",
+      "coords": {
+        "HPOS": 221,
+        "VPOS": 1771,
+        "WIDTH": 1998,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_365f3847",
+      "kind": "main",
+      "idx": 26,
+      "text": "גדולים ורחבים כהמשניות, והברייתות, והתוספתות, וספרא וספרי, ותלמוד בבלי וירושלמי, אשר",
+      "coords": {
+        "HPOS": 225,
+        "VPOS": 1827,
+        "WIDTH": 1998,
+        "HEIGHT": 72
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_578b7969",
+      "kind": "main",
+      "idx": 27,
+      "text": ",גדול כים סב\"רם, ולא בדרך גוזמא, לומר עכ\"ז שנשאדו בע\"פ ובלי כתיבה עד תחי' זמן הגאונים",
+      "coords": {
+        "HPOS": 238,
+        "VPOS": 1890,
+        "WIDTH": 1985,
+        "HEIGHT": 73
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_98e7a8de",
+      "kind": "main",
+      "idx": 28,
+      "text": "זה דבר שאין השכל סובלו, שהוא כמעט מהגוזמות של רבב\"ח ולא בדרך הפלגה, כי סוף סוף מזמן",
+      "coords": {
+        "HPOS": 223,
+        "VPOS": 1956,
+        "WIDTH": 1998,
+        "HEIGHT": 71
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_1a9d7fb4",
+      "kind": "main",
+      "idx": 29,
+      "text": "ר\"י כבר התחילו הדורות לנפול נפילה שאין אחריה כמוה, ואביי כבר אמר אנן כאצבעתא בבירה",
+      "coords": {
+        "HPOS": 223,
+        "VPOS": 2020,
+        "WIDTH": 1998,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_30bbf034",
+      "kind": "main",
+      "idx": 30,
+      "text": ",לשכחה, והרי כל עצמו שנתארך התלמוד בביאודים, בהדיא קאמר הגאון, והוא האמת מצד עצמו",
+      "coords": {
+        "HPOS": 232,
+        "VPOS": 2084,
+        "WIDTH": 1993,
+        "HEIGHT": 72
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_00ffbd0f",
+      "kind": "main",
+      "idx": 31,
+      "text": "מפני שנתמעט הלב, והרי אתה דן ק\"ו, אם בהיות להם המשניות והברייתות לבדם היו צריכים אל",
+      "coords": {
+        "HPOS": 223,
+        "VPOS": 2146,
+        "WIDTH": 1998,
+        "HEIGHT": 65
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_8a1a9f00",
+      "kind": "main",
+      "idx": 32,
+      "text": ",ביאורים מפני כי נתמעט הלב, כל שכן כשנתרבה התלמוד דרא בתר דרא, דודאי הוספת מיעוט הלב",
+      "coords": {
+        "HPOS": 229,
+        "VPOS": 2209,
+        "WIDTH": 1992,
+        "HEIGHT": 71
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_2b3c6a98",
+      "kind": "main",
+      "idx": 33,
+      "text": "הוספת חיבורים ארוכים בע\"פ, זה פלא!! ולמה לענין הבנה נתמעט הלב, ואל הזכירה לא נתמעט",
+      "coords": {
+        "HPOS": 223,
+        "VPOS": 2282,
+        "WIDTH": 1998,
+        "HEIGHT": 57
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_556bf4b4",
+      "kind": "main",
+      "idx": 34,
+      "text": "אלא נתוסף כחו שהרי בזמן שנתמעט הלב מיעוטא דבתר מיעוטא בסוף זמן התלמוד היו צריכים אל",
+      "coords": {
+        "HPOS": 223,
+        "VPOS": 2337,
+        "WIDTH": 1998,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_acc5d8a4",
+      "kind": "main",
+      "idx": 35,
+      "text": "כח הזכירה אדיר וחזק יותר מהראשונים באלף אלפי ידות, כדי ליקח בתורה שבע\"פ כל החיבורים",
+      "coords": {
+        "HPOS": 223,
+        "VPOS": 2398,
+        "WIDTH": 1996,
+        "HEIGHT": 78
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_626969c1",
+      "kind": "main",
+      "idx": 36,
+      "text": "הגדולים והנבוכים האלה, האם אין זה נפלאות אשר לא נבראו ומשפט מעוקל אל השכל האהוב",
+      "coords": {
+        "HPOS": 223,
+        "VPOS": 2464,
+        "WIDTH": 1998,
+        "HEIGHT": 71
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_f08b6ea3",
+      "kind": "main",
+      "idx": 37,
+      "text": "?המושרש בנו? מי שאמרו אנן כאצבעתא בבירה לשכחה יסבלו משא עשרת אלפים ספרים בזכרונם",
+      "coords": {
+        "HPOS": 225,
+        "VPOS": 2526,
+        "WIDTH": 1996,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_365d6624",
+      "kind": "main",
+      "idx": 38,
+      "text": "זה דבר שאין הדעת סובלתו. ב. שלא ראינו בתלמוד אימתי הותר דבר חמור זה לכתוב התורה",
+      "coords": {
+        "HPOS": 225,
+        "VPOS": 2592,
+        "WIDTH": 1998,
+        "HEIGHT": 73
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_92dc2505",
+      "kind": "main",
+      "idx": 39,
+      "text": "שבע\"פ, או אפי' המשניות משום עת לעשות לה', זה לא נמצא בתלמוד, ובפה כ\"ע הוא כך. אבל",
+      "coords": {
+        "HPOS": 227,
+        "VPOS": 2652,
+        "WIDTH": 1998,
+        "HEIGHT": 72
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_e5920ac5",
+      "kind": "main",
+      "idx": 40,
+      "text": "בתלמוד לית ריח מזה, ואם כה תאמר ומאי קושיא? אדרבא בזה אתה מחזיק דעת הסוברים דמעולם",
+      "coords": {
+        "HPOS": 225,
+        "VPOS": 2718,
+        "WIDTH": 1998,
+        "HEIGHT": 74
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_735022aa",
+      "kind": "main",
+      "idx": 41,
+      "text": "לא נכתבה תורה שבע\"פ עד תחי' זמן הגאונים, והיא היא הראיה? גם אני לא אחשוך מלהשיב לך",
+      "coords": {
+        "HPOS": 232,
+        "VPOS": 2788,
+        "WIDTH": 1993,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_88d8ca46",
+      "kind": "main",
+      "idx": 42,
+      "text": "כמדתך! המעט בעיניך דבר גדול והתר כזה לפי דבריך? א\"כ למה ישתוק גאוננו באגרתו החמודה",
+      "coords": {
+        "HPOS": 229,
+        "VPOS": 2852,
+        "WIDTH": 1994,
+        "HEIGHT": 72
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_3d92b77d",
+      "kind": "main",
+      "idx": 43,
+      "text": "הזאת להאיר עינינו ולומר: \"וכזמן גאון פ' נמנו וגמרו כל הגאונים לכתוב כל התורה שבע\"פ משום",
+      "coords": {
+        "HPOS": 231,
+        "VPOS": 2909,
+        "WIDTH": 1992,
+        "HEIGHT": 77
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_30aabf0d",
+      "kind": "main",
+      "idx": 44,
+      "text": "עח",
+      "coords": {
+        "HPOS": 357,
+        "VPOS": 2981,
+        "WIDTH": 77,
+        "HEIGHT": 67
+      },
+      "para_start": false,
+      "is_catchword": true
+    }
+  ]
+}

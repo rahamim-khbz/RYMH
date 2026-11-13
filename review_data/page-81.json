@@ -1,0 +1,667 @@
+{
+  "page_id": "page-81",
+  "image": "page_images/page-81.jpg",
+  "page_width": 2550,
+  "page_height": 3300,
+  "base_hash": "sha256:b1518dec0dc1f05c83ebf08268eb4916c4184578a63015b355c54611914f512f",
+  "lines": [
+    {
+      "line_id": "eSc_line_07cf7d9f",
+      "kind": "main",
+      "idx": 0,
+      "text": "שעלה בידינו הבירור הזה כשמש בחצי השמים, שנוסח ח\"מ נכתב בצרפת או באשכנז, כבר הגענו",
+      "coords": {
+        "HPOS": 324,
+        "VPOS": 289,
+        "WIDTH": 1989,
+        "HEIGHT": 61
+      },
+      "para_start": true,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_b20e17c5",
+      "kind": "main",
+      "idx": 1,
+      "text": "לפרשת דרכים, וכבר האיר היום לפנינו להחליט שבק\"ע נשלחה יד באגרת החמודה הזאת, כי ידוע",
+      "coords": {
+        "HPOS": 322,
+        "VPOS": 348,
+        "WIDTH": 1991,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_a0070441",
+      "kind": "main",
+      "idx": 2,
+      "text": "ומפורסם כמה עלולים חכמי צרפת למהר שלל חש בז ולשלוח יד בגירסאות הקדמוניות כאשר צעקה",
+      "coords": {
+        "HPOS": 322,
+        "VPOS": 419,
+        "WIDTH": 1993,
+        "HEIGHT": 57
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_57f98fab",
+      "kind": "main",
+      "idx": 3,
+      "text": "העז\"רה צעקות מבהילות הלא הם כתובות על ספר הישר לר\"ת בסופו ובפרט בהקדמתו היקרה, וא\"כ",
+      "coords": {
+        "HPOS": 324,
+        "VPOS": 474,
+        "WIDTH": 1987,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_25f7daab",
+      "kind": "main",
+      "idx": 4,
+      "text": "השערתנו יצאת לאור שבק\"ע השחית והוסיף וגרע כדי לכוין תשו' זאת עם דעת רבותינו הצרפתים",
+      "coords": {
+        "HPOS": 326,
+        "VPOS": 550,
+        "WIDTH": 1989,
+        "HEIGHT": 55
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_4ff2379c",
+      "kind": "main",
+      "idx": 5,
+      "text": "דס\"ל דלא היו כותבים אפילו אות אחת חוץ ממגלת סתרים עד תחי' זמן הגאונים ואפשר שלא ראום",
+      "coords": {
+        "HPOS": 324,
+        "VPOS": 614,
+        "WIDTH": 1989,
+        "HEIGHT": 57
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_084bb832",
+      "kind": "main",
+      "idx": 6,
+      "text": ",רבותינו הצרפתים תשו' זאת של הגאונים מעיקרא כי אפשר וקרוב לודאי שלספרד או לאפריקא נשלחה",
+      "coords": {
+        "HPOS": 332,
+        "VPOS": 665,
+        "WIDTH": 1983,
+        "HEIGHT": 77
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_7a11e26b",
+      "kind": "main",
+      "idx": 7,
+      "text": "שמשם היו משיאין משואות וטומוס של שאלות, וע\"כ אינו מן הנמנע שרבותינו הצרפתים, כיון שלא",
+      "coords": {
+        "HPOS": 324,
+        "VPOS": 733,
+        "WIDTH": 1993,
+        "HEIGHT": 64
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_312e88bd",
+      "kind": "main",
+      "idx": 8,
+      "text": "ראו תשו' זאת נגדרו אחר פשטי הסוגייאות \"דאי אתה כותב הלכות\" הוא על כתיבה ממש, ולא",
+      "coords": {
+        "HPOS": 322,
+        "VPOS": 804,
+        "WIDTH": 1991,
+        "HEIGHT": 59
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_4d06e352",
+      "kind": "main",
+      "idx": 9,
+      "text": "על למוד מתוך הכתב, ואלו היו רואים תשו' הגאונים דבקיאי טפי מנייהו הוו דייקי לפרש פשטי כל",
+      "coords": {
+        "HPOS": 324,
+        "VPOS": 859,
+        "WIDTH": 1991,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_a3e45b54",
+      "kind": "main",
+      "idx": 10,
+      "text": "הסוגייאות כאשר פירשנום בלי שום מעיק, ושוב דקדקתי היטב בדברי הגאון רב כהן צדק נר\"ו",
+      "coords": {
+        "HPOS": 346,
+        "VPOS": 929,
+        "WIDTH": 1963,
+        "HEIGHT": 72
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_df4b2066",
+      "kind": "main",
+      "idx": 11,
+      "text": "בהקרמתו הנז' ד\"י ע\"ב בדברו על דאבון נפש אשר חל להיות בחשבוננו מהשבושים אשר נפלו באגרת",
+      "coords": {
+        "HPOS": 322,
+        "VPOS": 988,
+        "WIDTH": 1993,
+        "HEIGHT": 71
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_25f42862",
+      "kind": "main",
+      "idx": 12,
+      "text": "החמודה הזאת, סיים בהחלט וז\"ל: \"וכפי דעתנו איזה מהם היו כן בעצם, וראשונה מהמחבר עצמו",
+      "coords": {
+        "HPOS": 324,
+        "VPOS": 1054,
+        "WIDTH": 1993,
+        "HEIGHT": 69
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_535bfd91",
+      "kind": "main",
+      "idx": 13,
+      "text": "או ממעתיקום הראשונים, היינו כי אפשר כאשר בקשו מהמחבר עצמו העתקה ממכתבם היקר",
+      "coords": {
+        "HPOS": 330,
+        "VPOS": 1125,
+        "WIDTH": 1985,
+        "HEIGHT": 59
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_0d8afc6e",
+      "kind": "main",
+      "idx": 14,
+      "text": "ההוא, שינה ותקן בעצמו, או איזה מעתיק בקירוואן\" ע\"כ. ועם שאני עדין לא מצאתי מפורש מהיכן",
+      "coords": {
+        "HPOS": 328,
+        "VPOS": 1191,
+        "WIDTH": 1990,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_fa326892",
+      "kind": "main",
+      "idx": 15,
+      "text": "בא לו להגאון שי\"ר נר\"ו להחליט כן שהכתב הראשון נשלח לקירוואן? עכ\"ז אליו שומעום, וסהדא רבא",
+      "coords": {
+        "HPOS": 324,
+        "VPOS": 1246,
+        "WIDTH": 1993,
+        "HEIGHT": 77
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_140796b5",
+      "kind": "main",
+      "idx": 16,
+      "text": "פרת, שמימיו פרים ורבים בענינים אלו, גמירי, הלא דבר הוא שכותב בהחלטה גדולה (מ\"ג) וא\"כ",
+      "coords": {
+        "HPOS": 326,
+        "VPOS": 1312,
+        "WIDTH": 1991,
+        "HEIGHT": 74
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_b9b0aafb",
+      "kind": "main",
+      "idx": 17,
+      "text": ",נתקיימה השערתי שכיון שנשלחה לספרד או לאפריקא, ע\"ז לא ראוה רבותינו הצרפתים הראשונים",
+      "coords": {
+        "HPOS": 333,
+        "VPOS": 1376,
+        "WIDTH": 1984,
+        "HEIGHT": 74
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_3e91c75b",
+      "kind": "main",
+      "idx": 18,
+      "text": "'ע",
+      "coords": {
+        "HPOS": 475,
+        "VPOS": 1452,
+        "WIDTH": 68,
+        "HEIGHT": 51
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_061b4f54",
+      "kind": "main",
+      "idx": 19,
+      "text": "מג) שוב מצאתי המקור אשר ממנו שאב הגאון נו\"ו, וחזקתיו ואמצתיו, עיין לעיל סי' ע\"א מה שכתכתי שם. ובהיותי)",
+      "coords": {
+        "HPOS": 326,
+        "VPOS": 1496,
+        "WIDTH": 1992,
+        "HEIGHT": 75
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_5994e0d2",
+      "kind": "main",
+      "idx": 20,
+      "text": "בווין השתא הכא בחורף התרטו\"ב הייתי בעקד ספרי הקיר\"ה הגדול והנורא, ושם באה לידי קובץ תשו' הגאונים",
+      "coords": {
+        "HPOS": 324,
+        "VPOS": 1562,
+        "WIDTH": 1897,
+        "HEIGHT": 62
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_d05c1250",
+      "kind": "main",
+      "idx": 21,
+      "text": "קרועו\"ת והולכות לתומם, ומכללם ראיתי תשו' ר\"ש ז\"ל שאנו בה וחסר ממנה הרבה דפים, ורובה היא לפי נוסח הח\"מ כאשר",
+      "coords": {
+        "HPOS": 328,
+        "VPOS": 1613,
+        "WIDTH": 1994,
+        "HEIGHT": 60
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_0dd6935c",
+      "kind": "main",
+      "idx": 22,
+      "text": "הראיתי למעלה בהערות, אבל מתחלת בזה הלשון: שאלה ששאל מוה\"ר יעקב בר נסים בר יאשיהו מרפני",
+      "coords": {
+        "HPOS": 333,
+        "VPOS": 1657,
+        "WIDTH": 1989,
+        "HEIGHT": 70
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_1c59c915",
+      "kind": "main",
+      "idx": 23,
+      "text": "אדוננו מר רב שרירא גאון ראש הישיבה של גולה בשם הקהל הקדוש קירוואן וצוה וכתב לי",
+      "coords": {
+        "HPOS": 330,
+        "VPOS": 1721,
+        "WIDTH": 1992,
+        "HEIGHT": 77
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_a13f1281",
+      "kind": "main",
+      "idx": 24,
+      "text": "תשובתו בשנת אלף דצ\"ח למנין שטרות ואין ספק שתשו' זאת בעינה היא שהיתה ביד בעל מאור עינים פכ\"ד",
+      "coords": {
+        "HPOS": 330,
+        "VPOS": 1796,
+        "WIDTH": 1992,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_4e0c5685",
+      "kind": "main",
+      "idx": 25,
+      "text": ",וממנה החליט שנשלחה לקירוואן שהרי כאן כתוב בשם ק\"ק קירוואן ובמאור עינים ג\"כ כותב שנשלחה אל ק\"ק קירוואן",
+      "coords": {
+        "HPOS": 328,
+        "VPOS": 1853,
+        "WIDTH": 1996,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_9d6f141f",
+      "kind": "main",
+      "idx": 26,
+      "text": "ועוד הוסיף בעל מ\"ע שהיה כתוב בסופה, נכתב שנת אלף רצ\"ח למנין שטרות במדינתא דפרוז שבור, והגאון שי\"ר נר\"ו",
+      "coords": {
+        "HPOS": 332,
+        "VPOS": 1914,
+        "WIDTH": 1992,
+        "HEIGHT": 56
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_4128a966",
+      "kind": "main",
+      "idx": 27,
+      "text": "בתולדות ר\"ן בה\"ע סוף הערה ל\"ב טען ע\"ז טענות יפות ובריאות, עיין בדבריו, ובזאת הכ\"י שלפנינו באוצר ווין יע\"א",
+      "coords": {
+        "HPOS": 330,
+        "VPOS": 1956,
+        "WIDTH": 1988,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_8bee4b2e",
+      "kind": "main",
+      "idx": 28,
+      "text": "אינו מוסיף דבר זה, ואפשר היה כתוב לבסוף וחסר הדף וזה כתוב בתחילת השאלה כאשר עיניך רואות, ועכשיו ג\"כ",
+      "coords": {
+        "HPOS": 328,
+        "VPOS": 2024,
+        "WIDTH": 1992,
+        "HEIGHT": 55
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_2c219ec1",
+      "kind": "main",
+      "idx": 29,
+      "text": "נזכרתי מהקדמת האפודי הידועה שעדין היא בכ\"י ומקצתה תחת ידי ששם נמי, ברצותו לבאר מה ר\"ל \"תלמוד\" שמשתמשין",
+      "coords": {
+        "HPOS": 326,
+        "VPOS": 2073,
+        "WIDTH": 1996,
+        "HEIGHT": 59
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_6d970454",
+      "kind": "main",
+      "idx": 30,
+      "text": "ממנו רז\"ל הסתייע מאגרת רב שרירא שלפניו וכתב וז\"ל, וכתב רב שרירא בתשו' לקהל קירוואן ד' אלפים תמ\"ח (ט\"ם",
+      "coords": {
+        "HPOS": 326,
+        "VPOS": 2128,
+        "WIDTH": 1998,
+        "HEIGHT": 53
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_6b928bc3",
+      "kind": "main",
+      "idx": 31,
+      "text": "נפל וצ\"ל תשמ\"ח והוא מכוון לאלף רצ\"ט לשטרות ודוק) ז\"ל \"ותלמוד נמי דשאלתון עליה (אגב אורחין אודיע שנוסח שהיה לפני",
+      "coords": {
+        "HPOS": 330,
+        "VPOS": 2181,
+        "WIDTH": 1992,
+        "HEIGHT": 57
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_4345fc80",
+      "kind": "main",
+      "idx": 32,
+      "text": "האפודי הוא נוסח היוחסין ולא נוסח הח\"מ כאשר דקדקתי) ואם יש שינוי בשנה אחת לא מעלה ולא מוריד דהטעות נופל",
+      "coords": {
+        "HPOS": 326,
+        "VPOS": 2225,
+        "WIDTH": 1996,
+        "HEIGHT": 64
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_8612a51b",
+      "kind": "main",
+      "idx": 33,
+      "text": ".מפני החשבון כאשר האריך הגאון שי\"ר נר\"ו בערך מלין",
+      "coords": {
+        "HPOS": 847,
+        "VPOS": 2289,
+        "WIDTH": 969,
+        "HEIGHT": 57
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_d9b0fa89",
+      "kind": "main",
+      "idx": 34,
+      "text": "ועתה בשנת תרי\"ח מפני שנתאחר הדפוס לסיבת אבדן איזה סימנים. אל ה' ויאר לנו והגיע לידינו ס' המפתח שחיבר",
+      "coords": {
+        "HPOS": 328,
+        "VPOS": 2339,
+        "WIDTH": 1994,
+        "HEIGHT": 62
+      },
+      "para_start": true,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_1b3f5c1c",
+      "kind": "main",
+      "idx": 35,
+      "text": "רבינו נסים מקירוואן זיע\"א וראיתי לו בהקדמתו דברים מבוררים כשמלה מחזיקים בכל חזק ותוקף כל מ\"ש בכל",
+      "coords": {
+        "HPOS": 330,
+        "VPOS": 2388,
+        "WIDTH": 1832,
+        "HEIGHT": 59
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_3a0490b1",
+      "kind": "main",
+      "idx": 36,
+      "text": "אורך ה' הענפים הללו. וע\"ז ראיתי להעתיקם פה כי דעתי הספר הזה לא נראה בעליל בכמה ארצות. ואעיקרא הענין",
+      "coords": {
+        "HPOS": 332,
+        "VPOS": 2445,
+        "WIDTH": 1990,
+        "HEIGHT": 57
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_2fa5cf91",
+      "kind": "main",
+      "idx": 37,
+      "text": "שנתפסקחי בו גורס לי לבל אניה להקורא לשוטט אחר הספרים בדבר הנוגע לבירור' ענין זה והוא שהתורה שבע\"פ היתה",
+      "coords": {
+        "HPOS": 328,
+        "VPOS": 2498,
+        "WIDTH": 1996,
+        "HEIGHT": 57
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_270e7284",
+      "kind": "main",
+      "idx": 38,
+      "text": ".נכתבת על יד על יד והיו גורסין הכל בע\"פ עד ת\"ח זמן רבנן סבוראי. והילך לשונו הזהב הצריך לענינינו",
+      "coords": {
+        "HPOS": 418,
+        "VPOS": 2544,
+        "WIDTH": 1825,
+        "HEIGHT": 63
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_8ace1683",
+      "kind": "main",
+      "idx": 39,
+      "text": "אבאר הזמן אשר נכתבה בו המשנה וגם התלמוד ואומר: לא שדה הקבלה והמסורת משומרת בין האומה וכאשר היה",
+      "coords": {
+        "HPOS": 330,
+        "VPOS": 2607,
+        "WIDTH": 1994,
+        "HEIGHT": 55
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_37419e0b",
+      "kind": "main",
+      "idx": 40,
+      "text": "האדם קורא ועשו להם ציצית היה אומר כי זו הציצית היא ציצית נשים אותה בכנף הטלית חססר חוטין ח' ויש",
+      "coords": {
+        "HPOS": 328,
+        "VPOS": 2658,
+        "WIDTH": 1823,
+        "HEIGHT": 55
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_11c53b55",
+      "kind": "main",
+      "idx": 41,
+      "text": "בה ה' קשרים וידע כל פתרוני הציצית ועניניה היה שמור אצלו הבל בקבלה ובמסורת וכן כל המצות כולן כאשר היו קודאין",
+      "coords": {
+        "HPOS": 332,
+        "VPOS": 2717,
+        "WIDTH": 1992,
+        "HEIGHT": 51
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_6abbdefc",
+      "kind": "main",
+      "idx": 42,
+      "text": "אותה היו יודעים לכמה ענינים מתחלקת כל מצוה ומצוה ומה מחתיה מהפתרון וכו'. ולא סרה האומה מזה המנהג מימות",
+      "coords": {
+        "HPOS": 330,
+        "VPOS": 2766,
+        "WIDTH": 1992,
+        "HEIGHT": 55
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_b21a39d9",
+      "kind": "main",
+      "idx": 43,
+      "text": "משה ועד אחד חרבן בית שני בק\"ן שנה (*) בימי ר' יהודה הנשיא אשר נקרא רבי וד\"הק כדאמרי' בירוש' פ' הנחנקין הלכה",
+      "coords": {
+        "HPOS": 332,
+        "VPOS": 2823,
+        "WIDTH": 1992,
+        "HEIGHT": 49
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_2ba073b1",
+      "kind": "main",
+      "idx": 44,
+      "text": "נ' אמ\"ר אבהו וכו' והיה בימי אנטונינוס מלך אדום והיה אצלו במעלה גדולה ובשררה יתירה באשר אבאר מקצת מה שאמצא",
+      "coords": {
+        "HPOS": 330,
+        "VPOS": 2869,
+        "WIDTH": 1990,
+        "HEIGHT": 64
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_1eb7df61",
+      "kind": "main",
+      "idx": 45,
+      "text": "כבר כמבנז בהערה מבקרא קרמוביות הבאה בע\"ד בח\"ב שי' מ' שהאאח כאו שביאר הגאון שי\"ר נר\"ו דהיה זה בק\"ך שנה לחרנן כ\"ה שהוא ח\"ח (*",
+      "coords": {
+        "HPOS": 328,
+        "VPOS": 2977,
+        "WIDTH": 1985,
+        "HEIGHT": 62
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_7bf6db26",
+      "kind": "main",
+      "idx": 46,
+      "text": ".לשטרות ואנמ\"ל",
+      "coords": {
+        "HPOS": 1992,
+        "VPOS": 3034,
+        "WIDTH": 253,
+        "HEIGHT": 51
+      },
+      "para_start": false,
+      "is_catchword": false
+    }
+  ]
+}
