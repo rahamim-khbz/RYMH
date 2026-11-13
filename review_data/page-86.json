@@ -1,0 +1,611 @@
+{
+  "page_id": "page-86",
+  "image": "page_images/page-86.jpg",
+  "page_width": 2550,
+  "page_height": 3300,
+  "base_hash": "sha256:9a738517de916fa0838014898bb07fb4cc05970fba2fc8d45503d547d904ffdb",
+  "lines": [
+    {
+      "line_id": "eSc_line_f5c687e9",
+      "kind": "main",
+      "idx": 0,
+      "text": "שבו ולא אמרי' בזה הלכה בבתראי בשום אופן דאי לאו הכי לא שבקת חיי! במה כח האחרונים יפה",
+      "coords": {
+        "HPOS": 267,
+        "VPOS": 280,
+        "WIDTH": 2040,
+        "HEIGHT": 70
+      },
+      "para_start": true,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_98f025f9",
+      "kind": "main",
+      "idx": 1,
+      "text": ",להפוך השרשים ע\"פ חיל עיונם? ועיין ס' המכריע ד\"ח ע\"א שעמ\"ש בחולין דמ\"ח ע\"ב דאמר דבינא",
+      "coords": {
+        "HPOS": 267,
+        "VPOS": 339,
+        "WIDTH": 2039,
+        "HEIGHT": 79
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_1c492fb5",
+      "kind": "main",
+      "idx": 2,
+      "text": ",והוא דסריך בבשרא, וחלק ע\"ז כ\"הג ובתשו' ר\"ץ גאון, והכשירו אפי' דסריך בצלעות ע\"ז סיים וכתב",
+      "coords": {
+        "HPOS": 266,
+        "VPOS": 403,
+        "WIDTH": 2040,
+        "HEIGHT": 82
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_aefb87b3",
+      "kind": "main",
+      "idx": 3,
+      "text": "\"ואין אלה אלא דברי נביאות לעקור שיטת התלמוד, וסוגיא דשמעתתא בלתי שום ראיה שבעולם",
+      "coords": {
+        "HPOS": 273,
+        "VPOS": 471,
+        "WIDTH": 2022,
+        "HEIGHT": 77
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_1fb9ec83",
+      "kind": "main",
+      "idx": 4,
+      "text": "עכ\"ד. ואם אנו מוצאים איזה גאון שחלק לא נאמר שנעלם ממנו השורש ההוא, ולא נאמר ג\"כ שידעו",
+      "coords": {
+        "HPOS": 266,
+        "VPOS": 544,
+        "WIDTH": 2038,
+        "HEIGHT": 59
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_1e9dffb0",
+      "kind": "main",
+      "idx": 5,
+      "text": "והזיד לחלוק עליו חלילה! אלא כיון דבקיאין בגויה דאותו גאון שהיה אדם גדול בתורה נחליט ונאמר",
+      "coords": {
+        "HPOS": 267,
+        "VPOS": 599,
+        "WIDTH": 2039,
+        "HEIGHT": 75
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_ac0fed80",
+      "kind": "main",
+      "idx": 6,
+      "text": "(על אותה התשו' המנגדת לשורשי הגמ' שאיזה תלמיד טועה כתבה וכנז\"ל (ועיין מוהרלנ\"ח דשי\"ח ע\"א",
+      "coords": {
+        "HPOS": 266,
+        "VPOS": 667,
+        "WIDTH": 2040,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_9a322828",
+      "kind": "main",
+      "idx": 7,
+      "text": "כי הן בעון תלמידים כאלו הטועים והמזידים לא חסרנום בכל הדורות ובזה סרה תלונת השואל שבציון",
+      "coords": {
+        "HPOS": 262,
+        "VPOS": 740,
+        "WIDTH": 2038,
+        "HEIGHT": 64
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_06a59f4c",
+      "kind": "main",
+      "idx": 8,
+      "text": "הנז\"ל כהרף עין שבאמת כשדברי הגאונים מנגדים שורשי התלמוד אין לנו לסמוך עליהם, ולא זו בלבד",
+      "coords": {
+        "HPOS": 271,
+        "VPOS": 804,
+        "WIDTH": 2031,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_a5a4fb75",
+      "kind": "main",
+      "idx": 9,
+      "text": "אלא אם הגאונים סמכו לפסוק כחד תנא וריהטא דשמעתתא אזלא דלא כההיא תנא, דברי הגאונים",
+      "coords": {
+        "HPOS": 262,
+        "VPOS": 865,
+        "WIDTH": 2042,
+        "HEIGHT": 64
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_4038c2d9",
+      "kind": "main",
+      "idx": 10,
+      "text": "הם נדחים (עיין תשב\"ץ ח\"א סי' קל\"ה רס\"ד סע\"ד) והרמב\"ם ז\"ל דחביבה עליו תורתן של גאונים ובקי",
+      "coords": {
+        "HPOS": 266,
+        "VPOS": 925,
+        "WIDTH": 2038,
+        "HEIGHT": 70
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_eb54c2b3",
+      "kind": "main",
+      "idx": 11,
+      "text": ",בהם ובהלכותיהם ותשובותיהם כאשר הראנו בכל משך חיבור זה, בכמה מקומות חלק על הגאונים",
+      "coords": {
+        "HPOS": 267,
+        "VPOS": 991,
+        "WIDTH": 2037,
+        "HEIGHT": 79
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_fece216b",
+      "kind": "main",
+      "idx": 12,
+      "text": "אם מפני שמצא ברייתא מפורשת דלא כדבריהם כגון ההיא דהגזלנים ומלוי ברבית שהחזירו אין",
+      "coords": {
+        "HPOS": 262,
+        "VPOS": 1061,
+        "WIDTH": 2040,
+        "HEIGHT": 70
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_88feb0d3",
+      "kind": "main",
+      "idx": 13,
+      "text": "מקבלים מהם דדיקינן מינה מכלל דהמחילה מועלת הפך דעת הגאונים (עיין פ\"ד מהל' מלוה ולוה",
+      "coords": {
+        "HPOS": 260,
+        "VPOS": 1120,
+        "WIDTH": 2038,
+        "HEIGHT": 77
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_bbada852",
+      "kind": "main",
+      "idx": 14,
+      "text": "הי\"ג) וכן חלק עליה בפ\"ב מה' מקואות הט\"ו לענין רובו ופקיד עליו ועיין מכ\"מ שם, ובלאו הכי הוא",
+      "coords": {
+        "HPOS": 262,
+        "VPOS": 1188,
+        "WIDTH": 2038,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_6f4abc9d",
+      "kind": "main",
+      "idx": 15,
+      "text": "מחלוקת בין רש\"י והתוספות בסוכה ד\"ו ע\"ב ד\"ה דברי תורה עי\"ש ורוק היטב. וכן חלק עליהם",
+      "coords": {
+        "HPOS": 260,
+        "VPOS": 1250,
+        "WIDTH": 2038,
+        "HEIGHT": 79
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_b38f6619",
+      "kind": "main",
+      "idx": 16,
+      "text": "כשמצא שתי נסחאות. והנוסחא האחת קרובה אל השכל כמו שהוא ענין אל תפרעני אלא בעדים",
+      "coords": {
+        "HPOS": 260,
+        "VPOS": 1316,
+        "WIDTH": 2042,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_ac407c42",
+      "kind": "main",
+      "idx": 17,
+      "text": "כבט\"ו מה' מלוה ולוה ה\"ב או שבירושלמי הכריע בין שני הנוסחאות בענין פתח פתוח בהלכות אישות",
+      "coords": {
+        "HPOS": 256,
+        "VPOS": 1386,
+        "WIDTH": 2046,
+        "HEIGHT": 67
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_d95d1630",
+      "kind": "main",
+      "idx": 18,
+      "text": "פ\"א ה\"ב וי\"ג ועיין ה\"ה שם. וכן אם הענין מחלוקת גאונים הוא הרמב\"ם יכריע כאיזה מהכתות",
+      "coords": {
+        "HPOS": 258,
+        "VPOS": 1450,
+        "WIDTH": 2042,
+        "HEIGHT": 64
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_db1fbac0",
+      "kind": "main",
+      "idx": 19,
+      "text": ",כיעוין פ\"ב מה' אישות הי\"ח, ובפי' מה' גרושין הי\"ט, ופ\"ד מה' נחלות ה\"ו, ופ\"ט מהלכות עבדים",
+      "coords": {
+        "HPOS": 267,
+        "VPOS": 1507,
+        "WIDTH": 2033,
+        "HEIGHT": 84
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_34e4974d",
+      "kind": "main",
+      "idx": 20,
+      "text": "ועיין תשו' הגאונים שבס' ש\"ץ ש\"א סי' י\"ז וש\"ו סי' ט\"ו, וכן ראה מנהגי הגאונים ותפש לדון בדין",
+      "coords": {
+        "HPOS": 264,
+        "VPOS": 1573,
+        "WIDTH": 2038,
+        "HEIGHT": 82
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_8d89ca1f",
+      "kind": "main",
+      "idx": 21,
+      "text": "הגמ' אם מפני שלא פשט מנהגם בכל תפוצות הגולה בפי\"ד מה' אישות הי\"ד ואם משום שאין נראה",
+      "coords": {
+        "HPOS": 258,
+        "VPOS": 1644,
+        "WIDTH": 2046,
+        "HEIGHT": 70
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_04cff2b9",
+      "kind": "main",
+      "idx": 22,
+      "text": "כן מנהג כל הישיבות שבבבל (שם פט\"ו ד\"ז) ואפי' מפני הספק שמא לא פשטה תקנתם, העמיד הדבר",
+      "coords": {
+        "HPOS": 264,
+        "VPOS": 1703,
+        "WIDTH": 2036,
+        "HEIGHT": 80
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_e8b39005",
+      "kind": "main",
+      "idx": 23,
+      "text": "על דין התלמוד (שם ה\"ט) וסברא גדולה היא, שבכל דור ודור יש לני לומר לאו קטלי קני באגמא",
+      "coords": {
+        "HPOS": 258,
+        "VPOS": 1765,
+        "WIDTH": 2042,
+        "HEIGHT": 83
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_67f0e500",
+      "kind": "main",
+      "idx": 24,
+      "text": ",אנן ויכולים אנו לחלוק על הגאונים, ועל רבנן סבוראי, כשיהיו לנו ראיות מופתיות מהתלמוד",
+      "coords": {
+        "HPOS": 273,
+        "VPOS": 1833,
+        "WIDTH": 2027,
+        "HEIGHT": 79
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_c529afd6",
+      "kind": "main",
+      "idx": 25,
+      "text": "וכאשר כתבנו לעיל, משם מר\"ן מוהריק\"א ז\"ל בתשו' אבקת רוכל סימן קנ\"ה, ועל יסוד זה יסבו דברי",
+      "coords": {
+        "HPOS": 262,
+        "VPOS": 1899,
+        "WIDTH": 2038,
+        "HEIGHT": 70
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_ecbca564",
+      "kind": "main",
+      "idx": 26,
+      "text": "הרא\"ם ז\"ל הנז\"ל באומרו: \"שכמה מדברי הגאונים נדחו כשאינם על שרשי הגמרא\" והוא ברור יותר",
+      "coords": {
+        "HPOS": 266,
+        "VPOS": 1961,
+        "WIDTH": 2032,
+        "HEIGHT": 74
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_2f644076",
+      "kind": "main",
+      "idx": 27,
+      "text": "מביעתא בכותחא, ולאידך גיסא כשאין דברי הגאונים חולקים על התלמוד, ומוציאין דין חדש, או",
+      "coords": {
+        "HPOS": 258,
+        "VPOS": 2027,
+        "WIDTH": 2037,
+        "HEIGHT": 81
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_de5a3c53",
+      "kind": "main",
+      "idx": 28,
+      "text": "מפרשים פי' אחד בתלמוד נגד סברתינו, ואין מביאין ראיה לדבריהם עכ\"ז כיון שלא מצאנו הפך",
+      "coords": {
+        "HPOS": 260,
+        "VPOS": 2090,
+        "WIDTH": 2036,
+        "HEIGHT": 77
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_406badb4",
+      "kind": "main",
+      "idx": 29,
+      "text": "דבריהם בתלמוד אין לנו רשות לחלוק עליהם, וז\"ל הרדב\"ז ח\"ב דפ\"ו סימן תקנ\"ט \"כך עיקרן של",
+      "coords": {
+        "HPOS": 258,
+        "VPOS": 2152,
+        "WIDTH": 2038,
+        "HEIGHT": 88
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_3d8b92aa",
+      "kind": "main",
+      "idx": 30,
+      "text": "דברים כל תשו' הגאונים שאינה חולקת בהדיא על התלמוד, נסמוך עליה, אע\"ג דלא חתים שמיה",
+      "coords": {
+        "HPOS": 258,
+        "VPOS": 2218,
+        "WIDTH": 2027,
+        "HEIGHT": 88
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_99d432aa",
+      "kind": "main",
+      "idx": 31,
+      "text": "\"עלה, וכל תשו' שהיא חולקת על התלמוד או על א' מהכללים המסורים בידינו, לא סמכינן עלה",
+      "coords": {
+        "HPOS": 266,
+        "VPOS": 2282,
+        "WIDTH": 2019,
+        "HEIGHT": 90
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_53c504f5",
+      "kind": "main",
+      "idx": 32,
+      "text": "ע\"כ. ועיין מ\"ש לעיל סי' ט' ודוק שם שהוא מכוון אל כל האמור, ועיין תשב\"ן ח\"א סי' ל\"ב דכ\"ב",
+      "coords": {
+        "HPOS": 260,
+        "VPOS": 2346,
+        "WIDTH": 2035,
+        "HEIGHT": 90
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_225e366c",
+      "kind": "main",
+      "idx": 33,
+      "text": ":ע\"א דבמחלוקת הידוע דבכ\"י, אם יוכל לטעון פרעתי או לא, ע\"ז כתב משם הרשב\"א באומרו",
+      "coords": {
+        "HPOS": 258,
+        "VPOS": 2414,
+        "WIDTH": 2037,
+        "HEIGHT": 84
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_375ca7a6",
+      "kind": "main",
+      "idx": 34,
+      "text": "דאלו מצינו כן לבעלי הגמרא בפירוש היה מן הראוי לתמוה ולשאול למה? כ\"ש עכשיו שאין עיקר",
+      "coords": {
+        "HPOS": 262,
+        "VPOS": 2476,
+        "WIDTH": 2023,
+        "HEIGHT": 90
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_2d698360",
+      "kind": "main",
+      "idx": 35,
+      "text": "בגמ' ואין אומרים כן משיקול הדעת\" ועם שהתשב\"ץ מודה להרשב\"א בכל ראיותיו, באומרו שדברי",
+      "coords": {
+        "HPOS": 260,
+        "VPOS": 2546,
+        "WIDTH": 2036,
+        "HEIGHT": 73
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_80b58ddf",
+      "kind": "main",
+      "idx": 36,
+      "text": "הרשב\"א הם הם דברי טעם, עכ\"ז סיים שם בב' מקומות ואמר: ולענין מעשה ששאלת א\"א לחלוק",
+      "coords": {
+        "HPOS": 258,
+        "VPOS": 2605,
+        "WIDTH": 2038,
+        "HEIGHT": 91
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_3031b431",
+      "kind": "main",
+      "idx": 37,
+      "text": "על הגאונים יעו\"ש הרי דאפי' בדבר שחולק על סברתנו, כל שאין לנו ראיה מופתית מן הגמ' הפך",
+      "coords": {
+        "HPOS": 262,
+        "VPOS": 2673,
+        "WIDTH": 2033,
+        "HEIGHT": 86
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_a7f86b29",
+      "kind": "main",
+      "idx": 38,
+      "text": "הגאונים, א\"א לחלוק עליהם והוא יסוד מוסד לכל התורה, בכל הראשונים שקדמונו עד דורו של מרן",
+      "coords": {
+        "HPOS": 266,
+        "VPOS": 2737,
+        "WIDTH": 2027,
+        "HEIGHT": 93
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_ea59a910",
+      "kind": "main",
+      "idx": 39,
+      "text": "הקדוש",
+      "coords": {
+        "HPOS": 390,
+        "VPOS": 2828,
+        "WIDTH": 156,
+        "HEIGHT": 65
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_d0d56284",
+      "kind": "main",
+      "idx": 40,
+      "text": "כך, בזמננו אשר ירד ירדנו כמה אלף מעלות עאכ\"וכ שאין לנו לסמך עפ\"י פלפולינו להוציא הדינים אם לא שנחפש עד",
+      "coords": {
+        "HPOS": 258,
+        "VPOS": 2893,
+        "WIDTH": 2033,
+        "HEIGHT": 78
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_6dec6520",
+      "kind": "main",
+      "idx": 41,
+      "text": ":בשמים ראש סי' קנ\"ח בחחילת התשובה",
+      "coords": {
+        "HPOS": 939,
+        "VPOS": 3010,
+        "WIDTH": 686,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_1bf4b027",
+      "kind": "main",
+      "idx": 42,
+      "text": "'אחרוני אחדונים, וככר כתבתי בזה כמה שיש בו די, בקונטריסי קנאת ציון (דט\"ז ע\"א) בתוך מאמר מוסגר, ועיין חשו",
+      "coords": {
+        "HPOS": 262,
+        "VPOS": 2953,
+        "WIDTH": 2025,
+        "HEIGHT": 81
+      },
+      "para_start": true,
+      "is_catchword": false
+    }
+  ]
+}

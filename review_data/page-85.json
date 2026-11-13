@@ -1,0 +1,695 @@
+{
+  "page_id": "page-85",
+  "image": "page_images/page-85.jpg",
+  "page_width": 2550,
+  "page_height": 3300,
+  "base_hash": "sha256:60b43778ac666a4106b68d2a0968e1f97562eb606c4c33878af98e99a20b684b",
+  "lines": [
+    {
+      "line_id": "eSc_line_ca1370d9",
+      "kind": "main",
+      "idx": 0,
+      "text": "וקשה מפני מה לא אמרינן הלכה כבתראי? ואם לא היה להם רשות לחלוק על הגמרא, צריכין אנו",
+      "coords": {
+        "HPOS": 258,
+        "VPOS": 242,
+        "WIDTH": 2005,
+        "HEIGHT": 82
+      },
+      "para_start": true,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_221b18a4",
+      "kind": "main",
+      "idx": 1,
+      "text": "לומר או כי דברי הש\"ס היו נעלמים מהם או שהכניסו את עצמם בפלוגתא נגד הש\"ס שלא כדין וזה",
+      "coords": {
+        "HPOS": 258,
+        "VPOS": 306,
+        "WIDTH": 2003,
+        "HEIGHT": 69
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_0cbfe737",
+      "kind": "main",
+      "idx": 2,
+      "text": "\"'זר מאד\" עכ\"ד וא\"כ בראותו תשו' הרא\"ם שאומר \"שכמה דברי הגאונים נדחו שאינם על שרשי הגמ",
+      "coords": {
+        "HPOS": 269,
+        "VPOS": 370,
+        "WIDTH": 1987,
+        "HEIGHT": 81
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_dc8624c2",
+      "kind": "main",
+      "idx": 3,
+      "text": "אמר א\"כ יכול אני לחרוץ משפטי על תשובה זאת הבאת בריש שערי צרק, ולומר חלילה וכו', כלומר",
+      "coords": {
+        "HPOS": 266,
+        "VPOS": 438,
+        "WIDTH": 2005,
+        "HEIGHT": 77
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_ee477e61",
+      "kind": "main",
+      "idx": 4,
+      "text": "הרי הרא\"ם עמוד גדול מעמודי ההוראה עד שהשתבח מוהרלנ\"ח שתורתו תורת אמת, כי אלו היה חי",
+      "coords": {
+        "HPOS": 262,
+        "VPOS": 506,
+        "WIDTH": 2009,
+        "HEIGHT": 64
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_69784568",
+      "kind": "main",
+      "idx": 5,
+      "text": "הרא\"ם ז\"ל היה מסכים על דבריו (*) ועפ\"ז צאו וראו שחלק על הגאונים וסיים וכתב, שכמה דברי",
+      "coords": {
+        "HPOS": 264,
+        "VPOS": 568,
+        "WIDTH": 2007,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_f1adba54",
+      "kind": "main",
+      "idx": 6,
+      "text": "הגאונים נדחו וכו'\" וא\"כ בהכרח תשו' זאת של רב שרירא שכותב בה \"דכל החולק על דבר מדברי",
+      "coords": {
+        "HPOS": 264,
+        "VPOS": 628,
+        "WIDTH": 2008,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_65bf0e18",
+      "kind": "main",
+      "idx": 7,
+      "text": "?הגאונים, הוא כחולק על ה' ועל תורתו\" ודאי הוא מזוייפה, ומי לנו גדול מהרא\"ם שאומר להפך",
+      "coords": {
+        "HPOS": 260,
+        "VPOS": 691,
+        "WIDTH": 2011,
+        "HEIGHT": 80
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_f83e489d",
+      "kind": "main",
+      "idx": 8,
+      "text": "זאת היא תכלית סמיכתו של החכם השד\"ל נר\"ו, ואבא בדרך ישר להראות לעיני השמש והירח, איך",
+      "coords": {
+        "HPOS": 266,
+        "VPOS": 764,
+        "WIDTH": 2006,
+        "HEIGHT": 72
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_536dd153",
+      "kind": "main",
+      "idx": 9,
+      "text": "אלו ואלו דברי אלהים חיים, ר\"ל גם דברי הרא\"ם במה שיש לנו כח לחלק על הגאונים, גם דברי",
+      "coords": {
+        "HPOS": 264,
+        "VPOS": 826,
+        "WIDTH": 2008,
+        "HEIGHT": 65
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_c63c0b2c",
+      "kind": "main",
+      "idx": 10,
+      "text": "הגאון בתשו' זאת כמה שאין לנו כח לחלוק עליהם, וכשידקדק האדם מעט בדבריהם, ימצא הדברים",
+      "coords": {
+        "HPOS": 258,
+        "VPOS": 894,
+        "WIDTH": 2014,
+        "HEIGHT": 72
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_b36fd6e0",
+      "kind": "main",
+      "idx": 11,
+      "text": "קרואים והולכים לתומם, רהנה הרא\"ם ז\"ל בפי' \"שכמה דברי הגאונים נדחו מפני שאינם על",
+      "coords": {
+        "HPOS": 267,
+        "VPOS": 946,
+        "WIDTH": 2000,
+        "HEIGHT": 91
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_5d0fb59e",
+      "kind": "main",
+      "idx": 12,
+      "text": "שורשי הגמרא כונתו מבוארת\" כשדברי הגאון אינם על שורשי",
+      "coords": {
+        "HPOS": 777,
+        "VPOS": 1015,
+        "WIDTH": 1479,
+        "HEIGHT": 79
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_568b554e",
+      "kind": "main",
+      "idx": 13,
+      "text": "הגמרא דרך משל אותה דלעיל סימן קס\"ד לרב נטרונאי שנדה לא תעלה לה טבילה כי אם במים",
+      "coords": {
+        "HPOS": 255,
+        "VPOS": 1079,
+        "WIDTH": 2017,
+        "HEIGHT": 76
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_bb43df12",
+      "kind": "main",
+      "idx": 14,
+      "text": "חיים, הא ודאי נדחית היא, תשובה זאת מקמי שורשי הברייתות והתוספתות, וכאשר הארכנו לעיל וכגון",
+      "coords": {
+        "HPOS": 255,
+        "VPOS": 1145,
+        "WIDTH": 2017,
+        "HEIGHT": 76
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_48ac4486",
+      "kind": "main",
+      "idx": 15,
+      "text": "דא ודאי אמרינן איזה תלמיד טועה כתבה בשם ר\"ן גאון וכ\"כ מוהר\"ם אלאשקר ז\"ל בסי' כ\"ז על רב",
+      "coords": {
+        "HPOS": 255,
+        "VPOS": 1206,
+        "WIDTH": 2008,
+        "HEIGHT": 73
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_76d6d688",
+      "kind": "main",
+      "idx": 16,
+      "text": "'נטרונאי דהכשיר הקרובים לעידי קיום עי\"ש וכן כתב הראב\"ד ה\"ד בס' תמים דעים סי' מ\"ב על תשו",
+      "coords": {
+        "HPOS": 264,
+        "VPOS": 1276,
+        "WIDTH": 2008,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_f8d8b3d9",
+      "kind": "main",
+      "idx": 17,
+      "text": "רה\"ג ז\"ל איני יודע מי שגאה ואפשר הסופרים שבשוה וכו' עיש\"ב, וכן כתב הרשב\"א סי' א' קס\"ו עיש\"ב",
+      "coords": {
+        "HPOS": 255,
+        "VPOS": 1336,
+        "WIDTH": 2014,
+        "HEIGHT": 72
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_6d5d2b64",
+      "kind": "main",
+      "idx": 18,
+      "text": "מה) כי באמת אחר חתימת התלמוד לא נשאר כח ביד שום גאון לחלוק על השרשים הגדולים והקטנים)",
+      "coords": {
+        "HPOS": 255,
+        "VPOS": 1406,
+        "WIDTH": 2008,
+        "HEIGHT": 71
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_b7bfc203",
+      "kind": "main",
+      "idx": 19,
+      "text": "שבו",
+      "coords": {
+        "HPOS": 385,
+        "VPOS": 1472,
+        "WIDTH": 97,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_09d06915",
+      "kind": "main",
+      "idx": 20,
+      "text": ".ז קונטרים הסמינה דשכ\"ה ע\"ד!",
+      "coords": {
+        "HPOS": 1614,
+        "VPOS": 1529,
+        "WIDTH": 638,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_682f0eb8",
+      "kind": "main",
+      "idx": 21,
+      "text": "מ\"ה) עיין חשובת מוהר\"י כן מיגא: (רפוס שאלוניקי סי' קי\"ד) ששאל השואל \"במי שאינו יודע דרך הלכה ולא פירושה, אלא",
+      "coords": {
+        "HPOS": 251,
+        "VPOS": 1584,
+        "WIDTH": 2016,
+        "HEIGHT": 66
+      },
+      "para_start": true,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_7ca04c63",
+      "kind": "main",
+      "idx": 22,
+      "text": "שהוא ראה מחשו' הגאונים ז\"ל וספרי הדינים, ולא נעלם מאדוננו, שהתשובות אינם עומדות על מצב אחד בפרט",
+      "coords": {
+        "HPOS": 253,
+        "VPOS": 1633,
+        "WIDTH": 1886,
+        "HEIGHT": 59
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_0428f637",
+      "kind": "main",
+      "idx": 23,
+      "text": "הישנות מהש שנכנס בהם ההפסד מצד המעתיקים אותם, ועם זה יחסו תשובותיהם לזולת בעליהן, גם הרבה מן הגאונים",
+      "coords": {
+        "HPOS": 251,
+        "VPOS": 1690,
+        "WIDTH": 2014,
+        "HEIGHT": 55
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_ef558242",
+      "kind": "main",
+      "idx": 24,
+      "text": "הורו בתשונותיהם על שאלה אחת, ואח\"כ חזרו בהם מאותה הוראה או השיגו אחרים אותה בכך, ואם איש שעיקר ידיעתו",
+      "coords": {
+        "HPOS": 255,
+        "VPOS": 1741,
+        "WIDTH": 2006,
+        "HEIGHT": 57
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_530ab31a",
+      "kind": "main",
+      "idx": 25,
+      "text": "כתשובות אלו, ואינו מבין הצדק מהם מהבלתי צדק יוכל להורות בענין אחד, ויפסוק הדין בו, ואפשר להיות שאותה",
+      "coords": {
+        "HPOS": 253,
+        "VPOS": 1794,
+        "WIDTH": 2012,
+        "HEIGHT": 63
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_98bdb27a",
+      "kind": "main",
+      "idx": 26,
+      "text": "שהורה ממנה כבר חוזר בו המורה בה, ומי שאינו מבין עיקר, ולא מאיזה מקום יצא מן התלמוד, אם הוא מותר",
+      "coords": {
+        "HPOS": 260,
+        "VPOS": 1844,
+        "WIDTH": 2003,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_3c54c3f8",
+      "kind": "main",
+      "idx": 27,
+      "text": ".'להורות\"? וכו",
+      "coords": {
+        "HPOS": 1122,
+        "VPOS": 1901,
+        "WIDTH": 283,
+        "HEIGHT": 58
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_a1d9ddd6",
+      "kind": "main",
+      "idx": 28,
+      "text": "תשובה \"דע שהאיש הזה ראוי יותר להתיר לו להורות מאנשים רבים, קבעו עצמם להוראה, בזמננו זה, ורובם אין",
+      "coords": {
+        "HPOS": 253,
+        "VPOS": 1948,
+        "WIDTH": 2018,
+        "HEIGHT": 65
+      },
+      "para_start": true,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_fceb3db1",
+      "kind": "main",
+      "idx": 29,
+      "text": "בהם אפילו אחד משני דברים אלו, וצוני לומר, הבנת ההלכה והעמידה על דעת הגאונים ז\"ל, ואותם",
+      "coords": {
+        "HPOS": 256,
+        "VPOS": 2007,
+        "WIDTH": 1776,
+        "HEIGHT": 64
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_5f449f6d",
+      "kind": "main",
+      "idx": 30,
+      "text": ",שמדמים להורות מעיון ההלכה ומחוזק עיונם בתלמוד, הם שראוי למנעם מזה, לפי שאין בזמננו זה מי שיהיה ראוי לכך\"",
+      "coords": {
+        "HPOS": 256,
+        "VPOS": 2060,
+        "WIDTH": 2013,
+        "HEIGHT": 63
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_26791c74",
+      "kind": "main",
+      "idx": 31,
+      "text": "ולא מי שהגיע בחכמת התלמוד, לכלל שיורה מעיונו מבלי שיעמוד על דעת הגאונים ז\"ל, אבל מי שמורה מתשו' הגאונים",
+      "coords": {
+        "HPOS": 255,
+        "VPOS": 2110,
+        "WIDTH": 2010,
+        "HEIGHT": 60
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_15a81518",
+      "kind": "main",
+      "idx": 32,
+      "text": "וסמך עליהם, ואע\"פי שאינו יכול להבין בתלמוד, הוא יותר הגון ומשובח, מאותו שחושב שהוא יודע בתלמוד, וסומך",
+      "coords": {
+        "HPOS": 260,
+        "VPOS": 2167,
+        "WIDTH": 2005,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_8912d862",
+      "kind": "main",
+      "idx": 33,
+      "text": ",על עצמו שהוא אע\"פי שהוא מורה מסברא בלתי אמתית מראיות הגאונים ז\"ל, מ\"מ אינו טועה בזה לפי שהוא מה שעשה",
+      "coords": {
+        "HPOS": 256,
+        "VPOS": 2220,
+        "WIDTH": 2005,
+        "HEIGHT": 64
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_80a675bd",
+      "kind": "main",
+      "idx": 34,
+      "text": ",ע\"פ ב\"ד גדול מומחה לרבים עשה, ומי שמורה מעיונו בהלכה, אפשר שהוא חושב שאותה הלכה מחייבת אותה הוראה",
+      "coords": {
+        "HPOS": 251,
+        "VPOS": 2271,
+        "WIDTH": 2009,
+        "HEIGHT": 62
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_5e539742",
+      "kind": "main",
+      "idx": 35,
+      "text": ",והיא אינה מחייבתה והטתו עיונו או טעה בפירושה, ואין בזמננו זה מי שיגיע בתלמוד לגדר שיוכל לסמיך להורות ממנו",
+      "coords": {
+        "HPOS": 253,
+        "VPOS": 2324,
+        "WIDTH": 2007,
+        "HEIGHT": 63
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_23a18c3e",
+      "kind": "main",
+      "idx": 36,
+      "text": ",וכבר באו לידי תשו' קצת אנשים, בדברים שהורו בהם, והם חושבין שהורו כדין ושהוא ברור כשמש והם טעו בהוראתם\"",
+      "coords": {
+        "HPOS": 253,
+        "VPOS": 2383,
+        "WIDTH": 2005,
+        "HEIGHT": 57
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_c4a3e6da",
+      "kind": "main",
+      "idx": 37,
+      "text": "ותלו הדבר ההוא אל מקום בלתי מקומו, ולמדו הדין ממקום שאין ללמוד אותו ממנו וכבר היה בין הדבר שדנו בו, ובין",
+      "coords": {
+        "HPOS": 256,
+        "VPOS": 2436,
+        "WIDTH": 2005,
+        "HEIGHT": 64
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_65703a7b",
+      "kind": "main",
+      "idx": 38,
+      "text": "ההלכה שנתלו בה לאותו הדין חילוק דק, ודקדוק נעלם ונסתר, ולא הרגישו בו, והיו לוקחים ההלכה כפשטה, ולא",
+      "coords": {
+        "HPOS": 253,
+        "VPOS": 2482,
+        "WIDTH": 2005,
+        "HEIGHT": 64
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_d33128f7",
+      "kind": "main",
+      "idx": 39,
+      "text": "הרגישו בחילוק הדק שנה, ומדמין הנדון שלהם לה, ואינם מרגישין בחילוק הדק שביניהם, עד שאני אומר שמי שאינו",
+      "coords": {
+        "HPOS": 253,
+        "VPOS": 2535,
+        "WIDTH": 2003,
+        "HEIGHT": 70
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_b4e4c892",
+      "kind": "main",
+      "idx": 40,
+      "text": "סומך על עצמו אם הוא נתלה בתשו' הגאונים ובהוראתם, שהם הלכות פסוקות וסברות קצרות וברורות הוא יותר משובח",
+      "coords": {
+        "HPOS": 251,
+        "VPOS": 2596,
+        "WIDTH": 2007,
+        "HEIGHT": 60
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_c8000232",
+      "kind": "main",
+      "idx": 41,
+      "text": "\"מאותם המדמים להורות מן התלמוד",
+      "coords": {
+        "HPOS": 959,
+        "VPOS": 2647,
+        "WIDTH": 633,
+        "HEIGHT": 64
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_e45ca14d",
+      "kind": "main",
+      "idx": 42,
+      "text": "כמה הלכתא רבוותא איכא למשמע מתשובה זאת. א: שבזמן מוהר\"י ן' מיגאש דור שלישי לרבנות כבר נכנס ההפסד",
+      "coords": {
+        "HPOS": 255,
+        "VPOS": 2687,
+        "WIDTH": 2010,
+        "HEIGHT": 77
+      },
+      "para_start": true,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_287754f8",
+      "kind": "main",
+      "idx": 43,
+      "text": "בתשו' הגאונים, ובפרט בישנות מצד המעתיקים. שנית: שגם מאותם הימים כבר נפל טעות ליחם תשובות",
+      "coords": {
+        "HPOS": 251,
+        "VPOS": 2757,
+        "WIDTH": 1853,
+        "HEIGHT": 57
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_20498cec",
+      "kind": "main",
+      "idx": 44,
+      "text": "לזולת בעליהן. ג: שכבר היו תשו' גאונים דחזרו כהם מתשובה לתשובה. ד: והיא הגדולה שבכולם, דמוהר\"י ן' מיגאש",
+      "coords": {
+        "HPOS": 251,
+        "VPOS": 2801,
+        "WIDTH": 2018,
+        "HEIGHT": 64
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_5a386895",
+      "kind": "main",
+      "idx": 45,
+      "text": ",ו\"ל עם שהודה לשואל בכל מה שכתב בטעיות וקלקולים והפסדים שנפלו בתשו' הגאונים, עכ\"ז בחר במי שמורה מתונם",
+      "coords": {
+        "HPOS": 255,
+        "VPOS": 2863,
+        "WIDTH": 2010,
+        "HEIGHT": 64
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_12e281bc",
+      "kind": "main",
+      "idx": 46,
+      "text": "יוחר ממי שמורה מתוך פלפול התלמוד מבלי שיעמוד אח\"כ על סברת הגאונים, אע\"פי שלפעמים הוא מורה מסברא בלתי",
+      "coords": {
+        "HPOS": 255,
+        "VPOS": 2907,
+        "WIDTH": 2012,
+        "HEIGHT": 74
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_104d3f32",
+      "kind": "main",
+      "idx": 47,
+      "text": "אמתית שהביאו אותה הגאונים, סיף סוף לא יקרא טועה בזה לפי שהוא עשה על פי ב\"ד גדול, ואם בזמן מוהר\"י ן' מיגאש",
+      "coords": {
+        "HPOS": 253,
+        "VPOS": 2966,
+        "WIDTH": 2010,
+        "HEIGHT": 71
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_d4c5939e",
+      "kind": "main",
+      "idx": 48,
+      "text": ".",
+      "coords": {
+        "HPOS": 370,
+        "VPOS": 3015,
+        "WIDTH": 37,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    }
+  ]
+}

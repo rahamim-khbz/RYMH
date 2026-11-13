@@ -1,0 +1,625 @@
+{
+  "page_id": "page-09",
+  "image": "page_images/page-09.png",
+  "page_width": 2550,
+  "page_height": 3300,
+  "base_hash": "sha256:cbac6d0da8486fd67f2ec52df7cb7dbf7147cb4ed337d3fbb62222af428a5dbb",
+  "lines": [
+    {
+      "line_id": "_85da71c4-f0c1-4c57-8873-5c185cae3fc4",
+      "kind": "main",
+      "idx": 0,
+      "text": "יכול לתרצם, ובזה היה רואה ר\"יוח דיש לו רב בבבל, דאי לאו הכי גבורתא למבעי בעיי? עיקר",
+      "coords": {
+        "HPOS": 148,
+        "VPOS": 225,
+        "WIDTH": 2011,
+        "HEIGHT": 61
+      },
+      "para_start": true,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_8e210988-0695-4cc0-927e-83166407fc18",
+      "kind": "main",
+      "idx": 1,
+      "text": "החכמה הנפלאה לא תתראה כי אם בהתרת הספקות, לא בקיומם, וא\"כ כיון דהיו ספקות בלתי אפשרי",
+      "coords": {
+        "HPOS": 141,
+        "VPOS": 286,
+        "WIDTH": 2018,
+        "HEIGHT": 71
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_4a57aa8b-81f6-487c-a695-001ad53e856d",
+      "kind": "main",
+      "idx": 2,
+      "text": "התשובה והתרתם, לזה יאמר האומר דהותרו, וע\"ז דקדק רש\"י \"ספקי טריפתא, מיני ספק טריפות,",
+      "coords": {
+        "HPOS": 143,
+        "VPOS": 357,
+        "WIDTH": 2014,
+        "HEIGHT": 64
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_b4196b2f-fbc1-40ac-ae9f-f97600fae76c",
+      "kind": "main",
+      "idx": 3,
+      "text": "ואני שמעתי הנך ספקי עופות טמאים בפרק אלו טרפות דס\"ב עכ\"ד. כונתו מבוארת לפרש דבאמת",
+      "coords": {
+        "HPOS": 135,
+        "VPOS": 434,
+        "WIDTH": 2026,
+        "HEIGHT": 48
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_bd885204-e80d-4162-8906-e8b5db33a303",
+      "kind": "main",
+      "idx": 4,
+      "text": "שלח לו ספקות דלא הותרו ולא הופשטו מעולם, כגון הנך המובאים בפרק אלו טריפות דס\"ב, דלעולם",
+      "coords": {
+        "HPOS": 135,
+        "VPOS": 484,
+        "WIDTH": 2024,
+        "HEIGHT": 64
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_a624ab41-d3ca-4747-b14a-a2a85a8868fd",
+      "kind": "main",
+      "idx": 5,
+      "text": "נשארו בספק איסור, דאי היה פושטם ר\"יוח לא היה אומר אית לי רב בבבל, עכ\"ז עדיין לא ימלט",
+      "coords": {
+        "HPOS": 135,
+        "VPOS": 550,
+        "WIDTH": 2022,
+        "HEIGHT": 64
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_c10873cc-0b6d-4f87-9749-4ede49e86670",
+      "kind": "main",
+      "idx": 6,
+      "text": "מהדוחק דמלבד דמאן פליג לן בין שאלות לתשובות, דסוף סוף הכל הוא תושבע\"פ, והרי כתב י\"ג גוילין",
+      "coords": {
+        "HPOS": 137,
+        "VPOS": 614,
+        "WIDTH": 2018,
+        "HEIGHT": 71
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_3e35e513-36c5-489c-b8c7-0179f9b685fb",
+      "kind": "main",
+      "idx": 7,
+      "text": "ומי התיר לו? עוד זאת דלא סגי דשמואל כששלח לו י\"ג גוילין מלאים ספקות, ודאי שהיה חושב",
+      "coords": {
+        "HPOS": 135,
+        "VPOS": 680,
+        "WIDTH": 2026,
+        "HEIGHT": 58
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_4a8f36bf-67e5-474f-aec6-3ccb3d3c586e",
+      "kind": "main",
+      "idx": 8,
+      "text": "שיפשיט לו אחד או ב', ולא שישאר הכל בספק, ועכ\"ז כתב לו כדי לקבל תשובה בכתב, דאי לאו הכי",
+      "coords": {
+        "HPOS": 139,
+        "VPOS": 748,
+        "WIDTH": 2018,
+        "HEIGHT": 62
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_4b062fd3-0067-49b7-80ea-9353777d2a3c",
+      "kind": "main",
+      "idx": 9,
+      "text": "היה מוכרח ר\"יוח לבא מא\"י לבבל, או לשלוח שליח מיוחד, והוא דבר רחוק, וכמה גבהו טורין",
+      "coords": {
+        "HPOS": 137,
+        "VPOS": 810,
+        "WIDTH": 2018,
+        "HEIGHT": 62
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_067d1258-e318-456e-99fa-895cd53b4d2b",
+      "kind": "main",
+      "idx": 10,
+      "text": "רברבן ביניהו? ומי מפיס שכל הספקות נשארו בספק, ולא פשט גם אחד, ובפרט שאותם הספקות",
+      "coords": {
+        "HPOS": 133,
+        "VPOS": 878,
+        "WIDTH": 2022,
+        "HEIGHT": 57
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_dad0b603-fa81-42e9-852d-219dc1669ea4",
+      "kind": "main",
+      "idx": 11,
+      "text": "המוזכרים בפ' א\"ט דס\"ב אינם כי אם שלוש שורות שבאו'מר לא י\"ג גוילין, וא\"כ ודאי דפשט לו מקצתם,",
+      "coords": {
+        "HPOS": 143,
+        "VPOS": 933,
+        "WIDTH": 2014,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_4d51f908-912f-493e-a121-ec1a2540e100",
+      "kind": "main",
+      "idx": 12,
+      "text": "ועל מקצתם שלא הופשטו קרי עליה \"אית לי רב בבבל\" דרצה לומר, דאפילו שאני בקי בטרפיות מאין",
+      "coords": {
+        "HPOS": 137,
+        "VPOS": 999,
+        "WIDTH": 2024,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_a90599c9-2861-4089-a1ba-07333dd3d25c",
+      "kind": "main",
+      "idx": 13,
+      "text": "כמוני, עכ\"ז ידע שמואל לשלוח לי ספקות שלא יכולתי להתיר לו כולם כלל העולה דשפיר כתבתי",
+      "coords": {
+        "HPOS": 135,
+        "VPOS": 1063,
+        "WIDTH": 2020,
+        "HEIGHT": 62
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_afc952c1-a4b5-4d8f-a1a6-f1c44903d558",
+      "kind": "main",
+      "idx": 14,
+      "text": "דלכל הפחות זכר לדבר איכא מהך סוגיא דעיקר איסור הכתיבה לא היה כי אם הפומביית ולא הסודיית",
+      "coords": {
+        "HPOS": 132,
+        "VPOS": 1140,
+        "WIDTH": 2023,
+        "HEIGHT": 55
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_e1f13f47-d428-4cca-8008-011ae5704ebd",
+      "kind": "main",
+      "idx": 15,
+      "text": "הנכתבת בינ\"ן של קדושים, והא דרב יוסף שאני דהוה סגי נהור, וכן יש להביא ראיה ממ\"ש בכתובות",
+      "coords": {
+        "HPOS": 132,
+        "VPOS": 1197,
+        "WIDTH": 2029,
+        "HEIGHT": 57
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_1e28d3d5-5aed-462f-835b-7445803b67b0",
+      "kind": "main",
+      "idx": 16,
+      "text": "דס\"ט, \"תלה ליה רב לרבי ביני חיטי\" ולפי פירוש ר\"ת, ורבינו יוסף מיגאשה\"ד בש\"מ לשם, הוא שכתב",
+      "coords": {
+        "HPOS": 130,
+        "VPOS": 1261,
+        "WIDTH": 2023,
+        "HEIGHT": 64
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_ccc38fb2-1fc6-4786-a5be-f20404e24bd4",
+      "kind": "main",
+      "idx": 17,
+      "text": "רב לרבי כתב כולו שאלות, וזאת נכתבה ביריעה וניתנה בין יריעות שאר תשובות, ורש\"י פי' שכתב",
+      "coords": {
+        "HPOS": 130,
+        "VPOS": 1327,
+        "WIDTH": 2025,
+        "HEIGHT": 59
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_cdea6b68-17f0-4ffe-8002-2c6205c17bbe",
+      "kind": "main",
+      "idx": 18,
+      "text": "השאלה הזאת ביני שיטי באגרת שלומים שכתב לו, ורבינו האי ז\"ל פי' ה\"ר שם בש\"מ בערבי, ותכלית",
+      "coords": {
+        "HPOS": 132,
+        "VPOS": 1391,
+        "WIDTH": 2023,
+        "HEIGHT": 59
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_f2ce867a-ec90-48f6-8aca-d1ec2995ad1e",
+      "kind": "main",
+      "idx": 19,
+      "text": "פי' \"ביני חיטי\" שכתבו בגליונות שלמעלה ושלמטה, במקום שמשם מתחיל הכתיבה, ובמקום שמסיים,",
+      "coords": {
+        "HPOS": 139,
+        "VPOS": 1457,
+        "WIDTH": 2011,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_f6701d85-daf0-46a3-9abd-824b55476c5d",
+      "kind": "main",
+      "idx": 20,
+      "text": "ששני מקומות אלו הם חלקים\" ולכל הפירושים הויא כתיבה, וכתב על מנת לקבל תשובה כמו שמסיים",
+      "coords": {
+        "HPOS": 132,
+        "VPOS": 1521,
+        "WIDTH": 2025,
+        "HEIGHT": 64
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_70482a74-bcbb-49c5-80b4-447d2b326879",
+      "kind": "main",
+      "idx": 21,
+      "text": "שם תלמודא אי כתיבנא ליה וכו', שלח לי וכו', ואי כתיבנא ליה וכו', שלח לי וכו', נמצא דכבר היה",
+      "coords": {
+        "HPOS": 130,
+        "VPOS": 1584,
+        "WIDTH": 2025,
+        "HEIGHT": 64
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_1ee7dc6f-17f5-4471-9d68-91ea9757c800",
+      "kind": "main",
+      "idx": 22,
+      "text": "ממתין תשובה, ועל התשובה ודאי לית מאן דיאמר דלאו תושבע\"פ היא, וא\"כ ליקשי תלמודא, ומי",
+      "coords": {
+        "HPOS": 132,
+        "VPOS": 1648,
+        "WIDTH": 2021,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_b4cee1b9-c0a6-41cd-bcc6-e824bee95774",
+      "kind": "main",
+      "idx": 23,
+      "text": "מצי רבי שלח ליה? כאשר הקשה על רב דימי, ודוחק גדול לפרש \"אי שלח לו\" ע\"י שליח, ועוד מפירש\"י",
+      "coords": {
+        "HPOS": 137,
+        "VPOS": 1710,
+        "WIDTH": 2018,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_39316d18-b9db-473f-be7e-208d61ef13ec",
+      "kind": "main",
+      "idx": 24,
+      "text": "ד\"ה דמשמע נראה תשובה בכתב כיעו\"ש, ומי זוטר לן מאי דאמרי' בשבת דקנ\"ו ע\"א: \"כתוב",
+      "coords": {
+        "HPOS": 128,
+        "VPOS": 1780,
+        "WIDTH": 2027,
+        "HEIGHT": 62
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_2e763022-8c2c-46bc-b7d3-150a6bc0aac8",
+      "kind": "main",
+      "idx": 25,
+      "text": "אפנקסיה דזעירי כתוב אפנקסיה דלוי\" וכולהו הלכות גדולות ושמועות רחבות? ואם גאוני הצרפתים",
+      "coords": {
+        "HPOS": 132,
+        "VPOS": 1844,
+        "WIDTH": 2023,
+        "HEIGHT": 57
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_9ce51425-328f-4249-8b10-21153b191487",
+      "kind": "main",
+      "idx": 26,
+      "text": "יפרשום על דרך מגילת סתרים, כאשר החליט הגאון הצ\"ח נר\"ו שם בהגהותיו, גאוני בבל וספרד,",
+      "coords": {
+        "HPOS": 143,
+        "VPOS": 1910,
+        "WIDTH": 2012,
+        "HEIGHT": 62
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_76b2fc26-81b8-40da-a23d-b8c9060b583a",
+      "kind": "main",
+      "idx": 27,
+      "text": "יפרשום על משקלם הנחמד ויותר נוטים הדברים לפירושם שכל אחד היה כותב לעצמו זכרון שמועות,",
+      "coords": {
+        "HPOS": 139,
+        "VPOS": 1974,
+        "WIDTH": 2018,
+        "HEIGHT": 64
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_61d5938a-24cb-4fa2-bab1-66476f86e3ef",
+      "kind": "main",
+      "idx": 28,
+      "text": "מפני כי היתה הכתיבה הסודיית לכל התורה שבע\"פ התר גמור, ולא היה האיסור כי אם בלימוד מתוך",
+      "coords": {
+        "HPOS": 133,
+        "VPOS": 2038,
+        "WIDTH": 2020,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_4eda66c2-057b-4782-a43d-ac04e4ae5283",
+      "kind": "main",
+      "idx": 29,
+      "text": "הכתב, וכן משמע להדיא ממ\"ש בירוש' שבת פ\"ח ה\"א דרבי אבהו אשכח סימה והוו אנפוהי נהירין,",
+      "coords": {
+        "HPOS": 141,
+        "VPOS": 2108,
+        "WIDTH": 2012,
+        "HEIGHT": 60
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_922d50df-c331-4a0b-89be-0ee5097f137b",
+      "kind": "main",
+      "idx": 30,
+      "text": "וכשבא לפני ר\"יוח גילה לו שמצא תוספתא עתיקא, ופי' הרב קרבן העדה תוספתא ישנה שלא ראה",
+      "coords": {
+        "HPOS": 128,
+        "VPOS": 2167,
+        "WIDTH": 2025,
+        "HEIGHT": 67
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_3411e5e8-9f67-416a-8615-4c19c79ddf34",
+      "kind": "main",
+      "idx": 31,
+      "text": "אותה מימיו מצא, וראה בה דברים חדשים ושמח בה, וכן מ\"ש (ע\"ז ד\"ט) ספרא בצירא תנא תוספאה",
+      "coords": {
+        "HPOS": 130,
+        "VPOS": 2234,
+        "WIDTH": 2021,
+        "HEIGHT": 55
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_79e64cd1-5bcd-44af-a043-efd135f6f068",
+      "kind": "main",
+      "idx": 32,
+      "text": "ופי' הערוך ערך ספר דמנהג התנא לכתוב תיבות מליאות, ואי תושבע\"פ לא נכתבה כי אם בתחילת",
+      "coords": {
+        "HPOS": 128,
+        "VPOS": 2310,
+        "WIDTH": 2025,
+        "HEIGHT": 47
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_e3b76d48-9034-4d4a-8aab-e457d2f3d13f",
+      "kind": "main",
+      "idx": 33,
+      "text": "רבנן סבוראי, איך משלו המשל הזה על אדמת ישראל \"תנא תוספאה\" עד שנשתמשו ממנו לסימן",
+      "coords": {
+        "HPOS": 128,
+        "VPOS": 2361,
+        "WIDTH": 2020,
+        "HEIGHT": 62
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_1f3c8195-4455-44b7-b717-14128a6f7a44",
+      "kind": "main",
+      "idx": 34,
+      "text": "וזכרון? הרי התנא והאמורא לא כתב כלום, ועל המעט מזכרון שמועות והדומה, לא יוקבע משל",
+      "coords": {
+        "HPOS": 128,
+        "VPOS": 2427,
+        "WIDTH": 2022,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_25071f8e-8ba2-44d4-9af6-ed1ffa66f464",
+      "kind": "main",
+      "idx": 35,
+      "text": "פומביי כזה, אלא ודאי דהוו ידעי דהתנא היה כותב הכל וגונז, א\"כ בצירוף כל הראיות, אין ספק",
+      "coords": {
+        "HPOS": 130,
+        "VPOS": 2491,
+        "WIDTH": 2018,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_8071ecb1-c9d3-4f0f-ad39-a290dff31116",
+      "kind": "main",
+      "idx": 36,
+      "text": "שענין רב יוסף דהוה סגי נהור שאני, וכן נראה להדיא ממ\"ש בכתובות דמ\"ט, וב\"ב דקל\"ט דשלח",
+      "coords": {
+        "HPOS": 126,
+        "VPOS": 2555,
+        "WIDTH": 2022,
+        "HEIGHT": 61
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_a480d4b8-1b3f-4e25-be6f-232111fafd28",
+      "kind": "main",
+      "idx": 37,
+      "text": "רבין באגרתיה מי שמת וכו', והלא רבין כתב תורה שבע\"פ באגרת, ולמה לא הקשו בגמרא, ואיך כתב",
+      "coords": {
+        "HPOS": 126,
+        "VPOS": 2621,
+        "WIDTH": 2020,
+        "HEIGHT": 61
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_6799ab8f-808a-4ce7-9ec0-3c9245d917f7",
+      "kind": "main",
+      "idx": 38,
+      "text": "ושלח תושבע\"פ? כההיא דהקשו על רב דימי בן גילו של רבין, אם לא דענין רב יוסף שהיה סגי נהור",
+      "coords": {
+        "HPOS": 132,
+        "VPOS": 2687,
+        "WIDTH": 2016,
+        "HEIGHT": 64
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_14772212-f419-4c4f-ba72-f91465a62f84",
+      "kind": "main",
+      "idx": 39,
+      "text": "שאני, ובזה סרו מהר כל תלונות הראשונים והאחרונים מעל גאוני ספרד, דהם עפ\"י מונחם האמיתי",
+      "coords": {
+        "HPOS": 130,
+        "VPOS": 2750,
+        "WIDTH": 2018,
+        "HEIGHT": 60
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_63fcf3e4-90cc-435a-b9fb-b98374a14d52",
+      "kind": "main",
+      "idx": 40,
+      "text": "הזה, יהישבו להם כל הסוגיאות הנז\"ל, דבאמת הכתיבה הסודיית היתה מותרת מימי עולם ומשנים",
+      "coords": {
+        "HPOS": 126,
+        "VPOS": 2816,
+        "WIDTH": 2022,
+        "HEIGHT": 56
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_a0f274f7-d26a-4779-89fa-40b32631d102",
+      "kind": "main",
+      "idx": 41,
+      "text": "קדמוניות, ולא נאסרה כ\"א הפומביית, וכ\"ש לקבוע מלאכתן לכתוב הלכות, הגם שיהיה כדי לראות",
+      "coords": {
+        "HPOS": 126,
+        "VPOS": 2878,
+        "WIDTH": 2020,
+        "HEIGHT": 70
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_38a05687-c2d2-4282-b49d-ecaa394ded19",
+      "kind": "main",
+      "idx": 42,
+      "text": "מתוכם, ולא ללמוד מתוכם, עכ\"ז נאסרו מהטעמים האמורים, אי משום דלפי ריבויים הוו כשורפי",
+      "coords": {
+        "HPOS": 132,
+        "VPOS": 2944,
+        "WIDTH": 2012,
+        "HEIGHT": 70
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_89b15df8-c85d-42f4-a993-9abbcd4baead",
+      "kind": "main",
+      "idx": 43,
+      "text": "תורה",
+      "coords": {
+        "HPOS": 260,
+        "VPOS": 3017,
+        "WIDTH": 119,
+        "HEIGHT": 57
+      },
+      "para_start": false,
+      "is_catchword": true
+    }
+  ]
+}

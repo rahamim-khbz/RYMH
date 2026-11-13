@@ -1,0 +1,171 @@
+{
+  "page_id": "page-01",
+  "image": "page_images/page-01.png",
+  "page_width": 2550,
+  "page_height": 3300,
+  "base_hash": "sha256:cb002cd16581a99414f36a156645584255b927fb1848f7eab11578dd6d7943b7",
+  "lines": [
+    {
+      "line_id": "_7f51f513-e76f-4a1d-82c0-67f38c7f11c8",
+      "kind": "main",
+      "idx": 0,
+      "text": "סימן קפ\"ז רבי' שרירא ז\"ל",
+      "coords": {
+        "HPOS": 821,
+        "VPOS": 2299,
+        "WIDTH": 725,
+        "HEIGHT": 97
+      },
+      "para_start": true,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_02d8e376-2fb3-4361-86e5-050ccbc0f54f",
+      "kind": "main",
+      "idx": 1,
+      "text": "וששאלתם",
+      "coords": {
+        "HPOS": 1838,
+        "VPOS": 2394,
+        "WIDTH": 356,
+        "HEIGHT": 95
+      },
+      "para_start": true,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_12f2d5ea-a411-48a9-9b3a-588a210aacae",
+      "kind": "main",
+      "idx": 2,
+      "text": "דאית ביניכו תלמידים, והם שועלים קטנים, דלית בהו ממשא (שערי צדק)",
+      "coords": {
+        "HPOS": 187,
+        "VPOS": 2403,
+        "WIDTH": 1601,
+        "HEIGHT": 72
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_2cb5e5f6-ca3c-42f0-8c3d-8f4d6f7d1c40",
+      "kind": "main",
+      "idx": 3,
+      "text": "וחולקים ואומרים על גאונים עמודי עולם, מנין להם דבר זה. ומוציאים",
+      "coords": {
+        "HPOS": 174,
+        "VPOS": 2473,
+        "WIDTH": 1622,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_2835f5b0-5009-4b38-b4b0-b7f7ae7e6a08",
+      "kind": "main",
+      "idx": 4,
+      "text": "ספריהם (?) (א) והם לא יבינו פועל ה', ומעשה ידיו, ולא השיגו אפילו דבר קטון ממה שהשיג",
+      "coords": {
+        "HPOS": 176,
+        "VPOS": 2544,
+        "WIDTH": 2016,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_c0188ee3-7cbb-416b-8053-6d434149be90",
+      "kind": "main",
+      "idx": 5,
+      "text": "תלמיד",
+      "coords": {
+        "HPOS": 255,
+        "VPOS": 2618,
+        "WIDTH": 138,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": true
+    },
+    {
+      "line_id": "_6de22c93-7297-4ead-8c36-0e0f35c44630",
+      "kind": "footnote",
+      "idx": 0,
+      "text": "(א) ואפשר שכוונתו אל מ\"ש בירושלמי דפיאה פ\"כ \"א\"ר אבין אלו כתבתי לך רובי תורתי לא כמו זר נחשבו? מה בינו לבין",
+      "coords": {
+        "HPOS": 172,
+        "VPOS": 2658,
+        "WIDTH": 2016,
+        "HEIGHT": 64
+      },
+      "para_start": false
+    },
+    {
+      "line_id": "_05d932e3-3330-4ea4-8def-94f371bcc35b",
+      "kind": "footnote",
+      "idx": 1,
+      "text": "א\"הע? אלו מוציאים ספריהם ואלו מוציאים ספריהם ע\"כ. ועיין יפ\"ת ש\"ר רפמ\"ז מה שפירש עי\"ש, ואפשר שהגאון",
+      "coords": {
+        "HPOS": 176,
+        "VPOS": 2720,
+        "WIDTH": 1939,
+        "HEIGHT": 55
+      },
+      "para_start": false
+    },
+    {
+      "line_id": "_57a3c373-40f2-4842-9743-8ab15fa6f5a0",
+      "kind": "footnote",
+      "idx": 2,
+      "text": "נשתמש מלשון זה על התלמידים שועלים קטנים, כאלו מה בינם לבין הגאונים עמודי עולם? ולא כלום! אלו מוציאים",
+      "coords": {
+        "HPOS": 174,
+        "VPOS": 2766,
+        "WIDTH": 2018,
+        "HEIGHT": 59
+      },
+      "para_start": false
+    },
+    {
+      "line_id": "_932708a4-e51d-4907-872f-956de169fb93",
+      "kind": "footnote",
+      "idx": 3,
+      "text": "ספריהם, ואלו מוציאים ספריהם, כלומר סברותיהם ולא ידעו להבדיל בין החי ובין המת ודוק . (*)",
+      "coords": {
+        "HPOS": 554,
+        "VPOS": 2819,
+        "WIDTH": 1638,
+        "HEIGHT": 64
+      },
+      "para_start": false
+    },
+    {
+      "line_id": "_60fe3345-90d9-41b8-8a9c-c48708f79104",
+      "kind": "footnote",
+      "idx": 4,
+      "text": "(*) א\"ה. לולי דברי הגאון המחבר אהובינו בר\"ו היינו יכולים לפרס משמוציאים ספרי הגאונים החזקתם ואינם מחשיבים אותם בכלל ספרי הדת",
+      "coords": {
+        "HPOS": 176,
+        "VPOS": 2900,
+        "WIDTH": 2012,
+        "HEIGHT": 55
+      },
+      "para_start": false
+    },
+    {
+      "line_id": "_551edfca-7f03-46c8-82f0-8963406f553f",
+      "kind": "footnote",
+      "idx": 5,
+      "text": "שעליהם דאוי להשען וכן שגור בפי חז\"ל בתלמוד אפיק זה ועייל זה.",
+      "coords": {
+        "HPOS": 1053,
+        "VPOS": 2951,
+        "WIDTH": 964,
+        "HEIGHT": 55
+      },
+      "para_start": false
+    }
+  ]
+}

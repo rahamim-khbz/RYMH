@@ -1,0 +1,653 @@
+{
+  "page_id": "page-80",
+  "image": "page_images/page-80.jpg",
+  "page_width": 2550,
+  "page_height": 3300,
+  "base_hash": "sha256:bef48c3c76699c2d9f1babe4209d2b56633810438437ea6435a13270d47e4dac",
+  "lines": [
+    {
+      "line_id": "eSc_line_bd048923",
+      "kind": "main",
+      "idx": 0,
+      "text": "בסברתו, וכאמת, אין זה דרך מתווכח לברר האמת, כי באמח מי שיכניס עצמו בעובי הקורה, לפרש",
+      "coords": {
+        "HPOS": 348,
+        "VPOS": 328,
+        "WIDTH": 1941,
+        "HEIGHT": 80
+      },
+      "para_start": true,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_d3dc0779",
+      "kind": "main",
+      "idx": 1,
+      "text": ",איסור התלמוד מתוך הכתב, ולא איסור הכתיבה בעינה, צריך לו משא עשרת אלפים גמלים ראיות",
+      "coords": {
+        "HPOS": 357,
+        "VPOS": 403,
+        "WIDTH": 1936,
+        "HEIGHT": 62
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_118ef4d7",
+      "kind": "main",
+      "idx": 2,
+      "text": "להביא כל המקורות בראשונים ובאחרונים ולפלפל בהם, ולהכריח הדברים, כאשר נטפלנו אנן",
+      "coords": {
+        "HPOS": 354,
+        "VPOS": 462,
+        "WIDTH": 1937,
+        "HEIGHT": 71
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_1bea081d",
+      "kind": "main",
+      "idx": 3,
+      "text": "בעניותין, שתלי\"ת לא הנחנו פנה וזוית שלא ברקנו אותם בחורין ובסדקים, לברר הדבר כשמש בחצי",
+      "coords": {
+        "HPOS": 352,
+        "VPOS": 526,
+        "WIDTH": 1935,
+        "HEIGHT": 69
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_5f678f76",
+      "kind": "main",
+      "idx": 4,
+      "text": "השמים, שכן הם הדברים שהכתיבה הסודיית לא נאסרה מעולם, ולא בדחיה בעלינא כאשר דחה הרב",
+      "coords": {
+        "HPOS": 348,
+        "VPOS": 588,
+        "WIDTH": 1941,
+        "HEIGHT": 73
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_bd0db877",
+      "kind": "main",
+      "idx": 5,
+      "text": "הזה ועם שכיוון בעיקר הפירוש אל הדברים והאמת האלה, עכ\"ז אמינא ולא מסתפינא, לא זו הדרך",
+      "coords": {
+        "HPOS": 355,
+        "VPOS": 652,
+        "WIDTH": 1932,
+        "HEIGHT": 64
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_b01c6a4f",
+      "kind": "main",
+      "idx": 6,
+      "text": "ולא זו העיר! וע\"ז הוא שהבאתי בתחי' הענף הזה, שודאי לא באו לפני החכם השר\"ל נר\"ו בטענות",
+      "coords": {
+        "HPOS": 346,
+        "VPOS": 707,
+        "WIDTH": 1945,
+        "HEIGHT": 79
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_d0fcca0e",
+      "kind": "main",
+      "idx": 7,
+      "text": "מספיקות, כי אלו היה כן, היה חוזר בו מאז השנים, כמו שבריא לי, שבראותו כל האמור בפרשה",
+      "coords": {
+        "HPOS": 348,
+        "VPOS": 770,
+        "WIDTH": 1937,
+        "HEIGHT": 84
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_033eeafe",
+      "kind": "main",
+      "idx": 8,
+      "text": ".יקרא בקול גדול. איישר! התבררו הדברים כשמלה",
+      "coords": {
+        "HPOS": 823,
+        "VPOS": 845,
+        "WIDTH": 1000,
+        "HEIGHT": 64
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_8d5df7d4",
+      "kind": "main",
+      "idx": 9,
+      "text": "הענף הה",
+      "coords": {
+        "HPOS": 1973,
+        "VPOS": 898,
+        "WIDTH": 310,
+        "HEIGHT": 101
+      },
+      "para_start": true,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_a45e81c9",
+      "kind": "main",
+      "idx": 10,
+      "text": "הגאונים אשר מימיהם אנו שותים אב ובן שראו את החד\"ש זיע\"א. באגרתם",
+      "coords": {
+        "HPOS": 346,
+        "VPOS": 958,
+        "WIDTH": 1506,
+        "HEIGHT": 77
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_2b9b293b",
+      "kind": "main",
+      "idx": 11,
+      "text": "הנה יצאתי מירי תובת ביאור דעת ד' ה' גדולי עולם הנז\"ל, ובראשם דעת",
+      "coords": {
+        "HPOS": 344,
+        "VPOS": 896,
+        "WIDTH": 1525,
+        "HEIGHT": 73
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_350e09fb",
+      "kind": "main",
+      "idx": 12,
+      "text": ",החמודה הנז\"ל על פי נוסח היוחסין שהוא האמתי ולא חלו בו ידים, כי הוא הנוסח הספרדי הקדמון",
+      "coords": {
+        "HPOS": 352,
+        "VPOS": 1024,
+        "WIDTH": 1935,
+        "HEIGHT": 72
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_8a152e9a",
+      "kind": "main",
+      "idx": 13,
+      "text": "אשר מנוסח זה שחו מי באר רבותינו הספרדים, ר\"ש הנגיד, והרמב\"ם והמאירי, כמו שנראה מדבריהם",
+      "coords": {
+        "HPOS": 346,
+        "VPOS": 1087,
+        "WIDTH": 1939,
+        "HEIGHT": 71
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_96e2740b",
+      "kind": "main",
+      "idx": 14,
+      "text": "להריא, ובפרט הרמב\"ם ז\"ל בהקדמתו לס' זרעים, והקדמתו לס' היד, אינו אלא כי אם מעחיק רעיוני",
+      "coords": {
+        "HPOS": 346,
+        "VPOS": 1147,
+        "WIDTH": 1941,
+        "HEIGHT": 79
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_2325d334",
+      "kind": "main",
+      "idx": 15,
+      "text": "הגאון, ע\"פי הלוך תשובה זאת, וע\"פי הנוסח אשר ביוחסין הוא ולא אחר, וגם הגאון שי\"ר נר",
+      "coords": {
+        "HPOS": 387,
+        "VPOS": 1213,
+        "WIDTH": 1900,
+        "HEIGHT": 74
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_a29dc75b",
+      "kind": "main",
+      "idx": 16,
+      "text": "בהקדמתו החמודה לתשו' הגאונים הנ\"מ (ברלין תר\"ח) בד' י\"א ע\"א, העלה שגם \"הראב\"ד בעל",
+      "coords": {
+        "HPOS": 346,
+        "VPOS": 1270,
+        "WIDTH": 1939,
+        "HEIGHT": 81
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_7dac5ebf",
+      "kind": "main",
+      "idx": 17,
+      "text": "ס' הקבלה, והכאים אחריו, רק מנוסחת יוחסין לקחו דבריהם\" וגם ביררתי בהערות בירור שאין אחדיו",
+      "coords": {
+        "HPOS": 346,
+        "VPOS": 1342,
+        "WIDTH": 1937,
+        "HEIGHT": 71
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_d32e1044",
+      "kind": "main",
+      "idx": 18,
+      "text": "כמוהו שהנוסח שבח\"מ אין ראוי לסמוך עליו בשום אופן שבעולם, כי עלה כולו קמשונים, עד כי חדל",
+      "coords": {
+        "HPOS": 346,
+        "VPOS": 1398,
+        "WIDTH": 1937,
+        "HEIGHT": 72
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_175c63da",
+      "kind": "main",
+      "idx": 19,
+      "text": "הסופר לספור, ודי לנו במ\"ש הגאון רפא\"פורט נר\"ו שם בהקרמה הנז\"ל די\"א ע\"א וז\"ל: \"ומסופקני",
+      "coords": {
+        "HPOS": 346,
+        "VPOS": 1461,
+        "WIDTH": 1939,
+        "HEIGHT": 73
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_5cb334c5",
+      "kind": "main",
+      "idx": 20,
+      "text": "מאוד אלו היתה נשארת בידינו רק העתקת החופש אם לא היה יותר הנזק, מאשר היה בזמן שלא היה",
+      "coords": {
+        "HPOS": 343,
+        "VPOS": 1532,
+        "WIDTH": 1940,
+        "HEIGHT": 64
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_e32fe646",
+      "kind": "main",
+      "idx": 21,
+      "text": "בידינו רק העתקה שביוחסין, ועל זה יש לי ראיות מוכיחות\" א\"ד נר\"ו. ומי יודע אם בכל מה שכתבתי",
+      "coords": {
+        "HPOS": 346,
+        "VPOS": 1596,
+        "WIDTH": 1934,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_38bf46ea",
+      "kind": "main",
+      "idx": 22,
+      "text": ",בהערות עד הנה כוונתי למקצת הראיות מוכיחות אשר לא העלם הגאון הנז' בהקרמתו הארוכה",
+      "coords": {
+        "HPOS": 352,
+        "VPOS": 1661,
+        "WIDTH": 1931,
+        "HEIGHT": 62
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_21a6b2ee",
+      "kind": "main",
+      "idx": 23,
+      "text": "מלבד כל זה אחליט ואומר, כי הוא המעתיק הוא אשר הזיד בק\"ע להעתיק בחליף וחסיר ויתיר, כדי",
+      "coords": {
+        "HPOS": 348,
+        "VPOS": 1714,
+        "WIDTH": 1935,
+        "HEIGHT": 75
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_70f8bba1",
+      "kind": "main",
+      "idx": 24,
+      "text": "לכוין תשו' זאת עם דעת רבותנו הצרפתים ושהמעחיק הוא צרפתי, או אשכנזי, מהקדמונים זו אינה",
+      "coords": {
+        "HPOS": 343,
+        "VPOS": 1778,
+        "WIDTH": 1940,
+        "HEIGHT": 73
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_0c200086",
+      "kind": "main",
+      "idx": 25,
+      "text": "צריכה לפנים, שאם הגאון שי\"ר שם ר\"ב ע\"ג החליט שהמסדר (אותם התשו') לא היה ספרדי \"מן",
+      "coords": {
+        "HPOS": 343,
+        "VPOS": 1848,
+        "WIDTH": 1942,
+        "HEIGHT": 60
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_bf100521",
+      "kind": "main",
+      "idx": 26,
+      "text": "דרכו לכתוב תיבות מליאות ווין או יודין אשר הם בלתי מורגלות אצלנו היום וכן לספרדים מקדם",
+      "coords": {
+        "HPOS": 341,
+        "VPOS": 1901,
+        "WIDTH": 1941,
+        "HEIGHT": 71
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_ae164be5",
+      "kind": "main",
+      "idx": 27,
+      "text": "מ\"כ) והיו אז לאשכנזים, ולצרפתים במקום הנקודות ממש\" אנן מה נענה אבתריה, דהמעתיק נוסח)",
+      "coords": {
+        "HPOS": 339,
+        "VPOS": 1972,
+        "WIDTH": 1939,
+        "HEIGHT": 70
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_825a4552",
+      "kind": "main",
+      "idx": 28,
+      "text": ",הח\"מ, שמלבד שאותיות אהו\"י הם בידו כחומד ביד היוצר עד להפליא, וא\"כ יבואו מהם ויעידו בהם",
+      "coords": {
+        "HPOS": 348,
+        "VPOS": 2029,
+        "WIDTH": 1934,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_d209d66c",
+      "kind": "main",
+      "idx": 29,
+      "text": "עוד זאת דהיה ע\"ה מוחלט, דמחליף ההין באלפין, ואלפיו בההין, אפי' כתיבות היותר מורגלות, מי",
+      "coords": {
+        "HPOS": 341,
+        "VPOS": 2090,
+        "WIDTH": 1937,
+        "HEIGHT": 75
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_c768d197",
+      "kind": "main",
+      "idx": 30,
+      "text": "שמע כזאח לכתוב \"הוא\" במקום \"הוה\" אלף פעמים? \"דכשבאת דאמי\" במקום \"דכשבת דמי\"? עד",
+      "coords": {
+        "HPOS": 344,
+        "VPOS": 2154,
+        "WIDTH": 1938,
+        "HEIGHT": 73
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_bc03ac4e",
+      "kind": "main",
+      "idx": 31,
+      "text": "שזה גרס להמעתיק העני הבא אחריו המורגל לכתוב שבת חסר אלף להוסיף יו\"ד אחריו ונעשה",
+      "coords": {
+        "HPOS": 339,
+        "VPOS": 2223,
+        "WIDTH": 1943,
+        "HEIGHT": 63
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_a273316e",
+      "kind": "main",
+      "idx": 32,
+      "text": "דכשבאתי\" ולא עלה על דעתו שהמעתיק הא' שכח עיקר שבת, ועור ראיה חוחכת שהיה צרפתי",
+      "coords": {
+        "HPOS": 343,
+        "VPOS": 2282,
+        "WIDTH": 1922,
+        "HEIGHT": 70
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_65a6d211",
+      "kind": "main",
+      "idx": 33,
+      "text": ",שכתב \"מדאני\" במקום \"מדעני\" ואין ספק שהיה אחד אשכנזי כמוהו קורא להמעתיק מתוך הספר",
+      "coords": {
+        "HPOS": 348,
+        "VPOS": 2343,
+        "WIDTH": 1932,
+        "HEIGHT": 75
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_aaed12c7",
+      "kind": "main",
+      "idx": 34,
+      "text": "והוא כותב, וכיון שאין הפרש לכל ישראל השוכנים בגבול בני יפת מאלף לעין, במוצאתם, והוא הכותב",
+      "coords": {
+        "HPOS": 339,
+        "VPOS": 2401,
+        "WIDTH": 1941,
+        "HEIGHT": 75
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_08fa7881",
+      "kind": "main",
+      "idx": 35,
+      "text": "ע\"ה, כאשר הוברר, ע\"ז כתב, \"מדאני\" במקום \"מדעני\" וזאת ראיה שאין אחריה תשובה, ואחר",
+      "coords": {
+        "HPOS": 344,
+        "VPOS": 2469,
+        "WIDTH": 1932,
+        "HEIGHT": 77
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_e57dc769",
+      "kind": "main",
+      "idx": 36,
+      "text": "שעלה",
+      "coords": {
+        "HPOS": 462,
+        "VPOS": 2528,
+        "WIDTH": 132,
+        "HEIGHT": 64
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_62acf2ee",
+      "kind": "main",
+      "idx": 37,
+      "text": "מב) נאמנים פצמי אוהב להוציא אותנו הספרדיס האחרונים מכלל המדקדקים והבקיאים בחכמת הלשון, אבל נכון לבי)",
+      "coords": {
+        "HPOS": 339,
+        "VPOS": 2592,
+        "WIDTH": 1939,
+        "HEIGHT": 64
+      },
+      "para_start": true,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_38fc85ee",
+      "kind": "main",
+      "idx": 38,
+      "text": "בטוח, שעם כל חשרון שלימותינו בידיעת הלשון והדקדוק ובאמת ובתמים עתה שבנו גם שיבה זרקה בנו, עכ\"ז אצל",
+      "coords": {
+        "HPOS": 339,
+        "VPOS": 2640,
+        "WIDTH": 1836,
+        "HEIGHT": 67
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_7f919589",
+      "kind": "main",
+      "idx": 39,
+      "text": "גדולינו חכמת הלשון ומליצתה, לא כהתה עינה ולא נס ליחה, ומעולם לא יצאו ולא יצאו מתחת קולמוסם טעיות שיש בהם",
+      "coords": {
+        "HPOS": 335,
+        "VPOS": 2700,
+        "WIDTH": 1945,
+        "HEIGHT": 55
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_1e500434",
+      "kind": "main",
+      "idx": 40,
+      "text": "בושה וכלימה כאלה שיהיו אותיות אהו\"י ביד הכותב השפרדי ראשון או' אחרון' כחומה פרוצה חלילהז ואם כפעם",
+      "coords": {
+        "HPOS": 335,
+        "VPOS": 2740,
+        "WIDTH": 1943,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_4463bdf9",
+      "kind": "main",
+      "idx": 41,
+      "text": "כפעם נר' שאינם נזהרין בחסירות ויתירות באיזה שרשים שאינם כ\"כ מורגלים, \"ירוע לכל מבין שכזה יחרה לכל גדול",
+      "coords": {
+        "HPOS": 335,
+        "VPOS": 2792,
+        "WIDTH": 1943,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_64c19d9d",
+      "kind": "main",
+      "idx": 42,
+      "text": "בישראל כאשר מחשבותיו משוטטות באיזה ענין, שיפול טעות בדבריו כ\"ש שלא יוכל ליזהר בחסרות ויתרות (ש\"ות רמ\"א",
+      "coords": {
+        "HPOS": 335,
+        "VPOS": 2850,
+        "WIDTH": 1937,
+        "HEIGHT": 59
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_97fe1df2",
+      "kind": "main",
+      "idx": 43,
+      "text": ",סימן ו')) ועיין הקדמת נפוצות יהודה מושקאטו שכתב בזה, וכתב דיש תיבות שיש בהם מן ההכרח לכותבם מלאות וטובות",
+      "coords": {
+        "HPOS": 341,
+        "VPOS": 2907,
+        "WIDTH": 1931,
+        "HEIGHT": 57
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_22ad9868",
+      "kind": "main",
+      "idx": 44,
+      "text": "ואעיקרא הוא תלמוד ערוך (ע\"ז ד\"ט ע\"א) ספרא בצירא תנא תוספאה, ופי' הערוך ערך ספר ב' דמנהג התנא לכתוב",
+      "coords": {
+        "HPOS": 337,
+        "VPOS": 2957,
+        "WIDTH": 1934,
+        "HEIGHT": 57
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_0756f1dd",
+      "kind": "main",
+      "idx": 45,
+      "text": ".תיבות מלאות, ואחר שכן אין להקשות על התלמודיים כי סירבייהו נקטי ואזלי ביעו\"ש ודי כהערה זאת",
+      "coords": {
+        "HPOS": 456,
+        "VPOS": 3003,
+        "WIDTH": 1701,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    }
+  ]
+}

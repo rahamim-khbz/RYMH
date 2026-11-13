@@ -1,0 +1,625 @@
+{
+  "page_id": "page-74",
+  "image": "page_images/page-74.jpg",
+  "page_width": 2550,
+  "page_height": 3300,
+  "base_hash": "sha256:466412abed0b7cec956a80fd9cbe1049a6251e69eb37f2d3a8457df4b83fbe82",
+  "lines": [
+    {
+      "line_id": "eSc_line_8064f5c6",
+      "kind": "main",
+      "idx": 0,
+      "text": "תנא דבר\"יש, להורות דהכל אחד, וריב\"ן אינו אלא כמפרש דבריו של תנא דבר\"יש, אחרי דידוע דכל",
+      "coords": {
+        "HPOS": 315,
+        "VPOS": 287,
+        "WIDTH": 1976,
+        "HEIGHT": 72
+      },
+      "para_start": true,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_8263bf44",
+      "kind": "main",
+      "idx": 1,
+      "text": "אחד מהראשונים, היה לו אופן בפני עצמו, וסדר בפני עצמו להוציא הקבלה שבירם מדקדוק",
+      "coords": {
+        "HPOS": 315,
+        "VPOS": 363,
+        "WIDTH": 1974,
+        "HEIGHT": 64
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_3440db26",
+      "kind": "main",
+      "idx": 2,
+      "text": ",המקראות, ודורות אחרונים דאמעיטו, מבררים הדברים יותר, להוציא מלבנו כל ספק, וראיה לדבר",
+      "coords": {
+        "HPOS": 321,
+        "VPOS": 416,
+        "WIDTH": 1968,
+        "HEIGHT": 79
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_6be02609",
+      "kind": "main",
+      "idx": 3,
+      "text": "שכל הבאים אחר תנא דבר\"יש, הן בעלי תלמוד בבלי וירושל' הן בעלי אגדה, מעולם לא נשמע מפיהם",
+      "coords": {
+        "HPOS": 317,
+        "VPOS": 491,
+        "WIDTH": 1972,
+        "HEIGHT": 55
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_f0612682",
+      "kind": "main",
+      "idx": 4,
+      "text": "לשון איסור על כתיבת דברים שבע\"פ, כמו שלקח הרשות לעצמו רבינו רש\"י ז\"ל לפרש \"אי אתה רשאי",
+      "coords": {
+        "HPOS": 315,
+        "VPOS": 544,
+        "WIDTH": 1976,
+        "HEIGHT": 73
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_9d2c87b5",
+      "kind": "main",
+      "idx": 5,
+      "text": "לאומרם בע\"פ, \"אי אתה רשאי לכותבם\" אלא כל האמוראים לא נשתמשו כי אם בלשון לא ניתן להכתב",
+      "coords": {
+        "HPOS": 315,
+        "VPOS": 606,
+        "WIDTH": 1976,
+        "HEIGHT": 76
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_8ef028c7",
+      "kind": "main",
+      "idx": 6,
+      "text": "ולא בלשון אסור, לכותבם, או אי אתה רשאי לכותבם, כי כאשר אמרנו, אין חיוב הכתיבה על דברים",
+      "coords": {
+        "HPOS": 315,
+        "VPOS": 671,
+        "WIDTH": 1978,
+        "HEIGHT": 73
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_f13a16b7",
+      "kind": "main",
+      "idx": 7,
+      "text": "שבכתב, ואיסורה לדברים שבעל פה, עיקר סבת החיוב או השלילה, כי אם הלמוד הוא הסבה",
+      "coords": {
+        "HPOS": 317,
+        "VPOS": 738,
+        "WIDTH": 1976,
+        "HEIGHT": 70
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_3b348abc",
+      "kind": "main",
+      "idx": 8,
+      "text": "העיקרית, שאליה מגמת המחוקק לחייב ולשלול, אלא שלחיוב הלמוד מתוך הכתב, תהיה הכתיבה",
+      "coords": {
+        "HPOS": 317,
+        "VPOS": 799,
+        "WIDTH": 1974,
+        "HEIGHT": 73
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_4b9552cc",
+      "kind": "main",
+      "idx": 9,
+      "text": "אמצעי גמור והכרחי אשר מבלערו א\"א להגיע אל התכלית הקדוש והוא הלימוד מתוך הכתב. אבל",
+      "coords": {
+        "HPOS": 317,
+        "VPOS": 865,
+        "WIDTH": 1976,
+        "HEIGHT": 60
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_7fbdc38b",
+      "kind": "main",
+      "idx": 10,
+      "text": "לענין השלילה והוא איסור הלימוד מתוך הכתב, איסור פרטי זה או כמו שתאמר שלילה זאת דבר אין",
+      "coords": {
+        "HPOS": 317,
+        "VPOS": 927,
+        "WIDTH": 1976,
+        "HEIGHT": 74
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_fda51fbc",
+      "kind": "main",
+      "idx": 11,
+      "text": "לה עם מעשה הכתב כלל ועיקר כאלו יאמר המחוקק מה לי ולצרה אם תכתוב אם לא תכתוב? אני",
+      "coords": {
+        "HPOS": 319,
+        "VPOS": 988,
+        "WIDTH": 1974,
+        "HEIGHT": 73
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_edf71ca2",
+      "kind": "main",
+      "idx": 12,
+      "text": "כל מגמתי אינו אלא: שלא תלמוד הדברים אשר אני נותן לפניך היום, מתוך הכתב, כי ע\"כ לא נתתיה",
+      "coords": {
+        "HPOS": 317,
+        "VPOS": 1052,
+        "WIDTH": 1976,
+        "HEIGHT": 73
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_805661dd",
+      "kind": "main",
+      "idx": 13,
+      "text": "בכתב כי אם בע\"פ, וא\"כ גם אתה צריך ללומדה בע\"פ כאשר אתה מראה בהד, זה הוא עיקר מגמת",
+      "coords": {
+        "HPOS": 317,
+        "VPOS": 1116,
+        "WIDTH": 1978,
+        "HEIGHT": 70
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_7ac95570",
+      "kind": "main",
+      "idx": 14,
+      "text": ",כוונתי, ואם אתה לזכרון בעלמא תרצה לכותבם ולגונזם, בדי שלא יהיה לאכן נגף ולצור מכשול",
+      "coords": {
+        "HPOS": 330,
+        "VPOS": 1177,
+        "WIDTH": 1965,
+        "HEIGHT": 78
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_9a5c4bd4",
+      "kind": "main",
+      "idx": 15,
+      "text": "ויבואו לעבור על ציוויי וללמוד מתוך הכתב אשר לא ציויתי, עשה כרצונך ואיני נטפל בזה, ועל משקל",
+      "coords": {
+        "HPOS": 319,
+        "VPOS": 1241,
+        "WIDTH": 1979,
+        "HEIGHT": 69
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_827ce3a2",
+      "kind": "main",
+      "idx": 16,
+      "text": "כוונת נותן התורה ברוך הוא הזאח יפה דקדקו חכמינו הראשונים ז\"ל הבקיאים בחכמת הלשון להשתמש",
+      "coords": {
+        "HPOS": 319,
+        "VPOS": 1318,
+        "WIDTH": 1977,
+        "HEIGHT": 55
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_38d664f2",
+      "kind": "main",
+      "idx": 17,
+      "text": "מלשון ניתן ליכתב על דברים שבכתב, ולא ניתן להכתב על דברים שבע\"פ, שהוא סידור דברים המברר",
+      "coords": {
+        "HPOS": 326,
+        "VPOS": 1378,
+        "WIDTH": 1967,
+        "HEIGHT": 59
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_4aceb39b",
+      "kind": "main",
+      "idx": 18,
+      "text": "כוונת המצוה בכל פינות חלקי חלקיו, שלדברים שבכתב כיון שהם בחיוב הלימוד מתוך הכתב, א\"נ",
+      "coords": {
+        "HPOS": 321,
+        "VPOS": 1433,
+        "WIDTH": 1975,
+        "HEIGHT": 72
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_37e023b1",
+      "kind": "main",
+      "idx": 19,
+      "text": "פועל הכתיבה תזר פועל הכרחי הגם שלא לעצמו יצא, והיינו דאמור רבנן \"ניתן להכתב\" כלומר לענין",
+      "coords": {
+        "HPOS": 322,
+        "VPOS": 1496,
+        "WIDTH": 1974,
+        "HEIGHT": 73
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_2b0eb616",
+      "kind": "main",
+      "idx": 20,
+      "text": "דברים שבכתב, הכתיבה, לא לבר שאינו פועל בטל, אלא שהוא פועל הכרחי, כמו ניתן ליאמר, כלומר",
+      "coords": {
+        "HPOS": 326,
+        "VPOS": 1556,
+        "WIDTH": 1972,
+        "HEIGHT": 79
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_639df0e8",
+      "kind": "main",
+      "idx": 21,
+      "text": "'שיש להם כוונת מה ותכלית מה, וכן נמי הוא לשון ניתן להכתב, שיש לפועל הכתב תכלית חשוב והוא",
+      "coords": {
+        "HPOS": 322,
+        "VPOS": 1626,
+        "WIDTH": 1976,
+        "HEIGHT": 64
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_13f4b5a9",
+      "kind": "main",
+      "idx": 22,
+      "text": "הלימוד מתוכו, אבל לדברים שבע\"פ כיון שהם אסורי הלימוד מתוך הכתב, הכתב ההוא חוזר כדמיון",
+      "coords": {
+        "HPOS": 322,
+        "VPOS": 1688,
+        "WIDTH": 1976,
+        "HEIGHT": 73
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_d187d936",
+      "kind": "main",
+      "idx": 23,
+      "text": "פועל בטל ואפי' שמועיל לזכדון בעלמא, עכ\"פ לענין הלימוד מתוכו שהוא התכלית העיקרי הוא",
+      "coords": {
+        "HPOS": 321,
+        "VPOS": 1749,
+        "WIDTH": 1975,
+        "HEIGHT": 67
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_b3eacfbd",
+      "kind": "main",
+      "idx": 24,
+      "text": "פועל בטל אחרי שאינו יכול ללמוד מתוכו, וזהו לא ניחן להכתב, כמו לא ניתן ליאמר כלומר שלעיקר",
+      "coords": {
+        "HPOS": 328,
+        "VPOS": 1811,
+        "WIDTH": 1968,
+        "HEIGHT": 70
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_78b6939d",
+      "kind": "main",
+      "idx": 25,
+      "text": "השקפת הענין לא יועיל בל הטורח הזה כי אינו ענין כלל ויכנס בסוג פועל ההבל, וחבר לזה הנוסח",
+      "coords": {
+        "HPOS": 322,
+        "VPOS": 1875,
+        "WIDTH": 1976,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_867af61e",
+      "kind": "main",
+      "idx": 26,
+      "text": ",וסידור דברים אלו ממש נשתמשו רז\"ל בב\"מ דע\"ב ע\"ב בההוא דהוה ליה פרדיסא ואקנייה לבנו הקטן",
+      "coords": {
+        "HPOS": 330,
+        "VPOS": 1936,
+        "WIDTH": 1970,
+        "HEIGHT": 84
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_154bae79",
+      "kind": "main",
+      "idx": 27,
+      "text": "ושוב מכרה בשטר מכירה ואחריות, וכל חיזוקי סופר, ואתברר דמכירתו למה, ולכלום תחשב, אחר",
+      "coords": {
+        "HPOS": 330,
+        "VPOS": 2016,
+        "WIDTH": 1972,
+        "HEIGHT": 52
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_0a9fd059",
+      "kind": "main",
+      "idx": 28,
+      "text": "דאקנייה לבנו הקטן דקי\"ל בעלמא ינוקא מקנא קני אקנוייה לא מקנה, ושאלו בגמ' דהגע עצמך",
+      "coords": {
+        "HPOS": 328,
+        "VPOS": 2064,
+        "WIDTH": 1972,
+        "HEIGHT": 79
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_230bc9ab",
+      "kind": "main",
+      "idx": 29,
+      "text": "דהמוכר אכל הדמים האם יכול הלוקח לגבות מנכסים משועברים כיון שעכ\"פ יש לו שטר מכירה",
+      "coords": {
+        "HPOS": 324,
+        "VPOS": 2137,
+        "WIDTH": 1978,
+        "HEIGHT": 61
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_1c893213",
+      "kind": "main",
+      "idx": 30,
+      "text": "ואחריות בידו והו\"ל כמי שטרפוה מיד הלוקת שהדין הוא שחוזר על שאד נכסיו המשועברים של המוכר",
+      "coords": {
+        "HPOS": 330,
+        "VPOS": 2201,
+        "WIDTH": 1972,
+        "HEIGHT": 61
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_45b0de57",
+      "kind": "main",
+      "idx": 31,
+      "text": "או לא? וסבר אביי לומר דיכול לתזור אחר נכסים משועברים אחרי שכבר מודה המוכר שהוא כתב",
+      "coords": {
+        "HPOS": 324,
+        "VPOS": 2262,
+        "WIDTH": 1976,
+        "HEIGHT": 62
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_be92f54e",
+      "kind": "main",
+      "idx": 32,
+      "text": "השטר והעד עדים, והמעות הגיעו לירו, ונתחייב באחריות. מידי דהוה למי שמודה בשטר שכתבו",
+      "coords": {
+        "HPOS": 326,
+        "VPOS": 2322,
+        "WIDTH": 1974,
+        "HEIGHT": 74
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_5a07d243",
+      "kind": "main",
+      "idx": 33,
+      "text": "שאין צריך לקיימו וגובה מנכסים משועבדים, ורחי לה רבא באומרו \"מי דמיז התם ניתן להכתב הכא",
+      "coords": {
+        "HPOS": 326,
+        "VPOS": 2387,
+        "WIDTH": 1976,
+        "HEIGHT": 64
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_5f2dce28",
+      "kind": "main",
+      "idx": 34,
+      "text": "לא ניתן להכתב\" כלומד במודה בשטר שכתבו, כיון שעיקד הכתיבה אינו פועל ההכל, דכשנכתב",
+      "coords": {
+        "HPOS": 328,
+        "VPOS": 2447,
+        "WIDTH": 1972,
+        "HEIGHT": 77
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_c1f27aff",
+      "kind": "main",
+      "idx": 35,
+      "text": "נכתב לחכלית מה שהוא לגבות ממשעבדי, אע\"ג דעכשיו אינו שוה יען אין בו קיום והו\"ל כחספא",
+      "coords": {
+        "HPOS": 328,
+        "VPOS": 2509,
+        "WIDTH": 1974,
+        "HEIGHT": 70
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_c3d25b5c",
+      "kind": "main",
+      "idx": 36,
+      "text": "בעלמא עכ\"ז יש כח ביר הלוה עצמו לקיימו בהודאתו ונותן נשמה לכל הכתוב בו, נמצא דניתן להכתב",
+      "coords": {
+        "HPOS": 330,
+        "VPOS": 2575,
+        "WIDTH": 1972,
+        "HEIGHT": 65
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_405aa744",
+      "kind": "main",
+      "idx": 37,
+      "text": "כיון שנכתב לתכלית מה, אבל כשטר מכירת הפרדס, עם שהוא כתוב לפנינו וחתום בעדים, ומורה",
+      "coords": {
+        "HPOS": 330,
+        "VPOS": 2643,
+        "WIDTH": 1972,
+        "HEIGHT": 61
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_fc8747e9",
+      "kind": "main",
+      "idx": 38,
+      "text": "שקבל אחריות, הרי הוא כמי שלא בא לעולם דכל כתיבתו וחתימתו מעיקרא ובראשונה, היה תחת",
+      "coords": {
+        "HPOS": 330,
+        "VPOS": 2698,
+        "WIDTH": 1974,
+        "HEIGHT": 83
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_09d9bf78",
+      "kind": "main",
+      "idx": 39,
+      "text": "סוג פועל הריק וההבל כי לא יועיל לעיקר השקפתו, יען מבר דבר שאינו שלו, ואין בידו להושיע",
+      "coords": {
+        "HPOS": 332,
+        "VPOS": 2764,
+        "WIDTH": 1972,
+        "HEIGHT": 77
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_a0f0d4df",
+      "kind": "main",
+      "idx": 40,
+      "text": "'ולקיים מכירת הפרדס הזה. עוד אחרי כי ינוקא מקנא קני אקנוייה לא מקני (ועיין למרן מלכא בס",
+      "coords": {
+        "HPOS": 339,
+        "VPOS": 2834,
+        "WIDTH": 1967,
+        "HEIGHT": 73
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_916e08a8",
+      "kind": "main",
+      "idx": 41,
+      "text": "הלכות יו\"ט פ\"ח דקפ\"ו ע\"ב וע\"ג ולזה הרחבתי הדיבור כדי לסלק קושייתו ודוק.) וא\"כ נמצא דשטר",
+      "coords": {
+        "HPOS": 339,
+        "VPOS": 2893,
+        "WIDTH": 1967,
+        "HEIGHT": 77
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_a578c9be",
+      "kind": "main",
+      "idx": 42,
+      "text": "וכמו",
+      "coords": {
+        "HPOS": 469,
+        "VPOS": 3034,
+        "WIDTH": 103,
+        "HEIGHT": 55
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_8b8ee7ed",
+      "kind": "main",
+      "idx": 43,
+      "text": ".זה אפי' שלכתב ונחתם לא ניתן להכתב אחרי שאין במעשהו שום השקפה והו\"ל כמעשה קוף בעלמא",
+      "coords": {
+        "HPOS": 348,
+        "VPOS": 2953,
+        "WIDTH": 1958,
+        "HEIGHT": 114
+      },
+      "para_start": false,
+      "is_catchword": false
+    }
+  ]
+}

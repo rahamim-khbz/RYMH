@@ -1,0 +1,695 @@
+{
+  "page_id": "page-68",
+  "image": "page_images/page-68.jpg",
+  "page_width": 2550,
+  "page_height": 3300,
+  "base_hash": "sha256:109fd61558ff20e5b39849151b0ffd4a6ae1aecfd092ea4ee5767c2df0e8f701",
+  "lines": [
+    {
+      "line_id": "eSc_line_dc78379e",
+      "kind": "main",
+      "idx": 0,
+      "text": "השתדלו למצוא אלף מיני חרופות שיועילו בררך טבע אל הזכרון, ומכללם גם אותם שהבאתי לעיל",
+      "coords": {
+        "HPOS": 304,
+        "VPOS": 262,
+        "WIDTH": 1974,
+        "HEIGHT": 80
+      },
+      "para_start": true,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_7daba2b2",
+      "kind": "main",
+      "idx": 1,
+      "text": "?מהירושלמי וא\"כ מה ראיה",
+      "coords": {
+        "HPOS": 1007,
+        "VPOS": 333,
+        "WIDTH": 579,
+        "HEIGHT": 72
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_ae1fedaa",
+      "kind": "main",
+      "idx": 2,
+      "text": "כתב",
+      "coords": {
+        "HPOS": 2100,
+        "VPOS": 399,
+        "WIDTH": 178,
+        "HEIGHT": 90
+      },
+      "para_start": true,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_f855cff0",
+      "kind": "main",
+      "idx": 3,
+      "text": ":עוד ולכסוף הבאתי לפניך מה שמצאתי במחזור ויטרי בסדר תנאים ואמוראים כתוב לאמר",
+      "coords": {
+        "HPOS": 306,
+        "VPOS": 392,
+        "WIDTH": 1770,
+        "HEIGHT": 81
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_bdb844a7",
+      "kind": "main",
+      "idx": 4,
+      "text": "ואחריהן רבנן סבוראי שבזכותם נמתחו השמים ונדקעה הארץ עד רב הונא ורב גווא שהיה",
+      "coords": {
+        "HPOS": 302,
+        "VPOS": 467,
+        "WIDTH": 1758,
+        "HEIGHT": 70
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_129bcbfe",
+      "kind": "main",
+      "idx": 5,
+      "text": "סוף סבוראו, ולא הוסיפו ולא הפליגו מדעתם כלום אלא תקנו פרקים שבכל חנויי כסדרן\" ואמרתי",
+      "coords": {
+        "HPOS": 306,
+        "VPOS": 520,
+        "WIDTH": 1970,
+        "HEIGHT": 85
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_b0289099",
+      "kind": "main",
+      "idx": 6,
+      "text": "כי נ\"ל הכוונה שרבנן סבוראי כתבו המשנה והתלמוד על ספר, וזה טעם אותה גוזמא שבזכותם",
+      "coords": {
+        "HPOS": 302,
+        "VPOS": 595,
+        "WIDTH": 1976,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_480c936b",
+      "kind": "main",
+      "idx": 7,
+      "text": "נמתחו השמים ונרקעה הארץ, על שם שהם מתחו תשבע\"פ על הגליון, ולמען לא נחשוד אותם שזייפו",
+      "coords": {
+        "HPOS": 304,
+        "VPOS": 656,
+        "WIDTH": 1976,
+        "HEIGHT": 71
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_da994aee",
+      "kind": "main",
+      "idx": 8,
+      "text": "והחליפו דברי הקדמונים, או הוסיפו דבר בחוך דבריהם, אמר שלא הוסיפו ולא הפליגו מדעתם כלום",
+      "coords": {
+        "HPOS": 302,
+        "VPOS": 724,
+        "WIDTH": 1978,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_a4d09d93",
+      "kind": "main",
+      "idx": 9,
+      "text": "ואמרתי שאם לא הוסיפו כלום ובכל זה תקנו פדקים שבכל תנויי כסדרן, מה עשו? אם לא שכתבו",
+      "coords": {
+        "HPOS": 302,
+        "VPOS": 779,
+        "WIDTH": 1978,
+        "HEIGHT": 79
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_a37aea19",
+      "kind": "main",
+      "idx": 10,
+      "text": "אותם, וקורם לכן היו בע\"פ",
+      "coords": {
+        "HPOS": 1025,
+        "VPOS": 848,
+        "WIDTH": 563,
+        "HEIGHT": 72
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_3440054f",
+      "kind": "main",
+      "idx": 11,
+      "text": "אמר",
+      "coords": {
+        "HPOS": 2109,
+        "VPOS": 905,
+        "WIDTH": 165,
+        "HEIGHT": 88
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_fa24f83f",
+      "kind": "main",
+      "idx": 12,
+      "text": "המשיב בהשקפה ראשונה היינו יכולים לשים נפש ראיה זאת כמוץ גנבתו סופה אחד דירוע",
+      "coords": {
+        "HPOS": 306,
+        "VPOS": 913,
+        "WIDTH": 1792,
+        "HEIGHT": 69
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_4e93f789",
+      "kind": "main",
+      "idx": 13,
+      "text": "דמחבר מחזור ויטרי הוא תלמיד רש\"י ז\"ל, וצרפתי מבטן ומהריון, א\"נ נגדר אחר דעת",
+      "coords": {
+        "HPOS": 304,
+        "VPOS": 980,
+        "WIDTH": 1770,
+        "HEIGHT": 65
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_8f75fedb",
+      "kind": "main",
+      "idx": 14,
+      "text": "רבו ודעת חכמי ארצו וחזרנו לדמעיקרא, גברא אגברא קא רמית? אבל נגנוב את דעת הקורא אשר",
+      "coords": {
+        "HPOS": 306,
+        "VPOS": 1043,
+        "WIDTH": 1972,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_6712b2d4",
+      "kind": "main",
+      "idx": 15,
+      "text": "לא כרת, כי באמת כל ענין זה שבמחזור ויטרי מראשו לסופו (ושכבר הובא חלק ממנו בועד לחכמים",
+      "coords": {
+        "HPOS": 304,
+        "VPOS": 1103,
+        "WIDTH": 1976,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_c88b14f8",
+      "kind": "main",
+      "idx": 16,
+      "text": "ח\"ב וכולו הובא בכ\"ח ח\"ר מעמוד קפ\"ג ואילך) שורשו פתוח אל הים הקדמוני אשר בו שטו הגאונים",
+      "coords": {
+        "HPOS": 302,
+        "VPOS": 1169,
+        "WIDTH": 1976,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_4ff8ddd1",
+      "kind": "main",
+      "idx": 17,
+      "text": "הראשונים, וכמה פעמים קראוהו הסדר הזה סדר הגאונים אינו זוכר עהה, ואין צדיך ראיות לזה כי",
+      "coords": {
+        "HPOS": 308,
+        "VPOS": 1237,
+        "WIDTH": 1972,
+        "HEIGHT": 64
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_4eb69aae",
+      "kind": "main",
+      "idx": 18,
+      "text": "המלאכה גופה היא מעירה על עצמה כי מיד הגאונים נגזרה, ויש לנו עוד ראיה שהרי קודם הדיבור",
+      "coords": {
+        "HPOS": 308,
+        "VPOS": 1298,
+        "WIDTH": 1970,
+        "HEIGHT": 56
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_cbfad19a",
+      "kind": "main",
+      "idx": 19,
+      "text": "הנז\"ל \"ואחריהן רבנן סבוראי\" תחלת הדבור מתחיל \"מימות משה\" וכו' והם הדברים שהובאו ביעיר",
+      "coords": {
+        "HPOS": 308,
+        "VPOS": 1353,
+        "WIDTH": 1970,
+        "HEIGHT": 75
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_ff2c19c3",
+      "kind": "main",
+      "idx": 20,
+      "text": "אזן בשם מחזור ויטרי כחסרון ניכר והם עצמם שהובאו לעיל סימן ך' בתיקונם בשם רב האיי גאון ז\"ל",
+      "coords": {
+        "HPOS": 304,
+        "VPOS": 1422,
+        "WIDTH": 1976,
+        "HEIGHT": 61
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_521aa76f",
+      "kind": "main",
+      "idx": 21,
+      "text": "כיעויין לעיל בדברי שם, וא\"כ הובדר כי דברי מחזור ויטרי, לכל הפחות אלו, ממקור הגאונים יצאו",
+      "coords": {
+        "HPOS": 308,
+        "VPOS": 1494,
+        "WIDTH": 1968,
+        "HEIGHT": 55
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_6448ffc3",
+      "kind": "main",
+      "idx": 22,
+      "text": "אבל",
+      "coords": {
+        "HPOS": 2120,
+        "VPOS": 1584,
+        "WIDTH": 160,
+        "HEIGHT": 104
+      },
+      "para_start": true,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_7c5de9e3",
+      "kind": "main",
+      "idx": 23,
+      "text": ".בלי ספק, וע\"ז שפיר כתבתי כי דחייתי הנז' היא גניבת דעת הקורא",
+      "coords": {
+        "HPOS": 610,
+        "VPOS": 1554,
+        "WIDTH": 1365,
+        "HEIGHT": 64
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_1d82f325",
+      "kind": "main",
+      "idx": 24,
+      "text": "כתר לי זעיד קורא חביב! ותשמע תשובה נצחת, ואת כל ונכחת, כי אדרבה מכאן ראיה",
+      "coords": {
+        "HPOS": 308,
+        "VPOS": 1617,
+        "WIDTH": 1785,
+        "HEIGHT": 66
+      },
+      "para_start": true,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_52747e55",
+      "kind": "main",
+      "idx": 25,
+      "text": "ליסוד הגאונים שהכתיבה היתה מימות משה, אבל היתה גנוזה ונמסרת מראשי סנהדראות",
+      "coords": {
+        "HPOS": 302,
+        "VPOS": 1675,
+        "WIDTH": 1771,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_6787de25",
+      "kind": "main",
+      "idx": 26,
+      "text": "לאחרים הבאים תחתיהם עד תחלת רבנן סבוראי דהנה לא תוכל להכחיש כי הרעיון השיריי הלזה",
+      "coords": {
+        "HPOS": 302,
+        "VPOS": 1734,
+        "WIDTH": 1978,
+        "HEIGHT": 75
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_5d0a5407",
+      "kind": "main",
+      "idx": 27,
+      "text": "נמתחו השמים ונרקעה הארן\" צריך לבקש לו אחוה ורעות עם המתחת תורה שבע\"פ בכל מה",
+      "coords": {
+        "HPOS": 302,
+        "VPOS": 1796,
+        "WIDTH": 1963,
+        "HEIGHT": 77
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_d4e1bd54",
+      "kind": "main",
+      "idx": 28,
+      "text": "שנוכל, דכל מה שיהיה המשל והנמשל דומים יותר, עוד יומתק הענין יותר ויותר, ועוד יקנה שכלנו",
+      "coords": {
+        "HPOS": 308,
+        "VPOS": 1875,
+        "WIDTH": 1972,
+        "HEIGHT": 62
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_386f459d",
+      "kind": "main",
+      "idx": 29,
+      "text": ",ציור נחמד ונעים, ועוד יתחקה בעצם אל כח המדמה שבנו, וזהו הריוח הגדול ברעיונים השיריים",
+      "coords": {
+        "HPOS": 315,
+        "VPOS": 1932,
+        "WIDTH": 1963,
+        "HEIGHT": 71
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_2ac376c7",
+      "kind": "main",
+      "idx": 30,
+      "text": "וזאת היא מעלת לשוננו הקדושה והטהורה אשר עשה תעשה לה כנפים, וכנשר תעוף בשמים, על פי",
+      "coords": {
+        "HPOS": 308,
+        "VPOS": 1998,
+        "WIDTH": 1974,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_ed30a12f",
+      "kind": "main",
+      "idx": 31,
+      "text": "הרעיונים השיריים, אבל המכוונים עצם אל עצמו, ודבר זה הוא נגלה לבקיאים בערך לשוננו הקדושה",
+      "coords": {
+        "HPOS": 304,
+        "VPOS": 2055,
+        "WIDTH": 1976,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_73c37883",
+      "kind": "main",
+      "idx": 32,
+      "text": "המלהבת הלבבות, ואחר הדברים והאמת האלה, לכו נא ונוכחה למי משתי הסברות יבא מכוון הרעיון",
+      "coords": {
+        "HPOS": 306,
+        "VPOS": 2117,
+        "WIDTH": 1972,
+        "HEIGHT": 72
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_037f4c52",
+      "kind": "main",
+      "idx": 33,
+      "text": "השיריי הזה שבמחזור ויטרי? אם לכתיבת תושבע\"פ בזמן רבנן סבודאי כדעת החכם הפקח השד\"ל",
+      "coords": {
+        "HPOS": 304,
+        "VPOS": 2189,
+        "WIDTH": 1974,
+        "HEIGHT": 64
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_981b7e00",
+      "kind": "main",
+      "idx": 34,
+      "text": "נר\"ו, או להתר הלמוד מתוך הכתב ונתינת רשות מרבנן סבוראי שיהיו נקראים המחמדי עין הגנוזים",
+      "coords": {
+        "HPOS": 304,
+        "VPOS": 2249,
+        "WIDTH": 1972,
+        "HEIGHT": 72
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_2f6fcdf0",
+      "kind": "main",
+      "idx": 35,
+      "text": "מאז, בכל המדרשים ובתי הלימודים, כדעת הגאונים ורעתנו משי\"ח לפי תומו? הא ודאי מובטחני",
+      "coords": {
+        "HPOS": 306,
+        "VPOS": 2310,
+        "WIDTH": 1972,
+        "HEIGHT": 64
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_7ee81134",
+      "kind": "main",
+      "idx": 36,
+      "text": "כך קורא נעים! שתכריע לימין צדקנו, כי באמת ענין מתוח ורקוע יותר יתחקה ויתדמה על דבר",
+      "coords": {
+        "HPOS": 308,
+        "VPOS": 2379,
+        "WIDTH": 1964,
+        "HEIGHT": 72
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_6cc323e9",
+      "kind": "main",
+      "idx": 37,
+      "text": "גולמי שכבר היה וכבר נברא, אבל היה גלול וסתום וחתום, ושוב נמתח ונתפשט לעיני השמש, ממה",
+      "coords": {
+        "HPOS": 304,
+        "VPOS": 2442,
+        "WIDTH": 1976,
+        "HEIGHT": 62
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_f3bc27f5",
+      "kind": "main",
+      "idx": 38,
+      "text": "שיכוון על ענין שלא היה ולא נברא בפועל כי אם בכח הזוכר והשומר ושוב יצא אל הפועל ונכתב",
+      "coords": {
+        "HPOS": 304,
+        "VPOS": 2506,
+        "WIDTH": 1976,
+        "HEIGHT": 60
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_79d9bd86",
+      "kind": "main",
+      "idx": 39,
+      "text": "בספר. דזה אינו אלא כבריה חרשה ממש שהיתה בכח ויצאת אל הפועל, ולא שייך בשום אופן לתוארו",
+      "coords": {
+        "HPOS": 304,
+        "VPOS": 2570,
+        "WIDTH": 1972,
+        "HEIGHT": 60
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_be16ef44",
+      "kind": "main",
+      "idx": 40,
+      "text": "בשם המתחה וריקוע והתפשטות כי אם להשתמש בדמיונות של בריאה ויצירה ועשיה שהרי הוא כיש",
+      "coords": {
+        "HPOS": 302,
+        "VPOS": 2634,
+        "WIDTH": 1976,
+        "HEIGHT": 62
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_d17274b9",
+      "kind": "main",
+      "idx": 41,
+      "text": "מאין כיון שלא היתה כתיבה בעולם, אבל אם תאמר שכבר היו הגוילין כתובים וגנוזים ומגוללים בבית",
+      "coords": {
+        "HPOS": 304,
+        "VPOS": 2689,
+        "WIDTH": 1972,
+        "HEIGHT": 75
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_e14dc86a",
+      "kind": "main",
+      "idx": 42,
+      "text": "הסתרים דרבנן, וגם לא היו יכולים ללמוד מתוכם, כ\"א בראיה בעלמא, שכן דרך הראיה בעלמא שלא",
+      "coords": {
+        "HPOS": 302,
+        "VPOS": 2751,
+        "WIDTH": 1976,
+        "HEIGHT": 81
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_771c2843",
+      "kind": "main",
+      "idx": 43,
+      "text": "למתוח ולפשוט פאגרת הספר ההוא, כנורע טבעו של עולם, ע\"ז כשנתגלו אל כל העם והותר ללמוד",
+      "coords": {
+        "HPOS": 308,
+        "VPOS": 2817,
+        "WIDTH": 1972,
+        "HEIGHT": 79
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_3ee319e1",
+      "kind": "main",
+      "idx": 44,
+      "text": "מתוכם גם בלימודים הפומביים, הרעיון השיריי \"נמתחו השמים ונרקעה הארץ\" הוא משל הדומה",
+      "coords": {
+        "HPOS": 304,
+        "VPOS": 2891,
+        "WIDTH": 1974,
+        "HEIGHT": 69
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_dee1f63b",
+      "kind": "main",
+      "idx": 45,
+      "text": "לנמשל כמעט בכל פינות חלקי הרעיונים, וזכר לדבר \"ופושטה כאגרת' והוא ברור לע\"ד, וממילא",
+      "coords": {
+        "HPOS": 306,
+        "VPOS": 2948,
+        "WIDTH": 1970,
+        "HEIGHT": 69
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_4560bf19",
+      "kind": "main",
+      "idx": 46,
+      "text": "כח",
+      "coords": {
+        "HPOS": 2041,
+        "VPOS": 3010,
+        "WIDTH": 103,
+        "HEIGHT": 86
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_a505f858",
+      "kind": "main",
+      "idx": 47,
+      "text": "2ס",
+      "coords": {
+        "HPOS": 1852,
+        "VPOS": 3010,
+        "WIDTH": 83,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_82677751",
+      "kind": "main",
+      "idx": 48,
+      "text": "הותרה",
+      "coords": {
+        "HPOS": 434,
+        "VPOS": 3026,
+        "WIDTH": 145,
+        "HEIGHT": 57
+      },
+      "para_start": false,
+      "is_catchword": true
+    }
+  ]
+}

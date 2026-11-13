@@ -1,0 +1,639 @@
+{
+  "page_id": "page-53",
+  "image": "page_images/page-53.jpg",
+  "page_width": 2550,
+  "page_height": 3300,
+  "base_hash": "sha256:acfa83e53c81917f0e3391b3a99e49346ba2f29e3a05ba17c6e06231766c9ac3",
+  "lines": [
+    {
+      "line_id": "eSc_line_73498ce1",
+      "kind": "main",
+      "idx": 0,
+      "text": "אל משמים ישקיף על בני אדם לראות היש משכיל זכור יזכור מה שעשה למרים, ואחרי כי מעשה",
+      "coords": {
+        "HPOS": 216,
+        "VPOS": 216,
+        "WIDTH": 2025,
+        "HEIGHT": 66
+      },
+      "para_start": true,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_dc159921",
+      "kind": "main",
+      "idx": 1,
+      "text": "מרים, אשר דברה באחיה במשה, כתוב בתורה, בשעת לשון הרע, שהוא שעת מעשה, אזני המלשין",
+      "coords": {
+        "HPOS": 218,
+        "VPOS": 271,
+        "WIDTH": 2023,
+        "HEIGHT": 81
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_06cf6b47",
+      "kind": "main",
+      "idx": 2,
+      "text": "תשמענה גערת נעים זמירות ישראל \"תשב באחיך תדבר בבן אמך תתן דופי\" הרי בהכרח, זכור",
+      "coords": {
+        "HPOS": 220,
+        "VPOS": 348,
+        "WIDTH": 2021,
+        "HEIGHT": 60
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_cf626677",
+      "kind": "main",
+      "idx": 3,
+      "text": "יזכור מעשה מרים מאין המלט, וכאלה רבים, דוק ותשכח, וטעם הדברים, כי הזכירה והשכחה הם",
+      "coords": {
+        "HPOS": 216,
+        "VPOS": 412,
+        "WIDTH": 2025,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_fbb4231e",
+      "kind": "main",
+      "idx": 4,
+      "text": "טבעיים ומוכרחים, ומטבעם החומרי והעכור אינם נכנסים בעול הצווי בטבע קיים, אם לא בצוות",
+      "coords": {
+        "HPOS": 216,
+        "VPOS": 471,
+        "WIDTH": 2025,
+        "HEIGHT": 69
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_673244be",
+      "kind": "main",
+      "idx": 5,
+      "text": "בצדו מעשה בפועל ושהרגל המעשה יהיה יומיי או זמניי, שההרגל הזה יביאהו לידי זכירה, ובמ\"א",
+      "coords": {
+        "HPOS": 218,
+        "VPOS": 542,
+        "WIDTH": 2023,
+        "HEIGHT": 57
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_88363216",
+      "kind": "main",
+      "idx": 6,
+      "text": "כבר הארכנו בפרט זה (לד) וכבר ביארנו בראיות מופתיות מספרינו הקדושים, וגם מספרי העמים, כי",
+      "coords": {
+        "HPOS": 220,
+        "VPOS": 601,
+        "WIDTH": 2019,
+        "HEIGHT": 73
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_266e8b38",
+      "kind": "main",
+      "idx": 7,
+      "text": "מנהג השמעת קול ההמון, אם בהבאת הרגל, ואם באיזה נענוע, בשעת קריאת תמחה את זכר",
+      "coords": {
+        "HPOS": 221,
+        "VPOS": 661,
+        "WIDTH": 2020,
+        "HEIGHT": 79
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_3cd18b9b",
+      "kind": "main",
+      "idx": 8,
+      "text": "עמלק, הוא מנהג קדמון באומה מאז היתה לגוי, ועיקרו מיוסד כדי לקיים, ואל תשכח בלב, כי הא",
+      "coords": {
+        "HPOS": 220,
+        "VPOS": 726,
+        "WIDTH": 2021,
+        "HEIGHT": 80
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_463284be",
+      "kind": "main",
+      "idx": 9,
+      "text": "לאו הכי צווי \"אל תשכח בלב\" הוא שוא ותפל, ועם מצוה לעורים הביטו לראות, ולחרשים שמעו, הם",
+      "coords": {
+        "HPOS": 218,
+        "VPOS": 790,
+        "WIDTH": 2025,
+        "HEIGHT": 71
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_907b955f",
+      "kind": "main",
+      "idx": 10,
+      "text": ".אחים ולא יתפרדו, וכחדא נפקין וכחדא שריין ולא מתפרשין לעלמין",
+      "coords": {
+        "HPOS": 554,
+        "VPOS": 856,
+        "WIDTH": 1364,
+        "HEIGHT": 79
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_66346b44",
+      "kind": "main",
+      "idx": 11,
+      "text": "ואחרי הודיע אלהים אותנו את כל זאת, עד שחזר דבר ברור וצלול כשמש בתקופת תמוז נאמר",
+      "coords": {
+        "HPOS": 221,
+        "VPOS": 922,
+        "WIDTH": 2018,
+        "HEIGHT": 75
+      },
+      "para_start": true,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_5d3e0693",
+      "kind": "main",
+      "idx": 12,
+      "text": "בריש גלי כי הא דידן דכוותא ממש כי גם פה לשואל שישאל בכל כחו לאמר: ואיך יצוה האל",
+      "coords": {
+        "HPOS": 218,
+        "VPOS": 982,
+        "WIDTH": 1772,
+        "HEIGHT": 72
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_53b5e1bc",
+      "kind": "main",
+      "idx": 13,
+      "text": "לא תכתבו תורה שבע\"פ, אפי' אות אחת, ואפי' לזכרון בעלמא? הא אינו אלא צווי הנופל תחת הנמנעות",
+      "coords": {
+        "HPOS": 214,
+        "VPOS": 1048,
+        "WIDTH": 2029,
+        "HEIGHT": 81
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_ee2c44ed",
+      "kind": "main",
+      "idx": 14,
+      "text": "בטבע קיים, שהרי כשהנחילה לנו האל יתעלה הראה לדעת כי רצונו, בקיומה נצח, ולא תשכח מפי",
+      "coords": {
+        "HPOS": 218,
+        "VPOS": 1114,
+        "WIDTH": 2025,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_4312e31f",
+      "kind": "main",
+      "idx": 15,
+      "text": "זרעו, דאי לאו הכי לא היה נותנה, ומדהנחילה באהבה וחבה לעמו וצאן מרעיתו, ע\"י משה נביאו",
+      "coords": {
+        "HPOS": 218,
+        "VPOS": 1178,
+        "WIDTH": 2023,
+        "HEIGHT": 70
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_719e5fba",
+      "kind": "main",
+      "idx": 16,
+      "text": "נאמן ביתו, אין לך סימן מובהק גדול מזה שרצונו בקיומה כאשר אמרנו, שהרי מלבד כי השכחה היא",
+      "coords": {
+        "HPOS": 216,
+        "VPOS": 1250,
+        "WIDTH": 2025,
+        "HEIGHT": 71
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_652f531a",
+      "kind": "main",
+      "idx": 17,
+      "text": "טבעית בחומר האדם, ואפי' יושב תחת גפנו ותחת תאנתו, ודבר אין לו שיעיקהו, עוד זאת אין מי",
+      "coords": {
+        "HPOS": 220,
+        "VPOS": 1309,
+        "WIDTH": 2019,
+        "HEIGHT": 77
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_f5a686ac",
+      "kind": "main",
+      "idx": 18,
+      "text": "שיוכל להכחיש, כי הדורות נוחים לשכוח כשיוכפלו צרותיה\"ן וצרו\"ת צרותיה\"ן, וכאשר ראינו בשמואל",
+      "coords": {
+        "HPOS": 218,
+        "VPOS": 1371,
+        "WIDTH": 2025,
+        "HEIGHT": 79
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_a873e10e",
+      "kind": "main",
+      "idx": 19,
+      "text": "הקטן, שבמשך שנה אחת שכח ברכת המינים, אחר שהוא המולידה והמתקנה, ובדורות שלאחריו כבר",
+      "coords": {
+        "HPOS": 221,
+        "VPOS": 1448,
+        "WIDTH": 2020,
+        "HEIGHT": 70
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_efff0909",
+      "kind": "main",
+      "idx": 20,
+      "text": "אמר אביי, אנן כאצבעתא בבירה לשכחה, מפני שבימיו הוכפלו השמדות והגזירות בא\"י, כמו שידענו",
+      "coords": {
+        "HPOS": 220,
+        "VPOS": 1503,
+        "WIDTH": 2023,
+        "HEIGHT": 77
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_9c097091",
+      "kind": "main",
+      "idx": 21,
+      "text": "שבזמן אביי, הוא זמן נחותי בבל, והוא ממש תחי' התנצרות הקיסר קוסטאנטינוס, כמו שתראה לקמן",
+      "coords": {
+        "HPOS": 218,
+        "VPOS": 1573,
+        "WIDTH": 2023,
+        "HEIGHT": 78
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_e7998855",
+      "kind": "main",
+      "idx": 22,
+      "text": "'בהערה המבקרת קדמוניות שבתשו' חרשות אחר תום סי' מ",
+      "coords": {
+        "HPOS": 643,
+        "VPOS": 1644,
+        "WIDTH": 1195,
+        "HEIGHT": 62
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_1ed5681e",
+      "kind": "main",
+      "idx": 23,
+      "text": "ואחר שזה אמת מופתי מאין המלט, ושהתורה כבר ראתה כל אלה מראשית אחרית כמבואר",
+      "coords": {
+        "HPOS": 221,
+        "VPOS": 1695,
+        "WIDTH": 2020,
+        "HEIGHT": 76
+      },
+      "para_start": true,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_069d8528",
+      "kind": "main",
+      "idx": 24,
+      "text": "בשתי פרשיות, בחוקותי וכי תבא, השורפות כליות ולב, א\"כ הרי היא ממש מתנבאת בקולי",
+      "coords": {
+        "HPOS": 221,
+        "VPOS": 1761,
+        "WIDTH": 1787,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_e4f734f4",
+      "kind": "main",
+      "idx": 25,
+      "text": "קולות על השכחה והטרדה והשעמום והטירוף והטינוף והשגעון והעורון שעתידים לבא, שזה בלא זה",
+      "coords": {
+        "HPOS": 218,
+        "VPOS": 1824,
+        "WIDTH": 2021,
+        "HEIGHT": 71
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_7d7c99b2",
+      "kind": "main",
+      "idx": 26,
+      "text": ",לא אפשר, יען וביען מחומר עכור קורצנו, רמה ותולעה ובשר אנחנו, ורוח קימעא הוא בעכרינו",
+      "coords": {
+        "HPOS": 234,
+        "VPOS": 1890,
+        "WIDTH": 2009,
+        "HEIGHT": 77
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_06f8e1fa",
+      "kind": "main",
+      "idx": 27,
+      "text": "ואחר כל האמת הברורה הזאת, איך נוכל לסבול שראוי להאמין שבא ציוויו יתברך לא תכתבו מתורה",
+      "coords": {
+        "HPOS": 220,
+        "VPOS": 1950,
+        "WIDTH": 2027,
+        "HEIGHT": 74
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_7c679685",
+      "kind": "main",
+      "idx": 28,
+      "text": "שבע\"פ כלום? שהוא ממש כאלו נאמין שלא נתנה כי אם למנין ונושנ\"תם ולא כולו, שהרי ממיתת",
+      "coords": {
+        "HPOS": 218,
+        "VPOS": 2018,
+        "WIDTH": 2027,
+        "HEIGHT": 72
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_b714fe25",
+      "kind": "main",
+      "idx": 29,
+      "text": "שהע\"ה כבר התחילו המלחמות, וידוע דתורה שבכתב בלא תשבע\"פ היא כספר חתום וכאסקופה בלי",
+      "coords": {
+        "HPOS": 221,
+        "VPOS": 2082,
+        "WIDTH": 2024,
+        "HEIGHT": 72
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_f45e889f",
+      "kind": "main",
+      "idx": 30,
+      "text": "אזנים וכמי שלא באה לעולם, ולא בד\"ג, אחרי שכל פסוקי התורה יחזרו ביד הלומרים והעושים",
+      "coords": {
+        "HPOS": 220,
+        "VPOS": 2146,
+        "WIDTH": 2025,
+        "HEIGHT": 79
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_82e858e9",
+      "kind": "main",
+      "idx": 31,
+      "text": "כחומר ביד היוצר, כי אל כל אשר יחפוץ יטנו, ולא בדרך הפלגה, הייטב בעיני ה' שניסר יסוד אמונתנו",
+      "coords": {
+        "HPOS": 223,
+        "VPOS": 2212,
+        "WIDTH": 2018,
+        "HEIGHT": 83
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_c1dc6244",
+      "kind": "main",
+      "idx": 32,
+      "text": "על",
+      "coords": {
+        "HPOS": 352,
+        "VPOS": 2284,
+        "WIDTH": 77,
+        "HEIGHT": 70
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_4d08e285",
+      "kind": "main",
+      "idx": 33,
+      "text": "לד) וזכר לדבר עיין בזו\"הק פ' ויקרא ד\"ח ע\"ב \"והא תנינן ולא מתוך עצבות וכו דלא יקום בר נש קמי מאריה בעציבו, והא",
+      "coords": {
+        "HPOS": 220,
+        "VPOS": 2390,
+        "WIDTH": 2019,
+        "HEIGHT": 74
+      },
+      "para_start": true,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_3b635791",
+      "kind": "main",
+      "idx": 34,
+      "text": ".לא יכיל? ומאי תקנתיה? וכן לעיל מזה תמה מחבר הזוהר ואמר: ואיך אוקים שמחה ורננה? והא לא אשתכחו? עי\"ש",
+      "coords": {
+        "HPOS": 225,
+        "VPOS": 2445,
+        "WIDTH": 1917,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_b099ef60",
+      "kind": "main",
+      "idx": 35,
+      "text": "אלא הוא דמלה וכו יעו\"ש שפי' הענין עפ\"י סודן של דברים, ובאמת קושית הזוהר היא כתבור בהרים, איך נצוה לטבע שלא",
+      "coords": {
+        "HPOS": 221,
+        "VPOS": 2504,
+        "WIDTH": 2026,
+        "HEIGHT": 59
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_572c8cf7",
+      "kind": "main",
+      "idx": 36,
+      "text": "ידוה? ואיך נחייבהו שישמח? אם לא שנצוה שלא יעשה מעשה אבלות, בפועל, והיינו לא ידוה, ירצה, לא יעשה בפועל",
+      "coords": {
+        "HPOS": 220,
+        "VPOS": 2561,
+        "WIDTH": 2023,
+        "HEIGHT": 58
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_627ddea8",
+      "kind": "main",
+      "idx": 37,
+      "text": "מעשים המביאים אותו ללבב דוה, וזהו מה שהיה נעשה בהרוגי ב\"ד שלא היו מתאבלין עליהן, והיינו שהיו יוצאים לשוק",
+      "coords": {
+        "HPOS": 220,
+        "VPOS": 2607,
+        "WIDTH": 2023,
+        "HEIGHT": 69
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_4b3cca69",
+      "kind": "main",
+      "idx": 38,
+      "text": "בפועל ושואלים בשלום הב\"ד והעדים הפך דיני אבלות שאסור בשאלת שלום, ובפורשים מדרכי ציבור שהוא יותר חמור היו",
+      "coords": {
+        "HPOS": 220,
+        "VPOS": 2662,
+        "WIDTH": 2025,
+        "HEIGHT": 60
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_736fcc12",
+      "kind": "main",
+      "idx": 39,
+      "text": "עושין מעשה שמחה אוכלין ושותין ושמחין בפועל, ואם בכל אלה לבו יצוק כמו אבן כי רעה עינו באחיו הפורש מד\"ץ אשר",
+      "coords": {
+        "HPOS": 223,
+        "VPOS": 2713,
+        "WIDTH": 2024,
+        "HEIGHT": 64
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_cc732996",
+      "kind": "main",
+      "idx": 40,
+      "text": "?כשה לטבח הובל אין לו שום איסור כי אינו יכול ללחום נגד הטבע, וה' לא צוה לא ידוה, או ישמח על ענין הלביי חלילה",
+      "coords": {
+        "HPOS": 223,
+        "VPOS": 2764,
+        "WIDTH": 2022,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_059db1a5",
+      "kind": "main",
+      "idx": 41,
+      "text": "ודוק שהוא אמתות התורה ובס' כרך של דומי בפסק מאבד עצמו לדעת ובדרוש אחד באיטלקי על האינדי'פירינצא (מיעוני",
+      "coords": {
+        "HPOS": 223,
+        "VPOS": 2828,
+        "WIDTH": 2024,
+        "HEIGHT": 55
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_db81b1ba",
+      "kind": "main",
+      "idx": 42,
+      "text": "החשיבות בענינים הדוחניים האלהיים והדתיים) אשר בחולי זה נחלה עמינו בדור הזה שאנו בו, שם הארכתי למעניתי כידה",
+      "coords": {
+        "HPOS": 229,
+        "VPOS": 2883,
+        "WIDTH": 2016,
+        "HEIGHT": 65
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_9ad93d4f",
+      "kind": "main",
+      "idx": 43,
+      "text": ".הטובה עלי בלשון המשובח הוא האיטלקי אשר האדם יכול לדבר בו כל צרנו",
+      "coords": {
+        "HPOS": 996,
+        "VPOS": 2926,
+        "WIDTH": 1247,
+        "HEIGHT": 75
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_f2884f1e",
+      "kind": "main",
+      "idx": 44,
+      "text": "'לה) בס)",
+      "coords": {
+        "HPOS": 332,
+        "VPOS": 2982,
+        "WIDTH": 159,
+        "HEIGHT": 79
+      },
+      "para_start": true,
+      "is_catchword": false
+    }
+  ]
+}

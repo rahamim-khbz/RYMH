@@ -1,0 +1,639 @@
+{
+  "page_id": "page-50",
+  "image": "page_images/page-50.jpg",
+  "page_width": 2550,
+  "page_height": 3300,
+  "base_hash": "sha256:dd122987a881ce6cf244742a8c0d59db0daad300137f7c7e330ab52d1e313b42",
+  "lines": [
+    {
+      "line_id": "eSc_line_2617f7d8",
+      "kind": "main",
+      "idx": 0,
+      "text": ",כל דבריך ד\"ה אחת הן הרבה שמות אתה מזכיר, פלוני ופלוני, וכולן אדם אחד הן, ואנו יודעין לדרשן",
+      "coords": {
+        "HPOS": 286,
+        "VPOS": 240,
+        "WIDTH": 1977,
+        "HEIGHT": 71
+      },
+      "para_start": true,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_aa7f9f6e",
+      "kind": "main",
+      "idx": 1,
+      "text": "אעפ\"י שסתמת וכו' ע\"כ. נמצא מבורר דד\"ה אין פשוטו עיקר בשום אופן, ולא נכתב כי אם על",
+      "coords": {
+        "HPOS": 273,
+        "VPOS": 302,
+        "WIDTH": 1992,
+        "HEIGHT": 73
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_63896ffa",
+      "kind": "main",
+      "idx": 2,
+      "text": ",הדרוש, כדי להיות לזכרון לדורות כל המעשיות ב\"ד, וכמה הלכתא רבוותא שנפסקו בדורות הקדמונים",
+      "coords": {
+        "HPOS": 278,
+        "VPOS": 368,
+        "WIDTH": 1987,
+        "HEIGHT": 72
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_e8695dca",
+      "kind": "main",
+      "idx": 3,
+      "text": "וכמה ענינים שארעו שלא נתנו ליכתב, משום דברים שבע\"פ א\"א רשאי לאומרם מתוך הכתב, וע\"ז",
+      "coords": {
+        "HPOS": 273,
+        "VPOS": 430,
+        "WIDTH": 1992,
+        "HEIGHT": 70
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_d4699e08",
+      "kind": "main",
+      "idx": 4,
+      "text": ",חדשו הסיפורים והתוכחות והשירים והמשלים בכתב, ובתוכם רמזו כל הענינים הארוכים הגנוזים",
+      "coords": {
+        "HPOS": 282,
+        "VPOS": 495,
+        "WIDTH": 1981,
+        "HEIGHT": 75
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_60f5aabe",
+      "kind": "main",
+      "idx": 5,
+      "text": "הראוים לאמרם בע\"פ דוקא, כענין שנהגו בתורה שככתב ממש, אלא שבתורה שבכתב, הפנימי",
+      "coords": {
+        "HPOS": 275,
+        "VPOS": 564,
+        "WIDTH": 1988,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_53dff7dd",
+      "kind": "main",
+      "idx": 6,
+      "text": "והחיצון יסבול הכתוב גם שניהם כמ\"ש הרמב\"ן, ובנביאים ג\"כ יסבול גם שניהם על הרוב, ובדברי",
+      "coords": {
+        "HPOS": 278,
+        "VPOS": 623,
+        "WIDTH": 1989,
+        "HEIGHT": 62
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_715d9bf4",
+      "kind": "main",
+      "idx": 7,
+      "text": "הימים, הפנימי העקר, והחיצון לא היה ולא נברא, וזהו ממש כל סיפור המובא ביהושע סי' ט\"ו \"אשר",
+      "coords": {
+        "HPOS": 278,
+        "VPOS": 693,
+        "WIDTH": 1989,
+        "HEIGHT": 56
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_2c1b1d2b",
+      "kind": "main",
+      "idx": 8,
+      "text": "יכה את קרית ספר ולכדה\" ומה שדרשו בתמורה רי\"ו ע\"א על כמה הלכות שנשתכחו בימי אבלו של משה",
+      "coords": {
+        "HPOS": 273,
+        "VPOS": 748,
+        "WIDTH": 1994,
+        "HEIGHT": 64
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_92372640",
+      "kind": "main",
+      "idx": 9,
+      "text": "והחזירן עתניאל בן קנז מתוך פלפולו. ובד\"ה כינו לו כמה שמות עתניאל, יעבץ ויהודה אחי שמעון",
+      "coords": {
+        "HPOS": 275,
+        "VPOS": 810,
+        "WIDTH": 1996,
+        "HEIGHT": 73
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_8c5cc7d5",
+      "kind": "main",
+      "idx": 10,
+      "text": "וכולם נכתבו דוקא לררשה, להורות שהוא היה ראש לתושבע\"פ אחרי מות משה, ושתכף לפטירת",
+      "coords": {
+        "HPOS": 275,
+        "VPOS": 878,
+        "WIDTH": 1996,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_4082915c",
+      "kind": "main",
+      "idx": 11,
+      "text": ",מרע\"ה כבר גברה השכחה, וע\"י החקירה והדרישה והפלפול של עתניאל הכריח שכך היו הדברים",
+      "coords": {
+        "HPOS": 289,
+        "VPOS": 938,
+        "WIDTH": 1976,
+        "HEIGHT": 74
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_f59610d5",
+      "kind": "main",
+      "idx": 12,
+      "text": "וכל הזקנים ע\"י פלפולו נזכרו באמת הדברים כנתינתן, וכמ\"ש ר\"ט לר\"ע בירוש' פ\"ק דיומא אני הוא",
+      "coords": {
+        "HPOS": 277,
+        "VPOS": 1001,
+        "WIDTH": 1992,
+        "HEIGHT": 69
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_cdedac91",
+      "kind": "main",
+      "idx": 13,
+      "text": "שראיתי את המעשה ושכחתי ואתה דורש ומסכים לשמועה, ונשבע באקפח את בנו שלא היטה ימין",
+      "coords": {
+        "HPOS": 282,
+        "VPOS": 1067,
+        "WIDTH": 1990,
+        "HEIGHT": 73
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_f4b8d4b6",
+      "kind": "main",
+      "idx": 14,
+      "text": "ושמאל, כן ממש אירע לזקנים שע\"י פלפולו של עתניאל נזכרו הלכה וכל ענין ארוך זה התלבש בסיפורים",
+      "coords": {
+        "HPOS": 282,
+        "VPOS": 1127,
+        "WIDTH": 1990,
+        "HEIGHT": 73
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_223720f6",
+      "kind": "main",
+      "idx": 15,
+      "text": "גשמיים ושינויי וחילופי שמות כדרכה בכל ד\"ה כרי שיהיו שורש להדברים הארוכים הגנוזים, וכאמור",
+      "coords": {
+        "HPOS": 286,
+        "VPOS": 1199,
+        "WIDTH": 1986,
+        "HEIGHT": 64
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_f0188cbe",
+      "kind": "main",
+      "idx": 16,
+      "text": ",לעיל בענין שאול ודור והדומה לא נופל דבר. וכמו שלכל התורה שבע\"פ, ירצה פי' הנוגע לתורת משה",
+      "coords": {
+        "HPOS": 288,
+        "VPOS": 1254,
+        "WIDTH": 1984,
+        "HEIGHT": 78
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_208ef532",
+      "kind": "main",
+      "idx": 17,
+      "text": "תיתה כתובה וגנוזה באורך וברוחב, כל שהדורות היו מתמעטין, כן נמי כל הפירושים וכל הרמזים",
+      "coords": {
+        "HPOS": 286,
+        "VPOS": 1331,
+        "WIDTH": 1986,
+        "HEIGHT": 53
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_92fbf3d5",
+      "kind": "main",
+      "idx": 18,
+      "text": "הללו שבנביאים ושבכתובים, ובפרט של דברי הימים, ודאי שהיו גניזות לאלפים ולרבבות, כיון שכולו",
+      "coords": {
+        "HPOS": 284,
+        "VPOS": 1386,
+        "WIDTH": 1988,
+        "HEIGHT": 69
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_9c4503a6",
+      "kind": "main",
+      "idx": 19,
+      "text": "נתן לררש, ומעתה לא יתפלא האדם אם יראה מ\"ש מר זוטרא בפסחים דס\"ב ע\"ב, \"בן אצל לאצל",
+      "coords": {
+        "HPOS": 286,
+        "VPOS": 1446,
+        "WIDTH": 1985,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_65d3db47",
+      "kind": "main",
+      "idx": 20,
+      "text": "שבדברי הימים) טעינו ד' מאה גמלי רדרשה\", רבאמת אחרי דר\"ה, ניתן כולו לדרשה, בהכרח באו)",
+      "coords": {
+        "HPOS": 289,
+        "VPOS": 1510,
+        "WIDTH": 1982,
+        "HEIGHT": 75
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_5c8b9db6",
+      "kind": "main",
+      "idx": 21,
+      "text": "בו תכתיבות הגנוזות, יותר משאר כל התורה שבע\"פ, והוא קרוב לפשוטו של דבר, לבד המספר",
+      "coords": {
+        "HPOS": 295,
+        "VPOS": 1580,
+        "WIDTH": 1977,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_9950305d",
+      "kind": "main",
+      "idx": 22,
+      "text": ".הגוזמיי הידוע בפי חכמי התלמוד, אשר היו רגילין בזמניהם כנודע",
+      "coords": {
+        "HPOS": 623,
+        "VPOS": 1644,
+        "WIDTH": 1330,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_181d6568",
+      "kind": "main",
+      "idx": 23,
+      "text": "אלא שבאמת כל ימי הייתי מצטער להבין דבר זה על בוריו, רצוני במאי ראמר \"טעינו\" כאלו",
+      "coords": {
+        "HPOS": 288,
+        "VPOS": 1694,
+        "WIDTH": 1986,
+        "HEIGHT": 80
+      },
+      "para_start": true,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_9ca6b6e5",
+      "kind": "main",
+      "idx": 24,
+      "text": "מעשה שהיה כך היה ומאין טעינו? ולאן שלחו? כמו שמצינו בחולין דצ\"ד הובאה לעיל",
+      "coords": {
+        "HPOS": 288,
+        "VPOS": 1761,
+        "WIDTH": 1775,
+        "HEIGHT": 77
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_1baeb963",
+      "kind": "main",
+      "idx": 25,
+      "text": "בענף הא' דשמואל שלח ליה לר\"יוח תליסר גמלי ספק טריפתא, או תליסר גוילין כמ\"ש התוס', נמצא",
+      "coords": {
+        "HPOS": 289,
+        "VPOS": 1824,
+        "WIDTH": 1989,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_43e54444",
+      "kind": "main",
+      "idx": 26,
+      "text": "דנשלח מבבל לא\"י, והכא לנו לידע מהיכן טעינו? ואין לומר שגם זה דרך גוזמיי על דרך משא עשרת",
+      "coords": {
+        "HPOS": 288,
+        "VPOS": 1890,
+        "WIDTH": 1990,
+        "HEIGHT": 69
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_075aeeaa",
+      "kind": "main",
+      "idx": 27,
+      "text": "אלפים גמלים, וכמו שלא היו כ\"ב גמלים, כן נמי לא טעינו, אלא עקר כונת המאמר, אינו אלא",
+      "coords": {
+        "HPOS": 291,
+        "VPOS": 1961,
+        "WIDTH": 1989,
+        "HEIGHT": 59
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_ed13f52c",
+      "kind": "main",
+      "idx": 28,
+      "text": ",להשמיענו שהיו הרבה ותו לא, ולעולם לא יער הוו ולא דובים הוו, דבאמת מלת \"טעינו\" פועל עבר",
+      "coords": {
+        "HPOS": 304,
+        "VPOS": 2018,
+        "WIDTH": 1976,
+        "HEIGHT": 72
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_af021ef9",
+      "kind": "main",
+      "idx": 29,
+      "text": ".ומעשה שהיה אינו יוצא מידי פשוטו, ולעולם שומה היתה בלבי לירד אל תוכן ענין זה",
+      "coords": {
+        "HPOS": 445,
+        "VPOS": 2090,
+        "WIDTH": 1694,
+        "HEIGHT": 62
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_a354f173",
+      "kind": "main",
+      "idx": 30,
+      "text": "ועכשיו",
+      "coords": {
+        "HPOS": 2045,
+        "VPOS": 2146,
+        "WIDTH": 229,
+        "HEIGHT": 94
+      },
+      "para_start": true,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_07b22966",
+      "kind": "main",
+      "idx": 31,
+      "text": "אני רואה שכמעט נפקחו עיני וכונתי אל האמת, והיינו שלעולם מעיקרא ובראשונה כל",
+      "coords": {
+        "HPOS": 297,
+        "VPOS": 2141,
+        "WIDTH": 1719,
+        "HEIGHT": 81
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_0abc0c4e",
+      "kind": "main",
+      "idx": 32,
+      "text": "גניזות תושבע\"פ והמדרשים כל דבר הנכתב ואינו נקרא היו כולם גנוזים בא\"י אם מטעם",
+      "coords": {
+        "HPOS": 295,
+        "VPOS": 2216,
+        "WIDTH": 1710,
+        "HEIGHT": 62
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_b6eaad44",
+      "kind": "main",
+      "idx": 33,
+      "text": "כימציון תצא תורה, ואי ג\"כ שקודם ביאת רב לבבל לא חיתה תורה שם כאשר הארכנו לעיל סימן ט\"ל",
+      "coords": {
+        "HPOS": 299,
+        "VPOS": 2273,
+        "WIDTH": 1981,
+        "HEIGHT": 73
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_6a2ec407",
+      "kind": "main",
+      "idx": 34,
+      "text": "משמיה דחכיבנו ומאור עינינו הגאון שי\"ר נר\"ו, והוא האמת בלי ספק, ולא עוד אלא, כי היתה",
+      "coords": {
+        "HPOS": 295,
+        "VPOS": 2337,
+        "WIDTH": 1983,
+        "HEIGHT": 73
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_db2ae681",
+      "kind": "main",
+      "idx": 35,
+      "text": "גזרה בכל תוקף שלא יוציאום לחו\"ל, וזהו שכתב ר\"א לירתוי רההוא כהנא דדמך בא' שהיו בבבל \"ספרים",
+      "coords": {
+        "HPOS": 295,
+        "VPOS": 2398,
+        "WIDTH": 1990,
+        "HEIGHT": 73
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_a73b1978",
+      "kind": "main",
+      "idx": 36,
+      "text": "שזכתה בהם א\"י אין מוציאין אותם לחו\"ל\" (ירוש' פי' זה בורר ה' ט') ירצה על עקדי הגניזות ולא על",
+      "coords": {
+        "HPOS": 297,
+        "VPOS": 2460,
+        "WIDTH": 1986,
+        "HEIGHT": 77
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_b15daf13",
+      "kind": "main",
+      "idx": 37,
+      "text": ",ההעתקות, שאם העתיק על מנת להוציא היה מוציא, וכמ\"ש לקמן שם, וספרים אלו אינן ספרי תורה",
+      "coords": {
+        "HPOS": 306,
+        "VPOS": 2526,
+        "WIDTH": 1977,
+        "HEIGHT": 75
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_52fea305",
+      "kind": "main",
+      "idx": 38,
+      "text": "כאשר העיר בצדק הרב פני משה שם, רהיה לו לומר, או ס\"ת, או אוריא כמנהג הירוש', וא\"כ איזה",
+      "coords": {
+        "HPOS": 299,
+        "VPOS": 2590,
+        "WIDTH": 1986,
+        "HEIGHT": 73
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_220d43ec",
+      "kind": "main",
+      "idx": 39,
+      "text": "ספרים היו? אם לא הגניזות הללו בלי ספק, וכיון שמציון תצא תורה, וב\"ד של א\"י הם עקר הקבלה",
+      "coords": {
+        "HPOS": 299,
+        "VPOS": 2652,
+        "WIDTH": 1986,
+        "HEIGHT": 77
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_2b4a8f10",
+      "kind": "main",
+      "idx": 40,
+      "text": "א\"כ להם רוקא ראוי לשלוט באוצרי וגנזי הקבלה. וכל גזירה זאת נמשכה עד זמן שהיו קיסרי רומי",
+      "coords": {
+        "HPOS": 300,
+        "VPOS": 2724,
+        "WIDTH": 1985,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_a634eb9e",
+      "kind": "main",
+      "idx": 41,
+      "text": "עובדי אלילים, שבזמן מלכותם היתה יד חכמי ישראל תקיפא על הרוב כאשר ראינו בדבינו הקדוש ובנו",
+      "coords": {
+        "HPOS": 300,
+        "VPOS": 2786,
+        "WIDTH": 1985,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_6dee04b0",
+      "kind": "main",
+      "idx": 42,
+      "text": "ר\"ג ונכדו רבי יהודה נשיאה, שהיה בזמן הקיסר דיאוקליטייאנוס רועה חוירים, שעדיין לא התנצרה",
+      "coords": {
+        "HPOS": 304,
+        "VPOS": 2850,
+        "WIDTH": 1979,
+        "HEIGHT": 59
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_37349b90",
+      "kind": "main",
+      "idx": 43,
+      "text": "מלכות דומי, אבל משהחנצרה מלכות רומי, והכבידו עול הגזירות על ישראל ועל רבנן, ועל התורה",
+      "coords": {
+        "HPOS": 304,
+        "VPOS": 2907,
+        "WIDTH": 1978,
+        "HEIGHT": 77
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_2561b8a7",
+      "kind": "main",
+      "idx": 44,
+      "text": "ועל",
+      "coords": {
+        "HPOS": 427,
+        "VPOS": 2966,
+        "WIDTH": 84,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": true
+    }
+  ]
+}

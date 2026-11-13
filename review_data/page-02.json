@@ -1,0 +1,583 @@
+{
+  "page_id": "page-02",
+  "image": "page_images/page-02.png",
+  "page_width": 2550,
+  "page_height": 3300,
+  "base_hash": "sha256:4066312fbffb9910f52d44e4b7a2a46a1bbe5d8e9fc3df28fc779800139466e9",
+  "lines": [
+    {
+      "line_id": "_6b3b1f61-f88a-40ec-9d81-179bc3d495cd",
+      "kind": "main",
+      "idx": 0,
+      "text": "תלמיד תלמידיהם של קטון שבגאונים, כדאשכחן לחד מן הגאונים, בתר דנח נפשיה אשכחן",
+      "coords": {
+        "HPOS": 311,
+        "VPOS": 275,
+        "WIDTH": 1998,
+        "HEIGHT": 53
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_59625956-28a9-4dfd-af90-98b42273b50d",
+      "kind": "main",
+      "idx": 1,
+      "text": "ביה זכור גברא ההוא לטב כל הויי דרבנן קדמאי דא עם דא, ושית סדרי משנה, דאתגניז מיומי",
+      "coords": {
+        "HPOS": 317,
+        "VPOS": 339,
+        "WIDTH": 1989,
+        "HEIGHT": 62
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_944e73dd-c2a7-45dc-99a4-6e5be99c5ceb",
+      "kind": "main",
+      "idx": 2,
+      "text": "הלל ושמאי, וכמה ענינים דלית להון שיעורא, דאפי' במתיבתא דרקיעא יסדרון הלכה כמותו,",
+      "coords": {
+        "HPOS": 311,
+        "VPOS": 407,
+        "WIDTH": 1996,
+        "HEIGHT": 58
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_3de13bf6-dbfa-41b8-b332-b923f263474a",
+      "kind": "main",
+      "idx": 3,
+      "text": "ואיך באים שועלים אשר לא ראו מאורות וחושבים לאמר סרה על ה' ועל נחלתו, מי שהניף",
+      "coords": {
+        "HPOS": 311,
+        "VPOS": 478,
+        "WIDTH": 1996,
+        "HEIGHT": 64
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_cd54d693-5d5a-43ac-b7e9-acd60614309a",
+      "kind": "main",
+      "idx": 4,
+      "text": "בתליסר נפי כל התלמוד ועמד על כל מה דהוה מימות יהושע ן' נון איש מפי איש הלכה למשה",
+      "coords": {
+        "HPOS": 311,
+        "VPOS": 551,
+        "WIDTH": 1998,
+        "HEIGHT": 55
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_1ab83d6b-4838-4bf2-a456-63b016e66ae5",
+      "kind": "main",
+      "idx": 5,
+      "text": "מסיני ואומר תועה על תלמיד קטן שבקטני הנאונים (נראה שאין הדברים מקושרים היטב אבל",
+      "coords": {
+        "HPOS": 319,
+        "VPOS": 630,
+        "WIDTH": 1992,
+        "HEIGHT": 50
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_672638b5-503f-40ab-a470-e865bff4ff0d",
+      "kind": "main",
+      "idx": 6,
+      "text": "מובנים הם) בי כולם דברי אלהים חיים, ואפי' בבית מדרשו של משה רבן הנביאים, לא ידחו",
+      "coords": {
+        "HPOS": 315,
+        "VPOS": 694,
+        "WIDTH": 1994,
+        "HEIGHT": 63
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_85a9c3dd-9d77-4571-bf71-0d05470e42c1",
+      "kind": "main",
+      "idx": 7,
+      "text": "אותם ממקומותם",
+      "coords": {
+        "HPOS": 1929,
+        "VPOS": 771,
+        "WIDTH": 386,
+        "HEIGHT": 61
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_e2b5e465-69b2-454e-8ad2-a351691c5623",
+      "kind": "main",
+      "idx": 8,
+      "text": "וחכמתם ופלפוליהם הוא הדבר אשר צוה ה' אל",
+      "coords": {
+        "HPOS": 326,
+        "VPOS": 770,
+        "WIDTH": 1589,
+        "HEIGHT": 82
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_0e713320-eda3-4340-80f7-06ac8427a962",
+      "kind": "main",
+      "idx": 9,
+      "text": "משה, ואף על פי שאומרים הכי הוא ואין מביאין ראיה באיזה",
+      "coords": {
+        "HPOS": 324,
+        "VPOS": 874,
+        "WIDTH": 1989,
+        "HEIGHT": 88
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_63b1393d-d919-4ee8-bc38-5f4f6b084b76",
+      "kind": "main",
+      "idx": 10,
+      "text": "מקום הוא, אין לחוש על דבר קטון או גדול, וכל החולק על",
+      "coords": {
+        "HPOS": 341,
+        "VPOS": 960,
+        "WIDTH": 1966,
+        "HEIGHT": 108
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_986b2f3b-1fef-4e72-a5c1-b84272a40d6c",
+      "kind": "main",
+      "idx": 11,
+      "text": "שום דבר מבל דבריהם כחולק על ה' ועל תורתו:",
+      "coords": {
+        "HPOS": 500,
+        "VPOS": 1067,
+        "WIDTH": 1635,
+        "HEIGHT": 93
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_9a5df1d7-4e81-407a-92e8-bf91296ed1bf",
+      "kind": "main",
+      "idx": 12,
+      "text": "אי\"י הי\"ם",
+      "coords": {
+        "HPOS": 1433,
+        "VPOS": 1240,
+        "WIDTH": 19,
+        "HEIGHT": 91
+      },
+      "para_start": true,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_c5b7358a-e51c-4063-8b38-17207dff3ca5",
+      "kind": "main",
+      "idx": 13,
+      "text": "**על** דא ודאי ברוכי מברכינן ברוך פוקח עורים! שהיא התשובה כדמותה בצלמה, אשר הובאה",
+      "coords": {
+        "HPOS": 313,
+        "VPOS": 1351,
+        "WIDTH": 1859,
+        "HEIGHT": 62
+      },
+      "para_start": true,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_9d8eead2-caa7-4a68-a07d-db822101e5d2",
+      "kind": "main",
+      "idx": 14,
+      "text": "בריש תשו' שערי צדק כמערכה אל הדרוש, אשר איזה מחכמי הדור הע\"י קראו עליה ערער,",
+      "coords": {
+        "HPOS": 324,
+        "VPOS": 1417,
+        "WIDTH": 1837,
+        "HEIGHT": 62
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_7909140f-50b4-4ca5-8379-09027130693d",
+      "kind": "main",
+      "idx": 15,
+      "text": "ומבלי השקפה הנאותה גרשוה מהסתפח בנחלת ה' וכבר הובא סוף תשו' זאת מדיבור \"וחכמתם",
+      "coords": {
+        "HPOS": 321,
+        "VPOS": 1481,
+        "WIDTH": 1996,
+        "HEIGHT": 62
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_72731cef-8a17-4966-ba83-53c33b5c6363",
+      "kind": "main",
+      "idx": 16,
+      "text": "ופלפוליהם\" עד סוף התשו', בשו\"ת מוהר\"מ אלשקאר סי' ג\"ן וסוף סי' ס\"ח דמות שורו\"ת ממש,",
+      "coords": {
+        "HPOS": 321,
+        "VPOS": 1540,
+        "WIDTH": 1994,
+        "HEIGHT": 69
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_4d8d3d16-1613-449e-bec4-9abef589a859",
+      "kind": "main",
+      "idx": 17,
+      "text": "ובתלתא הויא חזקה, ולקמן בעז\"ה בסוף דברינו בענף הה' יבא הדיבור כזה בבירור עצום.",
+      "coords": {
+        "HPOS": 401,
+        "VPOS": 1607,
+        "WIDTH": 1840,
+        "HEIGHT": 61
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_cde6ff26-4ef0-42a2-8d41-9bb2ee58b499",
+      "kind": "main",
+      "idx": 18,
+      "text": "אבל",
+      "coords": {
+        "HPOS": 2150,
+        "VPOS": 1668,
+        "WIDTH": 163,
+        "HEIGHT": 73
+      },
+      "para_start": true,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_8f63e2cf-8b47-4124-a145-ef2234aabe46",
+      "kind": "main",
+      "idx": 19,
+      "text": "טרם כל דבר חובה עלינו לעמוד ולבאר דברים אלו שיצאו מקולמוס גאוננו ז\"ל: \"ושית",
+      "coords": {
+        "HPOS": 313,
+        "VPOS": 1666,
+        "WIDTH": 1816,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_09c242fb-4755-47b2-9776-b925ca52a74e",
+      "kind": "main",
+      "idx": 20,
+      "text": "סדרי משנה דאתגניזו מיומי דהלל ושמאי\" מאי האי? תורה שבע\"פ",
+      "coords": {
+        "HPOS": 317,
+        "VPOS": 1736,
+        "WIDTH": 1779,
+        "HEIGHT": 69
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_8edaad24-13a2-4b00-b97e-30bca09cd771",
+      "kind": "main",
+      "idx": 21,
+      "text": "נותנה ליכתב בימים הראשונים? והלא גם את אחרונים איסורא רבינו עליהו עד תחילת זמן הגאונים",
+      "coords": {
+        "HPOS": 317,
+        "VPOS": 1798,
+        "WIDTH": 1996,
+        "HEIGHT": 55
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_8184c6e3-88f2-4739-994b-bcec8f1d713b",
+      "kind": "main",
+      "idx": 22,
+      "text": "וכמו שיבא? וכדי לבא לידי בירור וזיקוק הענין האדיר הזה גמרתי כדעתי לחלקו לה' ענפים כדי להקל",
+      "coords": {
+        "HPOS": 319,
+        "VPOS": 1860,
+        "WIDTH": 1998,
+        "HEIGHT": 59
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_689ac2d3-b691-460f-a88f-6990a59b18ad",
+      "kind": "main",
+      "idx": 23,
+      "text": "מעל הקורא בכל מה שאוכל, הענף הא' יתטפל להביא סברות החולקים אם תושבע\"פ נכתבה או לא,",
+      "coords": {
+        "HPOS": 324,
+        "VPOS": 1923,
+        "WIDTH": 1989,
+        "HEIGHT": 69
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_c02298d0-cfa7-4109-bd70-654a6242ed4d",
+      "kind": "main",
+      "idx": 24,
+      "text": "ולהכריע בראיות מן התלמוד בבלי וירושלמי, ומדרשים שלכל הפחות אין שום חד מהצדדים יש לו ראיה",
+      "coords": {
+        "HPOS": 321,
+        "VPOS": 2002,
+        "WIDTH": 1996,
+        "HEIGHT": 44
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_52905fbe-aa39-4deb-9218-89fda21c62d6",
+      "kind": "main",
+      "idx": 25,
+      "text": "מופתית מהתלמודים והמדרשים דכוותיה אזלא ריהטא דשמעתתא וכיון שכן הדין נותן להשמע אל",
+      "coords": {
+        "HPOS": 321,
+        "VPOS": 2057,
+        "WIDTH": 1994,
+        "HEIGHT": 53
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_a29a0c5b-265e-4e53-9d14-7e25df11331a",
+      "kind": "main",
+      "idx": 26,
+      "text": "הגאונים אשר הם ירשו את מורשיהם חכמי התלמוד, ואחר דאתברר דמן התלמוד ליכא שום ראיה",
+      "coords": {
+        "HPOS": 319,
+        "VPOS": 2121,
+        "WIDTH": 1998,
+        "HEIGHT": 51
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_f7af21a0-5415-468d-a3db-8f38524559f7",
+      "kind": "main",
+      "idx": 27,
+      "text": "מופתית לחד מהצדדים, א\"כ לגאונים משפט הבכורה והם הנכנסים ראשונה להודיע לנו מה, ומי,",
+      "coords": {
+        "HPOS": 326,
+        "VPOS": 2183,
+        "WIDTH": 1989,
+        "HEIGHT": 64
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_f8ee1817-b46d-4cc0-9df1-413637ebf100",
+      "kind": "main",
+      "idx": 28,
+      "text": "ואיך, ובפרט בדבר הנוגע לקורות תושבע\"פ. והענין עצמו יביאנו להתטפל בענף הב', והוא בביאור",
+      "coords": {
+        "HPOS": 324,
+        "VPOS": 2256,
+        "WIDTH": 1993,
+        "HEIGHT": 57
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_4c5e8663-ac85-4ed6-9322-bc2b3ff65675",
+      "kind": "main",
+      "idx": 29,
+      "text": "אגרת רב שרירא גאון הובאה ביוחסין הידועה והמפורסמת אם נוכל לברר מתוכה בראיות מופתיות",
+      "coords": {
+        "HPOS": 319,
+        "VPOS": 2315,
+        "WIDTH": 1996,
+        "HEIGHT": 57
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_77d761f6-7c96-499a-8542-45c7b5792471",
+      "kind": "main",
+      "idx": 30,
+      "text": "בחד מהב' צדדים, הענף הג' יטפל בדעת שאר גדולי עולם כר\"ש הנגיד, והרמב\"ם, והראב\"ד",
+      "coords": {
+        "HPOS": 326,
+        "VPOS": 2376,
+        "WIDTH": 1991,
+        "HEIGHT": 64
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_7f8f0fcc-4c6b-4f75-804c-6726fd0a611c",
+      "kind": "main",
+      "idx": 31,
+      "text": "והמאירי אם דבריהם ברור מללו, ואם ראוי לסמוך עליהם, הענף הד' יטפל בספרים שבאו לי מן",
+      "coords": {
+        "HPOS": 322,
+        "VPOS": 2436,
+        "WIDTH": 1998,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_80c7884d-9731-41b1-b4df-0b74a775d652",
+      "kind": "main",
+      "idx": 32,
+      "text": "החדש אחר שגמרתי ענין זה על מתכונתו אם להימין אם להשמאיל ע\"כ מה שהעלינו אנן בעניותין,",
+      "coords": {
+        "HPOS": 335,
+        "VPOS": 2508,
+        "WIDTH": 1982,
+        "HEIGHT": 58
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_14e46d12-fe08-415e-9860-53cb36cc57c1",
+      "kind": "main",
+      "idx": 33,
+      "text": "ואחר שהארבעה ענפים נטפלו בכל האמור כמערכה אל הדרוש בא יבא הענף הה' בביאור תשו'",
+      "coords": {
+        "HPOS": 328,
+        "VPOS": 2568,
+        "WIDTH": 1989,
+        "HEIGHT": 61
+      },
+      "para_start": true,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_f73693c0-8167-4d8d-9ad5-6ef8ca106167",
+      "kind": "main",
+      "idx": 34,
+      "text": "שלפנינו שהיא עיקר מטרין להורות מכל אורך דברינו בד' ענפים הקודמים ומראיות אחרות מופתיות",
+      "coords": {
+        "HPOS": 324,
+        "VPOS": 2645,
+        "WIDTH": 1993,
+        "HEIGHT": 46
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_ea80405f-526b-4953-b67b-7ef428ca01cb",
+      "kind": "main",
+      "idx": 35,
+      "text": "שנמלא את ידינו בהם, כי תשו' זאת הכי יצאה מקולמוס גאוננו ולית בה חששת זיוף אפי' בדרך חלום,",
+      "coords": {
+        "HPOS": 335,
+        "VPOS": 2696,
+        "WIDTH": 1982,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_32ae8bf7-2ded-4b22-9216-544e37960e3b",
+      "kind": "main",
+      "idx": 36,
+      "text": "ולא בדרך הפלגה, ואבא תכף אל",
+      "coords": {
+        "HPOS": 1007,
+        "VPOS": 2759,
+        "WIDTH": 655,
+        "HEIGHT": 69
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_1327d43a-388a-4c9b-89f0-1fae4787ac6d",
+      "kind": "main",
+      "idx": 37,
+      "text": "הענף הא' ואומר: לא אכחד שעל חקירה נפלאה זאת עמד עליה הגאון המפורסם מאריה",
+      "coords": {
+        "HPOS": 324,
+        "VPOS": 2823,
+        "WIDTH": 1991,
+        "HEIGHT": 71
+      },
+      "para_start": true,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_7ac213b9-ee8f-466a-95c1-d552e1ec8ad7",
+      "kind": "main",
+      "idx": 38,
+      "text": "דארעא דישראל מרן זקני בס' הנורא חק\"ל א\"ח די\"ב ע\"ב וביו\"ד ח\"א רש\"י ע\"א,",
+      "coords": {
+        "HPOS": 332,
+        "VPOS": 2885,
+        "WIDTH": 1597,
+        "HEIGHT": 70
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_9abf1789-4321-4553-82fc-0165d1036b6a",
+      "kind": "main",
+      "idx": 39,
+      "text": "ונצב ימינו כשור לתמוה על הרמב\"ם ז\"ל בהקדמתו לס' היד שכתב: \"דעד רבינו הקדוש ראש ב\"ד, או",
+      "coords": {
+        "HPOS": 332,
+        "VPOS": 2951,
+        "WIDTH": 1988,
+        "HEIGHT": 70
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_f0b65ab4-73a2-45cc-a405-f4a1c4a5fa42",
+      "kind": "main",
+      "idx": 40,
+      "text": "נביא",
+      "coords": {
+        "HPOS": 454,
+        "VPOS": 3017,
+        "WIDTH": 105,
+        "HEIGHT": 55
+      },
+      "para_start": false,
+      "is_catchword": true
+    }
+  ]
+}

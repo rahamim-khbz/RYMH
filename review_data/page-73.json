@@ -1,0 +1,681 @@
+{
+  "page_id": "page-73",
+  "image": "page_images/page-73.jpg",
+  "page_width": 2550,
+  "page_height": 3300,
+  "base_hash": "sha256:1872bfe460367147b62339146bb3e35b4fa73e4bea1bf07557fed32c15597c44",
+  "lines": [
+    {
+      "line_id": "eSc_line_fe3bc8a9",
+      "kind": "main",
+      "idx": 0,
+      "text": "בידים, כי הוא איסור צאו דלא תעשון בן לה' אלהיכם, מן הראשון, ירצה, מעיקר האיסור שכתבת",
+      "coords": {
+        "HPOS": 304,
+        "VPOS": 223,
+        "WIDTH": 1994,
+        "HEIGHT": 75
+      },
+      "para_start": true,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_8567658d",
+      "kind": "main",
+      "idx": 1,
+      "text": ",דברים שבע\"פ, דאותו האיסור לא לעצמו יצא, כי אם משום גזרה שמא יהיו עלולים לדליקה בשבה",
+      "coords": {
+        "HPOS": 311,
+        "VPOS": 295,
+        "WIDTH": 1991,
+        "HEIGHT": 75
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_8b541ff2",
+      "kind": "main",
+      "idx": 2,
+      "text": "ועינינו רואות וכלות, ואין בידינו להושיע, ואתה אבדת בידים, ועברת על עיקרו של איסור שמפניו",
+      "coords": {
+        "HPOS": 310,
+        "VPOS": 359,
+        "WIDTH": 1992,
+        "HEIGHT": 64
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_dba89d00",
+      "kind": "main",
+      "idx": 3,
+      "text": "\"הוא שנתחדש איסור לכותבי ברכות, וע\"ז יפה דקדק תנא דברייתא לומר \"ובלשון הזה אמר לו ר\"יש",
+      "coords": {
+        "HPOS": 321,
+        "VPOS": 423,
+        "WIDTH": 1981,
+        "HEIGHT": 75
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_1cfd1c59",
+      "kind": "main",
+      "idx": 4,
+      "text": "להוציא ממנו הפרח הנחמד הזה, שאם ר\"יש היה אומר לו גדול עונשך בסתם, אפשר שהיינו מבינים",
+      "coords": {
+        "HPOS": 311,
+        "VPOS": 482,
+        "WIDTH": 1993,
+        "HEIGHT": 69
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_a07bc761",
+      "kind": "main",
+      "idx": 5,
+      "text": "שהיה כוונתו על עיקר הכתיבה, או על שניהם כאחר על הכתיבה, ועל האיבור, אבל מדקרוק לשונו",
+      "coords": {
+        "HPOS": 311,
+        "VPOS": 548,
+        "WIDTH": 1995,
+        "HEIGHT": 77
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_5bb4ca78",
+      "kind": "main",
+      "idx": 6,
+      "text": "כבר אנהרינהו לעיינין דעיקר האיסור אינו אלא מפני שאין מצילין אותם מפני הדליקה, ושפיר",
+      "coords": {
+        "HPOS": 315,
+        "VPOS": 610,
+        "WIDTH": 1991,
+        "HEIGHT": 79
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_a13cc3fc",
+      "kind": "main",
+      "idx": 7,
+      "text": "דקדקתי, יאמר לך תנא דברייתא, במה שאמרתי \"מכאן אמרו\" כלומר, דוקא מטעם זה הוא איסור",
+      "coords": {
+        "HPOS": 317,
+        "VPOS": 682,
+        "WIDTH": 1989,
+        "HEIGHT": 71
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_c468fec7",
+      "kind": "main",
+      "idx": 8,
+      "text": ",הכתיבה הפומביית, ולא לעצמו יצא, ולדעתי פי' זה בשטח ברייתין הוא ולא אחר, ורוק היטב",
+      "coords": {
+        "HPOS": 326,
+        "VPOS": 740,
+        "WIDTH": 1981,
+        "HEIGHT": 77
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_e0657959",
+      "kind": "main",
+      "idx": 9,
+      "text": "ויבוסם לך, ונדאה דבזמן התנאים, עדיין לא היה מי שיהיה לקבוע מלאכתו בחשאי לכתוב הלכות, כי",
+      "coords": {
+        "HPOS": 319,
+        "VPOS": 804,
+        "WIDTH": 1992,
+        "HEIGHT": 70
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_485e5a24",
+      "kind": "main",
+      "idx": 10,
+      "text": "אם ברכות וקמיעות וכו', ובזמן ר\"יוח, שכבר ירדו הדורות, ונתרבו הספרים, עד שראינו שכבר",
+      "coords": {
+        "HPOS": 319,
+        "VPOS": 870,
+        "WIDTH": 1990,
+        "HEIGHT": 74
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_bae708bd",
+      "kind": "main",
+      "idx": 11,
+      "text": "התירו לעצמם ללמוד מתוך הספר דברי אגרה, משום עת לעשות לה', ע\"ז נראה, דבאותו זמן כבר",
+      "coords": {
+        "HPOS": 317,
+        "VPOS": 929,
+        "WIDTH": 1992,
+        "HEIGHT": 72
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_e0831e64",
+      "kind": "main",
+      "idx": 12,
+      "text": "התחילו ליקח החירות לעצמם, איזה סופרים עניים, לכתוב הלכות ולמכור, כדי שהתלמידים יראו",
+      "coords": {
+        "HPOS": 317,
+        "VPOS": 995,
+        "WIDTH": 1994,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_0b785815",
+      "kind": "main",
+      "idx": 13,
+      "text": ",מתוכם וילמרו בע\"פ, כי עריין באיסורייהו קיימי, והתחילו להתרבות, וע\"ז הוציא כברק חצו ר\"יוח",
+      "coords": {
+        "HPOS": 322,
+        "VPOS": 1057,
+        "WIDTH": 1989,
+        "HEIGHT": 81
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_07644448",
+      "kind": "main",
+      "idx": 14,
+      "text": "ואפשר למר אותו מהברייתא הנז', ואמר: \"כותבי הלכות כשורפי תורה\" והוא על הקובעים מלאכתם",
+      "coords": {
+        "HPOS": 317,
+        "VPOS": 1125,
+        "WIDTH": 1998,
+        "HEIGHT": 85
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_9be3707c",
+      "kind": "main",
+      "idx": 15,
+      "text": "ואל",
+      "coords": {
+        "HPOS": 2170,
+        "VPOS": 1221,
+        "WIDTH": 145,
+        "HEIGHT": 113
+      },
+      "para_start": true,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_61376fd0",
+      "kind": "main",
+      "idx": 16,
+      "text": ":בכך כרפירשנו והוא האמת שתתעלה",
+      "coords": {
+        "HPOS": 928,
+        "VPOS": 1189,
+        "WIDTH": 772,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_0a2f8f74",
+      "kind": "main",
+      "idx": 17,
+      "text": "תשיבני ממה שכתב בעל הלכות גדולות הלכות הספד דקמ\"ג ע\"ג, שהביא ברייתא דר\"י",
+      "coords": {
+        "HPOS": 321,
+        "VPOS": 1250,
+        "WIDTH": 1838,
+        "HEIGHT": 75
+      },
+      "para_start": true,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_ecf0b1e7",
+      "kind": "main",
+      "idx": 18,
+      "text": "הגלילי ארוכה עם משל ארוך, ומסיים כך, עתיר הקב\"ה להיות יושב בדין ואומר, מי שעסק",
+      "coords": {
+        "HPOS": 321,
+        "VPOS": 1314,
+        "WIDTH": 1812,
+        "HEIGHT": 81
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_0cc9cb7f",
+      "kind": "main",
+      "idx": 19,
+      "text": ",בתורה ובמצות יבא ויטול שכרו, שנאמר, איה סופר איה שוקל, איה סופר, אלו מלמדי תינוקות",
+      "coords": {
+        "HPOS": 326,
+        "VPOS": 1378,
+        "WIDTH": 1989,
+        "HEIGHT": 77
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_b5e2e039",
+      "kind": "main",
+      "idx": 20,
+      "text": "איה שוקל, אלו שוקלין קלין וחמורין, איה סופר את המגדלים, אלו סופרי מדרש והלכות",
+      "coords": {
+        "HPOS": 319,
+        "VPOS": 1433,
+        "WIDTH": 1996,
+        "HEIGHT": 97
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_66a49857",
+      "kind": "main",
+      "idx": 21,
+      "text": "שבאים ונוטלין וכו' ע\"כ. דנמצא מזה דהיו סופרים פומביים, ולא",
+      "coords": {
+        "HPOS": 1008,
+        "VPOS": 1508,
+        "WIDTH": 1309,
+        "HEIGHT": 63
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_c3411b44",
+      "kind": "main",
+      "idx": 22,
+      "text": "שכל אחד כותב לעצמו, דאררבה מכאן ראיה אל היסוד מוסר, דמלבר דמצינו סופרי הלכות בזמן ר\"י",
+      "coords": {
+        "HPOS": 328,
+        "VPOS": 1571,
+        "WIDTH": 1989,
+        "HEIGHT": 64
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_32e5c33e",
+      "kind": "main",
+      "idx": 23,
+      "text": "הגלילי שקדם לר\"הק לא זמן מועט, עוד זאת ראיה היא דאלו הסופרים היו בחנם, לטובת גדולי",
+      "coords": {
+        "HPOS": 324,
+        "VPOS": 1635,
+        "WIDTH": 1993,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_f7d7d457",
+      "kind": "main",
+      "idx": 24,
+      "text": "ישראל בעלי הקבלה כי לא היה ביכלתם לכתוב בירם ממש, כי ודאי טריחא להו מלתא, וסופריהם לא",
+      "coords": {
+        "HPOS": 322,
+        "VPOS": 1701,
+        "WIDTH": 1995,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_3d407107",
+      "kind": "main",
+      "idx": 25,
+      "text": "היו נוטלין שכר ע\"ז, כרי שלא ליהנות מדברי תורה, ע\"ז הקדוש ברוך הוא משלם שכרן, ומינה דכותבי",
+      "coords": {
+        "HPOS": 326,
+        "VPOS": 1765,
+        "WIDTH": 1992,
+        "HEIGHT": 73
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_77647968",
+      "kind": "main",
+      "idx": 26,
+      "text": "הלכות למכור לאחרים, ולקבוע מלאכתן בכך, היו כשורפי תורה, ואדרבה, עם ברייתא זאת התחזק",
+      "coords": {
+        "HPOS": 328,
+        "VPOS": 1838,
+        "WIDTH": 1989,
+        "HEIGHT": 65
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_32d2ea4d",
+      "kind": "main",
+      "idx": 27,
+      "text": ".הענין ער להפליא",
+      "coords": {
+        "HPOS": 1133,
+        "VPOS": 1890,
+        "WIDTH": 382,
+        "HEIGHT": 73
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_93038c93",
+      "kind": "main",
+      "idx": 28,
+      "text": "לא אכחר שבמדרש משלי, דפוס בומבירני ד\"ז עמוד א', על פסוק פלס ומאזני משפט, הביא",
+      "coords": {
+        "HPOS": 326,
+        "VPOS": 1947,
+        "WIDTH": 1987,
+        "HEIGHT": 82
+      },
+      "para_start": true,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_d7ddf235",
+      "kind": "main",
+      "idx": 29,
+      "text": "ברייתא זאח דר\"י, יוחר באורך, ושם הוא אומר, איה סופר את המגדלים, איה לומך",
+      "coords": {
+        "HPOS": 365,
+        "VPOS": 2016,
+        "WIDTH": 1790,
+        "HEIGHT": 72
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_96c248dc",
+      "kind": "main",
+      "idx": 30,
+      "text": "מדרש והלכות, אבל מי שיעמוד על דברי בה\"ג, ועל דברי המדרש, בעיניו יראה שלבעל",
+      "coords": {
+        "HPOS": 544,
+        "VPOS": 2082,
+        "WIDTH": 1774,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_a6fb8e3f",
+      "kind": "main",
+      "idx": 31,
+      "text": "הלכות גדולות, היתה לו הברייתא כצורתה, ולא מהמדרש העתיקה, בשום אופן, ואין ספק דבמדרש",
+      "coords": {
+        "HPOS": 326,
+        "VPOS": 2146,
+        "WIDTH": 1992,
+        "HEIGHT": 77
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_393bcf07",
+      "kind": "main",
+      "idx": 32,
+      "text": "חלו כו ידים והבוחר יבחר",
+      "coords": {
+        "HPOS": 1087,
+        "VPOS": 2220,
+        "WIDTH": 514,
+        "HEIGHT": 60
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_d385a621",
+      "kind": "main",
+      "idx": 33,
+      "text": "והענין",
+      "coords": {
+        "HPOS": 2115,
+        "VPOS": 2267,
+        "WIDTH": 203,
+        "HEIGHT": 105
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_a85cd077",
+      "kind": "main",
+      "idx": 34,
+      "text": "כותב הלכות\" דעם שכבר גם בזה הארכנו לעיל בענף הראשון להשמיע במרום דאי",
+      "coords": {
+        "HPOS": 335,
+        "VPOS": 2339,
+        "WIDTH": 1719,
+        "HEIGHT": 73
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_07ff0010",
+      "kind": "main",
+      "idx": 35,
+      "text": "הזה עצמו יביאנו להשיב על ראייתו השנית מההיא דאמר ר\"יש \"אלה אתה כותב ואי אתה",
+      "coords": {
+        "HPOS": 332,
+        "VPOS": 2273,
+        "WIDTH": 1752,
+        "HEIGHT": 73
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_b0bacd2f",
+      "kind": "main",
+      "idx": 36,
+      "text": "אפשר לפרש דברי תנא דברי\"ש על איסור הכתיבה, עכ\"ז, נחזור עור הפעם הדברים, כי גם פה",
+      "coords": {
+        "HPOS": 332,
+        "VPOS": 2407,
+        "WIDTH": 1992,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_e65a640c",
+      "kind": "main",
+      "idx": 37,
+      "text": "אין מדרש בלא חדוש, והיינו: ראחדי רמשמעות \"אלה אתה כותב\" לא בא למצות כתיבת ס\"ת בשום",
+      "coords": {
+        "HPOS": 333,
+        "VPOS": 2464,
+        "WIDTH": 1991,
+        "HEIGHT": 67
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_e7093edf",
+      "kind": "main",
+      "idx": 38,
+      "text": "אופן, כאשר הארכנו, אלא דוקא על איסור למוד דברים שבכתב ע\"פ, א\"כ מוכרח דפירוש \"אלה",
+      "coords": {
+        "HPOS": 335,
+        "VPOS": 2528,
+        "WIDTH": 1987,
+        "HEIGHT": 69
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_0c34e2de",
+      "kind": "main",
+      "idx": 39,
+      "text": ",אתה כותב\" כך פירושו, אלה אתה מוכרח לכותבם, מפני שאסור אתה ללמוד אלה הדברים בע\"פ",
+      "coords": {
+        "HPOS": 343,
+        "VPOS": 2590,
+        "WIDTH": 1979,
+        "HEIGHT": 81
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_8766e560",
+      "kind": "main",
+      "idx": 40,
+      "text": "תנא",
+      "coords": {
+        "HPOS": 471,
+        "VPOS": 2984,
+        "WIDTH": 92,
+        "HEIGHT": 64
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_a275b56e",
+      "kind": "main",
+      "idx": 41,
+      "text": "הכתיבה ואיסורה קא משתעי, כי אם על איסור הלמוד, וריב\"ן הבא אחריו בזמן, כבר ביאר להדיא",
+      "coords": {
+        "HPOS": 341,
+        "VPOS": 2788,
+        "WIDTH": 1983,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_a05dd47b",
+      "kind": "main",
+      "idx": 42,
+      "text": "שהוא לשון יותר ברור, וסתמא דתלמודא, בכל מקומות שהביא דברי ריב\"ן, כבר הביא תכף לשון",
+      "coords": {
+        "HPOS": 341,
+        "VPOS": 2913,
+        "WIDTH": 1981,
+        "HEIGHT": 84
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_6c160eea",
+      "kind": "main",
+      "idx": 43,
+      "text": "ואמר, דברים שבכתב אי אתה רשאי לאומרם בע\"פ, ודברים שבע\"פ אי אתה רשאי לאומרם בכתב",
+      "coords": {
+        "HPOS": 339,
+        "VPOS": 2849,
+        "WIDTH": 1987,
+        "HEIGHT": 71
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_79a214f6",
+      "kind": "main",
+      "idx": 44,
+      "text": "מתוך הכתב, נמצא רכל מה שנשתמש ר\"יש בלשון \"אתה כותב\" \"ואי אתה כותב\" לא על עצם חיוב",
+      "coords": {
+        "HPOS": 337,
+        "VPOS": 2720,
+        "WIDTH": 1987,
+        "HEIGHT": 77
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_5958c6e2",
+      "kind": "main",
+      "idx": 45,
+      "text": "ואי אתה כותב הלכות\" ירצה, ואי אתה צריך לכתוב הלכות, מפני כי בלאו הכי אתה אסור ללומדם",
+      "coords": {
+        "HPOS": 335,
+        "VPOS": 2658,
+        "WIDTH": 1978,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_9d9004d1",
+      "kind": "main",
+      "idx": 46,
+      "text": "'22י2 כז' יגזא\"2 אז\"ז.א) לג \"\"יו*",
+      "coords": {
+        "HPOS": 45,
+        "VPOS": 2652,
+        "WIDTH": 41,
+        "HEIGHT": 439
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_52e31e9d",
+      "kind": "main",
+      "idx": 47,
+      "text": "י\"'2ו",
+      "coords": {
+        "HPOS": 33,
+        "VPOS": 3127,
+        "WIDTH": 36,
+        "HEIGHT": 103
+      },
+      "para_start": false,
+      "is_catchword": true
+    }
+  ]
+}

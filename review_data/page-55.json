@@ -1,0 +1,625 @@
+{
+  "page_id": "page-55",
+  "image": "page_images/page-55.jpg",
+  "page_width": 2550,
+  "page_height": 3300,
+  "base_hash": "sha256:cf0dd1d9c46f245ceb3158f5ea755725d8919ebddb94980de548a27362877489",
+  "lines": [
+    {
+      "line_id": "eSc_line_7d2e9d2e",
+      "kind": "main",
+      "idx": 0,
+      "text": "מאמינים פשטנים אם לא ירדו מתוך הפלפול החד והחלק והשרשי לעומק איזה אמונות שרשיות, כי",
+      "coords": {
+        "HPOS": 220,
+        "VPOS": 220,
+        "WIDTH": 2023,
+        "HEIGHT": 69
+      },
+      "para_start": true,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_2ebcbbd5",
+      "kind": "main",
+      "idx": 1,
+      "text": "הם זל באמונתם חיו ועבדו את ה' מאהבה ומחיבת הקרש, זכותם יגן עלינו ועל זרענו ועל זר\"ז עד סוף",
+      "coords": {
+        "HPOS": 220,
+        "VPOS": 286,
+        "WIDTH": 2029,
+        "HEIGHT": 78
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_068279e5",
+      "kind": "main",
+      "idx": 2,
+      "text": "כל הדורות (לה) אבל למי ראוי להעיר אותו משנתו למי שש\"ט בתוכו\"ת חכמה וחננו ה' מהדעות והאמונות",
+      "coords": {
+        "HPOS": 214,
+        "VPOS": 353,
+        "WIDTH": 2031,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_8660b7a0",
+      "kind": "main",
+      "idx": 3,
+      "text": "לפי צרכו, לזה אנו אומרים: חגור חרבך וצא שדה צופים, והשיבה דבר בקיום הפנות האלהיות והשכליות",
+      "coords": {
+        "HPOS": 214,
+        "VPOS": 418,
+        "WIDTH": 2033,
+        "HEIGHT": 71
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_deee810d",
+      "kind": "main",
+      "idx": 4,
+      "text": "למען תרעינה באחו אשה אל אחותה, ואם איש אתה ידעתי גם ידעתי כי לא תעצור כח להשיב שואלך",
+      "coords": {
+        "HPOS": 220,
+        "VPOS": 478,
+        "WIDTH": 2025,
+        "HEIGHT": 79
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_dd9c6120",
+      "kind": "main",
+      "idx": 5,
+      "text": "דבר, ובעל כרחך להודות על האמת ולחרוט בעט ברזל ועופרת, ולומר: \"הציווי האלהי שלא יתנגד",
+      "coords": {
+        "HPOS": 229,
+        "VPOS": 553,
+        "WIDTH": 2018,
+        "HEIGHT": 61
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_5acd1a63",
+      "kind": "main",
+      "idx": 6,
+      "text": "\"אר טבע הנמנעות, אינו אלא למדו ביאור תורתי שלא מתוך הכתב הגנוז",
+      "coords": {
+        "HPOS": 216,
+        "VPOS": 603,
+        "WIDTH": 2031,
+        "HEIGHT": 95
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_a9d98b85",
+      "kind": "main",
+      "idx": 7,
+      "text": "והכתיבה הגנוזה לקיום תורה שבע\"פ, לנצח נצחים לא נאסרה, והוא נגדהאמת שתאסר\" כה יהיה",
+      "coords": {
+        "HPOS": 214,
+        "VPOS": 683,
+        "WIDTH": 2033,
+        "HEIGHT": 63
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_5426a412",
+      "kind": "main",
+      "idx": 8,
+      "text": "תשובת המודה על האמת יהי אלהיו עמו ויעל, וגם אם ברוב הימים ופזור האומה התירו פרושים גם",
+      "coords": {
+        "HPOS": 216,
+        "VPOS": 749,
+        "WIDTH": 2027,
+        "HEIGHT": 57
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_8b2d1609",
+      "kind": "main",
+      "idx": 9,
+      "text": ",את הדבר הזה, על כ\"פ שרשה לא היתה אמונה או איסור סותרים מן הקצה אל הקצה אל טבע הנמנעות",
+      "coords": {
+        "HPOS": 223,
+        "VPOS": 804,
+        "WIDTH": 2022,
+        "HEIGHT": 81
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_72c69b71",
+      "kind": "main",
+      "idx": 10,
+      "text": "ועדיין היינו יכולים לסבול על המצוה הזאת, אבל בטורח עצום, ר\"ל כי היינו יכולים ליקח דברים",
+      "coords": {
+        "HPOS": 214,
+        "VPOS": 869,
+        "WIDTH": 2033,
+        "HEIGHT": 78
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_77eda84c",
+      "kind": "main",
+      "idx": 11,
+      "text": "שבע\"פ בהיות הכתיבות גנוזות ביד כל ראש גולה שבכל אקלים ואקלים לשבעה וגם לשמונה טופסים",
+      "coords": {
+        "HPOS": 216,
+        "VPOS": 933,
+        "WIDTH": 2029,
+        "HEIGHT": 71
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_14681114",
+      "kind": "main",
+      "idx": 12,
+      "text": "בעולם, ואם ר\"יות תנייה לתורת כהנים בג' יומי אנחנו נשנה אותו בתלתא ירחי, וכן ע\"ז הדרך כל",
+      "coords": {
+        "HPOS": 218,
+        "VPOS": 997,
+        "WIDTH": 2027,
+        "HEIGHT": 70
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_e0541e42",
+      "kind": "main",
+      "idx": 13,
+      "text": "שהוא עיקר נמצא דהפרש גדול בין אם מוכרחים אנו להתיר לכתוב מפני כי הצווי היה נופל תחת טבע",
+      "coords": {
+        "HPOS": 212,
+        "VPOS": 1065,
+        "WIDTH": 2033,
+        "HEIGHT": 75
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_829f51eb",
+      "kind": "main",
+      "idx": 14,
+      "text": "הנמנעות (כי אז ח\"ו יבא האדם לידי כפירה לחשוב שמי שצוה, לא צפה והביט כי יבא יומו ויפול הצווי",
+      "coords": {
+        "HPOS": 218,
+        "VPOS": 1129,
+        "WIDTH": 2025,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_ed706629",
+      "kind": "main",
+      "idx": 15,
+      "text": "או ההבטחה תחת הנמנע בטבע קיים, תצלנה שתי אזנים!! ואין להביא ראיה ממצוות פרטיות שנתבטלו",
+      "coords": {
+        "HPOS": 218,
+        "VPOS": 1195,
+        "WIDTH": 2025,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_7f2af3a0",
+      "kind": "main",
+      "idx": 16,
+      "text": "בחרבן הבית וגלותן של ישראל שאדעתא דהכי הנחילם ולא באה עלינו שום הבטחה נצחית, כאשר",
+      "coords": {
+        "HPOS": 220,
+        "VPOS": 1257,
+        "WIDTH": 2023,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_22c7adf2",
+      "kind": "main",
+      "idx": 17,
+      "text": "בערב היא באה על כללות דתינו שתתעלה עם מקרא מפורש, כי לא תשכח מפי זרעו וכנזכר לעיל",
+      "coords": {
+        "HPOS": 218,
+        "VPOS": 1321,
+        "WIDTH": 2025,
+        "HEIGHT": 79
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_9ae0a067",
+      "kind": "main",
+      "idx": 18,
+      "text": "באורך, שתורה שבכתב בלי תשבע\"פ כגוף בלא נשמה ואומתנו יאבד כל זכר לה רח\"ל) לבין מה שנתיר",
+      "coords": {
+        "HPOS": 220,
+        "VPOS": 1386,
+        "WIDTH": 2023,
+        "HEIGHT": 78
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_69a2c9c4",
+      "kind": "main",
+      "idx": 19,
+      "text": "הלמוד מתוך הכתב הגנוז, מפני כי הצווי חזר יותר קשה הקיום ממה שהיה קודם, וע\"כ נתיר לפרסם",
+      "coords": {
+        "HPOS": 216,
+        "VPOS": 1461,
+        "WIDTH": 2027,
+        "HEIGHT": 69
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_f0cbbf19",
+      "kind": "main",
+      "idx": 20,
+      "text": "הגניזות וללמוד מתוכם, כי באופן בזה אין מי שיוכל לטעון כנגד אמונתנו, כי סבת השכחה הנאחזת",
+      "coords": {
+        "HPOS": 214,
+        "VPOS": 1525,
+        "WIDTH": 2031,
+        "HEIGHT": 62
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_1e8140e7",
+      "kind": "main",
+      "idx": 21,
+      "text": ",בסבך הגלות, גורמת שתשכח תורה מכל וכל, כאלו לא היתה, ושהצווי בטלו הטבע כעפרא דארעא",
+      "coords": {
+        "HPOS": 231,
+        "VPOS": 1578,
+        "WIDTH": 2014,
+        "HEIGHT": 84
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_d73484bb",
+      "kind": "main",
+      "idx": 22,
+      "text": "ונמצא מזה דאינו צווי אלהי אלא אנושי ח\"ו! דזה אינו, שהרי לא נאסרה הכתיבה מכל וכל, כי הרי היא",
+      "coords": {
+        "HPOS": 216,
+        "VPOS": 1644,
+        "WIDTH": 2034,
+        "HEIGHT": 70
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_e04dded4",
+      "kind": "main",
+      "idx": 23,
+      "text": "כתובה וגנוזה, ויבא זמן כזמן של רבינו הקדוש ויחזור ים התלמוד לאיתנו הראשון, כלומר לתוקפו",
+      "coords": {
+        "HPOS": 218,
+        "VPOS": 1710,
+        "WIDTH": 2029,
+        "HEIGHT": 83
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_db3fef74",
+      "kind": "main",
+      "idx": 24,
+      "text": "ולחזקו הראשון, ודוק היטב בחילוק הזה, כי נשמת רוח חיי ענין אדיר ונורא זה כאפו, אלא כי רבנן",
+      "coords": {
+        "HPOS": 216,
+        "VPOS": 1772,
+        "WIDTH": 2027,
+        "HEIGHT": 88
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_7e12bc71",
+      "kind": "main",
+      "idx": 25,
+      "text": "סבוראי ראו בעין חכמתם להשתמש מקרא דעת לעשות לה' והתירו פרושים את הדבר ללמוד מתוך",
+      "coords": {
+        "HPOS": 220,
+        "VPOS": 1837,
+        "WIDTH": 2023,
+        "HEIGHT": 80
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_55dd3718",
+      "kind": "main",
+      "idx": 26,
+      "text": "הספר, והוא מכלל הדברים הגדולים שאלהינו ברוך הוא אדון כל החכמות השלים תורתינו הנעימה",
+      "coords": {
+        "HPOS": 220,
+        "VPOS": 1903,
+        "WIDTH": 2023,
+        "HEIGHT": 80
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_b689ff55",
+      "kind": "main",
+      "idx": 27,
+      "text": "והתמימה בלאו דלא תסור על ימין ועל שמאל זכותה יגן עלינו כיר\"א. ומה לי להאריך עוד כי אם לסיים",
+      "coords": {
+        "HPOS": 218,
+        "VPOS": 1967,
+        "WIDTH": 2031,
+        "HEIGHT": 79
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_880af9a0",
+      "kind": "main",
+      "idx": 28,
+      "text": "הענף הזה בכי טוב כמו שסיים הראב\"ד שם באומרו \"ומי שעוזר זה הפירוש המקום",
+      "coords": {
+        "HPOS": 214,
+        "VPOS": 2031,
+        "WIDTH": 2029,
+        "HEIGHT": 86
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_d37b367b",
+      "kind": "main",
+      "idx": 29,
+      "text": "דהו כי הוא עוזר האמת והישר\" ואם הראצ\"ד ז\"ל נכנס בכמה דוחקים עד",
+      "coords": {
+        "HPOS": 225,
+        "VPOS": 2099,
+        "WIDTH": 1930,
+        "HEIGHT": 82
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_f49539da",
+      "kind": "main",
+      "idx": 30,
+      "text": ",שכמעט עיקם עלינו פשט המשנה והגמרא, והכל כדי שלא להוציא משפג אחד בדיני ממונות מעוקל",
+      "coords": {
+        "HPOS": 229,
+        "VPOS": 2163,
+        "WIDTH": 2016,
+        "HEIGHT": 81
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_576b7738",
+      "kind": "main",
+      "idx": 31,
+      "text": "לפי דעתו דעת עליון, וגמר דבריו בבקשה ובתחנה שיעזרוהו בקיום הפירוש ההוא, אנן מה נענה על",
+      "coords": {
+        "HPOS": 216,
+        "VPOS": 2227,
+        "WIDTH": 2027,
+        "HEIGHT": 88
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_f8e0cf2a",
+      "kind": "main",
+      "idx": 32,
+      "text": "פירושנו האמתי הזה בסוגייאות דתמורה וגטין שבאמצעותו, מלבד שמתישבות סברות ה' עמוד עולם",
+      "coords": {
+        "HPOS": 218,
+        "VPOS": 2300,
+        "WIDTH": 2023,
+        "HEIGHT": 65
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_03d21ed3",
+      "kind": "main",
+      "idx": 33,
+      "text": "אשר בית ישראל נכון עליהם, עוד זאת, והיא העיקרית, כי ע\"י זה תקובל קבלתנו בלב כל חכם לב",
+      "coords": {
+        "HPOS": 216,
+        "VPOS": 2361,
+        "WIDTH": 2023,
+        "HEIGHT": 75
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_409de55f",
+      "kind": "main",
+      "idx": 34,
+      "text": "ברחמים וברצון ויסכרו פי דוברי שקר המדברים על קבלתנו הנאמנה בגאוה ובוז, ואין ספק כי העוזר",
+      "coords": {
+        "HPOS": 221,
+        "VPOS": 2429,
+        "WIDTH": 2022,
+        "HEIGHT": 64
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_66771965",
+      "kind": "main",
+      "idx": 35,
+      "text": "פירוש זה ומביא עליו ראיות להחזיקו ולאמצו, כדי שיבנו עליו דיק כל הבאים אחרינו, אין ספק כי ראוי",
+      "coords": {
+        "HPOS": 220,
+        "VPOS": 2495,
+        "WIDTH": 2023,
+        "HEIGHT": 69
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_56bcf3f9",
+      "kind": "main",
+      "idx": 36,
+      "text": ".שתשרה עליו השכינה וציי\"ם ויראנו מתורתו נפלאות",
+      "coords": {
+        "HPOS": 702,
+        "VPOS": 2557,
+        "WIDTH": 1057,
+        "HEIGHT": 62
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_b007aa89",
+      "kind": "main",
+      "idx": 37,
+      "text": "הענף",
+      "coords": {
+        "HPOS": 346,
+        "VPOS": 2636,
+        "WIDTH": 132,
+        "HEIGHT": 62
+      },
+      "para_start": true,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_3f7053ca",
+      "kind": "main",
+      "idx": 38,
+      "text": "לה) בס' מנחת קנאות אגרות להרב אבא מרי ז\"ל שבא לידי מחדש שם ראיתי בעמוד קפ\"ג שעל מה שכתב הראב\"ד הנז\"ל)",
+      "coords": {
+        "HPOS": 214,
+        "VPOS": 2674,
+        "WIDTH": 2033,
+        "HEIGHT": 76
+      },
+      "para_start": true,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_942230d7",
+      "kind": "main",
+      "idx": 39,
+      "text": "וכמה גדולים וטובים ממנו הלכו בזאת המחשבה לפי מה שראו במקראות ויותר מה שראו בדברי האגדות המשבשות את\"",
+      "coords": {
+        "HPOS": 214,
+        "VPOS": 2731,
+        "WIDTH": 1930,
+        "HEIGHT": 70
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_f34bd5f6",
+      "kind": "main",
+      "idx": 40,
+      "text": "הדעות\" על זה כתוב שם וז\"ל \"ויתכן שהיו גדולים ממנו בקומתן וטובי מראה ובריאי בשר ואני לא אומר בעדם שהיו קטני",
+      "coords": {
+        "HPOS": 220,
+        "VPOS": 2792,
+        "WIDTH": 2030,
+        "HEIGHT": 58
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_513e095b",
+      "kind": "main",
+      "idx": 41,
+      "text": "אמונה, אם האמינו גשמות וכו אלא אומר כי אבדה האמונה ונכרתה מפיהם\" והאריך עי\"ש. ובחיבורי נצח ישראל",
+      "coords": {
+        "HPOS": 227,
+        "VPOS": 2841,
+        "WIDTH": 2022,
+        "HEIGHT": 72
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_717be047",
+      "kind": "main",
+      "idx": 42,
+      "text": ".והכוזרי במאמר ד' סימן י\"ג י\"ד ט\"ו ואכמ\"ל",
+      "coords": {
+        "HPOS": 1500,
+        "VPOS": 2942,
+        "WIDTH": 747,
+        "HEIGHT": 75
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_7fc1bd73",
+      "kind": "main",
+      "idx": 43,
+      "text": "הרביתי בראיות מופתיות תלמודיות פלוסופיות להוכיח שכדעת הראב\"ד כן הוא, וענין עגלי ירבעם יוכיח כאשר האריכו החבר",
+      "coords": {
+        "HPOS": 223,
+        "VPOS": 2900,
+        "WIDTH": 2022,
+        "HEIGHT": 73
+      },
+      "para_start": true,
+      "is_catchword": false
+    }
+  ]
+}

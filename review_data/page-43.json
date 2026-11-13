@@ -1,0 +1,723 @@
+{
+  "page_id": "page-43",
+  "image": "page_images/page-43.jpg",
+  "page_width": 2550,
+  "page_height": 3300,
+  "base_hash": "sha256:60b1604c0db75c4be408e86ea370fcdb1241e4a0a39600cf67d034050f91c8b3",
+  "lines": [
+    {
+      "line_id": "eSc_line_41aae12a",
+      "kind": "main",
+      "idx": 0,
+      "text": "בנ\"הג התחילו לכתוב מה שהיו שומעין זה מזה כמו שכתבנו בזו של",
+      "coords": {
+        "HPOS": 176,
+        "VPOS": 218,
+        "WIDTH": 2010,
+        "HEIGHT": 90
+      },
+      "para_start": true,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_39d71123",
+      "kind": "main",
+      "idx": 1,
+      "text": "יבמות, וכן מה שנאמר עליהם במס' זאת (פ\"ק דאבות מ\"א) הם אמרו ג' דברים וכו' ועכ\"ז היה",
+      "coords": {
+        "HPOS": 176,
+        "VPOS": 289,
+        "WIDTH": 2014,
+        "HEIGHT": 70
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_044e9e23",
+      "kind": "main",
+      "idx": 2,
+      "text": "זה מעט, זולת כדברים זרים דמציאות ענינם רחוק, כי היה לבם רחב כפתחו של אולם, והיו נשענים",
+      "coords": {
+        "HPOS": 176,
+        "VPOS": 361,
+        "WIDTH": 2016,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_dac1a59f",
+      "kind": "main",
+      "idx": 3,
+      "text": "על טוב מזגם, ויושר הכנתם, ורוחב לבבם, והפלגת שקידתם, וכאשר תמו הדורות ההם, ונאסף",
+      "coords": {
+        "HPOS": 177,
+        "VPOS": 421,
+        "WIDTH": 2015,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_81a39a02",
+      "kind": "main",
+      "idx": 4,
+      "text": "עזרא הסופר אל עמיו, הגענו לזמן אנשי חכמי התלמוד, וראשון שבהם היה שמעון הצדיק שהיה",
+      "coords": {
+        "HPOS": 177,
+        "VPOS": 484,
+        "WIDTH": 2013,
+        "HEIGHT": 78
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_e238d1a4",
+      "kind": "main",
+      "idx": 5,
+      "text": "אחרון",
+      "coords": {
+        "HPOS": 304,
+        "VPOS": 553,
+        "WIDTH": 130,
+        "HEIGHT": 61
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_7cc15d42",
+      "kind": "main",
+      "idx": 6,
+      "text": "דבר ה' בפי הרמב\"ם אמת, כי כן אמרו בפסיקתא פ' אמר ר' דוסא ראה את חגי הנביא וכו' עי\"ש. ואני אומר גם זאת הוה",
+      "coords": {
+        "HPOS": 177,
+        "VPOS": 632,
+        "WIDTH": 2013,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_17ceaf48",
+      "kind": "main",
+      "idx": 7,
+      "text": "בידי כנראה לקמן סי ש\"ב ואשתמיט מנאי לפי שעה, אבל איני יודע מה כל החרדה. וכי כל כך קדמון הוא רבינו טוביה",
+      "coords": {
+        "HPOS": 179,
+        "VPOS": 698,
+        "WIDTH": 2009,
+        "HEIGHT": 57
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_49c92009",
+      "kind": "main",
+      "idx": 8,
+      "text": "בעל הפסיקתא? לא היה כ\"א בשנת ד\"א תתנ\"ו כמבואר שם קרוב לריש הפרשה, וא\"כ מאי חדוש? אם הוא יחליט דבר שהוא",
+      "coords": {
+        "HPOS": 177,
+        "VPOS": 742,
+        "WIDTH": 2015,
+        "HEIGHT": 62
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_abf62b1e",
+      "kind": "main",
+      "idx": 9,
+      "text": "\"למעלה מן הטבע האם אנו מוכרחים לקבל דבריו? ואין לומר שכך קבלה בידו, שהרי הוא משלים דבריו \"כדאיתא ביבמות",
+      "coords": {
+        "HPOS": 181,
+        "VPOS": 801,
+        "WIDTH": 2011,
+        "HEIGHT": 57
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_447307b8",
+      "kind": "main",
+      "idx": 10,
+      "text": "נמצא דאין לו קבלה אחרת, כי אם פשטא דשמעתתא שהוא מבין ממנה שר\"ל שראה את חגי וכל גדולי הדורות הבינו שכך",
+      "coords": {
+        "HPOS": 179,
+        "VPOS": 847,
+        "WIDTH": 2011,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_c337cde2",
+      "kind": "main",
+      "idx": 11,
+      "text": "\"קבלה בידו ובכתיבה, ובפרט למה שהוכרחנו לקמן אנן בעניותין שאמר לשון \"מעיד אני שעל מדוכה זו\" \"מקובל אני מפי חגי",
+      "coords": {
+        "HPOS": 192,
+        "VPOS": 903,
+        "WIDTH": 1998,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_94bee278",
+      "kind": "main",
+      "idx": 12,
+      "text": "זה הכלל, כל הדברים הגוזמיים, אם לא יצאו מפי התלמוד והמדרשים, ואנו מוצאים חד מגדולי הדורות מפרש פי המתקרב",
+      "coords": {
+        "HPOS": 177,
+        "VPOS": 951,
+        "WIDTH": 2015,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_93719641",
+      "kind": "main",
+      "idx": 13,
+      "text": "אל טבע מעשה בראשית מחוייבים אנו לקבלו, כי גם שכלנו מתת אלהים הוא ואסור גמור לצערו, ואש\"א ת\"ם. ואחר זמן",
+      "coords": {
+        "HPOS": 177,
+        "VPOS": 1002,
+        "WIDTH": 2017,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_fb997f52",
+      "kind": "main",
+      "idx": 14,
+      "text": "ראיתי בירוש פ\"ק דיבמות שהובא שם מעשה זה דר\"ד בן הרכינם, ועם שאין בו לא לשון מעיד אני, ולא מקובל אני, עכ\"פ",
+      "coords": {
+        "HPOS": 179,
+        "VPOS": 1056,
+        "WIDTH": 2011,
+        "HEIGHT": 69
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_627cb6a8",
+      "kind": "main",
+      "idx": 15,
+      "text": "יש ענין שם המורה להדיא שחי ר' דוסא בזמן עזרא חגי זכריה ומלאכי, שהרי על ו\"א בן עזריה אמר \"מכירו אני שהוא דור",
+      "coords": {
+        "HPOS": 181,
+        "VPOS": 1114,
+        "WIDTH": 2011,
+        "HEIGHT": 63
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_9106d419",
+      "kind": "main",
+      "idx": 16,
+      "text": "עשירי לעזרא ועינוי דמין לדידיה\" א\"כ נמצא דכבר הכיר פנים בפנים לעזרא והוא פלא! ואין ספק דמכאן היא החלטת רבינו",
+      "coords": {
+        "HPOS": 181,
+        "VPOS": 1164,
+        "WIDTH": 2009,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_5a8fb2a4",
+      "kind": "main",
+      "idx": 17,
+      "text": "הרמב\"ם, אבל מה נעשה שהמאירי גם בחידושיו ליבמות כתב וז\"ל, לא שהגיעו ימיו של ר' דוסא לימיו של חגי הנביא, אלא",
+      "coords": {
+        "HPOS": 177,
+        "VPOS": 1211,
+        "WIDTH": 2015,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_40941f5d",
+      "kind": "main",
+      "idx": 18,
+      "text": "'שקבלה מומחית היתה בידו על כך, ובעל כרחנו להודות לבעל מאור עינים ח\"ב פכ\"ח דק\"ב רע\"ב שהביא ההפרש שבין הירוש",
+      "coords": {
+        "HPOS": 181,
+        "VPOS": 1265,
+        "WIDTH": 2014,
+        "HEIGHT": 67
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_f7da87d7",
+      "kind": "main",
+      "idx": 19,
+      "text": "והבבלי בסיפור זה, וסיים וכתב: אשר ע\"כ לא יקשה אם תמצא להם ז\"ל סיפור אחד בעינו לאופנים שונים וכו' אחרי שכל",
+      "coords": {
+        "HPOS": 179,
+        "VPOS": 1318,
+        "WIDTH": 2015,
+        "HEIGHT": 69
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_66247c2c",
+      "kind": "main",
+      "idx": 20,
+      "text": "בעל דברים יכול הוא לומר את אשר שמעתי הגדתי, עי\"ש. ובתשו' הגאונים כ\"י שהעדיף מטובו החכם החוקר מוהר\"ר זלמן",
+      "coords": {
+        "HPOS": 179,
+        "VPOS": 1380,
+        "WIDTH": 2011,
+        "HEIGHT": 59
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_5d3430a8",
+      "kind": "main",
+      "idx": 21,
+      "text": ".ן' כ\"ט, נד\"ו יש תשו' לרבינו שרירא הגאון ז\"ל וזה נוסחה אות באות",
+      "coords": {
+        "HPOS": 1060,
+        "VPOS": 1439,
+        "WIDTH": 1126,
+        "HEIGHT": 57
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_2babe8d0",
+      "kind": "main",
+      "idx": 22,
+      "text": "שאלה (לר' שרירא גאון ז\"ל.) הא דאמור רבנן בימי ר' רוסא בן חרבינס חתירו צרת הבת לאחין וכו' ובסופו אמו",
+      "coords": {
+        "HPOS": 190,
+        "VPOS": 1483,
+        "WIDTH": 1994,
+        "HEIGHT": 60
+      },
+      "para_start": true,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_d090bfb3",
+      "kind": "main",
+      "idx": 23,
+      "text": "להו מעיר אני עלי שמים וארץ שעל מרוכה זו ישב חני הנביא ואמר ג' דברים וכו' מי חיה ר' רוסא בולי האי",
+      "coords": {
+        "HPOS": 181,
+        "VPOS": 1532,
+        "WIDTH": 1803,
+        "HEIGHT": 57
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_1dc8c484",
+      "kind": "main",
+      "idx": 24,
+      "text": ".(מתחלת בית שני ועד סופו רהא ר' עקיבא יצא בגלות שני: (ר\"ל ור\"ע היה בזיין ר\"ד בן הרכינס כדאמר לו אתה הוא מקיבא וכו' ן' כ\"ט",
+      "coords": {
+        "HPOS": 181,
+        "VPOS": 1574,
+        "WIDTH": 2013,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_310da99f",
+      "kind": "main",
+      "idx": 25,
+      "text": "תשובה הבין חזיגא דלא קאמר ר' רוסא בן הרכינם אני ראיתי את חגי הגביא מיהו זקן גדול היה והאריך בשנים וכירוע",
+      "coords": {
+        "HPOS": 181,
+        "VPOS": 1631,
+        "WIDTH": 2013,
+        "HEIGHT": 68
+      },
+      "para_start": true,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_654c4e3c",
+      "kind": "main",
+      "idx": 26,
+      "text": "רשיחת כל רור ורור ברירא ומגברא וגפישא ברור שלישי בתר מאה ומאתין שנין ובתר הבין שמעתתא",
+      "coords": {
+        "HPOS": 179,
+        "VPOS": 1683,
+        "WIDTH": 1787,
+        "HEIGHT": 58
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_00e837ad",
+      "kind": "main",
+      "idx": 27,
+      "text": "והלכתא מנקטן ושיחות ומאי דדמי לה משתכח רוביהון ואנחנא בריר לנא טובא ממאי רהוה ביומי מר רב פלטוי ומר רב אהי",
+      "coords": {
+        "HPOS": 183,
+        "VPOS": 1728,
+        "WIDTH": 2011,
+        "HEIGHT": 57
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_028a170a",
+      "kind": "main",
+      "idx": 28,
+      "text": "ומר רב מתתיה גאונים נוחם ערן במאי דבריר לגא מאי רחזינא וידעינא רוכתיה רחר וחר ומושב דליה והרבה משיחותיהון",
+      "coords": {
+        "HPOS": 181,
+        "VPOS": 1778,
+        "WIDTH": 2009,
+        "HEIGHT": 60
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_bf4c5553",
+      "kind": "main",
+      "idx": 29,
+      "text": "ויומא ויומא מן פירוקא היכא הוי יתיב ומאי דריש ומאי אתמר במתיבתית וכן יומיה טפי ממאי דבריר לגא מאי דהוי בשני",
+      "coords": {
+        "HPOS": 185,
+        "VPOS": 1827,
+        "WIDTH": 2007,
+        "HEIGHT": 61
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_4405126c",
+      "kind": "main",
+      "idx": 30,
+      "text": "מר ר' אוכמאי ומר ר' אברהם נוהם עדן ואית מרינאי ושמועות רקיימן בליבנא כמאן רחזיניה ושמעיניה ואלו הערנו עלינו",
+      "coords": {
+        "HPOS": 183,
+        "VPOS": 1873,
+        "WIDTH": 2007,
+        "HEIGHT": 63
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_e7d0868d",
+      "kind": "main",
+      "idx": 31,
+      "text": "את השמים ואת הארץ דהכא מר ר' צמח גאון ודרש בן וכן הוה אפשר אף הבין ר' רוסא בן הרכינם אי לא אפשר רחזייה",
+      "coords": {
+        "HPOS": 181,
+        "VPOS": 1926,
+        "WIDTH": 2011,
+        "HEIGHT": 63
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_b84ee0e7",
+      "kind": "main",
+      "idx": 32,
+      "text": "לחגי הנביא כיון דהאריך שנים הוה ידע מן מאי דהליף ביומיה טפי מן מאן רידע מאן דלא חזי ליה הנהו סבי רחזינהו רבי",
+      "coords": {
+        "HPOS": 185,
+        "VPOS": 1978,
+        "WIDTH": 2005,
+        "HEIGHT": 58
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_b6805bba",
+      "kind": "main",
+      "idx": 33,
+      "text": "רוסא ותנו ליה וליבא קושיא בהא מילתא ע\"כ. נמצא מבורר דהגאונים כבר התעוררו ע\"ז והשיבו דהיתה קבלה ביד ר' דוסא",
+      "coords": {
+        "HPOS": 181,
+        "VPOS": 2024,
+        "WIDTH": 2007,
+        "HEIGHT": 58
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_28b5569e",
+      "kind": "main",
+      "idx": 34,
+      "text": "'בן הרכינם, שכיון שהאריך ימים הביר לזקנים שהאריכו ימים והכירו את עזרא חגי זכריה ומלאכי, וא\"כ גם לשון הירוש",
+      "coords": {
+        "HPOS": 185,
+        "VPOS": 2071,
+        "WIDTH": 2005,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_f89bf16a",
+      "kind": "main",
+      "idx": 35,
+      "text": "הנז' יוכל לפרשו שכך קבל מהזקנים צורת עיניו של עזרא דהיו דרך משל כיונים על אפיקי מים, ובראותו עיני ראב\"ע על",
+      "coords": {
+        "HPOS": 181,
+        "VPOS": 2124,
+        "WIDTH": 2011,
+        "HEIGHT": 65
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_759bfbaf",
+      "kind": "main",
+      "idx": 36,
+      "text": "אותה צורה החליט ואמר עיניו דמיין לעיניו והוא עפ\"י קבלתו מהזקנים שהכירוהו ולא שהוא האריך ימים כ\"כ. ור\"ש גאון ז\"ל",
+      "coords": {
+        "HPOS": 181,
+        "VPOS": 2176,
+        "WIDTH": 2009,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_e1f7dba3",
+      "kind": "main",
+      "idx": 37,
+      "text": "היה יכול לפרשו שהיה כתוב אצלו כך ושלשון מעיד אני ולא מקובל אני מורה כן כאשר כתבנו לקמן על מקומו אלא שלא",
+      "coords": {
+        "HPOS": 179,
+        "VPOS": 2229,
+        "WIDTH": 2009,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_a6d9e189",
+      "kind": "main",
+      "idx": 38,
+      "text": "פירש כן להודיע לנו עדיפא מהא, דבאמת מה כל חרדה של השואלים, כאלו בהלוך שלש מאות שנה שבין חגי זכריה ומלאכי",
+      "coords": {
+        "HPOS": 185,
+        "VPOS": 2289,
+        "WIDTH": 2003,
+        "HEIGHT": 61
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_74fcefed",
+      "kind": "main",
+      "idx": 39,
+      "text": "לא היה יכול ר\"ד בן הרכינם להיות שמורה הקבלה בידו אפילו בדברים בעלמא? כיון שהיו בעיר אחת. ושפיר הביא הגאון",
+      "coords": {
+        "HPOS": 183,
+        "VPOS": 2341,
+        "WIDTH": 2005,
+        "HEIGHT": 60
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_14664ec0",
+      "kind": "main",
+      "idx": 40,
+      "text": ",ראיה מהגאונים הקדמונים שקדמו לו בערך זמן זה ועכ\"ז שלשלת הקבלתם בידו אפילו בדברים של מה בכך ומאי חידוש",
+      "coords": {
+        "HPOS": 190,
+        "VPOS": 2396,
+        "WIDTH": 2000,
+        "HEIGHT": 60
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_85de5f01",
+      "kind": "main",
+      "idx": 41,
+      "text": "ודוק שעל זה לא רצה לומר שהיה כתיבה בידו קבלה זאת. וגם אני הדל באלפי זכני ה' וראיתי בארג\"יל יע\"א ב\"הכ של הריב\"ש",
+      "coords": {
+        "HPOS": 183,
+        "VPOS": 2440,
+        "WIDTH": 2007,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_792901f6",
+      "kind": "main",
+      "idx": 42,
+      "text": "ושל התשב\"ן. והכרתי מקומותיהם ומקומו של הריב\"ש היה סמוך לכניסת ב\"הכ לצד ימין ממש ובנו אותו עם לבנים מצופים",
+      "coords": {
+        "HPOS": 183,
+        "VPOS": 2498,
+        "WIDTH": 2009,
+        "HEIGHT": 59
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_e6d63efa",
+      "kind": "main",
+      "idx": 43,
+      "text": "באבר יפים ונעימים ותלו עליו עששית דולקת כל היום וכל הלילה כמו שהוא לפני ההיכל. ומקים של התשב\"ץ היה לצד",
+      "coords": {
+        "HPOS": 185,
+        "VPOS": 2552,
+        "WIDTH": 1999,
+        "HEIGHT": 62
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_35b830de",
+      "kind": "main",
+      "idx": 44,
+      "text": "ימין בקרן שלפני ההיכל. וגם מקום זה סגרו אותו בעצים והיינו יורדים לאותו ב\"הכ בשלשים מדרגות וכבר היו כל הכותלים",
+      "coords": {
+        "HPOS": 185,
+        "VPOS": 2605,
+        "WIDTH": 1999,
+        "HEIGHT": 57
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_ca127245",
+      "kind": "main",
+      "idx": 45,
+      "text": "נופלים מפני כובד העפר של השוק והיה כמעט נוטה לנפול. ואני נטפלתי עם הקהל במאמר השר הגדול הצרפתי מארישאל",
+      "coords": {
+        "HPOS": 183,
+        "VPOS": 2647,
+        "WIDTH": 2007,
+        "HEIGHT": 75
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_5e346017",
+      "kind": "main",
+      "idx": 46,
+      "text": "באלי לבנות ב\"הכ אחר ושהשררה היתה ברצונה לעשות כל אותו המחוז רחוב גדול. וכן בירושלם בב\"הכנ של ת\"ת קודם",
+      "coords": {
+        "HPOS": 187,
+        "VPOS": 2707,
+        "WIDTH": 1999,
+        "HEIGHT": 63
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_3799ea96",
+      "kind": "main",
+      "idx": 47,
+      "text": "שנבנה היה נודע מקומו של מוהרלנ\"ח בקרן שבהיכל השני הקטן שכך אמר חכם זקן ירושלמי כמוהר\"ר אברהם פיזאנטי ז\"ל",
+      "coords": {
+        "HPOS": 185,
+        "VPOS": 2753,
+        "WIDTH": 2001,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_0944a8a0",
+      "kind": "main",
+      "idx": 48,
+      "text": "להגאון מרן אבא ז\"ל. ואני הייתי קטן בן ט שנים, וגם מקומו זה היה סגור בעצים. העולה מכל זה שמי שדר בעיר הוא",
+      "coords": {
+        "HPOS": 183,
+        "VPOS": 2810,
+        "WIDTH": 2001,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_6a76bbf9",
+      "kind": "main",
+      "idx": 49,
+      "text": "ואבות אבותיו, אינו חידוש אם ישארו קבלות הראשונים בידו, אפילו של ד' ה' מאות שנה כמו שהוא מן זמני לזמן הריב\"ש",
+      "coords": {
+        "HPOS": 185,
+        "VPOS": 2867,
+        "WIDTH": 1998,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_dae1d84b",
+      "kind": "main",
+      "idx": 50,
+      "text": ".ז\"ל. ועיין נגזרי מ\"א סי' ז' ונ\"א דברים ברורים בזה ועיין בפי' קול יהודה שם",
+      "coords": {
+        "HPOS": 909,
+        "VPOS": 2922,
+        "WIDTH": 1272,
+        "HEIGHT": 71
+      },
+      "para_start": false,
+      "is_catchword": false
+    }
+  ]
+}

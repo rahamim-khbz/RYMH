@@ -1,0 +1,639 @@
+{
+  "page_id": "page-51",
+  "image": "page_images/page-51.jpg",
+  "page_width": 2550,
+  "page_height": 3300,
+  "base_hash": "sha256:6a5089741fa95a25a9fcafed225c7424685737a6bfcfd0d35a15884d5533c6de",
+  "lines": [
+    {
+      "line_id": "eSc_line_0a3fb28e",
+      "kind": "main",
+      "idx": 0,
+      "text": "ועל העבודה, התחיל הזמן הנק' \"זמן נחותי בבל\" בפי רב שרירא גאון באגרתו הובאה למעלה, שכולם",
+      "coords": {
+        "HPOS": 229,
+        "VPOS": 214,
+        "WIDTH": 2020,
+        "HEIGHT": 68
+      },
+      "para_start": true,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_51ffe8bc",
+      "kind": "main",
+      "idx": 1,
+      "text": "היו גולים לבבל מטעם השמד, וכאשר נאריך בע\"ה בח\"ב סי' מ' בהערה המבקרת קדמוניות, וכיון",
+      "coords": {
+        "HPOS": 229,
+        "VPOS": 271,
+        "WIDTH": 2014,
+        "HEIGHT": 75
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_1f422a14",
+      "kind": "main",
+      "idx": 2,
+      "text": ",שגלתה סנהדרין לבבל מפני כי שם מלכו פרסיים, והרומיים חקקו חק שלא לעבור מנהר פרת ולהלאה",
+      "coords": {
+        "HPOS": 234,
+        "VPOS": 330,
+        "WIDTH": 2011,
+        "HEIGHT": 82
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_b09ff06f",
+      "kind": "main",
+      "idx": 3,
+      "text": "ע\"ז הגלו עמהם כל הגניזות של תשבע\"פ, כי ידוע, כי אומה זאת מאותו זמן ועד היום בכלל דעתם",
+      "coords": {
+        "HPOS": 229,
+        "VPOS": 396,
+        "WIDTH": 2014,
+        "HEIGHT": 67
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_277db1de",
+      "kind": "main",
+      "idx": 4,
+      "text": "עלך אורייתא קרישתא, וכאשר גם על ביאור זה עיין בהערה הנז' ועל אותו זמן (של נחותי בבל שהוא",
+      "coords": {
+        "HPOS": 227,
+        "VPOS": 460,
+        "WIDTH": 2018,
+        "HEIGHT": 77
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_c9ee32eb",
+      "kind": "main",
+      "idx": 5,
+      "text": "ד\"א ק') רומז מר זוטרא (אחרון שהיה בזמן רב אשי שנלב\"ע בד\"א קפ\"ז) ואמר \"טעינו ד' מאה גמלי",
+      "coords": {
+        "HPOS": 231,
+        "VPOS": 522,
+        "WIDTH": 2008,
+        "HEIGHT": 72
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_d236d6c5",
+      "kind": "main",
+      "idx": 6,
+      "text": "דדרשה\" ירצה כשגלתה סנהדרין מא\"י קרוב לד\"א ק', הגלו עמהם כל אוצר הקבלה וכל הגניזות, ולבד",
+      "coords": {
+        "HPOS": 231,
+        "VPOS": 586,
+        "WIDTH": 2016,
+        "HEIGHT": 86
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_a4d32e7a",
+      "kind": "main",
+      "idx": 7,
+      "text": "מדרשות שבין אצל לאצל טעינו בפועל ד' מאה גמלי, מלבד משא גמלים רבים מגניזות אחרות שהביאו",
+      "coords": {
+        "HPOS": 229,
+        "VPOS": 654,
+        "WIDTH": 2016,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_c7076b52",
+      "kind": "main",
+      "idx": 8,
+      "text": "עמהם, וזהו מה שאנו מוצאין בפי רבינו הגאון בתשובה שלפנינו \"ושית סדרי משנה",
+      "coords": {
+        "HPOS": 227,
+        "VPOS": 713,
+        "WIDTH": 2016,
+        "HEIGHT": 80
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_4e12b14e",
+      "kind": "main",
+      "idx": 9,
+      "text": "דאתגניזו מימות הלל\", והלא אתגניזו בא\"י, כי שם היו שמאי והלל, ומי הביאם לבבל עד",
+      "coords": {
+        "HPOS": 231,
+        "VPOS": 777,
+        "WIDTH": 2010,
+        "HEIGHT": 82
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_98994119",
+      "kind": "main",
+      "idx": 10,
+      "text": ",שנמצאו בגנזי אותו גאון, אם לא שהביאום עמהם נחותי בבל עם כל אוצר הקבלה הנפלאה ושם נשארו",
+      "coords": {
+        "HPOS": 240,
+        "VPOS": 848,
+        "WIDTH": 2007,
+        "HEIGHT": 77
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_190a3538",
+      "kind": "main",
+      "idx": 11,
+      "text": "ולבי",
+      "coords": {
+        "HPOS": 2093,
+        "VPOS": 944,
+        "WIDTH": 148,
+        "HEIGHT": 112
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_bc6fd413",
+      "kind": "main",
+      "idx": 12,
+      "text": ".והגאונים ירשו את מורשיהם חכמי התלמוד",
+      "coords": {
+        "HPOS": 807,
+        "VPOS": 913,
+        "WIDTH": 877,
+        "HEIGHT": 60
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_e1c7364f",
+      "kind": "main",
+      "idx": 13,
+      "text": "ביררנו, אלא שגם זאת גזרו, כי בכלה יובאו ושמה יהיו, ושום אדם לא יוכל להחזירם לא\"י",
+      "coords": {
+        "HPOS": 247,
+        "VPOS": 1032,
+        "WIDTH": 1794,
+        "HEIGHT": 82
+      },
+      "para_start": true,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_2927e20d",
+      "kind": "main",
+      "idx": 14,
+      "text": "אומר לי רבותי! שלא זאת שב\"ד הגדול שבא\"י הגלה שמה כל גנזי ואוצרי הקבלה כאשר",
+      "coords": {
+        "HPOS": 227,
+        "VPOS": 968,
+        "WIDTH": 1840,
+        "HEIGHT": 82
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_5d7f6258",
+      "kind": "main",
+      "idx": 15,
+      "text": "אפי' בזמן שמולך בה קיסר מקיסרי רומי אוהב היהודים כיוליאנוס רודף הנוצרים ודדמי ליה, כי באמת",
+      "coords": {
+        "HPOS": 223,
+        "VPOS": 1100,
+        "WIDTH": 2022,
+        "HEIGHT": 78
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_2095ed5e",
+      "kind": "main",
+      "idx": 16,
+      "text": "אין להאמין, מפני שאם קיסר אחד נוהג טובת עין עם ישראל, ומחבבם, ונותן לו כתבי חירות אחת",
+      "coords": {
+        "HPOS": 223,
+        "VPOS": 1160,
+        "WIDTH": 2022,
+        "HEIGHT": 84
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_e15afabc",
+      "kind": "main",
+      "idx": 17,
+      "text": "ותשע, למחר יקום אחר תחתיו, ונשכח את כל השבע כאשר ראינו גם בדורותינו אלה אשר נקראהו דור",
+      "coords": {
+        "HPOS": 227,
+        "VPOS": 1230,
+        "WIDTH": 2022,
+        "HEIGHT": 77
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_ce16bc81",
+      "kind": "main",
+      "idx": 18,
+      "text": "דעה, ודור השוואת הדעות הפילוסופיות, דאם אין דמיוני מכזב, דבר זה שאני אומר, מלבד שהשכל",
+      "coords": {
+        "HPOS": 225,
+        "VPOS": 1298,
+        "WIDTH": 2014,
+        "HEIGHT": 67
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_65a44e45",
+      "kind": "main",
+      "idx": 19,
+      "text": "מחייבו, אחר ידיעתנו הברורה בהנהגת המלכות הזאת, בר מן דין מבואר יוצא מתוך מאמר אחד",
+      "coords": {
+        "HPOS": 229,
+        "VPOS": 1364,
+        "WIDTH": 2012,
+        "HEIGHT": 71
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_23b8daec",
+      "kind": "main",
+      "idx": 20,
+      "text": "סתום וחתום בירוש' פ' חלק סוף הלכה א', וזה תוארו, \"אמ\"ר שמעון בן לקיש, אם יאמר לי אדם שיש",
+      "coords": {
+        "HPOS": 221,
+        "VPOS": 1420,
+        "WIDTH": 2022,
+        "HEIGHT": 77
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_9d822928",
+      "kind": "main",
+      "idx": 21,
+      "text": "דברי הימים בבבל הרי אני הולך ומביאו משם, ועכשיו אם מתכנשין הם כל רבותינו אין יכולין להביאו",
+      "coords": {
+        "HPOS": 227,
+        "VPOS": 1492,
+        "WIDTH": 2012,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_b4f2e422",
+      "kind": "main",
+      "idx": 22,
+      "text": ",משם\" ע\"כ. והמאמר הלזה סתום וחתום, ועם כל פי' הרב פני משה, נשאר סתום ממה שהיה כבר",
+      "coords": {
+        "HPOS": 240,
+        "VPOS": 1549,
+        "WIDTH": 2003,
+        "HEIGHT": 82
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_7c22f39d",
+      "kind": "main",
+      "idx": 23,
+      "text": "'מה ענין דברי הימים? שודאי אינו מה שבידינו, שהרי נתון הוא בתוך ספרי הכ\"ד, ובודאי הוא כמו שפי",
+      "coords": {
+        "HPOS": 231,
+        "VPOS": 1613,
+        "WIDTH": 2010,
+        "HEIGHT": 79
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_386099d8",
+      "kind": "main",
+      "idx": 24,
+      "text": ",שם הפ\"מ, וכאשר הארכנו לעיל, שדרשות דברי הימים, כיון שלא נתן אלא לדרשה, רבו מלמנות",
+      "coords": {
+        "HPOS": 232,
+        "VPOS": 1677,
+        "WIDTH": 2015,
+        "HEIGHT": 83
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_0dca8c1b",
+      "kind": "main",
+      "idx": 25,
+      "text": "וכל זה היה כתוב וגנוז בא\"י תוב\"ב, כי משם יצאת תורה, וקודם שהתנצרה מלכות רומי, לא היו יכולים",
+      "coords": {
+        "HPOS": 223,
+        "VPOS": 1738,
+        "WIDTH": 2024,
+        "HEIGHT": 84
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_bdc572a6",
+      "kind": "main",
+      "idx": 26,
+      "text": "להוציאם מא\"י כדאמרן ספרים שזכתה בהם א\"י, וע\"ז אמ\"ר שמעון בן לקיש (שחי עד זמן ר\"י נשיאה",
+      "coords": {
+        "HPOS": 223,
+        "VPOS": 1802,
+        "WIDTH": 2022,
+        "HEIGHT": 88
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_5a77fdbc",
+      "kind": "main",
+      "idx": 27,
+      "text": "השני המבואר בירוש' בפ\"ג דהוריות, שנלב\"ע ר\"י נשיאה הלזה בימי הקיסר הנוצרי קוסטאנציוס גוזר",
+      "coords": {
+        "HPOS": 227,
+        "VPOS": 1868,
+        "WIDTH": 2018,
+        "HEIGHT": 80
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_843e9848",
+      "kind": "main",
+      "idx": 28,
+      "text": "הגזרות כאשר הארכתי בהערה מבקרת קדמוניות הנז\"ל) מעיקרא קודם התנצרות מלכי רומי אם יאמר",
+      "coords": {
+        "HPOS": 227,
+        "VPOS": 1932,
+        "WIDTH": 2018,
+        "HEIGHT": 75
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_b4252803",
+      "kind": "main",
+      "idx": 29,
+      "text": "אדם לי שיש ד\"ה בבבל, איני מאמין, ואם יש, מוכרח שהוא מובא שם מא\"י, והייתי הולך אני בעצמי",
+      "coords": {
+        "HPOS": 225,
+        "VPOS": 1996,
+        "WIDTH": 2018,
+        "HEIGHT": 81
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_f3f30606",
+      "kind": "main",
+      "idx": 30,
+      "text": ",ומביאו משם כי גנזי הקבלה צריכים להיות ביד וברשות ב\"ד הגדול שממנו תורה יוצאה, ועכשיו, ירצה",
+      "coords": {
+        "HPOS": 232,
+        "VPOS": 2069,
+        "WIDTH": 2017,
+        "HEIGHT": 74
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_21dcb178",
+      "kind": "main",
+      "idx": 31,
+      "text": "אחר שהתנצרה מלכות רומי וגלתה סנהדרין והגלו עמהם כל אוצרי וגנזי הקבלה, וגזרו ג\"כ שלא",
+      "coords": {
+        "HPOS": 221,
+        "VPOS": 2124,
+        "WIDTH": 2024,
+        "HEIGHT": 81
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_f19049b0",
+      "kind": "main",
+      "idx": 32,
+      "text": "יוציאום משם, אפי' אם מתכנשין כל רבותינו להתיר הדבר בזמן איזה מלך חסד וכדומה, אין יכולין הם",
+      "coords": {
+        "HPOS": 221,
+        "VPOS": 2196,
+        "WIDTH": 2026,
+        "HEIGHT": 75
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_ab7aaef4",
+      "kind": "main",
+      "idx": 33,
+      "text": "להביאו משם, שכבר נגזרה גזירה למגדר מילתא, כדי שלא תשתכח תורה מישראל, ואין ב\"ד יכול לבטל",
+      "coords": {
+        "HPOS": 221,
+        "VPOS": 2256,
+        "WIDTH": 2028,
+        "HEIGHT": 77
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_204ea445",
+      "kind": "main",
+      "idx": 34,
+      "text": "דברי ב\"ד חברו, ולדעתי הוא פי' מרווח ואמתי, דאי לאו הכי, אין לו הבנה, למה מקודם היה מביאו",
+      "coords": {
+        "HPOS": 223,
+        "VPOS": 2317,
+        "WIDTH": 2018,
+        "HEIGHT": 79
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_6ef3488f",
+      "kind": "main",
+      "idx": 35,
+      "text": "משם? כאלו היה אסור להיות שם, ומאי שנא עכשיו דנהפך הענין מן הקצה אל הקצה? ומהו הכונה",
+      "coords": {
+        "HPOS": 221,
+        "VPOS": 2388,
+        "WIDTH": 2022,
+        "HEIGHT": 72
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_772ab1c2",
+      "kind": "main",
+      "idx": 36,
+      "text": "?מתכנשין כל רבותינו, כאלו יש בזה ענין כללי לדת, לאסור או להתיר, כדי שיכנסו כל רבותינו למנין",
+      "coords": {
+        "HPOS": 225,
+        "VPOS": 2442,
+        "WIDTH": 2018,
+        "HEIGHT": 86
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_ab7f3bf4",
+      "kind": "main",
+      "idx": 37,
+      "text": "ומאי אין יכולין? באיזה יכולת רשב\"ל מדבר, אם יכולת גופניי, מה יכולת גופניי שייך? ואם יכולת",
+      "coords": {
+        "HPOS": 221,
+        "VPOS": 2506,
+        "WIDTH": 2026,
+        "HEIGHT": 80
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_b7ba1264",
+      "kind": "main",
+      "idx": 38,
+      "text": "רוחני, למה לא? ועפ\"י האמור לע\"ד, לא לבד שהתפשטו כל קמטיו, אלא כי נעשה מאמר זה כמעין",
+      "coords": {
+        "HPOS": 223,
+        "VPOS": 2570,
+        "WIDTH": 2022,
+        "HEIGHT": 86
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_248a9319",
+      "kind": "main",
+      "idx": 39,
+      "text": ":'וממנו ישקו כל העדרים, להודיע ולהודע תרתי תלת הקדמות נצרכות לסיפור קורות תשבע\"פ, א",
+      "coords": {
+        "HPOS": 225,
+        "VPOS": 2638,
+        "WIDTH": 2016,
+        "HEIGHT": 82
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_30d3fb62",
+      "kind": "main",
+      "idx": 40,
+      "text": "שהיתה כתובה וגנוזה תשבע\"פ. ב': שלא היו יכולים להוציאה מא\"י קודם השמד ואם הוציאוה מחזירין",
+      "coords": {
+        "HPOS": 223,
+        "VPOS": 2702,
+        "WIDTH": 2020,
+        "HEIGHT": 82
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_e6d14361",
+      "kind": "main",
+      "idx": 41,
+      "text": "העטרה למקומה. ג': דבזמן השמד גלתה הקבלה כמות שהיתה גנוזה, וטעינו ממנה כמה מאות",
+      "coords": {
+        "HPOS": 221,
+        "VPOS": 2773,
+        "WIDTH": 2020,
+        "HEIGHT": 70
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_18fb68f5",
+      "kind": "main",
+      "idx": 42,
+      "text": "גמלים והוליכוה לבבל. ד': שגזרה ב\"ד הגדול שבאותו זמן שלא יוציאוה משם, וע\"ז נמצאו הרבה גניזות",
+      "coords": {
+        "HPOS": 220,
+        "VPOS": 2827,
+        "WIDTH": 2019,
+        "HEIGHT": 78
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_56fa850f",
+      "kind": "main",
+      "idx": 43,
+      "text": ".קדמוניות מזמן שמאי והלל עד זמן הגאונים והוא ברור כשמש, שכך אירע",
+      "coords": {
+        "HPOS": 495,
+        "VPOS": 2900,
+        "WIDTH": 1478,
+        "HEIGHT": 79
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_2cefb77c",
+      "kind": "main",
+      "idx": 44,
+      "text": "אל",
+      "coords": {
+        "HPOS": 352,
+        "VPOS": 2955,
+        "WIDTH": 71,
+        "HEIGHT": 75
+      },
+      "para_start": false,
+      "is_catchword": true
+    }
+  ]
+}

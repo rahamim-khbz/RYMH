@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="he" dir="rtl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline' https://www.gstatic.com https://apis.google.com https://identitytoolkit.googleapis.com https://securetoken.googleapis.com; connect-src 'self' https://*.firebaseio.com https://identitytoolkit.googleapis.com https://securetoken.googleapis.com wss://*.firebaseio.com; img-src 'self' data: https://lh3.googleusercontent.com; frame-src https://iyye-hayyam.firebaseapp.com https://accounts.google.com https://apis.google.com; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src 'self' https://fonts.gstatic.com; object-src 'none'; base-uri 'none';">
+  <meta http-equiv="X-Content-Type-Options" content="nosniff">
+  <meta name="referrer" content="strict-origin-when-cross-origin">
+  <title>Manuscript Review — Iyye Hayyam</title>
+  <link rel="stylesheet" href="static/css/review.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Frank+Ruhl+Libre:wght@400;700;900&display=swap" rel="stylesheet">
+</head>
+<body>
+
+  <!-- Top Navigation & Status Bar -->
+  <header class="review-header" dir="ltr">
+    <div class="header-left">
+      <a href="dashboard.html" class="btn" title="Back to Dashboard">← Dashboard</a>
+      <a href="editorial.html" class="btn" id="navEditorialHub" title="Editorial Review Hub">⚖️ Editorial</a>
+      <span class="page-title" id="pageTitleLabel">Page 05</span>
+      <span class="status-badge status-available" id="pageStatusBadge">Available</span>
+    </div>
+
+    <div class="header-right">
+      <button class="btn" id="btnSignOut" title="Sign out of this site">⎋ Sign out</button>
+      <div class="sync-indicator">
+        <span class="sync-dot" id="syncDot"></span>
+        <span id="syncText">Saved</span>
+      </div>
+      <button class="btn" id="btnOpenGuide" title="Reviewer Guide">❓ Guide</button>
+      <button class="btn" id="reviewerBadgeBtn" title="Set Reviewer Name">
+        👤 <span id="reviewerNameDisplay">Reviewer</span>
+      </button>
+      <button class="btn btn-primary" id="btnClaimToggle">Claim Page</button>
+      <button class="btn btn-success" id="btnCompletePage" title="Mark page as completed">✓ Complete Page</button>
+    </div>
+  </header>
+
+  <!-- Split Review Workspace: Left Scan, Right Text Stream -->
+  <main class="review-workspace" dir="ltr">
+    <!-- Left: Manuscript Scan Viewer -->
+    <section class="panel-image" id="panelImage" dir="ltr">
+      <div class="image-toolbar">
+        <button class="btn" id="btnZoomIn" title="Zoom in (+)">➕</button>
+        <button class="btn" id="btnZoomOut" title="Zoom out (-)">➖</button>
+        <button class="btn" id="btnZoomFit" title="Fit to width">Fit</button>
+        <button class="btn" id="btnZoom100" title="Actual size (100%)">1:1</button>
+      </div>
+      <div class="image-viewport" id="imageViewport">
+        <img id="manuscriptImg" class="manuscript-img" alt="Manuscript Scan" src="" draggable="false">
+      </div>
+    </section>
+
+    <!-- Right: In-Situ Editable Reading Stream -->
+    <section class="panel-text" id="panelText" dir="rtl">
+      <div class="text-panel-toolbar" id="textPanelToolbar" dir="ltr">
+        <div class="toolbar-group">
+          <button class="btn btn-sm" id="btnPrevPage" title="Previous Page">◀ Prev</button>
+          <select id="pageSelector" class="btn btn-sm" style="background:var(--bg-subtle); color:var(--text-main);">
+            <!-- Filled dynamically -->
+          </select>
+          <button class="btn btn-sm" id="btnNextPage" title="Next Page">Next ▶</button>
+        </div>
+
+        <div class="toolbar-group">
+          <div class="font-size-control">
+            <button class="btn btn-sm" id="btnFontDec" title="Decrease font size">A-</button>
+            <span class="font-size-val" id="fontSizeDisplay">18px</span>
+            <button class="btn btn-sm" id="btnFontInc" title="Increase font size">A+</button>
+          </div>
+          <button class="btn btn-sm" id="btnThemeToggle" title="Toggle theme (Dark / Sepia / Light)">🌙 Dark</button>
+        </div>
+
+        <div class="toolbar-group">
+          <button class="btn btn-sm btn-bold-selected" id="btnMacroBoldSelected" title="Bold selected text (**text**) - Cmd+B / Ctrl+B">
+            <strong>B</strong> Bold Selected
+          </button>
+          <button class="btn btn-sm btn-flag-selected" id="btnMacroFlagSelected" title="Flag selected text for review (??text??) - Cmd+/ / Ctrl+/">
+            🚩 ? Flag Selected
+          </button>
+        </div>
+      </div>
+
+      <div class="text-stream-container">
+        <div class="text-stream-header" id="pageHeaderTitle">
+          שערי תשובה סי' קפ"ז
+        </div>
+
+        <!-- Claim Lock Banner -->
+        <div id="pageLockBanner" class="page-lock-banner" style="display:none;" dir="ltr">
+          <div class="lock-content">
+            <span class="lock-icon">🔒</span>
+            <span id="pageLockBannerText" class="lock-text">This page is currently claimed by another reviewer. You are in read-only mode.</span>
+          </div>
+          <button class="btn btn-sm btn-primary" id="btnBannerTakeOwnership">Take Ownership</button>
+        </div>
+
+        <!-- Rendered Line by Line -->
+        <div id="linesContainer"></div>
+      </div>
+    </section>
+
+    <!-- Focused 3-Line Inspection Drawer (Micro View) -->
+    <aside class="micro-drawer" id="microDrawer" dir="ltr">
+      <div class="drawer-header">
+        <div>
+          <strong>Focused Line Inspection</strong>
+          <span id="microLineLabel" style="color:var(--text-muted); margin-left:8px;">Line 1 of 43</span>
+          <span id="microLockTag" class="micro-lock-tag" style="display:none; color:var(--accent-red, #ef4444); font-size:12px; margin-left:8px; font-weight:600;">🔒 Read-Only</span>
+        </div>
+
+        <!-- Micro View Font Size Controls -->
+        <div class="font-size-control" id="microFontControl">
+          <button class="btn btn-sm" id="btnMicroFontDec" title="Decrease font size">A-</button>
+          <span class="font-size-val" id="microFontSizeDisplay">22px</span>
+          <button class="btn btn-sm" id="btnMicroFontInc" title="Increase font size">A+</button>
+        </div>
+
+        <button class="btn" id="btnCloseDrawer" title="Close (Esc)">✕ Close (Esc)</button>
+      </div>
+
+      <div class="drawer-content">
+        <!-- Canvas 3-Line Crop -->
+        <div class="canvas-crop-wrapper">
+          <canvas id="cropCanvas"></canvas>
+        </div>
+
+        <!-- AI Redline Suggestion Banner (if present) -->
+        <div id="aiProposalBanner" class="ai-proposal-banner" style="display:none;" dir="rtl">
+          <div>
+            <strong>🤖 AI Suggestion:</strong>
+            <span id="aiProposalText" style="margin-right:8px; color:var(--accent-amber);"></span>
+            <small id="aiProposalReason" style="color:var(--text-muted); display:block;"></small>
+          </div>
+          <div class="actions">
+            <button class="btn btn-success" id="btnAcceptAiProposal">✓ Accept</button>
+            <button class="btn" id="btnRejectAiProposal">✕ Reject</button>
+          </div>
+        </div>
+
+        <!-- 3-Line Context & Target Editor -->
+        <div class="micro-editor-box" dir="rtl">
+          <div class="micro-context-line" id="microPrevLine"></div>
+          
+          <div class="micro-target-input-row">
+            <button class="btn" id="btnMicroBold" title="Bold Ashurit script (**word**) - Cmd+B / Ctrl+B" style="font-weight:900; font-size:16px;">B</button>
+            <button class="btn btn-flag-word" id="btnMicroFlag" title="Flag uncertain word for review (??word??) - Cmd+/ or Ctrl+/">🚩 ?</button>
+            <input type="text" id="microTargetInput" class="micro-target-input" spellcheck="false" autocomplete="off">
+          </div>
+
+          <div class="micro-context-line" id="microNextLine"></div>
+        </div>
+      </div>
+
+      <div class="drawer-footer">
+        <div>
+          ⌨️ <strong>Enter / ↓</strong>: Next Line &nbsp;|&nbsp; 
+          <strong>↑</strong>: Prev Line &nbsp;|&nbsp; 
+          <strong>Cmd+B / Ctrl+B</strong>: Bold Ashurit &nbsp;|&nbsp;
+          <strong>Cmd+/ / Ctrl+/</strong>: Flag Word (??)
+        </div>
+        <div style="display:flex; gap:8px;">
+          <button class="btn" id="btnMicroPrevLine">▲ Prev (↑)</button>
+          <button class="btn btn-primary" id="btnMicroNext">Next (↓ / Enter) ▶</button>
+        </div>
+      </div>
+    </aside>
+  </main>
+
+  <!-- Scripts -->
+  <script src="static/js/crop_canvas.js"></script>
+  <script src="static/js/auth_gate.js"></script>
+  <script src="static/js/review_sync.js"></script>
+  <script src="static/js/micro_view.js"></script>
+  <script src="static/js/macro_view.js"></script>
+  <script src="static/js/guide_modal.js"></script>
+</body>
+</html>

@@ -1,0 +1,639 @@
+{
+  "page_id": "page-49",
+  "image": "page_images/page-49.jpg",
+  "page_width": 2550,
+  "page_height": 3300,
+  "base_hash": "sha256:67873e8026be88766c9ac6a2f8dc161640752ff74451f2d2a565d4d0e944acf4",
+  "lines": [
+    {
+      "line_id": "eSc_line_3dbd2586",
+      "kind": "main",
+      "idx": 0,
+      "text": ".השתחוה אליו אפים ארצה, ויקם וילך אליו אל עירו ואל שער מקומו בלב בטוח",
+      "coords": {
+        "HPOS": 449,
+        "VPOS": 210,
+        "WIDTH": 1607,
+        "HEIGHT": 76
+      },
+      "para_start": true,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_ee91cc9c",
+      "kind": "main",
+      "idx": 1,
+      "text": "וזכורני",
+      "coords": {
+        "HPOS": 2028,
+        "VPOS": 275,
+        "WIDTH": 219,
+        "HEIGHT": 86
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_df63d4d4",
+      "kind": "main",
+      "idx": 2,
+      "text": "שבהיותי ברומא בא לידי פעם ראשונה ס' מבוא האפל לבן זאב אשר בעקד ספרים",
+      "coords": {
+        "HPOS": 242,
+        "VPOS": 273,
+        "WIDTH": 1753,
+        "HEIGHT": 75
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_0586398b",
+      "kind": "main",
+      "idx": 3,
+      "text": "לקהלתנו הנז' וראיתי לו שם שפטפט כדרכו להשליך ארס בכל דבריו, וגם בזה לא מנע",
+      "coords": {
+        "HPOS": 234,
+        "VPOS": 335,
+        "WIDTH": 1747,
+        "HEIGHT": 81
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_371231de",
+      "kind": "main",
+      "idx": 4,
+      "text": "עצמו, מלבלבל עצמו והילדים רכים הנכנסים במבואו החשוך עם תמיהות מפליאות הללו, ועל דברי",
+      "coords": {
+        "HPOS": 243,
+        "VPOS": 407,
+        "WIDTH": 2009,
+        "HEIGHT": 64
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_7f4eebe4",
+      "kind": "main",
+      "idx": 5,
+      "text": "רז\"ל ביבמות דקיימינן בהו כתב שמי שרוחו נוחה בררש ילך ויראה דבריהם עי\"ש, כי אין הספר מצוי",
+      "coords": {
+        "HPOS": 242,
+        "VPOS": 473,
+        "WIDTH": 2008,
+        "HEIGHT": 62
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_f61244e1",
+      "kind": "main",
+      "idx": 6,
+      "text": "עתה בידי, אבל זכורני שקרוב לדברים האמורים לעיל בקיצור נמרץ כתבתי בגליון הספר ועודינו עומד",
+      "coords": {
+        "HPOS": 243,
+        "VPOS": 540,
+        "WIDTH": 2007,
+        "HEIGHT": 59
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_5d3e93c8",
+      "kind": "main",
+      "idx": 7,
+      "text": "שם בבבליוטיקא הנז\"ל, כי הציקתני רוח בטני על כל הדברים הפשוטים של רז\"ל והאמת האלה, אחר",
+      "coords": {
+        "HPOS": 245,
+        "VPOS": 594,
+        "WIDTH": 2011,
+        "HEIGHT": 69
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_3c20f3a0",
+      "kind": "main",
+      "idx": 8,
+      "text": "כל ההצעות האמתיות שהצענו, ושהם יסוד מוסד באומתנו שתושבע\"פ לא ניתנה ליכתב, והשכל מחייב",
+      "coords": {
+        "HPOS": 242,
+        "VPOS": 660,
+        "WIDTH": 2014,
+        "HEIGHT": 67
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_98575d91",
+      "kind": "main",
+      "idx": 9,
+      "text": "שודאי היו צריכין לכתוב דבר מה לחיזוק ממלכת בית דוד, וכהכרח כך נפלו הדברים מעיקרן מבלי",
+      "coords": {
+        "HPOS": 247,
+        "VPOS": 727,
+        "WIDTH": 2009,
+        "HEIGHT": 76
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_a9483c8e",
+      "kind": "main",
+      "idx": 10,
+      "text": ".שום ריח ספק",
+      "coords": {
+        "HPOS": 1104,
+        "VPOS": 793,
+        "WIDTH": 297,
+        "HEIGHT": 70
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_96d5be4c",
+      "kind": "main",
+      "idx": 11,
+      "text": ",ובאמת כן הם הדברים בלי ספק, שכיון שדרך ספור בעלמא הותרה לכתוב וללמוד מתוכו",
+      "coords": {
+        "HPOS": 258,
+        "VPOS": 850,
+        "WIDTH": 2000,
+        "HEIGHT": 79
+      },
+      "para_start": true,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_130d2984",
+      "kind": "main",
+      "idx": 12,
+      "text": "על כן קרוב הדבר למאר מאר שזאת היא הדרך הראשונה שמצאו נביאים ראשונים לכתוב כל",
+      "coords": {
+        "HPOS": 243,
+        "VPOS": 913,
+        "WIDTH": 1729,
+        "HEIGHT": 71
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_d0bd776f",
+      "kind": "main",
+      "idx": 13,
+      "text": "הלכה למעשה שבאה לפני ב\"ד הצרק בררך סיפור כענין שלפנינו, או דרך תוכחה כדברים שבע\"פ",
+      "coords": {
+        "HPOS": 243,
+        "VPOS": 984,
+        "WIDTH": 2015,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_3dde0ea8",
+      "kind": "main",
+      "idx": 14,
+      "text": "הבאים בס' יחזקאל ונחמיה והכל כמדברים על הידוע והדומה, מבלי שיובן כאלו כאים לפרש את דברי",
+      "coords": {
+        "HPOS": 245,
+        "VPOS": 1045,
+        "WIDTH": 2015,
+        "HEIGHT": 75
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_facd100c",
+      "kind": "main",
+      "idx": 15,
+      "text": "התורה או להורות דין, ואם נמצא להם האופן נקל להשטיח ולכתוב הענין באופן שהנגלה מסיפור",
+      "coords": {
+        "HPOS": 249,
+        "VPOS": 1107,
+        "WIDTH": 2014,
+        "HEIGHT": 79
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_67723ec4",
+      "kind": "main",
+      "idx": 16,
+      "text": "המעשה בחומריותו עם הנסתר שכיון בו הכותב, יהיו לאחדים ולא יתנגדו, מה טוב ומה נעים",
+      "coords": {
+        "HPOS": 264,
+        "VPOS": 1177,
+        "WIDTH": 2001,
+        "HEIGHT": 71
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_b77fead6",
+      "kind": "main",
+      "idx": 17,
+      "text": ",לדוגמא, מה שנלמוד מקרא \"ואת ערובתם תקח\" (שמואל א' סי' י\"ו) \"שכל היוצא למלחמת בית דור",
+      "coords": {
+        "HPOS": 262,
+        "VPOS": 1232,
+        "WIDTH": 2003,
+        "HEIGHT": 84
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_84795466",
+      "kind": "main",
+      "idx": 18,
+      "text": "גט כריתות היה נותן לאשתו\" שהפשט לא יופשט, ומובן ממנו ג\"כ דין זה בשופי. וכיוצא בדבר ממש",
+      "coords": {
+        "HPOS": 249,
+        "VPOS": 1303,
+        "WIDTH": 2016,
+        "HEIGHT": 77
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_bac33453",
+      "kind": "main",
+      "idx": 19,
+      "text": "הוא מ\"ש בשבת רס\"ג ע\"א שאמרו תכשיטין הן לו, שנאמר חגור חרבך על ירך גבור הודך והדרך",
+      "coords": {
+        "HPOS": 286,
+        "VPOS": 1360,
+        "WIDTH": 1979,
+        "HEIGHT": 88
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_0d747a0c",
+      "kind": "main",
+      "idx": 20,
+      "text": "?דנמצא מבורר, לפי פשט הכתוב, דכלי זיין הם תכשיטין, ורב כהנא הקשה האי בדברי תורה כתיב",
+      "coords": {
+        "HPOS": 251,
+        "VPOS": 1437,
+        "WIDTH": 2014,
+        "HEIGHT": 71
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_bb450688",
+      "kind": "main",
+      "idx": 21,
+      "text": "כלומר שכיון שהתורה שבע\"פ לא היתה נלמדת מתוך הכתב, היה הדין נותן לחזור על משנתו כדי",
+      "coords": {
+        "HPOS": 253,
+        "VPOS": 1499,
+        "WIDTH": 2010,
+        "HEIGHT": 63
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_a18e2542",
+      "kind": "main",
+      "idx": 22,
+      "text": "שתהא מזומנת בזכרון המורה לישתמש ממנה תבף כחרב על ירך גבור, שבשעת הצורך תכף נותן ידו",
+      "coords": {
+        "HPOS": 251,
+        "VPOS": 1565,
+        "WIDTH": 2016,
+        "HEIGHT": 63
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_93874508",
+      "kind": "main",
+      "idx": 23,
+      "text": "עליה ומוציאה מתערה לנצח, וזהו ההור וההדר לתלמיד חכם, וכמו שפי' רש\"י, כלומר שרב כהנא",
+      "coords": {
+        "HPOS": 251,
+        "VPOS": 1622,
+        "WIDTH": 2014,
+        "HEIGHT": 75
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_8c070d03",
+      "kind": "main",
+      "idx": 24,
+      "text": ",הבין שמקרא זה לא הלבישו דור כ\"א לזרז לת\"ח על דברי תורה, ולעולם אפשר דכלי זיין אינן תכשיטין",
+      "coords": {
+        "HPOS": 256,
+        "VPOS": 1684,
+        "WIDTH": 2013,
+        "HEIGHT": 79
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_4cee9edf",
+      "kind": "main",
+      "idx": 25,
+      "text": "וע\"ז כארי יקום מר בריה דרביגא לומר אין מקרא יוצא מידי פשוטו, ירצה שלא לבד כדברי תורה ממש",
+      "coords": {
+        "HPOS": 251,
+        "VPOS": 1749,
+        "WIDTH": 2018,
+        "HEIGHT": 77
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_33b1b521",
+      "kind": "main",
+      "idx": 26,
+      "text": "אין מקרא יוצא מידי פשוטו, כאשר ידעת רב כהנא, ואי לאו הכי הרי הגענו ב\"מ לאותם שדרשו",
+      "coords": {
+        "HPOS": 253,
+        "VPOS": 1816,
+        "WIDTH": 2016,
+        "HEIGHT": 76
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_7e687323",
+      "kind": "main",
+      "idx": 27,
+      "text": "אברהם ושרה חומר וצורה, חלילה לך רב כהנא מלחשוב זה, אלא גם בדברי הנביאים והכתובים שידענו",
+      "coords": {
+        "HPOS": 255,
+        "VPOS": 1881,
+        "WIDTH": 2016,
+        "HEIGHT": 69
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_9a68bf3b",
+      "kind": "main",
+      "idx": 28,
+      "text": "וקבלה בידינו, שהרבה דינים ופירושים וביאורי התורה הלבישום כסיפורים ותוכחות ומליצות ושירות",
+      "coords": {
+        "HPOS": 253,
+        "VPOS": 1948,
+        "WIDTH": 2018,
+        "HEIGHT": 70
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_79371c18",
+      "kind": "main",
+      "idx": 29,
+      "text": "ותשבחות, כל שיכלו למצוא אופן נקל שהנגלה והנסתר לא יתנגרו זה לזה, הא ודאי נשתמשו ממנו",
+      "coords": {
+        "HPOS": 256,
+        "VPOS": 2005,
+        "WIDTH": 2016,
+        "HEIGHT": 74
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_819901a9",
+      "kind": "main",
+      "idx": 30,
+      "text": "בשופי, וכן הכלי זיין כפשטם הם תכשיטין על ירך גבור, והשמועות שנונות בזכרון הת\"ח ובעל",
+      "coords": {
+        "HPOS": 258,
+        "VPOS": 2073,
+        "WIDTH": 2013,
+        "HEIGHT": 70
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_9a39bcff",
+      "kind": "main",
+      "idx": 31,
+      "text": "הוראה, הן הם לו לעטרת תפארת, ובאמת דבר זה לא ידעו רב כהנא, שגם בדברי הנביאים",
+      "coords": {
+        "HPOS": 258,
+        "VPOS": 2137,
+        "WIDTH": 2014,
+        "HEIGHT": 77
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_f8bfa09c",
+      "kind": "main",
+      "idx": 32,
+      "text": "'והכתובים, אשר ידענו אשר רובם בתנו לדרש, קי\"ל אין מקרא יוצא מידי פשוטו, וז\"ל הרמב\"ן בס",
+      "coords": {
+        "HPOS": 262,
+        "VPOS": 2200,
+        "WIDTH": 2012,
+        "HEIGHT": 80
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_aa825f94",
+      "kind": "main",
+      "idx": 33,
+      "text": "המצות בש\"ב \"לא אמרו אין מקרא אלא כפשוטו, רק אמרו \"אין מקרא יוצא מידי פשוטו, מורה",
+      "coords": {
+        "HPOS": 258,
+        "VPOS": 2262,
+        "WIDTH": 2014,
+        "HEIGHT": 84
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_2a94faa0",
+      "kind": "main",
+      "idx": 34,
+      "text": "כוונתם, דשתיהם אמת, הפנימי והחיצון, ויסבול הכתוב את שניהם\" ע\"כ. וכל זה תינח אם היו",
+      "coords": {
+        "HPOS": 264,
+        "VPOS": 2328,
+        "WIDTH": 2008,
+        "HEIGHT": 77
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_d7e4244e",
+      "kind": "main",
+      "idx": 35,
+      "text": "יכולים למצוא אופן נקל שהנגלה והתוכיות יהיו לאחדים, אז ודאי אין מקרא יוצא מידי פשוטו כאשר",
+      "coords": {
+        "HPOS": 266,
+        "VPOS": 2390,
+        "WIDTH": 2005,
+        "HEIGHT": 81
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_12bb3715",
+      "kind": "main",
+      "idx": 36,
+      "text": "אמרנו, אבל אם לא ימצאו אופן נאות לחבר אל האהל להיות אחד, רצוני לומר, להסכים פשט הדברים",
+      "coords": {
+        "HPOS": 260,
+        "VPOS": 2454,
+        "WIDTH": 2014,
+        "HEIGHT": 81
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_b4a1f576",
+      "kind": "main",
+      "idx": 37,
+      "text": ",עם מה שכוין בו הכותב אזי לא איכפת ליה, וכותב, דרך משל ששאל שאול על דור, בן מי זה הנעד",
+      "coords": {
+        "HPOS": 275,
+        "VPOS": 2522,
+        "WIDTH": 1997,
+        "HEIGHT": 77
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_72b5e01a",
+      "kind": "main",
+      "idx": 38,
+      "text": "ואעפ\"י שפשוטו א\"א לפרשו, ששאל על עצם דור מי הוא זה, שכבר הכירו, וידעו מלפנים, עכ\"ז",
+      "coords": {
+        "HPOS": 266,
+        "VPOS": 2583,
+        "WIDTH": 2010,
+        "HEIGHT": 80
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_7ac0c187",
+      "kind": "main",
+      "idx": 39,
+      "text": "יותר לכותב להשתמש בלשונות הללו, אחר דשייכי שפיר על הסיפור הנסתר שכבר אירע באמת, שכן",
+      "coords": {
+        "HPOS": 264,
+        "VPOS": 2647,
+        "WIDTH": 2012,
+        "HEIGHT": 82
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_682e2909",
+      "kind": "main",
+      "idx": 40,
+      "text": ",שאל שאול, בן מי זה הנער אם ראוי לבא בקהל אם לאו, וענין זה הוא סיפור דברי הימים ממש",
+      "coords": {
+        "HPOS": 271,
+        "VPOS": 2711,
+        "WIDTH": 2009,
+        "HEIGHT": 81
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_0e4a5cfa",
+      "kind": "main",
+      "idx": 41,
+      "text": "ועל דברי הימים כבר היתה קבלה ביד רז\"ל, \"לא נתנו דברי הימים אלא לדרוש\" כלומר שדברים כפשטן",
+      "coords": {
+        "HPOS": 266,
+        "VPOS": 2773,
+        "WIDTH": 2010,
+        "HEIGHT": 83
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_781129af",
+      "kind": "main",
+      "idx": 42,
+      "text": "לא היו ולא נבראו, והוא מ\"ש במגילה די\"ב ע\"א, ר\"ש ן' פזי כי הוה פתח בדברי הימים הוה אמר",
+      "coords": {
+        "HPOS": 273,
+        "VPOS": 2841,
+        "WIDTH": 2005,
+        "HEIGHT": 79
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_3e0f6b51",
+      "kind": "main",
+      "idx": 43,
+      "text": "כל",
+      "coords": {
+        "HPOS": 399,
+        "VPOS": 2988,
+        "WIDTH": 57,
+        "HEIGHT": 57
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_71bc7582",
+      "kind": "main",
+      "idx": 44,
+      "text": ",הכי, כל דברין אחד הן ואנו יודעין לדורשן, ופירש\"י, כל דברין אחד הן, כנגד הספר היה אומר",
+      "coords": {
+        "HPOS": 278,
+        "VPOS": 2905,
+        "WIDTH": 1998,
+        "HEIGHT": 109
+      },
+      "para_start": false,
+      "is_catchword": false
+    }
+  ]
+}

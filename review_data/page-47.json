@@ -1,0 +1,625 @@
+{
+  "page_id": "page-47",
+  "image": "page_images/page-47.jpg",
+  "page_width": 2550,
+  "page_height": 3300,
+  "base_hash": "sha256:c290a84ced57ea8aed3cd78e7803760b5946c595281da64b70a6fe3ac2c51e84",
+  "lines": [
+    {
+      "line_id": "eSc_line_c0af197a",
+      "kind": "main",
+      "idx": 0,
+      "text": "קודם כשהאריכו הדברים בין דוד ובין שאול במשא ומתן שיש בו כל צרכו, אם היה כדאי דור ללחום את",
+      "coords": {
+        "HPOS": 209,
+        "VPOS": 198,
+        "WIDTH": 2010,
+        "HEIGHT": 80
+      },
+      "para_start": true,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_9c3ebc5f",
+      "kind": "main",
+      "idx": 1,
+      "text": "גבור כארי הפלשתי הערל, אם לא, באמת הנה מקום הנה מלון, ששאול ישתומם ויפנה לצדדיו וישאול",
+      "coords": {
+        "HPOS": 207,
+        "VPOS": 256,
+        "WIDTH": 2014,
+        "HEIGHT": 90
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_99fa1eb1",
+      "kind": "main",
+      "idx": 2,
+      "text": ",בן מי זה העלם!!! אם לא שבעל כרחינו נודה בלבב שלם למה שקבלו רז\"ל בסוגיית יבמות הנז\"ל",
+      "coords": {
+        "HPOS": 214,
+        "VPOS": 320,
+        "WIDTH": 2005,
+        "HEIGHT": 92
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_2b14ed22",
+      "kind": "main",
+      "idx": 3,
+      "text": "שכל המשא והמתן הלזה שבין שאול ואבנר אינו אלא פלפול עצום על ביאור מקרא מלא, לא יבא עמוני",
+      "coords": {
+        "HPOS": 209,
+        "VPOS": 394,
+        "WIDTH": 2014,
+        "HEIGHT": 71
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_d09dc3c7",
+      "kind": "main",
+      "idx": 4,
+      "text": "ומואבי בקהל ה', ואיך לא נודה להם בכל דעתינו, אחרי שבקיאים אנו בשאול כי מנעוריו היה ירא",
+      "coords": {
+        "HPOS": 207,
+        "VPOS": 458,
+        "WIDTH": 2018,
+        "HEIGHT": 77
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_36a2a5da",
+      "kind": "main",
+      "idx": 5,
+      "text": "את ה', שאם לא נשתבח לחכם ומשורר ונעז\"י, עכ\"פ עליו אמר הכתוב שאול בחיר ה', ודרשת רז\"ל",
+      "coords": {
+        "HPOS": 207,
+        "VPOS": 513,
+        "WIDTH": 2018,
+        "HEIGHT": 88
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_5443e1fa",
+      "kind": "main",
+      "idx": 6,
+      "text": "לא מלתא זוטרתי היא, שאמרו שאול כבן שנה לחטא, וא\"כ אחר שלא היה נמנה בין המקבלים ולא היה",
+      "coords": {
+        "HPOS": 207,
+        "VPOS": 575,
+        "WIDTH": 2020,
+        "HEIGHT": 86
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_f7d7a426",
+      "kind": "main",
+      "idx": 7,
+      "text": "בקי בתושבע\"פ, למה לא היה לו לחוש ולדקדק ולפשפש למי יתן בתו בת מלך אם לראוי לבוא בקהל או",
+      "coords": {
+        "HPOS": 209,
+        "VPOS": 645,
+        "WIDTH": 2014,
+        "HEIGHT": 82
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_8ce07396",
+      "kind": "main",
+      "idx": 8,
+      "text": "לא? ואפי' בפקפוק בעלמא, ומתחי' בשעת הצרה, שהיה הפלשתי מחרף מערנות אלהים חיים, מרוב",
+      "coords": {
+        "HPOS": 207,
+        "VPOS": 705,
+        "WIDTH": 2020,
+        "HEIGHT": 88
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_a1b6f273",
+      "kind": "main",
+      "idx": 9,
+      "text": "תוגתו לא נזכר על זה, ואימא נזכר ואמר בדעתו, מי יודע אם יוכל להציל, ואם יציל מי יודע אם לא",
+      "coords": {
+        "HPOS": 210,
+        "VPOS": 773,
+        "WIDTH": 2017,
+        "HEIGHT": 86
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_40b09213",
+      "kind": "main",
+      "idx": 10,
+      "text": "יפלו גם שניהם, וסוף סוף גם אם יחיה, טובה הצלת ציבור והסרת חרפת ישראל מאיסור לאו זה, אבל",
+      "coords": {
+        "HPOS": 210,
+        "VPOS": 834,
+        "WIDTH": 2015,
+        "HEIGHT": 82
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_f68bb35e",
+      "kind": "main",
+      "idx": 11,
+      "text": "בראותו שאול יוצא לקראת הפלשתי, ירצה שראה אותו מבלי שום פחר ואימה, וכגבור ואיש מלחמה",
+      "coords": {
+        "HPOS": 212,
+        "VPOS": 907,
+        "WIDTH": 2013,
+        "HEIGHT": 72
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_11f99794",
+      "kind": "main",
+      "idx": 12,
+      "text": "וכמ\"ש רר\"ק, כבר דן בדעתו שהצל יציל ודאי, ותושע לו זרועו להביא גם בידו ראש הפלשתי ובו בפרק",
+      "coords": {
+        "HPOS": 214,
+        "VPOS": 962,
+        "WIDTH": 2013,
+        "HEIGHT": 90
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_24b156a2",
+      "kind": "main",
+      "idx": 13,
+      "text": "חיובא רמייא לקיים תנאו ולתת לו את בתו, ובו בפרק באמת נתעורר כאיש אשר יעור משנתו ושאל",
+      "coords": {
+        "HPOS": 214,
+        "VPOS": 1030,
+        "WIDTH": 2014,
+        "HEIGHT": 77
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_d0ea8dff",
+      "kind": "main",
+      "idx": 14,
+      "text": "לאבנר בן מי זה הנער? כלומר הידעת כי אבי אתי מרות המואביה? היש תרופה לקיים תנאינו",
+      "coords": {
+        "HPOS": 214,
+        "VPOS": 1096,
+        "WIDTH": 2014,
+        "HEIGHT": 81
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_1a8a45ee",
+      "kind": "main",
+      "idx": 15,
+      "text": "איני בקי בביאור מקרא זה על מתכונתו, אם גם זרע נקבות מכלל האיסור אם לאו. ויאמר",
+      "coords": {
+        "HPOS": 234,
+        "VPOS": 1222,
+        "WIDTH": 1993,
+        "HEIGHT": 83
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_290c6fb2",
+      "kind": "main",
+      "idx": 16,
+      "text": "ולתת כתנו לו לאשה ולשלא לעכור על איסור לאו כזה? ויאמר אבנר חי נפשך המלך אם ידעתי! כי",
+      "coords": {
+        "HPOS": 216,
+        "VPOS": 1162,
+        "WIDTH": 2012,
+        "HEIGHT": 92
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_16c6d888",
+      "kind": "main",
+      "idx": 17,
+      "text": "המלך א\"כ שאל אתה לב\"ד הגדול ויורונו משפט אמת בן מי זה העלם ירצה אם",
+      "coords": {
+        "HPOS": 216,
+        "VPOS": 1288,
+        "WIDTH": 2011,
+        "HEIGHT": 87
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_7bda3c5d",
+      "kind": "main",
+      "idx": 18,
+      "text": "נגרר\" אחר הזכרים או גם אחר הנקבות, ודא ודא חרא, ארהכי והכי כבר נצח דור, ואבנר",
+      "coords": {
+        "HPOS": 221,
+        "VPOS": 1351,
+        "WIDTH": 2007,
+        "HEIGHT": 84
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_eead57c1",
+      "kind": "main",
+      "idx": 19,
+      "text": "הביאו לפני המלך, כמי שאומר למלך שאל לו, שגם הוא מהמקבלים, שאם שאול לא ידע מאת אשר",
+      "coords": {
+        "HPOS": 220,
+        "VPOS": 1419,
+        "WIDTH": 2010,
+        "HEIGHT": 82
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_243ae52e",
+      "kind": "main",
+      "idx": 20,
+      "text": "משחו שמואל, עכ\"פ ודאי ידע כי תלמידו הוא ומימיו נאמנים הוא שותה, ובודאי כבר היה מהסנהדרין",
+      "coords": {
+        "HPOS": 223,
+        "VPOS": 1483,
+        "WIDTH": 2005,
+        "HEIGHT": 84
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_5f1dd333",
+      "kind": "main",
+      "idx": 21,
+      "text": "אחר שהוא, דהע\"ה, זיע\"א הוא טבעת זהב משלשלת הקבלה אשר לא ימח זכרה מקרב ישראל, ושאול",
+      "coords": {
+        "HPOS": 220,
+        "VPOS": 1545,
+        "WIDTH": 2012,
+        "HEIGHT": 88
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_5fb56ce4",
+      "kind": "main",
+      "idx": 22,
+      "text": "תכף שאל לו בן מי אתה הנער ירצה נגרר אחר הזכרים דוקא או גם הנקבות בכלל, ויאמר",
+      "coords": {
+        "HPOS": 225,
+        "VPOS": 1611,
+        "WIDTH": 2007,
+        "HEIGHT": 83
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_751967a5",
+      "kind": "main",
+      "idx": 23,
+      "text": "דור: בן עבדך ישי בית הלחמי, כלומר הלוא ידעת אם לא שמעת כי למשפחותם לבית אבותם",
+      "coords": {
+        "HPOS": 225,
+        "VPOS": 1681,
+        "WIDTH": 2003,
+        "HEIGHT": 73
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_f554a112",
+      "kind": "main",
+      "idx": 24,
+      "text": "כתיב, ומשפחת האב קרויה משפחה, ומשפחת האם אינה ולא כלום? ובאמת שתק שאול וקבל ביאור",
+      "coords": {
+        "HPOS": 225,
+        "VPOS": 1738,
+        "WIDTH": 2009,
+        "HEIGHT": 77
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_5d0a53de",
+      "kind": "main",
+      "idx": 25,
+      "text": "הכתוב ממי שאוצר הקבלה בידו, ותכף מנהו על אנשי המלחמה לשר גדול משרי הצבא, כאשר יאמר",
+      "coords": {
+        "HPOS": 225,
+        "VPOS": 1802,
+        "WIDTH": 2007,
+        "HEIGHT": 86
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_67a8fb28",
+      "kind": "main",
+      "idx": 26,
+      "text": "הלועז ג\"יניראל אין קאפו, כי אבנר היה משנה למלך, ונקרא שר הצבא סתם כנודע. וביהונתן ראה מה",
+      "coords": {
+        "HPOS": 223,
+        "VPOS": 1862,
+        "WIDTH": 2011,
+        "HEIGHT": 85
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_a0d95670",
+      "kind": "main",
+      "idx": 27,
+      "text": "כתיב ביה ויהי ככלותו דדבר (דור) אל שאול וראה יהונתן כי הדין עמו, ומותר לבא",
+      "coords": {
+        "HPOS": 225,
+        "VPOS": 1932,
+        "WIDTH": 2009,
+        "HEIGHT": 84
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_5d0e474d",
+      "kind": "main",
+      "idx": 28,
+      "text": "בקהל, ולהיות גיסו בעל אחותו, תנף ונפיש יהונתן נקשרה בנפש דוד ולמה עכשיו",
+      "coords": {
+        "HPOS": 227,
+        "VPOS": 1991,
+        "WIDTH": 2009,
+        "HEIGHT": 88
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_0d098795",
+      "kind": "main",
+      "idx": 29,
+      "text": "ולא קורם? רצוני, תכף משעת הנצחון, ומה זה הדיוק' \"ככלותו לדבר\"? ומה דיכור של",
+      "coords": {
+        "HPOS": 227,
+        "VPOS": 2058,
+        "WIDTH": 2011,
+        "HEIGHT": 90
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_8a05a51e",
+      "kind": "main",
+      "idx": 30,
+      "text": "חכמה מצא בדבריו, בהודיע שם אביו ומשפחתו, כדי שיגרום דיבורו לאהוב אותו בנפשו? אם לא",
+      "coords": {
+        "HPOS": 227,
+        "VPOS": 2121,
+        "WIDTH": 2009,
+        "HEIGHT": 80
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_af760e3a",
+      "kind": "main",
+      "idx": 31,
+      "text": "שגם יהונתן היה יושב ומיצר על פרט זה, כי איך יתחתן עם איסורי לאוין, ואם שמצד גבורתו וקלותו",
+      "coords": {
+        "HPOS": 229,
+        "VPOS": 2190,
+        "WIDTH": 2012,
+        "HEIGHT": 87
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_441950c0",
+      "kind": "main",
+      "idx": 32,
+      "text": "ראוי לאהוב אותו, עכ\"פ היה מצר על שמוכרח אביו לקים תנאו עם חד מאסורי לאוין, וכאשר כלה",
+      "coords": {
+        "HPOS": 229,
+        "VPOS": 2258,
+        "WIDTH": 2012,
+        "HEIGHT": 74
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_07da86bf",
+      "kind": "main",
+      "idx": 33,
+      "text": "רור לדבר דבור של חכמה ודקדק \"בית הלחמי\" תכף מצאה אהבת יהונתן מקום לחול עם זרע",
+      "coords": {
+        "HPOS": 229,
+        "VPOS": 2322,
+        "WIDTH": 2009,
+        "HEIGHT": 83
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_ea2f7b44",
+      "kind": "main",
+      "idx": 34,
+      "text": "מיוחס אחריו בסימניו, כל זה באמת עבר בין שאול ובין דור בלי ספק, שאם נאמר כי שאול ודור לא",
+      "coords": {
+        "HPOS": 231,
+        "VPOS": 2383,
+        "WIDTH": 2008,
+        "HEIGHT": 73
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_0ea03de0",
+      "kind": "main",
+      "idx": 35,
+      "text": "היו שומרים את התורה, לכל הפחות בדברים המבוררים כשמלה ולא יתעסקו בפלפולם בקיום עשין",
+      "coords": {
+        "HPOS": 232,
+        "VPOS": 2445,
+        "WIDTH": 2009,
+        "HEIGHT": 88
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_d8d59085",
+      "kind": "main",
+      "idx": 36,
+      "text": "ול\"ת שבה, מי יקיימנה? חילק ובילק? ולדבר הזה לא יסופק בו אדם מעולם, ובפרט שמקרא זה כתוב",
+      "coords": {
+        "HPOS": 232,
+        "VPOS": 2509,
+        "WIDTH": 2011,
+        "HEIGHT": 81
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_0a5e8e15",
+      "kind": "main",
+      "idx": 37,
+      "text": "במשנה תורה, שבא בו הצווי למלך, והיתה עמו וקרא בו, ובפרט מלך הראשון שעמד לישראל, הלא",
+      "coords": {
+        "HPOS": 234,
+        "VPOS": 2577,
+        "WIDTH": 2007,
+        "HEIGHT": 83
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_3a87d70d",
+      "kind": "main",
+      "idx": 38,
+      "text": "תרצה קורא חביב! שהוא יזדרז לקיים כל האמור בפרשת מלך, הא ודאי כן הוא בלי ספק, אחר שבלאו",
+      "coords": {
+        "HPOS": 236,
+        "VPOS": 2640,
+        "WIDTH": 2005,
+        "HEIGHT": 84
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_dc765d42",
+      "kind": "main",
+      "idx": 39,
+      "text": "הכי, כן טבע כל עניני התחלות, להיות האדם בהם זריז ונשכר ומדקדק בהם, כי כל דבר חדש מעורר",
+      "coords": {
+        "HPOS": 240,
+        "VPOS": 2707,
+        "WIDTH": 2001,
+        "HEIGHT": 79
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_f591b2d9",
+      "kind": "main",
+      "idx": 40,
+      "text": "הזירוז וההשקפה הנאותה כנודע. ואחר שזה אמת מופתי, שודאי ופשוט כן אירע המשא ומתן הלזה",
+      "coords": {
+        "HPOS": 236,
+        "VPOS": 2779,
+        "WIDTH": 2007,
+        "HEIGHT": 64
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_779dd40a",
+      "kind": "main",
+      "idx": 41,
+      "text": "בענין נשואי בתו של מלך לדוד, וכך נגמר דינו להתר, יהיה שאול עם דור פנים בפנים, יהיה עם",
+      "coords": {
+        "HPOS": 238,
+        "VPOS": 2838,
+        "WIDTH": 2003,
+        "HEIGHT": 77
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_b7ca79be",
+      "kind": "main",
+      "idx": 42,
+      "text": "שמואל ובית דינו כי זהו עיקר יסודינו, לברר שאי אפשר שענין גדול כזה, ומקרא מפורש כזה, ישליכם",
+      "coords": {
+        "HPOS": 242,
+        "VPOS": 2905,
+        "WIDTH": 1999,
+        "HEIGHT": 70
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_55992144",
+      "kind": "main",
+      "idx": 43,
+      "text": "שאול",
+      "coords": {
+        "HPOS": 368,
+        "VPOS": 2971,
+        "WIDTH": 112,
+        "HEIGHT": 77
+      },
+      "para_start": false,
+      "is_catchword": true
+    }
+  ]
+}

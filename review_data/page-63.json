@@ -1,0 +1,625 @@
+{
+  "page_id": "page-63",
+  "image": "page_images/page-63.jpg",
+  "page_width": 2550,
+  "page_height": 3300,
+  "base_hash": "sha256:45487d04f0a202c1101110367198ee8e148eb517cfd6c3ba7607a0cd46194382",
+  "lines": [
+    {
+      "line_id": "eSc_line_37917ecc",
+      "kind": "main",
+      "idx": 0,
+      "text": "תתבאר בשופי מתוך הכתב \"לאומרם בכתב\" כלומר והכתב בידו ובהכרח לומד מתוכו, ובפרט כי יד",
+      "coords": {
+        "HPOS": 243,
+        "VPOS": 223,
+        "WIDTH": 2017,
+        "HEIGHT": 74
+      },
+      "para_start": true,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_608d2198",
+      "kind": "main",
+      "idx": 1,
+      "text": "הדוחה נטויה כי דבר והופכו תני תנא, דברים שבכתב א\"א רשאי לאומרם בע\"פ, והואיל וכן נקט",
+      "coords": {
+        "HPOS": 238,
+        "VPOS": 282,
+        "WIDTH": 2022,
+        "HEIGHT": 81
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_c3bcec2d",
+      "kind": "main",
+      "idx": 2,
+      "text": "דבר והופכו ודברים שבע\"פ א\"א רשאי לאומרם בכתב ומה דברים שבכתב, ר\"ל דברים שהם",
+      "coords": {
+        "HPOS": 240,
+        "VPOS": 348,
+        "WIDTH": 2020,
+        "HEIGHT": 71
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_8becd3ee",
+      "kind": "main",
+      "idx": 3,
+      "text": ".מגוף הכתב כן להפך וברור מאור",
+      "coords": {
+        "HPOS": 900,
+        "VPOS": 414,
+        "WIDTH": 714,
+        "HEIGHT": 75
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_0a6cc023",
+      "kind": "main",
+      "idx": 4,
+      "text": "אמת ועכשיו אני רואה להתשב\"ן במגן אבות הנז\"ל, בהערה וז\"ל: \"מסירה זו על פה",
+      "coords": {
+        "HPOS": 238,
+        "VPOS": 458,
+        "WIDTH": 2023,
+        "HEIGHT": 103
+      },
+      "para_start": true,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_dec0c95a",
+      "kind": "main",
+      "idx": 5,
+      "text": ",'היתה כי לא היו רשאין לכתוב תורה שבעל פה, שנאמר כי על פי הדברים האלה וכו",
+      "coords": {
+        "HPOS": 251,
+        "VPOS": 542,
+        "WIDTH": 1792,
+        "HEIGHT": 74
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_97624a7b",
+      "kind": "main",
+      "idx": 6,
+      "text": ",ואמרו דברים שבעל פה אין אדם רשאי לכותבן ולולי שגברה השכחה לא נכתבה המשנה",
+      "coords": {
+        "HPOS": 245,
+        "VPOS": 605,
+        "WIDTH": 2018,
+        "HEIGHT": 78
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_61fc2ea1",
+      "kind": "main",
+      "idx": 7,
+      "text": ",ומצאו סמך משום עת לעשות לה' הפרו תורתך כמו שנזכר בתמורה פ' יש בקרבנות ובפ' הנזיקין",
+      "coords": {
+        "HPOS": 243,
+        "VPOS": 672,
+        "WIDTH": 2018,
+        "HEIGHT": 77
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_22cbe3a5",
+      "kind": "main",
+      "idx": 8,
+      "text": ",עכ\"ד (לו) ודבריו אינם אלא מן המתמהין, אעקרא היא גירסא חדשה לומר \"אי אתה רשאי לכותבן",
+      "coords": {
+        "HPOS": 247,
+        "VPOS": 737,
+        "WIDTH": 2011,
+        "HEIGHT": 75
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_f4898f72",
+      "kind": "main",
+      "idx": 9,
+      "text": "לא נשמעה בכל התלמוד בבלי וירוש', ובכל המדרשים, ובכל מקום שהובאו מאמרים אלו, כולם פה",
+      "coords": {
+        "HPOS": 240,
+        "VPOS": 808,
+        "WIDTH": 2023,
+        "HEIGHT": 70
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_41690048",
+      "kind": "main",
+      "idx": 10,
+      "text": "אחד גורסין א\"א רשאי \"לאומרם בכתב\" כלומר ללמוד מתוך הכתב, והילך לשון המ\"ר פ' כי תשא",
+      "coords": {
+        "HPOS": 240,
+        "VPOS": 867,
+        "WIDTH": 2020,
+        "HEIGHT": 77
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_b2b468ea",
+      "kind": "main",
+      "idx": 11,
+      "text": "פמ\"ז \"כי על פי הדברים וגו' תורה בכתב ותורה בע\"פ כרתי אתך ברית על מנת שתהא",
+      "coords": {
+        "HPOS": 240,
+        "VPOS": 927,
+        "WIDTH": 2018,
+        "HEIGHT": 81
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_4b2fce95",
+      "kind": "main",
+      "idx": 12,
+      "text": "קודא בהם כך, אבל אם המרת אותם הוי יודע שאתה מבטל הבדית\" ע\"כ. ומה ראיה ברורה",
+      "coords": {
+        "HPOS": 240,
+        "VPOS": 1001,
+        "WIDTH": 2005,
+        "HEIGHT": 73
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_36bf2352",
+      "kind": "main",
+      "idx": 13,
+      "text": "גדולה מזאת דהאי לאומרם בעל פה הנאמר בכל התלמוד אינו אלא כמשמעו על איסור הלמוד",
+      "coords": {
+        "HPOS": 253,
+        "VPOS": 1057,
+        "WIDTH": 1981,
+        "HEIGHT": 74
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_abd4a6f7",
+      "kind": "main",
+      "idx": 14,
+      "text": "מתוך הכתב, ולא על שאסור לכותבן לשומרן לדורות עולם, ואין ספק שהתשב\"ץ נגרר אחר פי' רש\"י",
+      "coords": {
+        "HPOS": 251,
+        "VPOS": 1127,
+        "WIDTH": 2007,
+        "HEIGHT": 77
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_bd761960",
+      "kind": "main",
+      "idx": 15,
+      "text": "שפי' לאומרם בכתב, לכותבם, וע\"ז הפירוש עשאו עיקר כאלו הוא לשון התלמוד גופיה, גם הראיות",
+      "coords": {
+        "HPOS": 242,
+        "VPOS": 1186,
+        "WIDTH": 2016,
+        "HEIGHT": 73
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_06c13c28",
+      "kind": "main",
+      "idx": 16,
+      "text": "שנשתמש בהם התשב\"ץ במגן אבות הנז\"ל ובשו\"ת ח\"א דע\"ג וח\"ב סוף סי' ג\"ן להכריח מהם תרתי",
+      "coords": {
+        "HPOS": 258,
+        "VPOS": 1250,
+        "WIDTH": 2000,
+        "HEIGHT": 73
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_125cebe2",
+      "kind": "main",
+      "idx": 17,
+      "text": "חדא דהיה איסור כתיבת הלכות בעולם ושהותר משום עת לעשות לה'' איני יכול להולמם, חדא מהיכן",
+      "coords": {
+        "HPOS": 243,
+        "VPOS": 1323,
+        "WIDTH": 2013,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_3266c098",
+      "kind": "main",
+      "idx": 18,
+      "text": "מוכח דהאיסור קאי על הכתיבה ולא על הלימוד, דהא \"לאומרם בע\"פ\" קאמרי, ואפי' אם נאמר",
+      "coords": {
+        "HPOS": 247,
+        "VPOS": 1376,
+        "WIDTH": 2009,
+        "HEIGHT": 83
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_6a1034eb",
+      "kind": "main",
+      "idx": 19,
+      "text": ",דראיתו היא ממאי דאמר ר' יוחנן, כותבי הלכות כשורפי תורה מבלי שנשקיף אל כל ביאורינו למעלה",
+      "coords": {
+        "HPOS": 255,
+        "VPOS": 1446,
+        "WIDTH": 2003,
+        "HEIGHT": 75
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_4b6a3914",
+      "kind": "main",
+      "idx": 20,
+      "text": "ומה שאנו עתידין לבאר לקמן בביאור דברי ר' יוחנן אלו, עכ\"פ קשה, מהיכן ראה שהותרו משום עת",
+      "coords": {
+        "HPOS": 243,
+        "VPOS": 1514,
+        "WIDTH": 2018,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_66c8fe41",
+      "kind": "main",
+      "idx": 21,
+      "text": "לעשות לה' הא לא הותרו אלא אגדות דכבר היו כתובים התירו ר\"י ור\"ל ללמוד מתוכם, אבל לכתוב",
+      "coords": {
+        "HPOS": 243,
+        "VPOS": 1578,
+        "WIDTH": 2015,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_f7f3c536",
+      "kind": "main",
+      "idx": 22,
+      "text": "בק\"ע מנא לן דשרי? ועוד בתלמוד לא למדו מזה, כ\"א מלתא חדתא, ולא כל כותבי הלכות, בכל",
+      "coords": {
+        "HPOS": 242,
+        "VPOS": 1633,
+        "WIDTH": 2014,
+        "HEIGHT": 79
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_70132fa8",
+      "kind": "main",
+      "idx": 23,
+      "text": "אופן. ובאמת אין דברי התשב\"ץ למקומותם בארשו\"תם, אלא כדברי נבואה, וכן קשה לה\"ר יפה מראה",
+      "coords": {
+        "HPOS": 243,
+        "VPOS": 1701,
+        "WIDTH": 2015,
+        "HEIGHT": 77
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_5fd0c959",
+      "kind": "main",
+      "idx": 24,
+      "text": "בפ' כל כתבי וז\"ל: \"וכבר התיר רבי לכתוב תושבע\"פ משום עת לעשות לה'\" זה באמת תורה חדשה",
+      "coords": {
+        "HPOS": 242,
+        "VPOS": 1769,
+        "WIDTH": 2014,
+        "HEIGHT": 73
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_4f4ed88e",
+      "kind": "main",
+      "idx": 25,
+      "text": "היכן נאמר דבר זה שרבי התיר לכתוב הלא בתלמוד לא אמרו אלא \"מתני' מאן תקין רבי\" ולדעת כולם",
+      "coords": {
+        "HPOS": 243,
+        "VPOS": 1835,
+        "WIDTH": 2011,
+        "HEIGHT": 71
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_487725a0",
+      "kind": "main",
+      "idx": 26,
+      "text": "אינו אלא סידור ונפקא מינה דלדעת גאוני בבל וספרד הוא דהיתה כתיבה בעולם, אבל באיסור הלימוד",
+      "coords": {
+        "HPOS": 247,
+        "VPOS": 1897,
+        "WIDTH": 2011,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_91adad80",
+      "kind": "main",
+      "idx": 27,
+      "text": "מתוכה, ורבי סידר ותקן והכל בכתיבה גנוזה ונשאר אסור הלמוד מן הכתב, עד זמן רבנן סבוראי",
+      "coords": {
+        "HPOS": 264,
+        "VPOS": 1961,
+        "WIDTH": 1992,
+        "HEIGHT": 75
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_acc9c51e",
+      "kind": "main",
+      "idx": 28,
+      "text": "א\"כ בין למר, ובין למר ר' לא התיר הכתיבה ולא נטפל בזה, למר, מפני שכבר היתה מותרת, ולמר",
+      "coords": {
+        "HPOS": 249,
+        "VPOS": 2027,
+        "WIDTH": 2007,
+        "HEIGHT": 74
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_871888a7",
+      "kind": "main",
+      "idx": 29,
+      "text": "מפני שעד סוף זמן רבנן סבוראי נשארה באיסורה א\"כ זאת מאן דכר שמה? וכן אני רואה להרב מוהר\"י",
+      "coords": {
+        "HPOS": 251,
+        "VPOS": 2090,
+        "WIDTH": 2005,
+        "HEIGHT": 77
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_3fede81e",
+      "kind": "main",
+      "idx": 30,
+      "text": "די ליאון בהקדמתו לס' מגלת אסתר וז\"ל: \"ובעונותינו תבונת האדם הלכה ודלה מימות רבי יהודה",
+      "coords": {
+        "HPOS": 242,
+        "VPOS": 2148,
+        "WIDTH": 2012,
+        "HEIGHT": 79
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_cc72f9a2",
+      "kind": "main",
+      "idx": 31,
+      "text": "הנשיא הוא ר\"הק אשר היה הראשון שהתחיל לכתוב כל דבר הלכה ולפרסמה\" כי בתחי' היו כותבים איזו",
+      "coords": {
+        "HPOS": 242,
+        "VPOS": 2222,
+        "WIDTH": 2014,
+        "HEIGHT": 73
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_2e0f4da2",
+      "kind": "main",
+      "idx": 32,
+      "text": "הלכה כדי שלא תשתכח מהם, וגם היו מסתירים אותה, לפי שלא נתנה להכתב, וזוהי מגלת סתרים",
+      "coords": {
+        "HPOS": 243,
+        "VPOS": 2282,
+        "WIDTH": 2013,
+        "HEIGHT": 72
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_0a53cf9e",
+      "kind": "main",
+      "idx": 33,
+      "text": "הנזכרת בדיש פ\"ק דשבת, ובריש פ' הזורק, ובשאר מקומות בגמרא, וכראות רה\"ק, כי צרות רבות",
+      "coords": {
+        "HPOS": 245,
+        "VPOS": 2354,
+        "WIDTH": 2007,
+        "HEIGHT": 73
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_d3db3067",
+      "kind": "main",
+      "idx": 34,
+      "text": "תמיר",
+      "coords": {
+        "HPOS": 381,
+        "VPOS": 2416,
+        "WIDTH": 121,
+        "HEIGHT": 62
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_94467c99",
+      "kind": "main",
+      "idx": 35,
+      "text": "לו) וכשבא לידים ראב\"ן בשאלה ראיתי לו בדי\"ז סו' סי' מ\"ג שעל מה שהאריך להתיר לקרוא פ' קרבנות בע\"פ משום עת)",
+      "coords": {
+        "HPOS": 242,
+        "VPOS": 2519,
+        "WIDTH": 2007,
+        "HEIGHT": 75
+      },
+      "para_start": true,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_ef43f1fd",
+      "kind": "main",
+      "idx": 36,
+      "text": "לעשות לה' וכו' הוסיף וכתב וז\"ל: \"ותו הא דאמרינן דברים שבע\"פ א\"א רשאי לכותבן וכאשר ראו דורות האחרונים",
+      "coords": {
+        "HPOS": 243,
+        "VPOS": 2583,
+        "WIDTH": 1925,
+        "HEIGHT": 62
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_6631d2b9",
+      "kind": "main",
+      "idx": 37,
+      "text": "האמוראים שנתמעטו הלבבות, ומשום שלא תשתכח תורה כתבוה ואמרו עת לעשות וכו' הכי נמי לא שנא\" ע\"כ. ובאמת",
+      "coords": {
+        "HPOS": 242,
+        "VPOS": 2638,
+        "WIDTH": 2014,
+        "HEIGHT": 53
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_d8a924d2",
+      "kind": "main",
+      "idx": 38,
+      "text": "פליאה נשגבה גירסת א\"ארשאי לכותבן גם בראב\"ן! ועוד אומרו האמוראים האחרונים כתבוה זה ג\"כ דבר אדש דאינו אלא",
+      "coords": {
+        "HPOS": 242,
+        "VPOS": 2689,
+        "WIDTH": 2014,
+        "HEIGHT": 55
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_9f329831",
+      "kind": "main",
+      "idx": 39,
+      "text": "רבנן סבוראי או שהתירו ללמוד מתוך הכתב, או שכתבוה לדעת רש\"י וסיעתיה, ואמוראים לא שמענו בלתי היום, ועל",
+      "coords": {
+        "HPOS": 243,
+        "VPOS": 2733,
+        "WIDTH": 2013,
+        "HEIGHT": 72
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_8202ba9c",
+      "kind": "main",
+      "idx": 40,
+      "text": "הכל זה פלא, ולמה לא יחשוב ראב\"ן ז\"ל וכל מי שנגררו אחר סברא זו שהענין דבר והופכו מדברים שבכתב שכמו שדברים",
+      "coords": {
+        "HPOS": 243,
+        "VPOS": 2795,
+        "WIDTH": 2013,
+        "HEIGHT": 57
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_ed4713ed",
+      "kind": "main",
+      "idx": 41,
+      "text": "שבכתב משום עת לעשות לה' הותרו ללמדם בע\"פ, וכאשר האריך ראב\"ן שם לעיל בראיות מופתיות מאותה דכ\"ג קורא",
+      "coords": {
+        "HPOS": 245,
+        "VPOS": 2843,
+        "WIDTH": 2013,
+        "HEIGHT": 64
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_8c0d9209",
+      "kind": "main",
+      "idx": 42,
+      "text": "בעשור שבחומש הפקודים ע\"פ\" וכו' וכו' כך הוא דבר והופכו בדברים שבע\"פ כי משום עת לעשות מותר ללמדם מתוך הכתב",
+      "coords": {
+        "HPOS": 245,
+        "VPOS": 2902,
+        "WIDTH": 2011,
+        "HEIGHT": 60
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_b666c256",
+      "kind": "main",
+      "idx": 43,
+      "text": ".וכאשר הארכנו בזה כמה פעמים",
+      "coords": {
+        "HPOS": 1702,
+        "VPOS": 2962,
+        "WIDTH": 554,
+        "HEIGHT": 53
+      },
+      "para_start": false,
+      "is_catchword": false
+    }
+  ]
+}

@@ -1,0 +1,695 @@
+{
+  "page_id": "page-77",
+  "image": "page_images/page-77.jpg",
+  "page_width": 2550,
+  "page_height": 3300,
+  "base_hash": "sha256:f609d1622c06e63cba4750541cf4c759c39f2435ae34d1e4c2282ae22bee2155",
+  "lines": [
+    {
+      "line_id": "eSc_line_a1636324",
+      "kind": "main",
+      "idx": 0,
+      "text": "לזה הסתירוה, ולזה יפה אתה מסתייע ומשלים דבריך לאמר: \"הסתר למה\"? הא אין עיקר ההסתר",
+      "coords": {
+        "HPOS": 264,
+        "VPOS": 214,
+        "WIDTH": 2012,
+        "HEIGHT": 86
+      },
+      "para_start": true,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_1e0ddc5e",
+      "kind": "main",
+      "idx": 1,
+      "text": "הלזה אלא כמעיד שהכתיבה היתה אסודה, וכיון דמפני ההכרח פרץ גדר מי שכתבה ע\"כ הסתירה",
+      "coords": {
+        "HPOS": 256,
+        "VPOS": 286,
+        "WIDTH": 2016,
+        "HEIGHT": 71
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_2f441c4d",
+      "kind": "main",
+      "idx": 2,
+      "text": ",זו היא תכלית ראיותך, ואם יהיה כן, מגילה מוסתרת, או נסתרת, או מגילה גנוזה, וצפונה וטמונה",
+      "coords": {
+        "HPOS": 262,
+        "VPOS": 352,
+        "WIDTH": 2009,
+        "HEIGHT": 82
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_a5f99f44",
+      "kind": "main",
+      "idx": 3,
+      "text": "או הדומה ללשונות כאלה הול\"ל! ולשון מגילת סתרים יפול על הדברים הכתובים בתוכה כמו מגילת",
+      "coords": {
+        "HPOS": 258,
+        "VPOS": 410,
+        "WIDTH": 2014,
+        "HEIGHT": 79
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_b10658f9",
+      "kind": "main",
+      "idx": 4,
+      "text": ",קינות, כלומר מגילה שיש בתוכה קינות, מגילת תענית, שכתוב כתוכה הצרות והנסים שאידעו",
+      "coords": {
+        "HPOS": 266,
+        "VPOS": 478,
+        "WIDTH": 2005,
+        "HEIGHT": 86
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_d4cb6e4e",
+      "kind": "main",
+      "idx": 5,
+      "text": "וכן משנת חסידים ירצה משנה שתכליתה מילי דחסידותא, כמו שכתוב במדרש שמואל, על פסוק עת",
+      "coords": {
+        "HPOS": 256,
+        "VPOS": 544,
+        "WIDTH": 2016,
+        "HEIGHT": 75
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_b16adb38",
+      "kind": "main",
+      "idx": 6,
+      "text": "לעשות לה' הפרו תורתך וכו' אמר רשב\"י, במגילת חסידים מצאו כתוב, אם יום תעזביה וכו' עי\"ש",
+      "coords": {
+        "HPOS": 256,
+        "VPOS": 608,
+        "WIDTH": 2016,
+        "HEIGHT": 75
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_c9f053f2",
+      "kind": "main",
+      "idx": 7,
+      "text": "באורך שכולו משלים ומוסרים להתחסר ולהתחזק בלימוד התורה, וא\"כ גם הכא אומרו מגילת סתרים",
+      "coords": {
+        "HPOS": 256,
+        "VPOS": 676,
+        "WIDTH": 2016,
+        "HEIGHT": 72
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_54776565",
+      "kind": "main",
+      "idx": 8,
+      "text": "כלומר שכתוב בתוכה דברים של סתר שאסור או שאין ראוי לאומרם ברבים, או שמצד עצמם הם",
+      "coords": {
+        "HPOS": 256,
+        "VPOS": 748,
+        "WIDTH": 2016,
+        "HEIGHT": 69
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_20d0bdd2",
+      "kind": "main",
+      "idx": 9,
+      "text": "נעלמים ונסתרים כמו מעשה בראשית ומעשה מרכבה, וזה באמת אינו, שהרי מה שנמצא כתוב בה",
+      "coords": {
+        "HPOS": 256,
+        "VPOS": 814,
+        "WIDTH": 2018,
+        "HEIGHT": 62
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_af6af4f9",
+      "kind": "main",
+      "idx": 10,
+      "text": "הם דינים הנאמרים בב\"המ בפומבי ואין להם עסק בנסתרות, וא\"כ חזרנו לדמעיקרא \"מה זה מגילת",
+      "coords": {
+        "HPOS": 258,
+        "VPOS": 869,
+        "WIDTH": 2016,
+        "HEIGHT": 75
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_aea8415f",
+      "kind": "main",
+      "idx": 11,
+      "text": "סתרים\"? כיון דעיקר ההסתר אינו אלא מפני איסור כתיבה דוקא, א\"כ שם העצם הנאות לה אינו",
+      "coords": {
+        "HPOS": 258,
+        "VPOS": 933,
+        "WIDTH": 2014,
+        "HEIGHT": 79
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_22a5eddc",
+      "kind": "main",
+      "idx": 12,
+      "text": "אלא מגילה צפונה וגנוזה כמו מגילה עפה שהוא שם תואר עצמי ממנה ואליה, המגיד לנו הענין",
+      "coords": {
+        "HPOS": 260,
+        "VPOS": 1002,
+        "WIDTH": 2014,
+        "HEIGHT": 77
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_29a2e3f4",
+      "kind": "main",
+      "idx": 13,
+      "text": "שאירע בה, או שעפה באויר, או הא כראיתיה, שהסתירוה וגנזוה, והוא ברור למי שבקי בחכמת",
+      "coords": {
+        "HPOS": 256,
+        "VPOS": 1063,
+        "WIDTH": 2018,
+        "HEIGHT": 77
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_11ce4be0",
+      "kind": "main",
+      "idx": 14,
+      "text": "הלשון, וכבר רבינו רש\"י בב\"מ דצ\"ב ע\"א ד\"ה מגילת סתרים. מצא עצמו בדוחק עצום, ופירש מגילה",
+      "coords": {
+        "HPOS": 258,
+        "VPOS": 1125,
+        "WIDTH": 2016,
+        "HEIGHT": 83
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_8f0c34a9",
+      "kind": "main",
+      "idx": 15,
+      "text": "טמונה וכו' שהיה כותבה ומסתירה מן העין עי\"ש, א\"כ מגילה מסותרת הול\"ל. אבל אם תאמר דכל",
+      "coords": {
+        "HPOS": 258,
+        "VPOS": 1193,
+        "WIDTH": 2016,
+        "HEIGHT": 72
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_83bbd1f7",
+      "kind": "main",
+      "idx": 16,
+      "text": "הדברים והביאורים הרבים וכל חיבורי תושבע\"פ היו כתובים וגנוזים ולא יראו החוצה, מטעם כי אסור",
+      "coords": {
+        "HPOS": 262,
+        "VPOS": 1266,
+        "WIDTH": 2014,
+        "HEIGHT": 65
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_95b64b58",
+      "kind": "main",
+      "idx": 17,
+      "text": "ללמוד תורה שבעל פה מתוך הכתב, אזי שם תואר מגילת סתרים הוא כמין חומר וראוי ונאות עצם",
+      "coords": {
+        "HPOS": 260,
+        "VPOS": 1325,
+        "WIDTH": 2018,
+        "HEIGHT": 75
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_bab54215",
+      "kind": "main",
+      "idx": 18,
+      "text": "אל עצמו ולא בררך גוזמא, שהרי הוא כאילו אומר דף או ספר קטן מהדפים הרבים, או מהספרים",
+      "coords": {
+        "HPOS": 260,
+        "VPOS": 1393,
+        "WIDTH": 2016,
+        "HEIGHT": 73
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_12c67ba2",
+      "kind": "main",
+      "idx": 19,
+      "text": "הנסתרים, והוא על משקל לחם סתרים, וכמו שפי' ראב\"ע עבירה מעבירות הנעשות בסתר, נם",
+      "coords": {
+        "HPOS": 260,
+        "VPOS": 1453,
+        "WIDTH": 2016,
+        "HEIGHT": 88
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_a1a8c431",
+      "kind": "main",
+      "idx": 20,
+      "text": ".הכא מגילת סתרים ירצה חלק קטן מהסתרים הרבים",
+      "coords": {
+        "HPOS": 731,
+        "VPOS": 1523,
+        "WIDTH": 1088,
+        "HEIGHT": 73
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_c3aaacd3",
+      "kind": "main",
+      "idx": 21,
+      "text": "וכבר",
+      "coords": {
+        "HPOS": 2115,
+        "VPOS": 1576,
+        "WIDTH": 163,
+        "HEIGHT": 88
+      },
+      "para_start": true,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_3ff9f40f",
+      "kind": "main",
+      "idx": 22,
+      "text": "אזני תשמענה דבר מאחרי הקולך זה קורא נעים! לאמר לי: \"אם כדבריך מה נשתנית",
+      "coords": {
+        "HPOS": 258,
+        "VPOS": 1587,
+        "WIDTH": 1809,
+        "HEIGHT": 75
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_eab89201",
+      "kind": "main",
+      "idx": 23,
+      "text": "מגילה זאת מכל תורה שבע\"פ שהוכרח להזכירה בשם זה ולגלות בית הסתדים? יאמר",
+      "coords": {
+        "HPOS": 266,
+        "VPOS": 1646,
+        "WIDTH": 1785,
+        "HEIGHT": 71
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_381b0b11",
+      "kind": "main",
+      "idx": 24,
+      "text": ",",
+      "coords": {
+        "HPOS": 34,
+        "VPOS": 1655,
+        "WIDTH": 41,
+        "HEIGHT": 75
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_339cae95",
+      "kind": "main",
+      "idx": 25,
+      "text": "האומר המימרא בב\"המ בזה הלשון תניא או תנן איסי בן יהודה וכו' או בסתם אמר רב אמר איסי כן",
+      "coords": {
+        "HPOS": 264,
+        "VPOS": 1714,
+        "WIDTH": 2016,
+        "HEIGHT": 79
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_cd21e2c4",
+      "kind": "main",
+      "idx": 26,
+      "text": "יהודה, או אמר רב משום איסי בן יהודה ולמה לו כל האורך הזה אמר רב מצאתי מגילת סתרים בי' ר",
+      "coords": {
+        "HPOS": 288,
+        "VPOS": 1778,
+        "WIDTH": 1986,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_4c9618aa",
+      "kind": "main",
+      "idx": 27,
+      "text": "חיא וכתוב איסי ן' יהודה אומר? ואם הוא דבר מוכדח מפני איזה טעם שיהיה יקשה למה לא ישתמשו",
+      "coords": {
+        "HPOS": 264,
+        "VPOS": 1848,
+        "WIDTH": 2014,
+        "HEIGHT": 64
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_7cd5a2f4",
+      "kind": "main",
+      "idx": 28,
+      "text": "א",
+      "coords": {
+        "HPOS": 55,
+        "VPOS": 1789,
+        "WIDTH": 23,
+        "HEIGHT": 117
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_745abbcd",
+      "kind": "main",
+      "idx": 29,
+      "text": "ג\"ב כשמביאים בתלמוד מהמשניות והברייתות והתוס' באיזה מן הלשונות כאלה כדי שנוכל לשמוע",
+      "coords": {
+        "HPOS": 264,
+        "VPOS": 1904,
+        "WIDTH": 2012,
+        "HEIGHT": 76
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_eced06ce",
+      "kind": "main",
+      "idx": 30,
+      "text": "מש",
+      "coords": {
+        "HPOS": 44,
+        "VPOS": 1948,
+        "WIDTH": 51,
+        "HEIGHT": 41
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_2d5c5ec0",
+      "kind": "main",
+      "idx": 31,
+      "text": "?ממנו שהיתה כתובה וגנוזה",
+      "coords": {
+        "HPOS": 972,
+        "VPOS": 1981,
+        "WIDTH": 602,
+        "HEIGHT": 57
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_f767677d",
+      "kind": "main",
+      "idx": 32,
+      "text": "לזאת אשיבך כי לא מחכמה שאלת על זאת, וחמיה אני עליך איך עלה על רעתך דבר זה אפילו",
+      "coords": {
+        "HPOS": 264,
+        "VPOS": 2027,
+        "WIDTH": 2012,
+        "HEIGHT": 81
+      },
+      "para_start": true,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_e7437e25",
+      "kind": "main",
+      "idx": 33,
+      "text": ",שיאמר אותו איש מפי איש ידוע שאוצד הקבלה בידו כמו \"אמר רבב\"ח, אמר ד\"יוח, אמר רב יהודה",
+      "coords": {
+        "HPOS": 271,
+        "VPOS": 2234,
+        "WIDTH": 2009,
+        "HEIGHT": 85
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_40dc3849",
+      "kind": "main",
+      "idx": 34,
+      "text": "אמר רב, או אמר רב יהודה, אמר שמואל וכיון שהגיעה השמועה אל חד מהאנשים המפורסמים ההם",
+      "coords": {
+        "HPOS": 266,
+        "VPOS": 2295,
+        "WIDTH": 2012,
+        "HEIGHT": 82
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_301eb818",
+      "kind": "main",
+      "idx": 35,
+      "text": "בס\"ד בעלמא אחרי שכבר ידעת שכל תורה שבע\"פ קבלה שמה וקבלה היא איש מפי איש",
+      "coords": {
+        "HPOS": 264,
+        "VPOS": 2099,
+        "WIDTH": 1777,
+        "HEIGHT": 79
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_07f38635",
+      "kind": "main",
+      "idx": 36,
+      "text": "עד מרע\"ה, וע\"כ שום תנא ושום אמורא לא היה יכול לומר בכ\"המ שום דין מחודש מפי הקבלה אם לא",
+      "coords": {
+        "HPOS": 264,
+        "VPOS": 2161,
+        "WIDTH": 2014,
+        "HEIGHT": 90
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_75dacf8f",
+      "kind": "main",
+      "idx": 37,
+      "text": "2(\"((\"'\"\"\"\"אוא",
+      "coords": {
+        "HPOS": 40,
+        "VPOS": 2106,
+        "WIDTH": 55,
+        "HEIGHT": 249
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_957fcc26",
+      "kind": "main",
+      "idx": 38,
+      "text": "תו אינו צריך, על דרך אין בודקין מן המזבח ולמעלה, וזה כשישמע האומר מפי המקבל המפורשם",
+      "coords": {
+        "HPOS": 266,
+        "VPOS": 2357,
+        "WIDTH": 2010,
+        "HEIGHT": 86
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_bcca487a",
+      "kind": "main",
+      "idx": 39,
+      "text": "עצמו השמועה ההיא, אבל אם לא שמע אותה מפי המקבל עצמו כנודע אלא באמצעות אנשים",
+      "coords": {
+        "HPOS": 266,
+        "VPOS": 2427,
+        "WIDTH": 2016,
+        "HEIGHT": 71
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_eedae377",
+      "kind": "main",
+      "idx": 40,
+      "text": "אחדים אומרה בלשון \"אמר ר' פלוני משום ד' פלוני כלומר: אני לא שמעתיה מפי המקבל המפורסם",
+      "coords": {
+        "HPOS": 266,
+        "VPOS": 2489,
+        "WIDTH": 2016,
+        "HEIGHT": 83
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_469d3ded",
+      "kind": "main",
+      "idx": 41,
+      "text": "ההזא אלא מפי אנשים הנאמנים אצלי שכך שמעו מפי המקבל המפורסם, ואנחנו נאמין להאומר",
+      "coords": {
+        "HPOS": 269,
+        "VPOS": 2557,
+        "WIDTH": 2013,
+        "HEIGHT": 84
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_b7842f5c",
+      "kind": "main",
+      "idx": 42,
+      "text": "המימרא שודאי ידע על מי סמך, ואפי' גרדיים שבשער האשפות נתקבלה עדותם במס' עדויות כי",
+      "coords": {
+        "HPOS": 269,
+        "VPOS": 2618,
+        "WIDTH": 2011,
+        "HEIGHT": 88
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_a82ee46e",
+      "kind": "main",
+      "idx": 43,
+      "text": ",כל ישראל כשרים לעדות כל שאינו נוגע בדבר, על דרך שאמרו \"אם אחר מעשה אמרה אין שומעין לי",
+      "coords": {
+        "HPOS": 278,
+        "VPOS": 2689,
+        "WIDTH": 2002,
+        "HEIGHT": 81
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_faf59f08",
+      "kind": "main",
+      "idx": 44,
+      "text": "וכל הלשונות האלה תינח לדבר הנשמע מפה לאזן אם שיהיה האומר מפי המקבל אם שיהיה מפי אמצעי",
+      "coords": {
+        "HPOS": 269,
+        "VPOS": 2753,
+        "WIDTH": 2013,
+        "HEIGHT": 75
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_d11469f9",
+      "kind": "main",
+      "idx": 45,
+      "text": "מפי המקבל, אבל דבר הנמצא כתוב בבית הסתרים דרבנן, מה יעשה הדורשו או האומרו בבית",
+      "coords": {
+        "HPOS": 266,
+        "VPOS": 2819,
+        "WIDTH": 2016,
+        "HEIGHT": 77
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_8b7fe225",
+      "kind": "main",
+      "idx": 46,
+      "text": "המדרש? אחר כי מטבע הקבלה היא לומר דבר משם אומרו בדרך ערות, ואין חר משתי הלשונות",
+      "coords": {
+        "HPOS": 267,
+        "VPOS": 2885,
+        "WIDTH": 2013,
+        "HEIGHT": 79
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_9d062036",
+      "kind": "main",
+      "idx": 47,
+      "text": "נאותים להשתמש מהם שהדי לא שמעה האומר לא מפי המקבל, ולא מפי אחרים ששמעו ממנו אלא",
+      "coords": {
+        "HPOS": 271,
+        "VPOS": 2951,
+        "WIDTH": 2005,
+        "HEIGHT": 79
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_e182d041",
+      "kind": "main",
+      "idx": 48,
+      "text": "מפי",
+      "coords": {
+        "HPOS": 405,
+        "VPOS": 3026,
+        "WIDTH": 88,
+        "HEIGHT": 63
+      },
+      "para_start": false,
+      "is_catchword": true
+    }
+  ]
+}

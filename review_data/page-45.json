@@ -1,0 +1,681 @@
+{
+  "page_id": "page-45",
+  "image": "page_images/page-45.jpg",
+  "page_width": 2550,
+  "page_height": 3300,
+  "base_hash": "sha256:3dd14bc64e35778431234c51b04ba3749afadb2a13334cb4d8e5816ec6966464",
+  "lines": [
+    {
+      "line_id": "eSc_line_9ecbc374",
+      "kind": "main",
+      "idx": 0,
+      "text": "בין זמן רבנן סבוראי לזמן הגאונים, ונמצא בהתחלת הגאונים שעברו מן השנים ד\"א ותקנ\"א, ואז",
+      "coords": {
+        "HPOS": 210,
+        "VPOS": 220,
+        "WIDTH": 2002,
+        "HEIGHT": 78
+      },
+      "para_start": true,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_92a875fa",
+      "kind": "main",
+      "idx": 1,
+      "text": "בטל כבוד ישיבת התלמוד ותעבור הרנה, והוא שכל ימי רבנן סבוראי היה כבוד גדול כמין מלכות",
+      "coords": {
+        "HPOS": 209,
+        "VPOS": 295,
+        "WIDTH": 2003,
+        "HEIGHT": 60
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_d5243548",
+      "kind": "main",
+      "idx": 2,
+      "text": "לראשי הישיבות והיו עדיין לומדים על פה התלמוד כי לא נתפשט מכל",
+      "coords": {
+        "HPOS": 223,
+        "VPOS": 348,
+        "WIDTH": 1991,
+        "HEIGHT": 86
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_36e33a84",
+      "kind": "main",
+      "idx": 3,
+      "text": "וכל חיבור הגמרא ואחר זה התחיל זמן הגאונים וכו' וכו' עד שהגיע הזמן לרבינו שרירא",
+      "coords": {
+        "HPOS": 214,
+        "VPOS": 416,
+        "WIDTH": 1996,
+        "HEIGHT": 79
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_45099624",
+      "kind": "main",
+      "idx": 4,
+      "text": "אביו של ר\"ה ז\"ל והוא מזרע רבה בר אבוה מגזע בית דור, והיה ר\"ש אביו של ר\"ה גדול יותר מאד",
+      "coords": {
+        "HPOS": 216,
+        "VPOS": 480,
+        "WIDTH": 2001,
+        "HEIGHT": 70
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_614d6a70",
+      "kind": "main",
+      "idx": 5,
+      "text": "כחכמה ובמעשים, וכעושר ונשיאות מזרע זרובבל בן שאלתיאל, והאריך ימים עד שסלק עצמו מהישיבה",
+      "coords": {
+        "HPOS": 214,
+        "VPOS": 548,
+        "WIDTH": 2002,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_aced6655",
+      "kind": "main",
+      "idx": 6,
+      "text": "והושיב בחייו ובנו הקים תחתיו לכל דבר שבקדושה ר' האיי ז\"ל יושב על כסאו ועיניו רואות גדול",
+      "coords": {
+        "HPOS": 212,
+        "VPOS": 605,
+        "WIDTH": 2007,
+        "HEIGHT": 69
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_4148ee53",
+      "kind": "main",
+      "idx": 7,
+      "text": "ככודו) והוסיף והרביץ תורה, על כל אשר היה לפניו וחיה צ\"ט (ט\"ס נפל וצ\"ל ס\"ט שנה, וגם בעל)",
+      "coords": {
+        "HPOS": 212,
+        "VPOS": 665,
+        "WIDTH": 2004,
+        "HEIGHT": 83
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_97f34663",
+      "kind": "main",
+      "idx": 8,
+      "text": "מקדש מעט הוא דאנטי העכרי בדצ\"ו ע\"א כתב שחי תשעה ותשעים, ואל הגאון שי\"ר נר\"ו שומעין כי",
+      "coords": {
+        "HPOS": 216,
+        "VPOS": 740,
+        "WIDTH": 2003,
+        "HEIGHT": 72
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_fc17bfd0",
+      "kind": "main",
+      "idx": 9,
+      "text": "הוא אחרון, וכבר בדק בענינים הללו בחורין ובסדקים, אלא דיש סמוכין גדולים שח\"י צ\"ט שנס כדברי",
+      "coords": {
+        "HPOS": 216,
+        "VPOS": 793,
+        "WIDTH": 2001,
+        "HEIGHT": 85
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_2598e232",
+      "kind": "main",
+      "idx": 10,
+      "text": ",המאירי והמקדש מעט שהרי הבאתי לעיל סי' ק\"ן תשו' הכלבו דקנ\"ד שר\"ה הכיר לרבינו אהרן גאון",
+      "coords": {
+        "HPOS": 223,
+        "VPOS": 858,
+        "WIDTH": 1996,
+        "HEIGHT": 80
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_762a9588",
+      "kind": "main",
+      "idx": 11,
+      "text": "ולפי אגרת ר\"ש הנז\"ל, נלב\"ע רבינו אהרן באלף רע\"א לשטרות שהם ד\"א תש\"ך ליצירה, ואם נאמר",
+      "coords": {
+        "HPOS": 218,
+        "VPOS": 920,
+        "WIDTH": 1999,
+        "HEIGHT": 77
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_39f650d6",
+      "kind": "main",
+      "idx": 12,
+      "text": "שנפטר ר\"ה בד\"א תשצ\"ח והיה לו צ\"ט שנה א\"כ נולד בר\"א תרצ\"ט, ובזמן פטירת רב אהרן גאון כבר",
+      "coords": {
+        "HPOS": 216,
+        "VPOS": 984,
+        "WIDTH": 2001,
+        "HEIGHT": 77
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_40086a8b",
+      "kind": "main",
+      "idx": 13,
+      "text": "היה לרבינו האיי כ\"א שנה, ויכול לומר \"וזכורים אנו ברבינו אהרן גאון\" ועל הגאון שי\"ר נר\"ו לעמוד",
+      "coords": {
+        "HPOS": 216,
+        "VPOS": 1048,
+        "WIDTH": 2001,
+        "HEIGHT": 81
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_684b983a",
+      "kind": "main",
+      "idx": 14,
+      "text": ",על מבוכה זו ולישר כל מעגל, וע\"כ משלי, ובהיותי בווין קניתי לי שה\"ג הנדפס בווילנא עם הערות",
+      "coords": {
+        "HPOS": 220,
+        "VPOS": 1114,
+        "WIDTH": 1999,
+        "HEIGHT": 70
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_cc78095f",
+      "kind": "main",
+      "idx": 15,
+      "text": "(.ושם ראיתי דנתעורד מזה, אבל לא הביא גירסת המאירי והמקדש מעט צ\"ט במקום ס\"ט לסיועו",
+      "coords": {
+        "HPOS": 212,
+        "VPOS": 1182,
+        "WIDTH": 2007,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_b8cd3534",
+      "kind": "main",
+      "idx": 16,
+      "text": ",ונעלם כבודו ערב יו\"ט אחרון של פסח וחבר ספרים מעט מהם ספר הדינין (לא) וספר השבועות",
+      "coords": {
+        "HPOS": 220,
+        "VPOS": 1243,
+        "WIDTH": 1999,
+        "HEIGHT": 77
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_cb7036d2",
+      "kind": "main",
+      "idx": 17,
+      "text": "וספי מקח וממכר אלא שהרבה בתשונות שאלות מאד ורוב הנמצא ממנו מחבוריו",
+      "coords": {
+        "HPOS": 223,
+        "VPOS": 1305,
+        "WIDTH": 1996,
+        "HEIGHT": 75
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_cb2dcf84",
+      "kind": "main",
+      "idx": 18,
+      "text": "ותשו' הם דברים ראוין לסמון",
+      "coords": {
+        "HPOS": 1308,
+        "VPOS": 1373,
+        "WIDTH": 906,
+        "HEIGHT": 88
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_fe9e6baa",
+      "kind": "main",
+      "idx": 19,
+      "text": ",רב שרירא גאון, בן רב חנניא גאון, בן ר' יהודה גאון ובסוף ימיו הגיע הזמן לד' אלפים ותשפ\"ח",
+      "coords": {
+        "HPOS": 218,
+        "VPOS": 1433,
+        "WIDTH": 1999,
+        "HEIGHT": 79
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_9e1e7333",
+      "kind": "main",
+      "idx": 20,
+      "text": "עליהם והיה מרובע, בגאונות רב האיי גאון, כן",
+      "coords": {
+        "HPOS": 214,
+        "VPOS": 1365,
+        "WIDTH": 1035,
+        "HEIGHT": 88
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_75df0dfd",
+      "kind": "main",
+      "idx": 21,
+      "text": "ויש אומרים תשצ\"ח (לב) והוא היה סוף הגאונים\" ע\"כ. וכבר דמז רבינו המאירי פתיחתו זאת בהקדמתו",
+      "coords": {
+        "HPOS": 214,
+        "VPOS": 1503,
+        "WIDTH": 2005,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_9ba60efc",
+      "kind": "main",
+      "idx": 22,
+      "text": "לס'בית הבחירה, וז\"ל בד\"ז ע\"ב, וממה שאני צריך להודיע עוד הוא שאני מכוין להיות חבור המשנה",
+      "coords": {
+        "HPOS": 212,
+        "VPOS": 1560,
+        "WIDTH": 2004,
+        "HEIGHT": 80
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_ea8bd695",
+      "kind": "main",
+      "idx": 23,
+      "text": "לר\"הק יסוד זה החבור ועיקרו לזה שכבר הקדמנו בפתיחת פירושי התלמוד, על ר\"הק נ\"ע שלא נתחבר",
+      "coords": {
+        "HPOS": 216,
+        "VPOS": 1626,
+        "WIDTH": 2000,
+        "HEIGHT": 77
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_f7741f14",
+      "kind": "main",
+      "idx": 24,
+      "text": "מעולם חבור מפורסם בחכמת התלמוד עד באו, וראה בטעם סידורו לחלק כל דרכי התורה ומצותיה",
+      "coords": {
+        "HPOS": 214,
+        "VPOS": 1686,
+        "WIDTH": 2002,
+        "HEIGHT": 75
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_e5d4aa0a",
+      "kind": "main",
+      "idx": 25,
+      "text": "בששה סדרים כמו שביארנו כונת סדורו שם (לג) ואחריו נתחברו בביאור דבריו ספרים הרבה, ובפרט",
+      "coords": {
+        "HPOS": 216,
+        "VPOS": 1758,
+        "WIDTH": 1998,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_01618a70",
+      "kind": "main",
+      "idx": 26,
+      "text": "ספרי התלמוד אלא שהוסיפו להם מה שנתגלגל להם בדבריהם על ידי איזה סבה עם מה שנתחדש להם",
+      "coords": {
+        "HPOS": 214,
+        "VPOS": 1820,
+        "WIDTH": 2000,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_1539de36",
+      "kind": "main",
+      "idx": 27,
+      "text": ".ע\"י מעשים נולדים ומתחדשים וחברו מזה ספריהם באריכות דברים, ובבלבול הסדר כמו שכתבנו שם",
+      "coords": {
+        "HPOS": 221,
+        "VPOS": 1884,
+        "WIDTH": 1989,
+        "HEIGHT": 72
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_3d6fdd4f",
+      "kind": "main",
+      "idx": 28,
+      "text": ":ע\"כ וכן ממש הוא דעת הרב בן חסדאי בהקדמתו לס' אור ה' עי\"ש",
+      "coords": {
+        "HPOS": 537,
+        "VPOS": 1941,
+        "WIDTH": 1356,
+        "HEIGHT": 77
+      },
+      "para_start": true,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_85791c9e",
+      "kind": "main",
+      "idx": 29,
+      "text": "הראיתי",
+      "coords": {
+        "HPOS": 1977,
+        "VPOS": 2009,
+        "WIDTH": 233,
+        "HEIGHT": 88
+      },
+      "para_start": true,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_c7c4e7d4",
+      "kind": "main",
+      "idx": 30,
+      "text": "בעיניך קורא נעים! דעת שפתי רבינו המאירי איך ברור מללו שהיתה כתיבה בעולם",
+      "coords": {
+        "HPOS": 212,
+        "VPOS": 2000,
+        "WIDTH": 1673,
+        "HEIGHT": 84
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_053a1a8a",
+      "kind": "main",
+      "idx": 31,
+      "text": "מזמן אנשי כנ\"הג ולמטה וכל החבורים של המשנה והברייתות, והתוספתות והמשניות",
+      "coords": {
+        "HPOS": 212,
+        "VPOS": 2077,
+        "WIDTH": 1657,
+        "HEIGHT": 64
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_906c09a5",
+      "kind": "main",
+      "idx": 32,
+      "text": "והמדרשים",
+      "coords": {
+        "HPOS": 344,
+        "VPOS": 2146,
+        "WIDTH": 232,
+        "HEIGHT": 52
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_e1d8fbe5",
+      "kind": "main",
+      "idx": 33,
+      "text": ".לא) עיין תולדות רבינו הגאון ז\"ל להגאון שי\"ר נר\"ו הערה כ\"ב",
+      "coords": {
+        "HPOS": 1124,
+        "VPOS": 2223,
+        "WIDTH": 1075,
+        "HEIGHT": 72
+      },
+      "para_start": true,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_58edebce",
+      "kind": "main",
+      "idx": 34,
+      "text": "לכ) ישמח הגאון שי\"ר נו\"ו בהשערומיו בתולדות רבינו הגאון הערה ב' שכן העלה נגד תשו' רש\"ל, וממנה נשתמשתי בכל)",
+      "coords": {
+        "HPOS": 212,
+        "VPOS": 2273,
+        "WIDTH": 2000,
+        "HEIGHT": 79
+      },
+      "para_start": true,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_ab58c837",
+      "kind": "main",
+      "idx": 35,
+      "text": ".הילוך הגהותי",
+      "coords": {
+        "HPOS": 1869,
+        "VPOS": 2346,
+        "WIDTH": 246,
+        "HEIGHT": 48
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_fcaca9fe",
+      "kind": "main",
+      "idx": 36,
+      "text": "לג) בפתיחה הנז' הושמט כוונת הסדור הזה שאומר רבינו המאירי לא ידעתי למה, ואפשר שהיתה לו פתיחה אחרת כוללת)",
+      "coords": {
+        "HPOS": 210,
+        "VPOS": 2387,
+        "WIDTH": 2002,
+        "HEIGHT": 66
+      },
+      "para_start": true,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_1879ee9f",
+      "kind": "main",
+      "idx": 37,
+      "text": "סדרי המשנה והתלמוד, ומי יתן ותצא לאור ונפקחו עינינו, והיינו באים בכח גדול על המתלוצצים, על מי שבקש יחם",
+      "coords": {
+        "HPOS": 212,
+        "VPOS": 2442,
+        "WIDTH": 1906,
+        "HEIGHT": 62
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_06714d98",
+      "kind": "main",
+      "idx": 38,
+      "text": "סדור המסכתות (עיין כ\"ח ח\"ג עמוד א') ושוב ראיתי שם ד\"ז ע\"א שכתב וז\"ל וכבר נתעוררתי בפתיחת פירוש התלמוד אשר",
+      "coords": {
+        "HPOS": 216,
+        "VPOS": 2495,
+        "WIDTH": 1998,
+        "HEIGHT": 55
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_12777135",
+      "kind": "main",
+      "idx": 39,
+      "text": "לנו דרך התנצלות הצורך וההכרח אשר הביאני לשלוח יד בביאור ספרי התלמוד וכו' עי\"ש הרי גם מכאן ראיה כי פתיחה אחרת",
+      "coords": {
+        "HPOS": 212,
+        "VPOS": 2546,
+        "WIDTH": 2000,
+        "HEIGHT": 61
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_7471d9f3",
+      "kind": "main",
+      "idx": 40,
+      "text": "חיבר בריש חיבורו, ואינה זאת שעל מס' אבות. והוא ברור. וכשהייתי בווין השתא הכא בחורף תרטו\"ב נתן לי במתנה",
+      "coords": {
+        "HPOS": 212,
+        "VPOS": 2594,
+        "WIDTH": 1998,
+        "HEIGHT": 62
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_e06df481",
+      "kind": "main",
+      "idx": 41,
+      "text": "אהובי החכם החוקר מוהדר\"ז בן כ\"ט נר\"ו הספר הזה שהדפיסו מחדש בווין עם הערות ותולדות רבינו המאירי כיד ה' הטובה",
+      "coords": {
+        "HPOS": 210,
+        "VPOS": 2652,
+        "WIDTH": 2004,
+        "HEIGHT": 57
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_d451a53f",
+      "kind": "main",
+      "idx": 42,
+      "text": "עליו, ושם הודיע מהחסד הגדול אשר עשה עם ספרי רבינו המחבר ז\"ל שהגיעו לידו בדרך מציאה, והוא מכרם לאוצר",
+      "coords": {
+        "HPOS": 212,
+        "VPOS": 2702,
+        "WIDTH": 1998,
+        "HEIGHT": 64
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_10b1cfea",
+      "kind": "main",
+      "idx": 43,
+      "text": "הספריס הדוכוסי שבפארמא הגדול והנורא. ומודיע מכל חיבורי רבינו המאירי שם באורך, ומענין הקדמה זאת לא דבר",
+      "coords": {
+        "HPOS": 216,
+        "VPOS": 2755,
+        "WIDTH": 1998,
+        "HEIGHT": 59
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_f28af4c0",
+      "kind": "main",
+      "idx": 44,
+      "text": "מאומה כי אם בעמוד ח' כתב וז\"ל \"הקדמת פיה\"מ סדר מועד להרמכ\"ם נכתב סביב ועל צד הקדמת המחבר\" ע\"כ. ולא",
+      "coords": {
+        "HPOS": 212,
+        "VPOS": 2808,
+        "WIDTH": 2000,
+        "HEIGHT": 59
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_0824da36",
+      "kind": "main",
+      "idx": 45,
+      "text": "הודיענו אם הקלמת המחבר היא הנדפסה לפנינו בבית הבחירה, או אחרת והיא הנזכרת אשר אני מחפש אחריה, ע\"כ מצוה",
+      "coords": {
+        "HPOS": 212,
+        "VPOS": 2860,
+        "WIDTH": 1998,
+        "HEIGHT": 62
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_06c3dbca",
+      "kind": "main",
+      "idx": 46,
+      "text": ".למי שהולך לעקד ספרים הנז\"ל לברר דבר זה על מתכונתו",
+      "coords": {
+        "HPOS": 1223,
+        "VPOS": 2920,
+        "WIDTH": 985,
+        "HEIGHT": 64
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_def71837",
+      "kind": "main",
+      "idx": 47,
+      "text": "לד) וזכר)",
+      "coords": {
+        "HPOS": 321,
+        "VPOS": 2951,
+        "WIDTH": 177,
+        "HEIGHT": 81
+      },
+      "para_start": true,
+      "is_catchword": false
+    }
+  ]
+}

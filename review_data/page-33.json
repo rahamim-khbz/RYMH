@@ -1,0 +1,653 @@
+{
+  "page_id": "page-33",
+  "image": "page_images/page-33.jpg",
+  "page_width": 2550,
+  "page_height": 3300,
+  "base_hash": "sha256:b09ad3fe7dbae4f58aa9db262ab81e400e668f0ba309f35e293887995e8eac09",
+  "lines": [
+    {
+      "line_id": "eSc_line_32a5b021",
+      "kind": "main",
+      "idx": 0,
+      "text": "'",
+      "coords": {
+        "HPOS": 911,
+        "VPOS": 124,
+        "WIDTH": 37,
+        "HEIGHT": 57
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_f373f4d8",
+      "kind": "main",
+      "idx": 1,
+      "text": "תשובה סי' קפ\"ז",
+      "coords": {
+        "HPOS": 891,
+        "VPOS": 124,
+        "WIDTH": 519,
+        "HEIGHT": 94
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_53b313a5",
+      "kind": "main",
+      "idx": 2,
+      "text": "ושוב חזר להביא ראיה איך מבואר מתוך התלמוד שהרור היה הולך ומתמעט, והשכחה הולכת ומתגברת",
+      "coords": {
+        "HPOS": 232,
+        "VPOS": 225,
+        "WIDTH": 2031,
+        "HEIGHT": 75
+      },
+      "para_start": true,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_45c0145b",
+      "kind": "main",
+      "idx": 3,
+      "text": "והביא ראיה על זה, ודברים שנכנסו בתוכן להודיע לנו איך היו מתנהגים בסדרם התלמוד דור ודור, ואיך",
+      "coords": {
+        "HPOS": 242,
+        "VPOS": 289,
+        "WIDTH": 2023,
+        "HEIGHT": 83
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_509b52f4",
+      "kind": "main",
+      "idx": 4,
+      "text": ",היו מדקדקין לסדר אפי' המעשיות שארעו בשם אותו חכם שסיפדם, ואיך כל הדקדוקים קלים וחמורים",
+      "coords": {
+        "HPOS": 247,
+        "VPOS": 353,
+        "WIDTH": 2016,
+        "HEIGHT": 90
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_05b1ee26",
+      "kind": "main",
+      "idx": 5,
+      "text": "מעלים אותם על ספר וקבעין להו בגמרא, ועיקר הדבר: שאין כל חדש בעיקרים ושורשי הדינים, כי",
+      "coords": {
+        "HPOS": 238,
+        "VPOS": 427,
+        "WIDTH": 2025,
+        "HEIGHT": 77
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_0a9d220c",
+      "kind": "main",
+      "idx": 6,
+      "text": "אם תוספת ביאורים, ופשישות איזה בעיות, והעיקר כולו היה מקדם קדמתה, אלא שאותם ההרחבות",
+      "coords": {
+        "HPOS": 231,
+        "VPOS": 487,
+        "WIDTH": 2034,
+        "HEIGHT": 77
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_59ae9143",
+      "kind": "main",
+      "idx": 7,
+      "text": "הניחום הראשונים לפי פשיטותן, ולפי רוחב לבם, כדי שיבואו דורות אחרונים, ואם יצטרכו להם",
+      "coords": {
+        "HPOS": 234,
+        "VPOS": 553,
+        "WIDTH": 2031,
+        "HEIGHT": 70
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_0660302d",
+      "kind": "main",
+      "idx": 8,
+      "text": ",יבארום, ומקום הניחו הראשונים לאחרונים להתגדר בו, והביא גאוננו ז\"ל גם על זה ראיה מספקת",
+      "coords": {
+        "HPOS": 245,
+        "VPOS": 614,
+        "WIDTH": 2018,
+        "HEIGHT": 86
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_dfe6b7d3",
+      "kind": "main",
+      "idx": 9,
+      "text": "ובזה עלתה התשובה לרבינו הגאון כמין חומר, על השאלה אשר שאלו מלפניו, אשר נשרף לבו של",
+      "coords": {
+        "HPOS": 234,
+        "VPOS": 676,
+        "WIDTH": 2031,
+        "HEIGHT": 84
+      },
+      "para_start": true,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_c4892517",
+      "kind": "main",
+      "idx": 10,
+      "text": "צדיק עליה כאלו ח\"ו כל התלמוד אינו קבלה איש מפי איש עד מרע\"ה, אלא כל דור ודור תולדות",
+      "coords": {
+        "HPOS": 232,
+        "VPOS": 742,
+        "WIDTH": 2029,
+        "HEIGHT": 83
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_e640e39e",
+      "kind": "main",
+      "idx": 11,
+      "text": "חדשות הגידו לא שערום ח\"ו! וע\"ז נטפל גאוננו ז\"ל בכל תוקף וחוזק האגרת החמודה הזאת, והאריך",
+      "coords": {
+        "HPOS": 240,
+        "VPOS": 810,
+        "WIDTH": 2025,
+        "HEIGHT": 84
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_28320b84",
+      "kind": "main",
+      "idx": 12,
+      "text": "בראיות מופתיות מקובלות על השכל הישר המושרש בנו להוציא מלבן הטעות הממית הזה, כי באמת",
+      "coords": {
+        "HPOS": 234,
+        "VPOS": 874,
+        "WIDTH": 2027,
+        "HEIGHT": 79
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_8d015297",
+      "kind": "main",
+      "idx": 13,
+      "text": ",כד דייקינן שפיר כל פרטי השאלה, בספקיה, וסעיפי ספקיה, כולם כאחד הם שאלה אחת ולא זולתה",
+      "coords": {
+        "HPOS": 242,
+        "VPOS": 940,
+        "WIDTH": 2021,
+        "HEIGHT": 84
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_9bf3d3a2",
+      "kind": "main",
+      "idx": 14,
+      "text": "והיא שנראה כאלו תורה שבע\"פ היא תורה חדשה, ולא קדומה ומקובלת מפי מרע\"ה, וע\"ז סיים",
+      "coords": {
+        "HPOS": 236,
+        "VPOS": 1004,
+        "WIDTH": 2035,
+        "HEIGHT": 74
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_1341e2a9",
+      "kind": "main",
+      "idx": 15,
+      "text": "גאוננו עוצם תשובה זאת וכתב: \"זאת התשובה למאי דאמריתו מ\"ט שבקו קמאי רובא",
+      "coords": {
+        "HPOS": 234,
+        "VPOS": 1070,
+        "WIDTH": 2037,
+        "HEIGHT": 75
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_f481527d",
+      "kind": "main",
+      "idx": 16,
+      "text": "לבתראי? דאי משכחיתו דבר מופלג דאמרוהו בתראי\" (היינו טעמא) דקמאי שבקו",
+      "coords": {
+        "HPOS": 238,
+        "VPOS": 1138,
+        "WIDTH": 2031,
+        "HEIGHT": 79
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_5bd3dab5",
+      "kind": "main",
+      "idx": 17,
+      "text": "להון להתגדר בהון ולאנפושי נמי באלין מילי דאתוסף בהו תלמודא דרא דבתר",
+      "coords": {
+        "HPOS": 242,
+        "VPOS": 1200,
+        "WIDTH": 2027,
+        "HEIGHT": 79
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_dc3a4ad8",
+      "kind": "main",
+      "idx": 18,
+      "text": "דרא\" ר\"ל דאם תראו דהרוב מהאחרונים אל תתמהו על החפץ דזה הרוב אינו תורה חדשה, כי אם",
+      "coords": {
+        "HPOS": 236,
+        "VPOS": 1274,
+        "WIDTH": 2031,
+        "HEIGHT": 71
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_4131d7b5",
+      "kind": "main",
+      "idx": 19,
+      "text": "ביאורים וספקות והתרתן על תורתן של ראשונים, היא הקבלה, יען הראשונים בקום עשה הניחום",
+      "coords": {
+        "HPOS": 236,
+        "VPOS": 1338,
+        "WIDTH": 2031,
+        "HEIGHT": 75
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_102165b0",
+      "kind": "main",
+      "idx": 20,
+      "text": "לאחרונים, אם לרוב פשיטותן, ואם להתגרר בהם והכל אחד, אבל הכל כמות שהוא, ומה שתלמיד",
+      "coords": {
+        "HPOS": 240,
+        "VPOS": 1395,
+        "WIDTH": 2029,
+        "HEIGHT": 79
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_0ee38ab6",
+      "kind": "main",
+      "idx": 21,
+      "text": "ותיק עתיד לחרש הכל היה ידוע להם, והיא סברא נכונה, ואמתית בכל פינות חלקיה כי החכם",
+      "coords": {
+        "HPOS": 236,
+        "VPOS": 1463,
+        "WIDTH": 2033,
+        "HEIGHT": 78
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_1bf5ef1a",
+      "kind": "main",
+      "idx": 22,
+      "text": "כשמסדר דבריו במדה ובמשקל, ומקדים דבר המוקדם, ומאחר דבר המאוחר, כבר כלל כל מאי",
+      "coords": {
+        "HPOS": 238,
+        "VPOS": 1529,
+        "WIDTH": 2031,
+        "HEIGHT": 75
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_31b531e2",
+      "kind": "main",
+      "idx": 23,
+      "text": "דמצית מימר, א\"כ כשיבוא האחרון ומאריך אינו אלא דעת הראשון עצמו שכבר ידעו ונשארו בקולמוסו",
+      "coords": {
+        "HPOS": 256,
+        "VPOS": 1598,
+        "WIDTH": 2015,
+        "HEIGHT": 74
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_12cbd774",
+      "kind": "main",
+      "idx": 24,
+      "text": "וזהו ממש מ\"ש \"לית דבר בקבלה דלא רמיזא באורייתא\" וזהו ג\"כ \"לית דבר בברייתא ובתלמוד דלא",
+      "coords": {
+        "HPOS": 240,
+        "VPOS": 1651,
+        "WIDTH": 2031,
+        "HEIGHT": 79
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_20eeb23a",
+      "kind": "main",
+      "idx": 25,
+      "text": ".רמיזא במשנה\" וכעובדא דאילפא הנז\"ל, וכן הוא בכל פסקי דינים שלפנינו דלית בהו דבר וחצי רב",
+      "coords": {
+        "HPOS": 256,
+        "VPOS": 1723,
+        "WIDTH": 2013,
+        "HEIGHT": 64
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_6500d731",
+      "kind": "main",
+      "idx": 26,
+      "text": "שאינו מובן מתוך התלמוד, ובזה היה גדול כחם של הראשונים, ועד אחרן הרשב\"א, וכנזכר לקמן",
+      "coords": {
+        "HPOS": 243,
+        "VPOS": 1785,
+        "WIDTH": 2026,
+        "HEIGHT": 81
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_505c8de0",
+      "kind": "main",
+      "idx": 27,
+      "text": "בהערה כ\"ג) בשם מוהרלנ\"ח, כלל העולה שמ\"ש רז\"ל שאפי' מה שתלמיד ותיק עתיר לחדש, הראה)",
+      "coords": {
+        "HPOS": 240,
+        "VPOS": 1849,
+        "WIDTH": 2027,
+        "HEIGHT": 74
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_c7293bff",
+      "kind": "main",
+      "idx": 28,
+      "text": "הקב\"ה למשה מסיני, הוא דבר הנקנה במופת חותך כמופתי ההנדסה והתשבורת, וזהו כל חכמת",
+      "coords": {
+        "HPOS": 238,
+        "VPOS": 1914,
+        "WIDTH": 2031,
+        "HEIGHT": 73
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_1f6d2aa3",
+      "kind": "main",
+      "idx": 29,
+      "text": "הגאון ז\"ל באגרתו זאת לברר דבר זה כשמש בחצי השמים עד שהחזירו כמושכלות ראשונות, זכותו יגן",
+      "coords": {
+        "HPOS": 242,
+        "VPOS": 1981,
+        "WIDTH": 2029,
+        "HEIGHT": 79
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_5e802d1b",
+      "kind": "main",
+      "idx": 30,
+      "text": "עלינו, וע\"ז מוסיף הגאון ז\"ל, ומביא ראיות על פינה אמתית הזאת \"ז' מאה בעיי בעו דואג",
+      "coords": {
+        "HPOS": 240,
+        "VPOS": 2046,
+        "WIDTH": 2031,
+        "HEIGHT": 71
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_e93b0045",
+      "kind": "main",
+      "idx": 31,
+      "text": "ואחיתופל במגדל פורח\" נמצא דכבר היו לראשוני דראשוני ראשונים ספקות ובהכרח היו פושטים אותם",
+      "coords": {
+        "HPOS": 240,
+        "VPOS": 2115,
+        "WIDTH": 2031,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_a21da3e1",
+      "kind": "main",
+      "idx": 32,
+      "text": ":אלא שלא קבעום בתלמודהון, והניחו יתרם לעולליהם, ולבאים אחריהם, וע\"ז מסיים הגאון",
+      "coords": {
+        "HPOS": 243,
+        "VPOS": 2178,
+        "WIDTH": 2028,
+        "HEIGHT": 75
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_8dce0a85",
+      "kind": "main",
+      "idx": 33,
+      "text": "דלפום הכי איתוספא הוראה דרא (ביוחסין חסר) בתר דרא עד רבינא, ובתר",
+      "coords": {
+        "HPOS": 245,
+        "VPOS": 2240,
+        "WIDTH": 2007,
+        "HEIGHT": 79
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_e4d735e7",
+      "kind": "main",
+      "idx": 34,
+      "text": "רבינא אפסיקא\" וכו'. ר\"ל שמרבינא ואילך כל מה שיחודש לא יוקבע בתלמוד כדי שיהיה לו כח",
+      "coords": {
+        "HPOS": 238,
+        "VPOS": 2304,
+        "WIDTH": 2027,
+        "HEIGHT": 79
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_3a35d9a4",
+      "kind": "main",
+      "idx": 35,
+      "text": "אריר, והוא: שיקובל באומה מבלי חולק, זה הכח נפסק לבד אותו דבר מועט שהיה תלוי פרשוהו רבנן",
+      "coords": {
+        "HPOS": 240,
+        "VPOS": 2376,
+        "WIDTH": 2031,
+        "HEIGHT": 73
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_9090b5df",
+      "kind": "main",
+      "idx": 36,
+      "text": "סבוראי, ואוסיפוהו ביה, וכמו שיזכיר עוד הגאון ז\"ל, וחוץ מזה לא איתי איניש שיוכל להוסיף על",
+      "coords": {
+        "HPOS": 242,
+        "VPOS": 2434,
+        "WIDTH": 2027,
+        "HEIGHT": 79
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_4bdc220e",
+      "kind": "main",
+      "idx": 37,
+      "text": "התלמוד, אפי' בדרך שקלא וטריא, וטעם הדברים כיון שלכל ספקותינו אנו מביאים ראיה מהתלמוד",
+      "coords": {
+        "HPOS": 262,
+        "VPOS": 2502,
+        "WIDTH": 2007,
+        "HEIGHT": 64
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_04b33134",
+      "kind": "main",
+      "idx": 38,
+      "text": "אפי' מסדר הלשון ממה דאמר הכי ולא אמר הכי, וממאי ראשמיט הא ולא אשמיט הא, וכיוצא",
+      "coords": {
+        "HPOS": 242,
+        "VPOS": 2564,
+        "WIDTH": 2025,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_c6963dd5",
+      "kind": "main",
+      "idx": 39,
+      "text": "מדרכי ההוראה, אשר מחתימת התלמוד ועד היום הזה, ועד כי יבא שילה, ואחר שכן אי היה כח זה",
+      "coords": {
+        "HPOS": 242,
+        "VPOS": 2630,
+        "WIDTH": 2025,
+        "HEIGHT": 72
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_73be9fad",
+      "kind": "main",
+      "idx": 40,
+      "text": "בגאונים, ובבאים אחריהם להוסיף על התלמוד, היו חוזרים גם דבריהם הקבועים בתלמוד כנתינתן",
+      "coords": {
+        "HPOS": 242,
+        "VPOS": 2695,
+        "WIDTH": 2023,
+        "HEIGHT": 78
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_9e9685ff",
+      "kind": "main",
+      "idx": 41,
+      "text": "מסיני, מבלי שיוכל שום אחרון לחלוק עליהם, ובאמת לא מן השם הוא, שהרי גם דורות אחרוני",
+      "coords": {
+        "HPOS": 245,
+        "VPOS": 2759,
+        "WIDTH": 2018,
+        "HEIGHT": 75
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_700cc369",
+      "kind": "main",
+      "idx": 42,
+      "text": ",אחרונים, לאו קטלי קני באגמא נינהו, ויכולים לחלוק על הראשונים, שקדמום בראיות מן התלמוד",
+      "coords": {
+        "HPOS": 253,
+        "VPOS": 2823,
+        "WIDTH": 2014,
+        "HEIGHT": 81
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_63e8c0a8",
+      "kind": "main",
+      "idx": 43,
+      "text": "וכמ\"ש גאון עוזנו מרן הקדוש בתשו' אבקת רוכל דפוס שאלוניקי סי' קנ\"ה, עי\"ש דבריו החפשיים",
+      "coords": {
+        "HPOS": 245,
+        "VPOS": 2891,
+        "WIDTH": 2026,
+        "HEIGHT": 77
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_46c4ad77",
+      "kind": "main",
+      "idx": 44,
+      "text": "והאמתיים, וגם כמה מדברי הגאונים נדחו מפני שאינם על שורשי התלמוד וכמו שיבא לקמן בעז\"ה",
+      "coords": {
+        "HPOS": 243,
+        "VPOS": 2959,
+        "WIDTH": 2026,
+        "HEIGHT": 69
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_41991f34",
+      "kind": "main",
+      "idx": 45,
+      "text": "בענף",
+      "coords": {
+        "HPOS": 383,
+        "VPOS": 3032,
+        "WIDTH": 121,
+        "HEIGHT": 70
+      },
+      "para_start": false,
+      "is_catchword": true
+    }
+  ]
+}

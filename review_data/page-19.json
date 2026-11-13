@@ -1,0 +1,639 @@
+{
+  "page_id": "page-19",
+  "image": "page_images/page-19.png",
+  "page_width": 2550,
+  "page_height": 3300,
+  "base_hash": "sha256:7b35c1f2a7ca6283f423ddd08296dae7449cf3177bb65a0c639274f80cfba43e",
+  "lines": [
+    {
+      "line_id": "_0507c152-433e-4d47-be36-d5404026a442",
+      "kind": "main",
+      "idx": 0,
+      "text": "ובירורן וסידורן, בחיבור ובכתיבה בלשון ופה אחד, ובסידור הפלוגתות, וגירסתם, עור זאת הרוחנו",
+      "coords": {
+        "HPOS": 198,
+        "VPOS": 262,
+        "WIDTH": 2007,
+        "HEIGHT": 62
+      },
+      "para_start": true,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_d31b0f73-65da-4f9e-9f3d-b0d2febb81a5",
+      "kind": "main",
+      "idx": 1,
+      "text": "שהכל מתוקן בסדר ואופן אחד, שקודם לכן, דין אחד התקבל בלשון קצר במשנת ראב\"י, ודין אחר",
+      "coords": {
+        "HPOS": 205,
+        "VPOS": 320,
+        "WIDTH": 2000,
+        "HEIGHT": 70
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_a9d9e8e0-c0ed-465a-8ad2-751506f234a5",
+      "kind": "main",
+      "idx": 2,
+      "text": "התקבל בלשון רחב, ודמיונות היוצאים מדמיונות אחרים, אשר ללמדם יכלו ימים ולילות, ולכותבם",
+      "coords": {
+        "HPOS": 198,
+        "VPOS": 385,
+        "WIDTH": 2003,
+        "HEIGHT": 56
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_8267dfb2-a2d7-4418-a039-59ced7a1eb75",
+      "kind": "main",
+      "idx": 3,
+      "text": "ספרים ומגילות, ורבי במשנתו תיקן גם ענין זה, וקצר במקום שאמרו לקצר, והאריך במקום שאמרו",
+      "coords": {
+        "HPOS": 199,
+        "VPOS": 452,
+        "WIDTH": 2004,
+        "HEIGHT": 65
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_c0264178-63c6-45ac-bb1a-fad490c3d2ab",
+      "kind": "main",
+      "idx": 4,
+      "text": "להאריך, ועוד הולך ומוסיף רוחים אחרים, וכולם נסקרים בסקירה אחת מפי גאוננו ז\"ל והוא: וכל",
+      "coords": {
+        "HPOS": 199,
+        "VPOS": 511,
+        "WIDTH": 2006,
+        "HEIGHT": 73
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_d51f4bf4-83ba-4d3b-ae6b-7e7c9099013c",
+      "kind": "main",
+      "idx": 5,
+      "text": "חד וחד עד ומשום הכי פרישינן (ח\"מ, וביוחסין פירש\"י מדפוס ניכר) בגמ' הא מני ר'",
+      "coords": {
+        "HPOS": 214,
+        "VPOS": 577,
+        "WIDTH": 1989,
+        "HEIGHT": 64
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_eee57bd7-7756-465a-aaff-b56d17530935",
+      "kind": "main",
+      "idx": 6,
+      "text": "פלוני היא וכו' ומדקדקינן במתניתא במילתא ומילתא מינה (ח\"מ \"ואפילו\" טעות גמור)",
+      "coords": {
+        "HPOS": 203,
+        "VPOS": 638,
+        "WIDTH": 2002,
+        "HEIGHT": 69
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_27132527-d3f4-41d1-a1ff-270f9debb8c1",
+      "kind": "main",
+      "idx": 7,
+      "text": "ומוקמינן רישא כחד תנא וסיפא כחד תנא, והנך מתנייתא כול הו מקריין ברייתא",
+      "coords": {
+        "HPOS": 199,
+        "VPOS": 705,
+        "WIDTH": 2006,
+        "HEIGHT": 57
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_283b0f50-2985-4ee3-9950-b885738d13f1",
+      "kind": "main",
+      "idx": 8,
+      "text": "בתר דתריץ",
+      "coords": {
+        "HPOS": 1970,
+        "VPOS": 777,
+        "WIDTH": 231,
+        "HEIGHT": 51
+      },
+      "para_start": true,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_c31e30f1-d820-45fa-b55a-24f436c54399",
+      "kind": "main",
+      "idx": 9,
+      "text": "מתניתין (ח\"מ וביוחסין \"ברייתא\" ט\"ס) דילנא\" ר\"ל עוד הרוחנו שהקדים",
+      "coords": {
+        "HPOS": 209,
+        "VPOS": 766,
+        "WIDTH": 1662,
+        "HEIGHT": 73
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_6f51c4be-651e-4047-92bb-9ff2071330de",
+      "kind": "main",
+      "idx": 10,
+      "text": "לנו את הראוי להיות מוקדם, \"ואיחר את הראוי להיות מאוחר, שהמלמדים הקודמים לא דקדקו בזה,",
+      "coords": {
+        "HPOS": 210,
+        "VPOS": 830,
+        "WIDTH": 1995,
+        "HEIGHT": 70
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_071b8629-ad2f-4620-ba58-d3e6c31eba87",
+      "kind": "main",
+      "idx": 11,
+      "text": "ועור הרוחנו שהכל נסדר בלשון צח ומצוחצח, כי הקודמים היו בהם בלפעי שפה, ולישנא קייטא,",
+      "coords": {
+        "HPOS": 214,
+        "VPOS": 896,
+        "WIDTH": 1991,
+        "HEIGHT": 68
+      },
+      "para_start": true,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_eae07aaf-7818-4523-971b-cb2e175aa9fa",
+      "kind": "main",
+      "idx": 12,
+      "text": "והוא רבי בחר הלשון הצחה מכל אשר בחר, ועוד הרוחנו שמשנת היחיד הנאמרת עד עתה בלשון סתם",
+      "coords": {
+        "HPOS": 199,
+        "VPOS": 958,
+        "WIDTH": 2009,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_78c3a8b5-e896-4134-be24-27541014867e",
+      "kind": "main",
+      "idx": 13,
+      "text": "כאלו הלכה קבועה. ואעפ\"י שמי ששנאה ידע שהיתה ס' יחיד, אבל היה שונה אותה בלשון סתם כאשר",
+      "coords": {
+        "HPOS": 205,
+        "VPOS": 1023,
+        "WIDTH": 1998,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_2339ad86-92cc-44d8-82ef-e93c371d0a03",
+      "kind": "main",
+      "idx": 14,
+      "text": "שמעה מפי רבו, משום חייב אדם לשנות משנתו בלשון ששנאה רבו, ובא רבי והוציא גם המכשול הזה,",
+      "coords": {
+        "HPOS": 209,
+        "VPOS": 1087,
+        "WIDTH": 1997,
+        "HEIGHT": 69
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_f45c1e01-184b-4000-a820-b11f6e253a1e",
+      "kind": "main",
+      "idx": 15,
+      "text": "ועוד הדוחנו שהקודמים סדרו משנתם כפי סברתם, ולא איכפת להו אי רישא כחד תנא, או סיפא",
+      "coords": {
+        "HPOS": 199,
+        "VPOS": 1153,
+        "WIDTH": 2007,
+        "HEIGHT": 55
+      },
+      "para_start": true,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_68319e39-e73f-414f-b970-8301756b7cc9",
+      "kind": "main",
+      "idx": 16,
+      "text": "כחד תנא, ור\"הק אישר לפנינו הדרך גם בפרט הזה, אלא שכל אלו המשניות בתר דתריץ ר' מתני' לא",
+      "coords": {
+        "HPOS": 201,
+        "VPOS": 1213,
+        "WIDTH": 2004,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_1e11ff09-7d8b-4699-8c8e-7ce7706df6b4",
+      "kind": "main",
+      "idx": 17,
+      "text": "בערם מן העולם אלא הניחם, ויהיו נקראים ברייתות, ע\"כ הגיע אל גאוננו מן הצורך לבאר לנו",
+      "coords": {
+        "HPOS": 203,
+        "VPOS": 1277,
+        "WIDTH": 2002,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_3984c425-e7d0-4e2a-a3c8-469a84bd8934",
+      "kind": "main",
+      "idx": 18,
+      "text": "כל הרווחים שהרוחנו במלאכה הקדושה הזאת שנטפל בה רבי.",
+      "coords": {
+        "HPOS": 598,
+        "VPOS": 1345,
+        "WIDTH": 1218,
+        "HEIGHT": 53
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_30d4ee3b-4456-4f57-ae10-92885d2c4efe",
+      "kind": "main",
+      "idx": 19,
+      "text": "ועכשיו יחדש בטובו עוד צורך גדול שחייבו לרבי להטפל במלאכה זאת כי יאמר האומר השונא",
+      "coords": {
+        "HPOS": 199,
+        "VPOS": 1406,
+        "WIDTH": 2002,
+        "HEIGHT": 68
+      },
+      "para_start": true,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_fe213d47-64ea-4554-83a4-d22f92fbd8b5",
+      "kind": "main",
+      "idx": 20,
+      "text": "החידושים (שבכל דור ודור לא חסרנום) מה לנו בחיבורים חדשים? מעשה אבותינו",
+      "coords": {
+        "HPOS": 203,
+        "VPOS": 1481,
+        "WIDTH": 1712,
+        "HEIGHT": 53
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_f4e4c1bd-d2e5-4309-93af-f6f16c42720d",
+      "kind": "main",
+      "idx": 21,
+      "text": "בידינו, והרי עם כל אלו הבלבולים שזכר, עם כל זה תהלות לאל נתקיימה קבלתנו ולא חסרנו דבר,",
+      "coords": {
+        "HPOS": 214,
+        "VPOS": 1532,
+        "WIDTH": 1991,
+        "HEIGHT": 70
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_0265ef56-8996-463c-ae9f-838705ee1d6a",
+      "kind": "main",
+      "idx": 22,
+      "text": "על זה מוסיף להודיע שלא כל הערכוכיות הנזכרות לבד, חייבו לרבינו הקדוש להתטפל במלאכה זאת",
+      "coords": {
+        "HPOS": 201,
+        "VPOS": 1595,
+        "WIDTH": 2004,
+        "HEIGHT": 62
+      },
+      "para_start": true,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_134c30ec-5d0c-4233-b33e-94ec8f2291be",
+      "kind": "main",
+      "idx": 23,
+      "text": "כי אם שראה בימיו מיעוט הלב, והשכחה הגוברת ער להפליא, ואין חכם כבעל הנסיון שהוא קודם",
+      "coords": {
+        "HPOS": 205,
+        "VPOS": 1661,
+        "WIDTH": 2000,
+        "HEIGHT": 58
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_0bc491a7-bf49-4fec-8979-7589ac717147",
+      "kind": "main",
+      "idx": 24,
+      "text": "חוליו היה מפרש במשנתו י\"ג פנים ר\"ל בי\"ג אופני סידור הלשון וחיבור הדברים, והיא חכמה נפלאה",
+      "coords": {
+        "HPOS": 205,
+        "VPOS": 1723,
+        "WIDTH": 2001,
+        "HEIGHT": 59
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_c0ccea03-4c7e-4924-ab80-2a7052441c69",
+      "kind": "main",
+      "idx": 25,
+      "text": "לומר דבר אחד בי\"ג סידורי דברים, ולמד מהן ז' לד' חייא, ושוב חלה ושכח כולם עד שהוכרח לחזור",
+      "coords": {
+        "HPOS": 207,
+        "VPOS": 1785,
+        "WIDTH": 1999,
+        "HEIGHT": 70
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_62e03aee-e4e2-4404-bde4-2d3e4de7a43a",
+      "kind": "main",
+      "idx": 26,
+      "text": "אחר ר' חייא על השבעה, ואחר ההוא כובס על השאר וז\"א: \"והוו אמרי קמאי וכו' עד וחייא",
+      "coords": {
+        "HPOS": 205,
+        "VPOS": 1855,
+        "WIDTH": 2000,
+        "HEIGHT": 62
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_9b33ab08-d4f7-43dd-83b1-7d6bb3a1c5d5",
+      "kind": "main",
+      "idx": 27,
+      "text": "עשה אותי, ועד, וכיון דחזא רבי דאיכא שינויא כולי האי בתנויי דרבנן אף על גב",
+      "coords": {
+        "HPOS": 205,
+        "VPOS": 1915,
+        "WIDTH": 2001,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_a69e67f1-46b9-440d-9996-ea65fd874454",
+      "kind": "main",
+      "idx": 28,
+      "text": "דטעמייהו לחדא מילתא סלקין חש דלא נפק פסידא וכו', עד כפתחו של היכל וכו'",
+      "coords": {
+        "HPOS": 212,
+        "VPOS": 1972,
+        "WIDTH": 1993,
+        "HEIGHT": 75
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_bd4befe4-eeb5-41c5-af77-c4d1548a5196",
+      "kind": "main",
+      "idx": 29,
+      "text": "אחרונים ר\"א ן' שמוע\". ר\"ל דכיון דראה בחוש הראות הנזק המפורסם היוצא לומר דבר בכמה",
+      "coords": {
+        "HPOS": 207,
+        "VPOS": 2046,
+        "WIDTH": 1999,
+        "HEIGHT": 62
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_153423db-d5ca-4858-b892-2953b227035c",
+      "kind": "main",
+      "idx": 30,
+      "text": "פנים, אעפ\"י שהדין אחד, והכוונה אחת, וראה ג\"כ מיעוט הלב הולך וגובר, ומעין החכמה הולך",
+      "coords": {
+        "HPOS": 212,
+        "VPOS": 2106,
+        "WIDTH": 1996,
+        "HEIGHT": 70
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_a885870d-dbb0-40b0-a4e7-5313ab9f1061",
+      "kind": "main",
+      "idx": 31,
+      "text": "ונסתם, וא\"כ בהכרח התורה היא הולכת ומשתכחת כמו שכבר התחיל דבר זה מרבו רבי אלעזר בן",
+      "coords": {
+        "HPOS": 209,
+        "VPOS": 2172,
+        "WIDTH": 1999,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_f056ae6f-1078-4bc9-8af4-aac901cc97b4",
+      "kind": "main",
+      "idx": 32,
+      "text": "שמוע, ע\"ז תכף לא איחר הנ\"הר הוא רבינו הקדוש לעשות את הדבר הזה, ועכשיו נרגש גאוננו ז\"ל,",
+      "coords": {
+        "HPOS": 216,
+        "VPOS": 2231,
+        "WIDTH": 1992,
+        "HEIGHT": 77
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_0439d145-97f4-4e22-961a-200b6734d02d",
+      "kind": "main",
+      "idx": 33,
+      "text": "דא\"כ דכבר התחיל מיעוט הלב מזמן רבו, למה לא התעוררו אותם הראשונים שקדמו לרבי להתטפל",
+      "coords": {
+        "HPOS": 207,
+        "VPOS": 2291,
+        "WIDTH": 2001,
+        "HEIGHT": 83
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_e619b30d-37fe-49b1-a813-68f313272611",
+      "kind": "main",
+      "idx": 34,
+      "text": "במלאכה? ע\"ז משיב: \"ואחסנוהו לרבי מן שמיא דהוה ליה תורה וגדולה וכו', ושקטו",
+      "coords": {
+        "HPOS": 209,
+        "VPOS": 2359,
+        "WIDTH": 1997,
+        "HEIGHT": 72
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_b23801b9-44ef-46f2-a77c-01a0f3b12b1b",
+      "kind": "main",
+      "idx": 35,
+      "text": "רבנן ביומי דרבי וכו', ואסכים לתרוצי הלכתא ,וכו', ולא לגרוס כל חד וחד לישנא",
+      "coords": {
+        "HPOS": 207,
+        "VPOS": 2423,
+        "WIDTH": 1999,
+        "HEIGHT": 70
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_0ed6163d-a5b2-42b9-9f57-07fa3a568180",
+      "kind": "main",
+      "idx": 36,
+      "text": "לנפשיה\" הכוונה, אמת היו יכולים רבותיו של רבי להתטפל במלאכה זאת והיו צריכים לה, אבל אם",
+      "coords": {
+        "HPOS": 209,
+        "VPOS": 2486,
+        "WIDTH": 2003,
+        "HEIGHT": 77
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_1f8139ca-1277-4049-8bbf-31d47b6b9876",
+      "kind": "main",
+      "idx": 37,
+      "text": "חסר אחת מכל סממניה היא לא תצלח, והוא: העושר, והשלטון, והישוב המדיניי, שכל אלו נקבצו",
+      "coords": {
+        "HPOS": 212,
+        "VPOS": 2552,
+        "WIDTH": 2000,
+        "HEIGHT": 71
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_e6bff506-77c4-4e85-87e0-a457aa458907",
+      "kind": "main",
+      "idx": 38,
+      "text": "ובאו בימי רבי, וע\"ז היתה שעת הכושר למלאכה זאת בימי רבי, ע\"כ עלה אל גאוננו בירור הצורך",
+      "coords": {
+        "HPOS": 218,
+        "VPOS": 2614,
+        "WIDTH": 1994,
+        "HEIGHT": 73
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_94af240c-e101-4ced-b457-859083b79b35",
+      "kind": "main",
+      "idx": 39,
+      "text": "למלאכת רבי ז\"ל, ושהוא ולא אחר היה דאוי למלאכה זאת, ויען שמדבר לדבר יצא הגאון מן נקודת",
+      "coords": {
+        "HPOS": 209,
+        "VPOS": 2674,
+        "WIDTH": 2001,
+        "HEIGHT": 72
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_39553802-ec5c-4d81-9cfb-a1d269ba0785",
+      "kind": "main",
+      "idx": 40,
+      "text": "מרכז הכוונה שנטפל עליה להשיב, והוא: שכל מה שבא במשנה הוא תורתם של ראשונים מאנשי",
+      "coords": {
+        "HPOS": 214,
+        "VPOS": 2744,
+        "WIDTH": 1992,
+        "HEIGHT": 61
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_850d5228-c169-4a4b-aa5a-7bcf1082ca04",
+      "kind": "main",
+      "idx": 41,
+      "text": "כנ\"הג ומעלה, והופסק הדבור הזה מן ההכרח הגדול שהיה לגאוננו ז\"ל לסדר לנו העניינים כאשר",
+      "coords": {
+        "HPOS": 214,
+        "VPOS": 2806,
+        "WIDTH": 1996,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_3cf2e56f-d86a-4c90-b732-f21ab6e8d824",
+      "kind": "main",
+      "idx": 42,
+      "text": "נפלו מתחילתם עד זמן שמצא רבינו הקדוש עצמו מחוייב לעשות המעשה הגדול והנורא הזה. ע\"ז",
+      "coords": {
+        "HPOS": 214,
+        "VPOS": 2871,
+        "WIDTH": 1998,
+        "HEIGHT": 71
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_be50c30e-3624-4604-810c-2d72df0cae47",
+      "kind": "main",
+      "idx": 43,
+      "text": "חזר גאוננו אל הנקודה אשר נסע ממנה, לחזור זאת הפעם, ולתת אותו טעם הנכון שכבר התחיל",
+      "coords": {
+        "HPOS": 212,
+        "VPOS": 2946,
+        "WIDTH": 1998,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_1d7cf4e8-ce9f-4bfa-904e-02ec6805628f",
+      "kind": "main",
+      "idx": 44,
+      "text": "בו",
+      "coords": {
+        "HPOS": 350,
+        "VPOS": 3012,
+        "WIDTH": 40,
+        "HEIGHT": 47
+      },
+      "para_start": false,
+      "is_catchword": true
+    }
+  ]
+}

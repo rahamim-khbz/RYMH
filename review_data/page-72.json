@@ -1,0 +1,653 @@
+{
+  "page_id": "page-72",
+  "image": "page_images/page-72.jpg",
+  "page_width": 2550,
+  "page_height": 3300,
+  "base_hash": "sha256:7c6dad55fe639bebd6c592b2641cedd99387da93cd0f58d4877d79eb42713595",
+  "lines": [
+    {
+      "line_id": "eSc_line_63788e96",
+      "kind": "main",
+      "idx": 0,
+      "text": "בלד",
+      "coords": {
+        "HPOS": 2113,
+        "VPOS": 210,
+        "WIDTH": 125,
+        "HEIGHT": 109
+      },
+      "para_start": true,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_c908bbfc",
+      "kind": "main",
+      "idx": 1,
+      "text": "העולה, דמ\"ש ר\"יוח תורה רובה ע\"פ, ר\"ל לימודה, ולא איסור כתיבתה, וכן מוכח מכל",
+      "coords": {
+        "HPOS": 227,
+        "VPOS": 238,
+        "WIDTH": 1816,
+        "HEIGHT": 86
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_150d777d",
+      "kind": "main",
+      "idx": 2,
+      "text": "עניניו המובאים בתלמודים ובמדרשים כגון ההיא דנפק תנייה בתלתא יומי, ולא קאמר ממי",
+      "coords": {
+        "HPOS": 229,
+        "VPOS": 306,
+        "WIDTH": 1814,
+        "HEIGHT": 90
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_b616d4ca",
+      "kind": "main",
+      "idx": 3,
+      "text": "תנייה, ומלת נפק שפשוטה נפק ממקום הפומביי, ונכנס לבית הסתדים, וכן ממעשה דהתיר ללמוד",
+      "coords": {
+        "HPOS": 232,
+        "VPOS": 377,
+        "WIDTH": 2011,
+        "HEIGHT": 81
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_2e661c31",
+      "kind": "main",
+      "idx": 4,
+      "text": "מתוך ספרי אגדתא, נראה דענין הכתיבה אינו חידוש כלל, ולא חדש כ\"א הלמוד מתוך הספר, ולא",
+      "coords": {
+        "HPOS": 229,
+        "VPOS": 434,
+        "WIDTH": 2012,
+        "HEIGHT": 81
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_9fba92d5",
+      "kind": "main",
+      "idx": 5,
+      "text": "ישאר מוקשה מעט לפי פשטן של דברים, אלא הא דאמר ר\"יוח גופיה בתמורה די\"ד, כותבי הלכות",
+      "coords": {
+        "HPOS": 227,
+        "VPOS": 496,
+        "WIDTH": 2014,
+        "HEIGHT": 88
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_ae8cf609",
+      "kind": "main",
+      "idx": 6,
+      "text": "כשורפי תורה\" דמאמר זה לא נוכל לפרשו על הלימוד מתוכן בשום אופן, הנה גם לזאת, ככר כתבנו",
+      "coords": {
+        "HPOS": 229,
+        "VPOS": 566,
+        "WIDTH": 2016,
+        "HEIGHT": 88
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_b3cd3c71",
+      "kind": "main",
+      "idx": 7,
+      "text": "לעיל בענף הא' דכל אלו הכתיבות היו גנוזות ביד ראשי גדולי הדורות, ובהדיא קאמרי כן ר\"ש הנגיד",
+      "coords": {
+        "HPOS": 232,
+        "VPOS": 625,
+        "WIDTH": 2015,
+        "HEIGHT": 91
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_23e9105f",
+      "kind": "main",
+      "idx": 8,
+      "text": "מלאכתם בכך לכתוב הלכות מרובות הא ודאי יש לחוש תרתי, חדא, שמא ע\"י רבויים, ורוב מציאותם",
+      "coords": {
+        "HPOS": 231,
+        "VPOS": 755,
+        "WIDTH": 2016,
+        "HEIGHT": 82
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_cc908e85",
+      "kind": "main",
+      "idx": 9,
+      "text": "והרמב\"ם והמאירי, והסברא מוכחת כן, וא\"כ ביד אחרים לא היו נמצאים, וכ\"ש אם נקבעה",
+      "coords": {
+        "HPOS": 229,
+        "VPOS": 687,
+        "WIDTH": 2020,
+        "HEIGHT": 97
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_e56bb1be",
+      "kind": "main",
+      "idx": 10,
+      "text": "יבואו אחרים ללמוד מתוך הכתב, כי לאו כ\"ע רבנן דפקיע שמייהו בידאת חטא להיות זהידין",
+      "coords": {
+        "HPOS": 232,
+        "VPOS": 819,
+        "WIDTH": 2017,
+        "HEIGHT": 94
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_ea2f44d1",
+      "kind": "main",
+      "idx": 11,
+      "text": "למגרסינהו ע\"פ, וזאת שנית, כיון שאין מצילין אותן מפני הדליקה, כל מה שמצויין יותר, עלולים",
+      "coords": {
+        "HPOS": 231,
+        "VPOS": 883,
+        "WIDTH": 2019,
+        "HEIGHT": 96
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_048a1aea",
+      "kind": "main",
+      "idx": 12,
+      "text": "יותר לדליקה והוא עון פלילי, וזהו מה שכתבתי לעיל שדקדקו לומר כותבי הלכות כשורפי תורה, ולא",
+      "coords": {
+        "HPOS": 231,
+        "VPOS": 947,
+        "WIDTH": 2018,
+        "HEIGHT": 92
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_963f9e72",
+      "kind": "main",
+      "idx": 13,
+      "text": ",אמרו כל הכותב הלכות וכו' כררך כל התלמוד כנורע, אלא דקדקו על כותבי הלכות שמלאכחן בנך",
+      "coords": {
+        "HPOS": 238,
+        "VPOS": 1015,
+        "WIDTH": 2012,
+        "HEIGHT": 96
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_9c3802a2",
+      "kind": "main",
+      "idx": 14,
+      "text": "כמו כותבי ספרים תפלין ומזוזות שמלאכתם בכך, וכן תפרש נמי מ\"ש בשבת דקט\"ו ע\"ב, ת\"ר",
+      "coords": {
+        "HPOS": 242,
+        "VPOS": 1081,
+        "WIDTH": 2007,
+        "HEIGHT": 88
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_fcafd962",
+      "kind": "main",
+      "idx": 15,
+      "text": "הברכות וכו', אין מצילין אותן מפני הדליקה, מכאן אמרו כותבי הלכוה כשודפי תודה, שהוא ממש",
+      "coords": {
+        "HPOS": 232,
+        "VPOS": 1144,
+        "WIDTH": 2020,
+        "HEIGHT": 93
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_5bc52cb6",
+      "kind": "main",
+      "idx": 16,
+      "text": "על הקובעים מלאכתן בכך, וברייתא זאת היא בנין אב לפרש כן, כל השאר, שהרי מסיימת, ומעשה",
+      "coords": {
+        "HPOS": 234,
+        "VPOS": 1210,
+        "WIDTH": 2016,
+        "HEIGHT": 89
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_de5dbcad",
+      "kind": "main",
+      "idx": 17,
+      "text": "באחד שהיה כותב בצידן, והלך ר' ישמעאל לבודקו, כשהיה עולה בסולם הרגיש בו, נטל טומוס של",
+      "coords": {
+        "HPOS": 234,
+        "VPOS": 1270,
+        "WIDTH": 2018,
+        "HEIGHT": 94
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_38c6461c",
+      "kind": "main",
+      "idx": 18,
+      "text": "ברכות ושקען בספל של מים, ובלשון הזה אמר לו ר\"יש, גדול עונש האחרון מן הראשון ע\"כ. והובאה",
+      "coords": {
+        "HPOS": 236,
+        "VPOS": 1340,
+        "WIDTH": 2016,
+        "HEIGHT": 90
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_a42b347a",
+      "kind": "main",
+      "idx": 19,
+      "text": "בדיתא זאת במס' סופרים פט\"ו בשנוי לשונות ויש לרקדק בבריתא זאת ג' ד' דקדוקים נאותים.א: מאי",
+      "coords": {
+        "HPOS": 238,
+        "VPOS": 1408,
+        "WIDTH": 2012,
+        "HEIGHT": 88
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_8524908d",
+      "kind": "main",
+      "idx": 20,
+      "text": ".מכאן אמרו? כאלו ער עכשיו היה מסתפק בדבר, ועכשיו נתפשטו לו כל קמטיו, וא\"כ לנו לדעתו",
+      "coords": {
+        "HPOS": 247,
+        "VPOS": 1466,
+        "WIDTH": 2009,
+        "HEIGHT": 92
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_a9bd9366",
+      "kind": "main",
+      "idx": 21,
+      "text": "ב: מאי לשון כותבי ברכות, ולא כל הכותב ברכות כארחא דתלמודא? ג: מה הלשון אומרת מעשה",
+      "coords": {
+        "HPOS": 238,
+        "VPOS": 1525,
+        "WIDTH": 2014,
+        "HEIGHT": 92
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_abfe9195",
+      "kind": "main",
+      "idx": 22,
+      "text": "בא' שהיה כותב, ולא מעשה בא' שכתב שהוא הנראה יותר ראוי לאומרו? ר: מה כל החרדה הזאת",
+      "coords": {
+        "HPOS": 240,
+        "VPOS": 1593,
+        "WIDTH": 2016,
+        "HEIGHT": 86
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_202b1072",
+      "kind": "main",
+      "idx": 23,
+      "text": "למען דעת נוסח הלשון בעינו שבו דבר האיש אדוני הארץ ר\"יש את הסופר ההוא קשות? הלא דבר",
+      "coords": {
+        "HPOS": 243,
+        "VPOS": 1657,
+        "WIDTH": 2013,
+        "HEIGHT": 95
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_c9aad48a",
+      "kind": "main",
+      "idx": 24,
+      "text": "הוא! ולפי היסוד האמתי שיסדנו, בריתא זאת היא ברה כחמה מאירת עינים בענין הנבוך הזה שעד",
+      "coords": {
+        "HPOS": 243,
+        "VPOS": 1730,
+        "WIDTH": 2015,
+        "HEIGHT": 79
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_46e08b19",
+      "kind": "main",
+      "idx": 25,
+      "text": "בעי\"ע לכתיבת תשבע\"פ מצר הכתיבה כי עקר האיסור אינו אלא ללמוד מתוכה, וכיון דהיה מאמר",
+      "coords": {
+        "HPOS": 247,
+        "VPOS": 1851,
+        "WIDTH": 2007,
+        "HEIGHT": 92
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_9342189b",
+      "kind": "main",
+      "idx": 26,
+      "text": "היום חתום תורה בלמודיו, והוא, דמסדר הברייתא רצה להשמיענו עיקר דין זה שאנו בו שאין איסור",
+      "coords": {
+        "HPOS": 245,
+        "VPOS": 1796,
+        "WIDTH": 2011,
+        "HEIGHT": 88
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_ee03251b",
+      "kind": "main",
+      "idx": 27,
+      "text": "ידוע מקדם קדמתה \"כותבי ברכות כשורפי תורה\" והיה נשמע כאלו חומר זה שנתנו עליהם הוא מפני",
+      "coords": {
+        "HPOS": 243,
+        "VPOS": 1921,
+        "WIDTH": 2009,
+        "HEIGHT": 86
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_86d0701b",
+      "kind": "main",
+      "idx": 28,
+      "text": "איסור הכתיבה, שתושבע\"פ היא אסורה הכתיבה מכל וכל, על זה תנא דבריתא סידר בריתא שלו",
+      "coords": {
+        "HPOS": 242,
+        "VPOS": 1981,
+        "WIDTH": 2014,
+        "HEIGHT": 83
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_f41c883c",
+      "kind": "main",
+      "idx": 29,
+      "text": "רישא וסיפא באופן נאות כדי להוציא מלבנו טעות גדול כזה, וע\"כ מתחי' התחיל רישא דברייתא",
+      "coords": {
+        "HPOS": 243,
+        "VPOS": 2042,
+        "WIDTH": 2013,
+        "HEIGHT": 88
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_7719cb34",
+      "kind": "main",
+      "idx": 30,
+      "text": "בשנותו: \"הברכות וכו' אין מצילין אותן מפני הדליקה ונשרפים במקומם\" וכו', ואחר שבירר דבר זה",
+      "coords": {
+        "HPOS": 245,
+        "VPOS": 2115,
+        "WIDTH": 2013,
+        "HEIGHT": 79
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_aa83f6c8",
+      "kind": "main",
+      "idx": 31,
+      "text": "סיים מציעתא לומר מכאן אמרו כותבי ברכות כשורפי תורה, כלומר השמעת הקורא מאיזה טעם",
+      "coords": {
+        "HPOS": 243,
+        "VPOS": 2179,
+        "WIDTH": 2015,
+        "HEIGHT": 87
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_3f04ff71",
+      "kind": "main",
+      "idx": 32,
+      "text": "מסור בידינו כותבי ברכות כשורפי תורה, שאינו כדס\"ד משום איסור הכתיבה, אלא משום דע\"י רוב",
+      "coords": {
+        "HPOS": 243,
+        "VPOS": 2245,
+        "WIDTH": 2015,
+        "HEIGHT": 85
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_3ab263a0",
+      "kind": "main",
+      "idx": 33,
+      "text": "מלאכתם בכך שכותבים כמה טופסים למכור וליתן במתנה, אבל כל מי שכותב לעצמו ככל גדולי",
+      "coords": {
+        "HPOS": 249,
+        "VPOS": 2366,
+        "WIDTH": 2007,
+        "HEIGHT": 87
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_4f90cc27",
+      "kind": "main",
+      "idx": 34,
+      "text": "מצוי עלולים לשדיפה אחרי שאין מצילין אותם מפני הדליקה, וזה לא יפול כי אם על הקובעים",
+      "coords": {
+        "HPOS": 243,
+        "VPOS": 2304,
+        "WIDTH": 2013,
+        "HEIGHT": 94
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_eb0cb500",
+      "kind": "main",
+      "idx": 35,
+      "text": "הדורות ותלמידיהם, שהם כמו חמדות גנוזות, כבר נותנין אותן במקום מחמדיהם, שאין האור",
+      "coords": {
+        "HPOS": 251,
+        "VPOS": 2434,
+        "WIDTH": 2007,
+        "HEIGHT": 92
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_c2572427",
+      "kind": "main",
+      "idx": 36,
+      "text": "שולטת בהם, כבניני אבנו גזית, והמערות, והחוחים, והדומה, ועל זה יאמר תנא דברייתא, דוק",
+      "coords": {
+        "HPOS": 253,
+        "VPOS": 2502,
+        "WIDTH": 2007,
+        "HEIGHT": 92
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_033bfef4",
+      "kind": "main",
+      "idx": 37,
+      "text": "זאת לא תפול כי אם על הקובעים מלאכתם בכך, וראיה לדבר דעיקר מה שאסרו הכתיבה הוא משום",
+      "coords": {
+        "HPOS": 251,
+        "VPOS": 2623,
+        "WIDTH": 2007,
+        "HEIGHT": 92
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_37fb03a7",
+      "kind": "main",
+      "idx": 38,
+      "text": "בהלכה המסורה בירינו מאבותינו, אומרה: \"כותבי ברכות\" ולא כל הכותב ברכות, דבאמת, חששא",
+      "coords": {
+        "HPOS": 249,
+        "VPOS": 2561,
+        "WIDTH": 2009,
+        "HEIGHT": 95
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_9b978adc",
+      "kind": "main",
+      "idx": 39,
+      "text": "בכך, ולזה לא אמר, מעשה באחר שכתב, כי",
+      "coords": {
+        "HPOS": 1333,
+        "VPOS": 2753,
+        "WIDTH": 925,
+        "HEIGHT": 88
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_39c0b090",
+      "kind": "main",
+      "idx": 40,
+      "text": "אם על רבויה מפני חששת הדליקה, ואותו הסופר נתפחד מר\"יש, ונטל טומוס של ברכות, ר\"ל",
+      "coords": {
+        "HPOS": 258,
+        "VPOS": 2816,
+        "WIDTH": 2003,
+        "HEIGHT": 93
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_51bb0ed7",
+      "kind": "main",
+      "idx": 41,
+      "text": "אין עיקר האיסור על הכתיבה, כי",
+      "coords": {
+        "HPOS": 256,
+        "VPOS": 2772,
+        "WIDTH": 696,
+        "HEIGHT": 78
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_52d706c8",
+      "kind": "main",
+      "idx": 42,
+      "text": "גזודת הדליקה ולא לעצמו יצא, ממעשה באחר שהיה כותב כצידן, כלומר שהיה קובע מלאכתו",
+      "coords": {
+        "HPOS": 253,
+        "VPOS": 2695,
+        "WIDTH": 2008,
+        "HEIGHT": 91
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_69e79764",
+      "kind": "main",
+      "idx": 43,
+      "text": "טופסים הרבה של ברכות, שעשה למכור ובק\"ע איבדן ושקען בספל של מים, כדי שלא ימצאם רבי",
+      "coords": {
+        "HPOS": 256,
+        "VPOS": 2883,
+        "WIDTH": 2005,
+        "HEIGHT": 103
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_5854fc32",
+      "kind": "main",
+      "idx": 44,
+      "text": "ישמעאל, אבל ר\"יש שחפש ומצאם יפה השיב לו גדול עונש האחדון לשוקעם במים ולאבדם בק\"ע",
+      "coords": {
+        "HPOS": 256,
+        "VPOS": 2949,
+        "WIDTH": 2004,
+        "HEIGHT": 94
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_6aeb44be",
+      "kind": "main",
+      "idx": 45,
+      "text": "בידים",
+      "coords": {
+        "HPOS": 388,
+        "VPOS": 3045,
+        "WIDTH": 123,
+        "HEIGHT": 58
+      },
+      "para_start": false,
+      "is_catchword": true
+    }
+  ]
+}

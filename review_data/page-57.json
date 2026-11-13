@@ -1,0 +1,597 @@
+{
+  "page_id": "page-57",
+  "image": "page_images/page-57.jpg",
+  "page_width": 2550,
+  "page_height": 3300,
+  "base_hash": "sha256:b6bee8a207d50a87e309810600ec0338becfe0055ebb4fbf1dc30be7df0c12f8",
+  "lines": [
+    {
+      "line_id": "eSc_line_d9e96461",
+      "kind": "main",
+      "idx": 0,
+      "text": "שד\"ל עצמו ומחי ליה אמוחא וכנז\"ל, וזה פלא דהיה לו להזכירו, כי ספרי הרב חיד\"א ז\"ל, ובפרט",
+      "coords": {
+        "HPOS": 229,
+        "VPOS": 218,
+        "WIDTH": 2001,
+        "HEIGHT": 69
+      },
+      "para_start": true,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_8d196b3e",
+      "kind": "main",
+      "idx": 1,
+      "text": "כמו אלה, גלוים וידועים, וזאת שנית, כי בחנתי על מה ועל מה נפל המחלוקת לש\"ש הלזה שחלקו",
+      "coords": {
+        "HPOS": 231,
+        "VPOS": 280,
+        "WIDTH": 1997,
+        "HEIGHT": 70
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_0df0e592",
+      "kind": "main",
+      "idx": 2,
+      "text": "עליו, אעפ\"י שעדין איני יודע מה ומי, ומפני זה הוא מתרעם באידוקאטור, כי בלאו הכי, לא הייתי",
+      "coords": {
+        "HPOS": 234,
+        "VPOS": 357,
+        "WIDTH": 1993,
+        "HEIGHT": 64
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_2ade1bbe",
+      "kind": "main",
+      "idx": 3,
+      "text": "מבין איך ובמה. אבל בראותי מה שפלט קולמוסו שם בסוף עמוד ס\"ו וריש עמוד ס\"ז ע\"ב עפ\"י יסודו",
+      "coords": {
+        "HPOS": 231,
+        "VPOS": 418,
+        "WIDTH": 1997,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_373f4c16",
+      "kind": "main",
+      "idx": 4,
+      "text": "זה נגד רבינו ומאור גולתנו הרמב\"ם ז\"ל, אמרתי אני אל לבי אכן נודע הדבר מפני מה יש מי שהתנגד",
+      "coords": {
+        "HPOS": 236,
+        "VPOS": 485,
+        "WIDTH": 1994,
+        "HEIGHT": 55
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_2a0aa0ba",
+      "kind": "main",
+      "idx": 5,
+      "text": "אל סברתו זאת, אעפ\"י שעדיין איני יודע, כאשר אמרתי, מי ומה? ומהתנגדות זה ודאי נובעים",
+      "coords": {
+        "HPOS": 231,
+        "VPOS": 544,
+        "WIDTH": 1999,
+        "HEIGHT": 70
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_9e780780",
+      "kind": "main",
+      "idx": 6,
+      "text": "דבריו באיטלקי מפורש הנז\"ל, ולבי אומר לי כי אין ספק שלא באו על החכם שד\"ל נר\"ו מנגדיו בטענות",
+      "coords": {
+        "HPOS": 229,
+        "VPOS": 605,
+        "WIDTH": 1998,
+        "HEIGHT": 67
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_c656573d",
+      "kind": "main",
+      "idx": 7,
+      "text": ",תלמודיות חכמניות פסקניות כדרך מתוכחים ביושר לבב, כי אם שיצאו לקראתו עם טענות רוחניות",
+      "coords": {
+        "HPOS": 232,
+        "VPOS": 671,
+        "WIDTH": 2000,
+        "HEIGHT": 73
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_a3706fa1",
+      "kind": "main",
+      "idx": 8,
+      "text": "קנאיות, שכורות ולא מיין התלמודיי המאיר עיני חכמים בהלכה, כ\"א מיין ה\"פאנאטיזמו, אשר גם",
+      "coords": {
+        "HPOS": 232,
+        "VPOS": 737,
+        "WIDTH": 1998,
+        "HEIGHT": 67
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_f23fd482",
+      "kind": "main",
+      "idx": 9,
+      "text": "הוא היה בעוכרי האברופא המעטירה הזאת, כאשר השלכתי איזה טיפות דיו אדומות כשנים על פרט",
+      "coords": {
+        "HPOS": 231,
+        "VPOS": 810,
+        "WIDTH": 1999,
+        "HEIGHT": 55
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_cb3d1720",
+      "kind": "main",
+      "idx": 10,
+      "text": "זה גם בקונטריסי קדושת יו\"ט, גם בספרי נצח ישראל, ועל זה הוא שאנו דואים להחכם המפורסם",
+      "coords": {
+        "HPOS": 231,
+        "VPOS": 865,
+        "WIDTH": 1999,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_8c73104f",
+      "kind": "main",
+      "idx": 11,
+      "text": ",הזה, שמלכי מזרח ומערב לא יזיזו אותו ממקומו, כל שלא באו לפניו בטענות שיש בהם כדי שביעה",
+      "coords": {
+        "HPOS": 242,
+        "VPOS": 925,
+        "WIDTH": 1988,
+        "HEIGHT": 79
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_16f442fd",
+      "kind": "main",
+      "idx": 12,
+      "text": "כי אם יהיה זה חלילה לאיש מאישי ישראל כזה ממולא בדעת ובכשרון, ועבד נאמן לתושבע\"פ שלא",
+      "coords": {
+        "HPOS": 231,
+        "VPOS": 988,
+        "WIDTH": 2001,
+        "HEIGHT": 71
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_f21252ec",
+      "kind": "main",
+      "idx": 13,
+      "text": "ינענע ראשו אם יתראו לפניו טענות מצודקות המשביעות לכל חי רצון, חלילה! עוד הפעם, ואפי' אם",
+      "coords": {
+        "HPOS": 231,
+        "VPOS": 1056,
+        "WIDTH": 1999,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_cd750234",
+      "kind": "main",
+      "idx": 14,
+      "text": "לא יהיה כח בטענות המתנגדות כ\"א להביא הדבר אל המיצוע, רצוני, שיהיה הענין שקול ובלתי",
+      "coords": {
+        "HPOS": 234,
+        "VPOS": 1120,
+        "WIDTH": 1996,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_f7670c0c",
+      "kind": "main",
+      "idx": 15,
+      "text": "מבורר מן התלמוד למי משתי סברות מכריע פשט תלמודין למקורות שונים, עכ\"ז גמירי היה מכריע",
+      "coords": {
+        "HPOS": 231,
+        "VPOS": 1184,
+        "WIDTH": 1997,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_9cf076d2",
+      "kind": "main",
+      "idx": 16,
+      "text": "נגד דעת רש\"י, אם מטעם כי גדולים ממנו הכי ס\"ל, וא\"כ מאי חזית דסברת רש\"י, ופירושיו, לא",
+      "coords": {
+        "HPOS": 232,
+        "VPOS": 1246,
+        "WIDTH": 2000,
+        "HEIGHT": 70
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_36800b65",
+      "kind": "main",
+      "idx": 17,
+      "text": "איסטוריקו, ולא פוסק סומק טפי משכנגדיו דכולהו איתנהו בהו כנודע רוב עובים ורוב היקפם בידיעות",
+      "coords": {
+        "HPOS": 231,
+        "VPOS": 1320,
+        "WIDTH": 2001,
+        "HEIGHT": 67
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_58d3ac02",
+      "kind": "main",
+      "idx": 18,
+      "text": "שורשיות מועתקות מפה הגאונים? ואם מטעם כי לפי הדור בסכנת תושבע\"פ שאנו בו ראוי להכריע",
+      "coords": {
+        "HPOS": 231,
+        "VPOS": 1378,
+        "WIDTH": 2003,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_be2e3684",
+      "kind": "main",
+      "idx": 19,
+      "text": "נגד דעתו ז\"ל (*) מבלי שום ריח ספק, והחכם המפורסם הלזה שיחלא דילהון אמרי דילנא הוא! עבד",
+      "coords": {
+        "HPOS": 234,
+        "VPOS": 1439,
+        "WIDTH": 1994,
+        "HEIGHT": 71
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_6678d4ad",
+      "kind": "main",
+      "idx": 20,
+      "text": "הנרצע לעבורת הקדש, ומעפרות קבלת רז\"ל ממלא עיניו כיונים באהבה וחיבת הקדש כאשר בקיאין",
+      "coords": {
+        "HPOS": 236,
+        "VPOS": 1505,
+        "WIDTH": 1996,
+        "HEIGHT": 80
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_3fcc5a52",
+      "kind": "main",
+      "idx": 21,
+      "text": "(בו ובתורתו ובקיום מעשה המצות, ודי לנו מה שהעיד על עצמו בויכוחו נגד הזהר וז\"ל: (ד\"ט ע\"א",
+      "coords": {
+        "HPOS": 234,
+        "VPOS": 1571,
+        "WIDTH": 1998,
+        "HEIGHT": 71
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_688a2e3e",
+      "kind": "main",
+      "idx": 22,
+      "text": ",ובוחן לבות וכליות הוא יודע וגם אתה אדוני תכיר ותדע כי עברי אנכי ואת אלהי ישראל אנכי ירא",
+      "coords": {
+        "HPOS": 245,
+        "VPOS": 1633,
+        "WIDTH": 1974,
+        "HEIGHT": 79
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_1dc5f96d",
+      "kind": "main",
+      "idx": 23,
+      "text": "ומתו\"שבכ ותשבע\"פ לא אסור ימין ושמאל לא במעשה ולא במחשבה, ובשמים עדי ובמרומים שהדי",
+      "coords": {
+        "HPOS": 238,
+        "VPOS": 1701,
+        "WIDTH": 1996,
+        "HEIGHT": 64
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_863f54be",
+      "kind": "main",
+      "idx": 24,
+      "text": "הוא יקח נקמתו מידי אם בלב ולב אדבר\" עכ\"ד ולאיש אשר אלה לו איך נוכל להאמין שאם היו באין לפניו",
+      "coords": {
+        "HPOS": 234,
+        "VPOS": 1760,
+        "WIDTH": 2000,
+        "HEIGHT": 71
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_331c8911",
+      "kind": "main",
+      "idx": 25,
+      "text": "בטענות המספיקות וראיות מופתיית בלי קנטורים, ודברים זרים, ומים המאררים, שלא היה מודה",
+      "coords": {
+        "HPOS": 234,
+        "VPOS": 1829,
+        "WIDTH": 2000,
+        "HEIGHT": 64
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_af4c0e0e",
+      "kind": "main",
+      "idx": 26,
+      "text": "על האמת חלילה! לא תהיה כזאת באדם מאושר כזה, וע\"כ אלין דהוו הואיל וכבר נכנסתי בענין זה",
+      "coords": {
+        "HPOS": 236,
+        "VPOS": 1890,
+        "WIDTH": 1998,
+        "HEIGHT": 71
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_cfc39e95",
+      "kind": "main",
+      "idx": 27,
+      "text": "צתומי מבלי שאדע שהחכם הנז' נר\"ו היה מן המשמאלים נגד מה שהחלטתי לעיל, מצוה עלי להתטפל",
+      "coords": {
+        "HPOS": 234,
+        "VPOS": 1958,
+        "WIDTH": 2000,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_354b1b31",
+      "kind": "main",
+      "idx": 28,
+      "text": "בכל ראיותיו אחת אל אחת ולשאת ולתת עם דבריו כריע כאח ממש באהבה עצמית כדרך שני תופשי",
+      "coords": {
+        "HPOS": 236,
+        "VPOS": 2018,
+        "WIDTH": 1996,
+        "HEIGHT": 70
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_df9a4e99",
+      "kind": "main",
+      "idx": 29,
+      "text": "התורה בקדושה ובטהרה, אשר אין תכלית ויכוחם כי אם כבירור האמת ואם נזכה שבעומדו על עומק",
+      "coords": {
+        "HPOS": 234,
+        "VPOS": 2088,
+        "WIDTH": 2000,
+        "HEIGHT": 75
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_a7e1ea16",
+      "kind": "main",
+      "idx": 30,
+      "text": ",דברי וראיותי וישקל אותם במשקל הזהב יסכים עמנו, הא ודאי זה היום עשה ה' נגילה ונשמחה בו",
+      "coords": {
+        "HPOS": 247,
+        "VPOS": 2148,
+        "WIDTH": 1980,
+        "HEIGHT": 79
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_2bddf638",
+      "kind": "main",
+      "idx": 31,
+      "text": "ואיני מחניף, חלילה לי! כי אם שידעתי את האיש ואת שיחו, שאם התלבש בכל ראיותי, והסכים",
+      "coords": {
+        "HPOS": 238,
+        "VPOS": 2216,
+        "WIDTH": 1996,
+        "HEIGHT": 73
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_362f884f",
+      "kind": "main",
+      "idx": 32,
+      "text": ",עליהם, הא ודאי כארי יקום וכלביא יתנשא לגלות דעתו כרבים בכל לשון שהוא שומע, בעברי",
+      "coords": {
+        "HPOS": 247,
+        "VPOS": 2275,
+        "WIDTH": 1985,
+        "HEIGHT": 82
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_fde7f6ff",
+      "kind": "main",
+      "idx": 33,
+      "text": "באיטלקי, ובצרפתי, ובאשכנזי, כי לא ישקוט האיש עד אשר יברר הדברים, וימתיקם בלשונו הצחה",
+      "coords": {
+        "HPOS": 236,
+        "VPOS": 2344,
+        "WIDTH": 1994,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_3736ce11",
+      "kind": "main",
+      "idx": 34,
+      "text": "אשר חננו ה' בכל ספר ולשון הנז\"ל, ולא בדרך הפלגה, ולאו מילתא זוטרתי היא, חיי ראשי אם יברר",
+      "coords": {
+        "HPOS": 245,
+        "VPOS": 2412,
+        "WIDTH": 1989,
+        "HEIGHT": 72
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_b5c22f44",
+      "kind": "main",
+      "idx": 35,
+      "text": "החכם",
+      "coords": {
+        "HPOS": 365,
+        "VPOS": 2480,
+        "WIDTH": 137,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_a594df93",
+      "kind": "main",
+      "idx": 36,
+      "text": "א\"ה. במחילה מהדרת ואהנת כבוד הגאון המחבר כר\"ו חוששני שיתן מקום למינים לרדות על דברת ההכרעה לפי הדור כי האמת לא (*",
+      "coords": {
+        "HPOS": 238,
+        "VPOS": 2640,
+        "WIDTH": 1989,
+        "HEIGHT": 58
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_86ac5569",
+      "kind": "main",
+      "idx": 37,
+      "text": "תשתבה בסום זמן\" ומה לבו לטרוח? תבלית זמניי אם לא יקובל בכל עת ובכל מצב והאמת היא אבונה מצד עצמה ומצוה נוכגת בכל מקום ובכל",
+      "coords": {
+        "HPOS": 238,
+        "VPOS": 2693,
+        "WIDTH": 1926,
+        "HEIGHT": 49
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_10368119",
+      "kind": "main",
+      "idx": 38,
+      "text": "זמן נחולין ובמוקדשין נפ\"הב ושלא בפ\"הב, ובלתי זה למה לנו מלא חפנים עמל ורעות רוח לשנר כמה קולמוסים ולשפוך כמה דיו אל חכלית צר",
+      "coords": {
+        "HPOS": 240,
+        "VPOS": 2737,
+        "WIDTH": 1996,
+        "HEIGHT": 58
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_d78eeeb8",
+      "kind": "main",
+      "idx": 39,
+      "text": "ומוגבל כזה? וביותר ביום שידובר בבו עם החכם החוקר שד\"ל אהובנו נר\"ו ממטבעו שלא לשאת פנים בחקרותיו לא לדור ולא לדו רשיו וכל",
+      "coords": {
+        "HPOS": 236,
+        "VPOS": 2795,
+        "WIDTH": 2000,
+        "HEIGHT": 50
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_15c433ee",
+      "kind": "main",
+      "idx": 40,
+      "text": "מעינין לקלוע אל מטרת האמת ולא יחטיא כאשר הגדתי נפה מלא בהגעתי לאימת מפניע ונמשך הספר. ואזה יקדה לדעתי המחבר הנז' פעמים",
+      "coords": {
+        "HPOS": 234,
+        "VPOS": 2841,
+        "WIDTH": 2000,
+        "HEIGHT": 72
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "eSc_line_97890f3b",
+      "kind": "main",
+      "idx": 41,
+      "text": "יחזיק בהנחותיו, ידי המתח דשים, ופעמים ידי ה מתקדשים מדעתו ושלא מדעתי",
+      "coords": {
+        "HPOS": 647,
+        "VPOS": 2896,
+        "WIDTH": 1178,
+        "HEIGHT": 57
+      },
+      "para_start": false,
+      "is_catchword": false
+    }
+  ]
+}

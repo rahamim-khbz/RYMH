@@ -1,0 +1,625 @@
+{
+  "page_id": "page-10",
+  "image": "page_images/page-10.png",
+  "page_width": 2550,
+  "page_height": 3300,
+  "base_hash": "sha256:a95300ca05d695d70385888fc1b114511a109f4aab09e82f0060d7d4e85c976e",
+  "lines": [
+    {
+      "line_id": "_2470c7e0-d9de-42d3-9cb7-de1aa60bea6c",
+      "kind": "main",
+      "idx": 0,
+      "text": "תורה, ואי משום דלאו כ\"ע רבנן קדישי דיהיו זריזין למגרסינהו ע\"פ, אבל הסודיית לגדולי הדור שכל",
+      "coords": {
+        "HPOS": 289,
+        "VPOS": 243,
+        "WIDTH": 2009,
+        "HEIGHT": 59
+      },
+      "para_start": true,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_93c7f89a-b794-4993-8ceb-977adfc82b61",
+      "kind": "main",
+      "idx": 1,
+      "text": "אחד כותב לעצמו, ומסדר לפניו החיבורים כדי ללמדם ברבים בע\"פ, ויהיו שנונים בפה כ\"ע, בפה",
+      "coords": {
+        "HPOS": 289,
+        "VPOS": 311,
+        "WIDTH": 2009,
+        "HEIGHT": 53
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_67d3d9a5-d5c4-43f9-ab51-bfcd736758b9",
+      "kind": "main",
+      "idx": 2,
+      "text": "אחד ולשון אחד, הא ודאי דבר כזה מעולם לא נאסר, וראיה ממ\"ש בעירובין דס\"ב ע\"ב שאמרו \"כגון",
+      "coords": {
+        "HPOS": 289,
+        "VPOS": 372,
+        "WIDTH": 2009,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_e568ba19-8f62-4a47-b3c3-c35f301d698a",
+      "kind": "main",
+      "idx": 3,
+      "text": "מגילת תענית דכתיבה ומנחה\" ושם פירש\"י לדרכו, שלא היתה דבר הלכה כתובה בימיהם אפי' אות",
+      "coords": {
+        "HPOS": 289,
+        "VPOS": 438,
+        "WIDTH": 2011,
+        "HEIGHT": 64
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_4b70c3e9-894d-4be9-af6d-62f08ef7d916",
+      "kind": "main",
+      "idx": 4,
+      "text": "אחת חוץ ממגילת תענית, ולהכי קרו לה מגילה, ואין ראיה מפירש\"י שהוא לדרכו הולך ודוחק עצמו",
+      "coords": {
+        "HPOS": 289,
+        "VPOS": 511,
+        "WIDTH": 2011,
+        "HEIGHT": 57
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_539ef470-c83a-4421-8a3a-13bec62b5bac",
+      "kind": "main",
+      "idx": 5,
+      "text": "בכל המקומות שבתלמוד המדברים מענין הזה לפרש עפ\"י היסוד המוסד לו, אבל אדרבא מכאן",
+      "coords": {
+        "HPOS": 289,
+        "VPOS": 566,
+        "WIDTH": 2009,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_01d5c11d-6f1b-487a-9172-1c5aab8347ce",
+      "kind": "main",
+      "idx": 6,
+      "text": "ראיה לדעת גאוני ספרד, דמאי \"ומנחה\"? לא די דכתיבה מאחר שלדעת רש\"י ואחוזת מרעהו בהדיא",
+      "coords": {
+        "HPOS": 288,
+        "VPOS": 630,
+        "WIDTH": 2010,
+        "HEIGHT": 57
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_7846c298-ba49-4753-9739-3ed902cc0f36",
+      "kind": "main",
+      "idx": 7,
+      "text": "קאמרי שלא היתה דבר הלכה כתובה בימיהם אפי' אות אחת, וא\"כ די לומר מגילת תענית דכתיבה",
+      "coords": {
+        "HPOS": 288,
+        "VPOS": 694,
+        "WIDTH": 2010,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_30bc2685-513a-4500-b077-873e456b4751",
+      "kind": "main",
+      "idx": 8,
+      "text": "ויכול להורות ממנה במקום רבו, וא\"כ נחזור ומאי \"ומנחה\"? אבל לפי דעת גאוני ספרד מדוקדק היטב",
+      "coords": {
+        "HPOS": 286,
+        "VPOS": 760,
+        "WIDTH": 2014,
+        "HEIGHT": 59
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_89c3db48-0666-45fc-ba9c-8268b6a5eedb",
+      "kind": "main",
+      "idx": 9,
+      "text": "הדק, דבאמת כל תורה שבע\"פ כתיבה ביד השרידים אבל לא מנחה אכ\"ע, או לעיני השמש, כ\"א",
+      "coords": {
+        "HPOS": 289,
+        "VPOS": 825,
+        "WIDTH": 2009,
+        "HEIGHT": 64
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_581fa2a0-082c-4273-bab9-1e6220c08f4e",
+      "kind": "main",
+      "idx": 10,
+      "text": "באמת כתובה היתה וגנוזה ומוצנעת ביד ראשי סנהדראות, וזה השינוי שהיה במגילת תענית, דלא די",
+      "coords": {
+        "HPOS": 291,
+        "VPOS": 902,
+        "WIDTH": 2005,
+        "HEIGHT": 44
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_da483ba5-369f-4f7e-903f-f55c5d8f8ca6",
+      "kind": "main",
+      "idx": 11,
+      "text": "דכתיבה כמו כל תורה שבע\"פ, אבל ג\"כ מנחה לעין כל, שכל הרוצה ליטול יבא ויטול, ואפשר וקרוב",
+      "coords": {
+        "HPOS": 284,
+        "VPOS": 951,
+        "WIDTH": 2016,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_34e3e764-b5b8-49fe-bba8-b3b0800e376e",
+      "kind": "main",
+      "idx": 12,
+      "text": "לודאי שהיו יכולים ללמוד מתוך הכתב, ואגב אורחין אומר, דבזה סרו מהר תלונות הרב מוהרי\"ח כעץ",
+      "coords": {
+        "HPOS": 288,
+        "VPOS": 1017,
+        "WIDTH": 2010,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_3bd9fe36-2c1d-4f52-94a2-ed0fe3d05386",
+      "kind": "main",
+      "idx": 13,
+      "text": "החיים, שהקשה לדעת גאוני ספרד, למה לא יאמר ממתני' דכתיבי ומנחי, ואחרי המחי\"ר לא דקדק",
+      "coords": {
+        "HPOS": 289,
+        "VPOS": 1083,
+        "WIDTH": 2007,
+        "HEIGHT": 64
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_eda35b63-e5ee-4bc7-9307-d9fac7dce76e",
+      "kind": "main",
+      "idx": 14,
+      "text": "יפה כלל, דדוקא מגילת תענית כתיבה ומנחה ביד כ\"ע, אבל המשניות והברייתות והתלמוד שבכל דור",
+      "coords": {
+        "HPOS": 288,
+        "VPOS": 1144,
+        "WIDTH": 2007,
+        "HEIGHT": 67
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_0a5af83c-4013-4a73-ac5b-06bec31b94bf",
+      "kind": "main",
+      "idx": 15,
+      "text": "ודור כתיבי ביד הגדולים, והוו זהירין למגרסינהו ע\"כ, ולא מנחי אכ\"ע, והוא ברור. וכן משמע",
+      "coords": {
+        "HPOS": 284,
+        "VPOS": 1210,
+        "WIDTH": 2014,
+        "HEIGHT": 58
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_8d42e748-5b8b-45a3-a330-98b0fd384584",
+      "kind": "main",
+      "idx": 16,
+      "text": "בירוש' פ\"ד דמגילה \"ר\"ש בר יצחק על לבי כנישתא, חמא חד ספר, מושיט תרגומא מגו ספרא, אמר",
+      "coords": {
+        "HPOS": 289,
+        "VPOS": 1274,
+        "WIDTH": 2006,
+        "HEIGHT": 64
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_7d7938c2-f1f5-4f6c-bd7a-f4184a28e79b",
+      "kind": "main",
+      "idx": 17,
+      "text": "ליה אסור לך! דברים שנאמרו בפה בפה\" ופירש הרב יפה מראה שהיה התרגום כתוב בספר, והיה",
+      "coords": {
+        "HPOS": 282,
+        "VPOS": 1342,
+        "WIDTH": 2016,
+        "HEIGHT": 53
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_ea45928d-69a9-483f-8671-23de201e13b9",
+      "kind": "main",
+      "idx": 18,
+      "text": "המתרגם קורא התרגום מאותו ספר, וכן פי' הר\"ן הירושלמי הזה שהביאו הרי\"ף פ' הקורא עומד ע\"ש,",
+      "coords": {
+        "HPOS": 295,
+        "VPOS": 1400,
+        "WIDTH": 2001,
+        "HEIGHT": 72
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_6cf899e4-107e-4869-b442-5b20d28be245",
+      "kind": "main",
+      "idx": 19,
+      "text": "נמצא דכיון דהתרגום הוא פי' התורה שבכתב, על פי הדברים הנאמרים בתורה שבע\"פ כנודע ע\"ז",
+      "coords": {
+        "HPOS": 289,
+        "VPOS": 1477,
+        "WIDTH": 2007,
+        "HEIGHT": 46
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_d3a0f55d-7834-4c04-8979-afacdaa22eee",
+      "kind": "main",
+      "idx": 20,
+      "text": "צעק עליו שלא ילמוד מתוך הכתב, ולא צעק עליו, למה הם כתובים? שכבר ידע דעיקר האיסור הוא",
+      "coords": {
+        "HPOS": 286,
+        "VPOS": 1538,
+        "WIDTH": 2010,
+        "HEIGHT": 49
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_8afdfe21-6e1a-4e80-b649-bd8390bbb151",
+      "kind": "main",
+      "idx": 21,
+      "text": "דוקא ללמוד דברים שבע\"פ מתוך הכתב, דאין לפרש \"מושיט תרגימא מגו ספרא\" דהיה לו ס\"ת בעברי",
+      "coords": {
+        "HPOS": 286,
+        "VPOS": 1595,
+        "WIDTH": 2007,
+        "HEIGHT": 64
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_c8b628f9-2ea3-42cd-b3dc-19690e7fde93",
+      "kind": "main",
+      "idx": 22,
+      "text": "לפניו, והיה מושיט התרגום מתוך הספר, דזה אינו אסור, משום דברים שבע\"פ א\"א רשאי לאומרם",
+      "coords": {
+        "HPOS": 282,
+        "VPOS": 1657,
+        "WIDTH": 2013,
+        "HEIGHT": 59
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_bb41453b-5386-45e3-a5ff-16638acfb08c",
+      "kind": "main",
+      "idx": 23,
+      "text": "בכתב, אלא כדאמר עולא במגילה דל\"ב, \"שלא יאמרו תרגום כתוב בתורה, וא\"כ הספר שהיה לפניו",
+      "coords": {
+        "HPOS": 284,
+        "VPOS": 1721,
+        "WIDTH": 2011,
+        "HEIGHT": 61
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_83b2a1d0-8e57-4d1d-a020-48c3db0c5408",
+      "kind": "main",
+      "idx": 24,
+      "text": "הוא ספר כתוב תרגום, והיה האיסור מפני שהיה לומד מתוך הספר, דברים שצריכים לאומרם בע\"פ,",
+      "coords": {
+        "HPOS": 291,
+        "VPOS": 1789,
+        "WIDTH": 2004,
+        "HEIGHT": 64
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_5688d3b4-1bbc-4305-b848-a3b5fdd215e3",
+      "kind": "main",
+      "idx": 25,
+      "text": "דאי היה עיקר צעקתו על שהיה כתוב, היה לו לומר אסור להיות לך ספר כתוב בתורה שבע\"פ, כי כל",
+      "coords": {
+        "HPOS": 282,
+        "VPOS": 1849,
+        "WIDTH": 2011,
+        "HEIGHT": 70
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_8c194527-c62f-4adf-a846-29b0111811ef",
+      "kind": "main",
+      "idx": 26,
+      "text": "המכניס ספרים חוץ מהתנ\"ך מהומה גדולה מכניס בתוך ביתו כ\"ש בב\"הכ, והראיה המופתית היא",
+      "coords": {
+        "HPOS": 282,
+        "VPOS": 1919,
+        "WIDTH": 2013,
+        "HEIGHT": 53
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_8f7e2f5a-de01-465d-a743-aff05dda1ccd",
+      "kind": "main",
+      "idx": 27,
+      "text": "ממקום שבאנו שהרי עולא לא אסר לתרגם מתוך הס\"ת, כי אם מפני שלא יאמרו תרגום כתוב בתורה,",
+      "coords": {
+        "HPOS": 291,
+        "VPOS": 1978,
+        "WIDTH": 2004,
+        "HEIGHT": 71
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_d39f3d85-74f3-46c9-9e06-0718ba461711",
+      "kind": "main",
+      "idx": 28,
+      "text": "ותיפוק לי שמא יאמרו התרגום כתוב בספר מיוחד, וכשרואים למתרגם עיניו למטה וקורא מתוך",
+      "coords": {
+        "HPOS": 286,
+        "VPOS": 2042,
+        "WIDTH": 2005,
+        "HEIGHT": 70
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_5c5b7b13-ecb7-40ee-8f9f-c989a0a8fb52",
+      "kind": "main",
+      "idx": 29,
+      "text": "הספר, או יחשבו שהוא מתוך ס\"ת העברי, ויאמרו תרגום כתוב בתורה, או יחשבו שהוא כתוב בספר",
+      "coords": {
+        "HPOS": 286,
+        "VPOS": 2119,
+        "WIDTH": 2009,
+        "HEIGHT": 46
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_5b5066f0-30c9-4ef5-8064-e9693e24a329",
+      "kind": "main",
+      "idx": 30,
+      "text": "מיוחד תרגום, ואיסור הכתיבה לדברים שבע\"פ גדול הוא כששך, אלא ודאי דקי\"ל לעולא, דעל התרגום",
+      "coords": {
+        "HPOS": 282,
+        "VPOS": 2170,
+        "WIDTH": 2011,
+        "HEIGHT": 61
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_60a7d7c3-a74e-41d4-809c-409f1fed423e",
+      "kind": "main",
+      "idx": 31,
+      "text": "עצמו, אם כתוב בספר מיוחד ליכא שום איסור כלל, וגם אם למד מתוכו בשעת הדחק ששכח החזן",
+      "coords": {
+        "HPOS": 280,
+        "VPOS": 2238,
+        "WIDTH": 2015,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_3e7c8d17-397d-4e16-a4d3-2e8a2b911310",
+      "kind": "main",
+      "idx": 32,
+      "text": "בעת שהוא עומד בתיבה הא ודאי הוא עת לעשות לה', ונאמר בכל עת ובכל זמן לעת הצורך, ואין",
+      "coords": {
+        "HPOS": 282,
+        "VPOS": 2300,
+        "WIDTH": 2011,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_faf1b334-3412-44d7-838b-a32cb3a28a0c",
+      "kind": "main",
+      "idx": 33,
+      "text": "בו ענין פיסול, אלא שלא עלה לרצון כ\"כ, כי היה לו להזהר שלא לשכוח דבר מתלמודו, ולא להיות",
+      "coords": {
+        "HPOS": 280,
+        "VPOS": 2361,
+        "WIDTH": 2013,
+        "HEIGHT": 64
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_4cd9cd31-61ce-4404-8352-1aebb0c17645",
+      "kind": "main",
+      "idx": 34,
+      "text": "נמנה בין המתחייבים בנפשם, כדקאמר תנא בפ\"ב דאבות, אבל אם יאמרו תרגום כתוב בתורה, הוא",
+      "coords": {
+        "HPOS": 282,
+        "VPOS": 2440,
+        "WIDTH": 2013,
+        "HEIGHT": 47
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_0ea4b926-e63b-46ab-b7b5-32d3899f4081",
+      "kind": "main",
+      "idx": 35,
+      "text": "ענין הפוסל כל הקריאה ולית בה תקומה, ואעיקרא פחד שמא יאמרו תרגום כתוב בתורה, קורא",
+      "coords": {
+        "HPOS": 282,
+        "VPOS": 2504,
+        "WIDTH": 2011,
+        "HEIGHT": 57
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_b52c8334-9f13-4633-a776-8516137db84f",
+      "kind": "main",
+      "idx": 36,
+      "text": "בגרון דכבר היו יודעין דהתרגום כתיב ולה מנח, דאי לא היה ריח כתיבה בעולם לתרגום, איך יהיו",
+      "coords": {
+        "HPOS": 282,
+        "VPOS": 2572,
+        "WIDTH": 2011,
+        "HEIGHT": 44
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_d586d7aa-cbde-41a1-94e8-4f74130aec0d",
+      "kind": "main",
+      "idx": 37,
+      "text": "חשודים החזן והמתרגם בעיני ההמון דעברי תרתי? לכתוב דבר שאסור לכותבו, וגם לכותבו בתוך",
+      "coords": {
+        "HPOS": 286,
+        "VPOS": 2634,
+        "WIDTH": 2009,
+        "HEIGHT": 55
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_fc9ff141-5095-4600-9030-9226ce26041f",
+      "kind": "main",
+      "idx": 38,
+      "text": "הספר תורה העברי, זה ענין שלא יקבלהו השכל כי הוא כדמות גזרה לגזרה, וכן ההיא דגטין ד\"ס",
+      "coords": {
+        "HPOS": 278,
+        "VPOS": 2689,
+        "WIDTH": 2017,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_ce4d3305-e0f8-4f68-88f6-9cf54e42559d",
+      "kind": "main",
+      "idx": 39,
+      "text": "ע\"א דלא מצאו בתלמודא תירוץ לר\"י ור\"ל דהוו מעייני בספרא דאגדתא בשבתא, כי אם משום עת",
+      "coords": {
+        "HPOS": 278,
+        "VPOS": 2750,
+        "WIDTH": 2011,
+        "HEIGHT": 62
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_b80aac42-407e-48f9-b6e7-374f43337e53",
+      "kind": "main",
+      "idx": 40,
+      "text": "לעשות לה'? הפי' הוא פשוט, בשביל שהיו לומדים מתוך הספר, וזה ודאי באיסורא הוה קאי, ולא קאי",
+      "coords": {
+        "HPOS": 284,
+        "VPOS": 2816,
+        "WIDTH": 2011,
+        "HEIGHT": 67
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_1bd0cd74-65c5-4bb2-8dc0-1d505d1a8143",
+      "kind": "main",
+      "idx": 41,
+      "text": "על הכתיבה, דמעולם לא נאסרה (ומ\"ש ריב\"ל בירוש' בפ' כל כתבי האי אגדה, הכותבה אין לו חלק",
+      "coords": {
+        "HPOS": 282,
+        "VPOS": 2876,
+        "WIDTH": 2011,
+        "HEIGHT": 72
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_159d6c46-baa1-4843-9e8f-6d4bb771cf9d",
+      "kind": "main",
+      "idx": 42,
+      "text": "לעו\"הב, אפשר דס\"ל דכיון דאגדה אין בה מן הצורך כ\"כ כמו הלכות ממ\"ש הרב יפה מראה שם ע\"ז",
+      "coords": {
+        "HPOS": 286,
+        "VPOS": 2942,
+        "WIDTH": 2005,
+        "HEIGHT": 73
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_1c38ccee-31a8-40fc-8138-f94ba1d26b35",
+      "kind": "main",
+      "idx": 43,
+      "text": "לא",
+      "coords": {
+        "HPOS": 420,
+        "VPOS": 3010,
+        "WIDTH": 64,
+        "HEIGHT": 57
+      },
+      "para_start": false,
+      "is_catchword": true
+    }
+  ]
+}

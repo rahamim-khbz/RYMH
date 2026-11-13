@@ -1,0 +1,653 @@
+{
+  "page_id": "page-14",
+  "image": "page_images/page-14.png",
+  "page_width": 2550,
+  "page_height": 3300,
+  "base_hash": "sha256:eae933c72a0366128ed335f5bbfa87278a32d095998e147452209a42f0bd00c5",
+  "lines": [
+    {
+      "line_id": "_fe577207-ad09-4af0-b1ce-4ecb3312363f",
+      "kind": "main",
+      "idx": 0,
+      "text": "הרבה ממנה, ואיך א\"כ יוסיף להסתפק שמא לא נכתב כלום עד סוף זמן רבי, שר\"ל לא נתחדש כלום.",
+      "coords": {
+        "HPOS": 273,
+        "VPOS": 245,
+        "WIDTH": 1998,
+        "HEIGHT": 68
+      },
+      "para_start": true,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_4b35ed50-6ac1-4ae3-8769-05f39acf7cf2",
+      "kind": "main",
+      "idx": 1,
+      "text": "הרי אין מקום לחול לו הספק בשום אופן, כי עדין לחלוחית דיו של השואל קיימת במה שסותר כל ס' זה",
+      "coords": {
+        "HPOS": 264,
+        "VPOS": 311,
+        "WIDTH": 2008,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_e1f628e6-f878-4fb3-810b-1b5fc4a5ea47",
+      "kind": "main",
+      "idx": 2,
+      "text": "עד היסוד בו, אלא ודאי שכונתו הוא לשאול מאת גאוננו ז\"ל שאחרי שבודאי כל מ\"ש במשנה ובתלמוד",
+      "coords": {
+        "HPOS": 269,
+        "VPOS": 374,
+        "WIDTH": 2002,
+        "HEIGHT": 60
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_c7f20f56-a113-4015-a3bd-b0125babd96d",
+      "kind": "main",
+      "idx": 3,
+      "text": "הוא מקובל ממרע\"ה, וזאת התעודה בישראל, וכל הספקות שנסתפק ידע השואל שהגאון יתירם",
+      "coords": {
+        "HPOS": 266,
+        "VPOS": 440,
+        "WIDTH": 2008,
+        "HEIGHT": 67
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_4ea2e4c2-be85-4def-9213-d15308d59650",
+      "kind": "main",
+      "idx": 4,
+      "text": "בהתר בקיום פינה זאת. ר\"ל שהכל או רובא הוא מתורתן של ראשונים, והיא הקבלה הנאמנה, ע\"ז",
+      "coords": {
+        "HPOS": 266,
+        "VPOS": 504,
+        "WIDTH": 2008,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_7004fc93-c3ad-418d-b639-4649da7d7cdc",
+      "kind": "main",
+      "idx": 5,
+      "text": "באחרונה דחק ונכנס לחבר הספק האחרון כמסגרת להספקות הנז\"ל, כלומר שהגאון ז\"ל בהשיבו תשו'",
+      "coords": {
+        "HPOS": 271,
+        "VPOS": 568,
+        "WIDTH": 2005,
+        "HEIGHT": 60
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_fb36a467-70fe-4e04-a8c6-5324014572e8",
+      "kind": "main",
+      "idx": 6,
+      "text": "נצחת לקיים הפינה הנאמנה שהכל קבלה ממרע\"ה שכבר היא כדעת השואל וכאמור, עכ\"פ ישתדל",
+      "coords": {
+        "HPOS": 267,
+        "VPOS": 632,
+        "WIDTH": 2009,
+        "HEIGHT": 59
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_e64715c0-111f-4204-85f5-7c12fd0750e2",
+      "kind": "main",
+      "idx": 7,
+      "text": "למצוא תרופה לקבלה הזאת הארוכה מארץ מרה, ורחבה מני ים, לברר איך נשארה ולא נשכחה, אם",
+      "coords": {
+        "HPOS": 266,
+        "VPOS": 700,
+        "WIDTH": 2010,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_fa0432f7-f8ed-4188-9708-e93a0940bc99",
+      "kind": "main",
+      "idx": 8,
+      "text": "האבות וראשי סנהדראות לא כתבו כלום? וע\"ז כתב הסעיף הזה בלשון \"כ\"ש\" דרצון השואל לגלות כל",
+      "coords": {
+        "HPOS": 266,
+        "VPOS": 760,
+        "WIDTH": 2012,
+        "HEIGHT": 70
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_c46dfe18-dac1-4515-8d76-56f9e94bf88e",
+      "kind": "main",
+      "idx": 9,
+      "text": "לבו לפני גאוננו כי רצונו בחיזוק הקבלה, כאלו יאמר: דאם הספקות שקדמו נותנים יד לפושעים",
+      "coords": {
+        "HPOS": 267,
+        "VPOS": 826,
+        "WIDTH": 2011,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_2b9a6405-4f4a-4205-9f56-024ca50acde7",
+      "kind": "main",
+      "idx": 10,
+      "text": "להסתפק בקבלה שאינה ממרע\"ה כי אם מדור אחרון סמוך לחרבן בית שני, כ\"ש וק\"ו שניתן יד",
+      "coords": {
+        "HPOS": 271,
+        "VPOS": 891,
+        "WIDTH": 2007,
+        "HEIGHT": 67
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_2b4c17a9-1e0c-4e1a-b8f5-2b102503c3aa",
+      "kind": "main",
+      "idx": 11,
+      "text": "לפושעים אם נאמר שהיא קבלה ממרע\"ה, ולא נכתב כלום ממנה, עד סוף ימי בית שני או עד ימי",
+      "coords": {
+        "HPOS": 267,
+        "VPOS": 957,
+        "WIDTH": 2011,
+        "HEIGHT": 56
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_bce9ee79-baf0-4f3f-9dc8-9d337466146c",
+      "kind": "main",
+      "idx": 12,
+      "text": "רבי דהא ודאי יתאמרו כל פועלי און, ועם ה' ידכאו, ויאמרו כי שקר נחלו אבותינו, כי איך אפשר על",
+      "coords": {
+        "HPOS": 266,
+        "VPOS": 1017,
+        "WIDTH": 2012,
+        "HEIGHT": 62
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_31ff8aba-b3c3-4aac-ac82-e287ef6329ed",
+      "kind": "main",
+      "idx": 13,
+      "text": "ילודי אשה שיסבלו משא עשרת אלפים גמלים ספרים בזכרונם? וענין זה קשה מכולם, ובזה עלו אל",
+      "coords": {
+        "HPOS": 266,
+        "VPOS": 1081,
+        "WIDTH": 2014,
+        "HEIGHT": 70
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_199ccfaa-779f-483b-b22a-ef88bac9bb5c",
+      "kind": "main",
+      "idx": 14,
+      "text": "השואל ה' סעיפים בספק הראשון העצום קשורים זה בזה שכל סעיף אחדון הוא פשיטות לראשון שקדמו",
+      "coords": {
+        "HPOS": 267,
+        "VPOS": 1158,
+        "WIDTH": 2013,
+        "HEIGHT": 50
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_24a7acd0-bfce-4c2e-94ba-b930a3e72344",
+      "kind": "main",
+      "idx": 15,
+      "text": "בדרך את\"ל פשיטותא היא כנודע. ועכשיו השואל יוסיף עוד ספק אחר והוא:",
+      "coords": {
+        "HPOS": 495,
+        "VPOS": 1219,
+        "WIDTH": 1556,
+        "HEIGHT": 60
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_9b45496e-1d63-420f-86c7-ae57d0c79039",
+      "kind": "main",
+      "idx": 16,
+      "text": "הספק הב'",
+      "coords": {
+        "HPOS": 1939,
+        "VPOS": 1277,
+        "WIDTH": 341,
+        "HEIGHT": 81
+      },
+      "para_start": true,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_612f00e8-5838-4ba1-ae9a-ed39ffee22b4",
+      "kind": "main",
+      "idx": 17,
+      "text": "ואף גם זה בדרך את\"ל, והוא: כיון שהשואל עיניו אל הגאון ז\"ל, ובו בטח לבו",
+      "coords": {
+        "HPOS": 266,
+        "VPOS": 1276,
+        "WIDTH": 1627,
+        "HEIGHT": 67
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_a54a8698-8a91-4fa3-b803-5fd2a6165375",
+      "kind": "main",
+      "idx": 18,
+      "text": "שודאי כתשובתו יהיים לו הפנה האמיתית שהמשנה היא הקבלה האמיתית, ויפרש",
+      "coords": {
+        "HPOS": 264,
+        "VPOS": 1349,
+        "WIDTH": 1623,
+        "HEIGHT": 59
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_654a80cd-682c-4d88-9c4e-4b38def0a0b3",
+      "kind": "main",
+      "idx": 19,
+      "text": "לו, למה נכתבו בה דברים בשם אחרונים, וגם יקים לו שבכל דור ודור נכתבו זכרון שמועות כפי סדרי",
+      "coords": {
+        "HPOS": 269,
+        "VPOS": 1408,
+        "WIDTH": 2011,
+        "HEIGHT": 55
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_e36bbbf4-4c95-4878-9ede-abb6135d7d3e",
+      "kind": "main",
+      "idx": 20,
+      "text": "הענינים, באופן שיתיר לו כל ה' סעיפי הס' הא' מבלי שום מבוכה הוסיף, דאת\"ל דהיה כתיבה, ושכבר",
+      "coords": {
+        "HPOS": 271,
+        "VPOS": 1468,
+        "WIDTH": 2011,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_00f90f5e-d009-41af-8fff-3806f65acfc0",
+      "kind": "main",
+      "idx": 21,
+      "text": "נראה שהיו מאז שנים קודם רבי, סדרי מסכתות מסודרות בעצמן יפה יפה, עכ\"ז נסתפק באומרו:",
+      "coords": {
+        "HPOS": 269,
+        "VPOS": 1540,
+        "WIDTH": 2009,
+        "HEIGHT": 64
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_40ad4b5f-ee5f-4297-bb58-a092068988aa",
+      "kind": "main",
+      "idx": 22,
+      "text": "ועוד אם סידור הדברים מסודר כהוגן, יען עכ\"פ עדין קשה \"מה טעם עשו בזה הענין (ר\"ל)",
+      "coords": {
+        "HPOS": 271,
+        "VPOS": 1593,
+        "WIDTH": 2000,
+        "HEIGHT": 69
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_aee3052f-afaa-4b72-bb5c-7cc92c4823b0",
+      "kind": "main",
+      "idx": 23,
+      "text": "מה טעם הקדימו כפורים לשקלים, וסוכה ליו\"ט, ושתיהן לר\"ה, וכן כל מסכתא ומסכתא",
+      "coords": {
+        "HPOS": 266,
+        "VPOS": 1662,
+        "WIDTH": 2016,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_aafbd714-27b6-46f0-b15f-d13645cbcc74",
+      "kind": "main",
+      "idx": 24,
+      "text": "שלא נסדרה עם חברתה על הענין\"? ואחר שיצא השואל מספקות הנופלים בעיקר הקבלה שהיא",
+      "coords": {
+        "HPOS": 267,
+        "VPOS": 1727,
+        "WIDTH": 2016,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_05bdf464-c65b-4c89-8ac5-873027a10406",
+      "kind": "main",
+      "idx": 25,
+      "text": "כללות המשנה, ולבו בטוח שכאשר עלה בדעתו כן יהיה, ושהגאון יהיה נטפל להסביר להשואל הדברים",
+      "coords": {
+        "HPOS": 267,
+        "VPOS": 1789,
+        "WIDTH": 2015,
+        "HEIGHT": 60
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_97a8905d-1221-479e-819f-4c1899f8d1f9",
+      "kind": "main",
+      "idx": 26,
+      "text": "בקיום כל השרשים אשר ירה בהם אבן פינתו בדרך את\"ל, ולא נשאר לו, כ\"א ספק אחרון, והוא על",
+      "coords": {
+        "HPOS": 269,
+        "VPOS": 1851,
+        "WIDTH": 2014,
+        "HEIGHT": 74
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_8c2bcce7-9099-4835-aa83-999d5cf70749",
+      "kind": "main",
+      "idx": 27,
+      "text": "סידור המסכתות, וגם ספק זה יהיה נפשט מפי הגאון אפי' בשוק, בהן או לא, כי לא מעלה ולא",
+      "coords": {
+        "HPOS": 269,
+        "VPOS": 1921,
+        "WIDTH": 2014,
+        "HEIGHT": 71
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_e4974385-9908-4ddf-aee5-a13ff1fdfb9e",
+      "kind": "main",
+      "idx": 28,
+      "text": "מוריד, ע\"ז נפנה לחדש ספק אחר והוא:",
+      "coords": {
+        "HPOS": 864,
+        "VPOS": 1983,
+        "WIDTH": 827,
+        "HEIGHT": 64
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_4d94fe27-231c-4b43-a705-ea6472c1635e",
+      "kind": "main",
+      "idx": 29,
+      "text": "הספק הג' בענין התוספתות והברייתות וספק זה חילקו לג' סעיפים. הסעיף הראשון. הוא",
+      "coords": {
+        "HPOS": 271,
+        "VPOS": 2049,
+        "WIDTH": 2011,
+        "HEIGHT": 70
+      },
+      "para_start": true,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_ec8a7c5f-150d-4e4d-8418-124330d421bd",
+      "kind": "main",
+      "idx": 30,
+      "text": "אומרו: \"ותו התוספתא! ששמענו שר' חייא כתבה, לאחר חתימת המשנה",
+      "coords": {
+        "HPOS": 271,
+        "VPOS": 2113,
+        "WIDTH": 1633,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_2135fa64-a264-4068-b44f-245cddefa88e",
+      "kind": "main",
+      "idx": 31,
+      "text": "נכתבה, או בזמן אחר? ר\"ל אם נכתבה בזמן רבי או אחריו. הסעיף השני. דאת\"ל דלא איכפת",
+      "coords": {
+        "HPOS": 271,
+        "VPOS": 2172,
+        "WIDTH": 2014,
+        "HEIGHT": 73
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_c63c0d78-2cf1-4685-872b-fee94ddf1246",
+      "kind": "main",
+      "idx": 32,
+      "text": "לידע או שלא נודע עכ\"פ יש לנו לדעת \"מה ראה ר' חייא לכותבה? ר\"ל מה הכרח ראה לו רבי",
+      "coords": {
+        "HPOS": 275,
+        "VPOS": 2238,
+        "WIDTH": 2012,
+        "HEIGHT": 59
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_09c309b4-2de7-4951-8e52-f57c5988b5c0",
+      "kind": "main",
+      "idx": 33,
+      "text": "חייא להוסיף עוד חיבור אחר? הסעיף השלישי. דאת\"ל שהיה לו הכרח לתוספת דברים, כדי לבאר",
+      "coords": {
+        "HPOS": 277,
+        "VPOS": 2300,
+        "WIDTH": 2010,
+        "HEIGHT": 70
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_0de63959-1128-49d2-8310-aeaa79eaafe1",
+      "kind": "main",
+      "idx": 34,
+      "text": "עניני המשנה הסתומה וז\"א: \"אם לתוספת דברים שהם מפרשין עציני המשנה\" א\"כ זוהי",
+      "coords": {
+        "HPOS": 275,
+        "VPOS": 2374,
+        "WIDTH": 2012,
+        "HEIGHT": 60
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_56b6a5cb-b4ee-41d2-80dc-dc3c6c1e7d64",
+      "kind": "main",
+      "idx": 35,
+      "text": "שקשה. \"אמאי הניחן רבי ולא כתבן? דבאמת היה לו לדבי לבארן, ולמה יניח דברים סתומים",
+      "coords": {
+        "HPOS": 275,
+        "VPOS": 2432,
+        "WIDTH": 2012,
+        "HEIGHT": 65
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_1dd262ef-7ff4-447d-834b-91e1b3d600e0",
+      "kind": "main",
+      "idx": 36,
+      "text": "הצריכים ביאור, כיון שמלאכת רב\"הק היתה להסיר המבוכות, א\"כ למה יניח מבוכות אחרות?",
+      "coords": {
+        "HPOS": 277,
+        "VPOS": 2495,
+        "WIDTH": 2006,
+        "HEIGHT": 71
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_2414ccda-5e68-4bff-b462-463be9b59df3",
+      "kind": "main",
+      "idx": 37,
+      "text": "ואין לנו לומר שנתחדשו סברות אחרות, אחר חתימת המשנה, וע\"ז הוצרכה הברייתא, והתוספתא,",
+      "coords": {
+        "HPOS": 284,
+        "VPOS": 2566,
+        "WIDTH": 2003,
+        "HEIGHT": 64
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_d96618e3-1fdb-40b7-93b3-bae9a942e4d6",
+      "kind": "main",
+      "idx": 38,
+      "text": "דזה באמת אינו, שהרי כל הדינים המבוארים בברייתא, והתוספתא, הם מובאים בשם החכמים",
+      "coords": {
+        "HPOS": 277,
+        "VPOS": 2632,
+        "WIDTH": 2010,
+        "HEIGHT": 61
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_acc2043b-3e4f-494a-803f-566feefdc8a7",
+      "kind": "main",
+      "idx": 39,
+      "text": "הקודמים לרבי המוזכרים במשנה. ולזה חיזק השואל הסעיף הזה באומרו: \"והלא משם חכמי",
+      "coords": {
+        "HPOS": 278,
+        "VPOS": 2689,
+        "WIDTH": 2004,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_fe291cc0-28d2-4b80-b645-6a2dd0b198b7",
+      "kind": "main",
+      "idx": 40,
+      "text": "המשנה הם אמורים\" ואחר שבירר השואל הסעיף הג' בכל פינות מלקיו, ויצא לו ממנו, שגם",
+      "coords": {
+        "HPOS": 277,
+        "VPOS": 2751,
+        "WIDTH": 2010,
+        "HEIGHT": 68
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_4c0aafca-fd61-4d03-804a-ab4cbf53c5bb",
+      "kind": "main",
+      "idx": 41,
+      "text": "הברייתא והתוספתא, היא קדמונית בערך המשנה, א\"כ יפול הספק עצמו שנפל במשנה והוא:",
+      "coords": {
+        "HPOS": 322,
+        "VPOS": 2823,
+        "WIDTH": 1921,
+        "HEIGHT": 64
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_40d8adbb-d4b8-4664-b142-ddabb5db308d",
+      "kind": "main",
+      "idx": 42,
+      "text": "הספק הד'",
+      "coords": {
+        "HPOS": 1988,
+        "VPOS": 2880,
+        "WIDTH": 295,
+        "HEIGHT": 86
+      },
+      "para_start": true,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_fb92684a-7ed2-4e2d-a17c-e8e666d11dc3",
+      "kind": "main",
+      "idx": 43,
+      "text": "באומרו: וכן הברייתות כיצד נכתבו\" וע\"ז התחיל ספק זה במילת \"וכן\" ר\"ל",
+      "coords": {
+        "HPOS": 289,
+        "VPOS": 2885,
+        "WIDTH": 1611,
+        "HEIGHT": 66
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_5f671bab-55e8-4bf7-851d-7d404f291623",
+      "kind": "main",
+      "idx": 44,
+      "text": "שאחרי שהתברר שהברייתא גם היא קדמונית, א\"כ בהכרח יפול הספק עצמו",
+      "coords": {
+        "HPOS": 282,
+        "VPOS": 2948,
+        "WIDTH": 1616,
+        "HEIGHT": 67
+      },
+      "para_start": false,
+      "is_catchword": false
+    },
+    {
+      "line_id": "_5f67a3b3-f8d6-470f-a59a-664e77354457",
+      "kind": "main",
+      "idx": 45,
+      "text": "שנפל",
+      "coords": {
+        "HPOS": 410,
+        "VPOS": 3010,
+        "WIDTH": 114,
+        "HEIGHT": 60
+      },
+      "para_start": false,
+      "is_catchword": true
+    }
+  ]
+}
