@@ -3,7 +3,7 @@
   "image": "page_images/page-09.png",
   "page_width": 2550,
   "page_height": 3300,
-  "base_hash": "sha256:cbac6d0da8486fd67f2ec52df7cb7dbf7147cb4ed337d3fbb62222af428a5dbb",
+  "base_hash": "sha256:d593fc3b0cf8fe92d0cc54686fc68fd19de3511299ac09dabf030ed669a3482b",
   "lines": [
     {
       "line_id": "_85da71c4-f0c1-4c57-8873-5c185cae3fc4",
@@ -569,7 +569,7 @@
       "line_id": "_63fcf3e4-90cc-435a-b9fb-b98374a14d52",
       "kind": "main",
       "idx": 40,
-      "text": "הזה, יהישבו להם כל הסוגיאות הנז\"ל, דבאמת הכתיבה הסודיית היתה מותרת מימי עולם ומשנים",
+      "text": "הזה, יתישבו להם כל הסוגיאות הנז\"ל, דבאמת הכתיבה הסודיית היתה מותרת מימי עולם ומשנים",
       "coords": {
         "HPOS": 126,
         "VPOS": 2816,

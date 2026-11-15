@@ -3,7 +3,7 @@
   "image": "page_images/page-08.png",
   "page_width": 2550,
   "page_height": 3300,
-  "base_hash": "sha256:b6bf1c74673fa1f70d8a99ba5fc6750bf5465d0b74fe59491238fccf183f26ba",
+  "base_hash": "sha256:31264b935855ebc061eca762faa46e7798818b13feccd4e071c423bbf50fed42",
   "lines": [
     {
       "line_id": "_a3a74c2a-bd7a-45eb-836b-eddec1cab9b8",
@@ -596,7 +596,7 @@
       "line_id": "_b20a64ea-e869-40aa-a0b1-5dbdf134d5e8",
       "kind": "footnote",
       "idx": 1,
-      "text": "לשון \"אי אתה רשאי לאומרם\" כמעט חזר להיות מופת חותך שכן הבינו בלשון הש\"ם גאוני ספרד.",
+      "text": "לשון \"אי אתה רשאי לאומרם\" כמעט חזר להיות מופת חותך שכן הבינו בלשון הש\"ס גאוני ספרד.",
       "coords": {
         "HPOS": 759,
         "VPOS": 2960,

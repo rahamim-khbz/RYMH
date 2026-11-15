@@ -3,7 +3,7 @@
   "image": "page_images/page-03.png",
   "page_width": 2550,
   "page_height": 3300,
-  "base_hash": "sha256:04329e57952ae2f3e6f653b290d19ee7b2dea6ee0cd66d2acb0aeb8432de5fdd",
+  "base_hash": "sha256:5485c49584691e28bf3ffa3bc39ad3db0ee374c6e4a3617d5d005b2d83160719",
   "lines": [
     {
       "line_id": "_b6b4d9e2-0244-4a2e-aa6c-7808b89668f7",
@@ -289,7 +289,7 @@
       "line_id": "_26d63e9d-d79d-4e7c-9991-34f061eb7aa0",
       "kind": "main",
       "idx": 20,
-      "text": "בקונט' כונן לחקר רש\"י ע\"א לברר אמיתות הענין כמו שנראה להדיא מפרש\"י דאחר חתי' התלמוד",
+      "text": "בקונט' כונן לחקר דש\"י ע\"א לברר אמיתות הענין כמו שנראה להדיא מפרש\"י דאחר חתי' התלמוד",
       "coords": {
         "HPOS": 155,
         "VPOS": 1547,

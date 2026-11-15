@@ -3,7 +3,7 @@
   "image": "page_images/page-44.jpg",
   "page_width": 2550,
   "page_height": 3300,
-  "base_hash": "sha256:588bfc0a5fe17d99ab8115b1225d0c031ee591d0bbaad6de533c0caa6fd2c799",
+  "base_hash": "sha256:e8f230ebce71f0998ea94e6a3da49dea621abbcd9bcb6d03f9dbe9de8d8153aa",
   "lines": [
     {
       "line_id": "eSc_line_96ba7c7d",
@@ -79,7 +79,7 @@
       "line_id": "eSc_line_8d66441d",
       "kind": "main",
       "idx": 5,
-      "text": "הוא רבינו הקדוש, זה שהוליד, כחמלת ה' על עמו, רבן שמעון שהזכרנו ושמו ר' יהודה הנשיא, ונקרא",
+      "text": "הוא רבינו הקדוש, זה שהוליד, בחמלת ה' על עמו, רבן שמעון שהזכרנו ושמו ר' יהודה הנשיא, ונקרא",
       "coords": {
         "HPOS": 311,
         "VPOS": 575,

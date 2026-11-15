@@ -3,7 +3,7 @@
   "image": "page_images/page-04.png",
   "page_width": 2550,
   "page_height": 3300,
-  "base_hash": "sha256:d465f3df0429e7e4105f9f21e865a858e6aef80e934f50963ed778733fa287db",
+  "base_hash": "sha256:bdda13484fde1b506fae9d3d20a4da1265f99b66b32e6e03b3249f05e3c40fc5",
   "lines": [
     {
       "line_id": "_a0b61537-86cc-48b9-ae92-fe9ffd0c0d77",
@@ -485,7 +485,7 @@
       "line_id": "_4026422e-cd62-4879-aea2-d6660adfe691",
       "kind": "main",
       "idx": 34,
-      "text": "באשר עשיתי בגליון ספרי) והב' האגרת רבינו שרירא גאון אשר עליה אנו דנין נוסח משונה בכל מכל,",
+      "text": "כאשר עשיתי בגליון ספרי) והב' האגרת רבינו שרירא גאון אשר עליה אנו דנין נוסח משונה בכל מכל,",
       "coords": {
         "HPOS": 315,
         "VPOS": 2434,
