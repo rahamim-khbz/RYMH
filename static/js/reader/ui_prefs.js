@@ -16,7 +16,8 @@
   var EN = {
     'עמוד': 'Page', 'מתוך': 'of', 'הדפוס': 'Printed', 'הערה': 'Note', 'המשך': 'cont.',
     'הערות עמוד': 'Notes, page', 'פתח את הדפוס של עמוד': 'Open printed page',
-    'עבור לעמוד': 'Go to page', 'הטקסט לא נטען. נסו לרענן את הדף.': 'Text failed to load. Please refresh.'
+    'עבור לעמוד': 'Go to page', 'הסתר את צילום הדפוס': 'Hide the printed scan',
+    'הצג את צילום הדפוס': 'Show the printed scan', 'הטקסט לא נטען. נסו לרענן את הדף.': 'Text failed to load. Please refresh.'
   };
   // Translate a Hebrew UI phrase when the UI is English.
   window.RYMH_LANG = lang;
@@ -29,9 +30,9 @@
       ['#mobilePagerTabs', 'aria-label', 'View'],
       ['#mobileTabText', 'text', 'Text'],
       ['#mobileTabScan', 'text', 'Printed'],
-      ['label[for="jumpInput"]', 'text', 'Go to page'],
-      ['#jumpInput', 'placeholder', 'Page'],
-      ['#jumpForm button[type="submit"]', 'text', 'Go'],
+      ['#pageSelectLabel', 'text', 'Go to page'],
+      ['#pageSelect', 'aria-label', 'Go to page'],
+      ['#scanToggle', 'text', 'Printed'],
       ['#gridBtn', 'aria-label', 'Page list'],
       ['.bar-tools .group', 'aria-label', 'Font size'],
       ['#fontDown', 'aria-label', 'Smaller font'],
@@ -118,22 +119,32 @@
     var btn = document.getElementById('settingsBtn');
     var pop = document.getElementById('settingsPop');
     if (!btn || !pop) return;
+    // Desktop/tablet: the controls sit on the toolbar. Phones (<= 560px): behind "Aa".
+    var phone = window.matchMedia ? window.matchMedia('(max-width: 560px)') : { matches: false };
+    function isPhone() { return phone.matches; }
     function show(open) {
       pop.hidden = !open;
       btn.setAttribute('aria-expanded', open ? 'true' : 'false');
     }
+    function applyLayout() {
+      btn.hidden = !isPhone();
+      show(!isPhone());
+    }
+    applyLayout();
+    if (phone.addEventListener) phone.addEventListener('change', applyLayout);
+    else if (phone.addListener) phone.addListener(applyLayout);
     btn.addEventListener('click', function (ev) { ev.stopPropagation(); show(pop.hidden); });
     document.addEventListener('click', function (ev) {
-      if (!pop.hidden && !pop.contains(ev.target) && ev.target !== btn) show(false);
+      if (isPhone() && !pop.hidden && !pop.contains(ev.target) && ev.target !== btn) show(false);
     });
     document.addEventListener('keydown', function (ev) {
-      if (ev.key === 'Escape' && !pop.hidden) { show(false); btn.focus(); }
+      if (isPhone() && ev.key === 'Escape' && !pop.hidden) { show(false); btn.focus(); }
     });
   }
 
   // Hover tooltips: every toolbar/scan control shows its (localized) label on hover.
   function syncTooltips() {
-    var els = document.querySelectorAll('.bar button[aria-label], .scan-controls button[aria-label]');
+    var els = document.querySelectorAll('.bar button[aria-label], .bar select[aria-label], .scan-controls button[aria-label]');
     for (var i = 0; i < els.length; i++) els[i].title = els[i].getAttribute('aria-label');
   }
   function watchTooltips() {

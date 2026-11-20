@@ -168,8 +168,17 @@ window.ReaderSyncController = (function () {
       }
     }
 
+    // First text/scan anchor of a page. In flow mode a page's opening words can sit inside the
+    // previous page's paragraph, so search the whole pane in document order by data-page.
+    function firstAnchorForSlot(slot) {
+      var pg = slot.getAttribute('data-page');
+      var scope = slot.parentNode || slot;
+      var hit = pg ? scope.querySelector('[data-para][data-page="' + pg + '"]:not(.rline)') : null;
+      return hit || slot.querySelector(PARA_SELECTOR);
+    }
+
     function firstAnchorTopForSlot(slot) {
-      var firstPara = slot.querySelector(PARA_SELECTOR);
+      var firstPara = firstAnchorForSlot(slot);
       var rect = (firstPara || slot).getBoundingClientRect();
       return rect.top;
     }
@@ -471,7 +480,7 @@ window.ReaderSyncController = (function () {
         return true;
       }
 
-      var targetEl = slot.querySelector(PARA_SELECTOR) || slot;
+      var targetEl = firstAnchorForSlot(slot) || slot;
       var paneRect = pane.el.getBoundingClientRect();
       var targetRect = targetEl.getBoundingClientRect();
       var maxScroll = Math.max(0, pane.el.scrollHeight - pane.el.clientHeight);

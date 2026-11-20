@@ -7,15 +7,30 @@
 
   var DATA = 'reader_data/';
   var THEMES = ['dark', 'sepia', 'light'];
-  var WINDOW_RADIUS = 1; // ~3 pages virtualized in DOM: [center-1, center, center+1]
+  // Flow mode (reader-flow.html, <html class="flow">): every page stays mounted so a paragraph
+  // that crosses a page break continues on the same line; the page number sits in the margin.
+  var FLOW = document.documentElement.classList.contains('flow-mode');
+  var WINDOW_RADIUS = FLOW ? 1000 : 1; // normal: ~3 pages virtualized in DOM: [center-1, center, center+1]
+
+  // "PageNo (DafAmud)": page 1 = עה: (daf 75 amud bet), page 2 = עו, ...
+  function toHebrewNumeral(n) {
+    var hundreds = ['', 'ק', 'ר', 'ש', 'ת'];
+    var tens = ['', 'י', 'כ', 'ל', 'מ', 'נ', 'ס', 'ע', 'פ', 'צ'];
+    var ones = ['', 'א', 'ב', 'ג', 'ד', 'ה', 'ו', 'ז', 'ח', 'ט'];
+    var h = Math.floor(n / 100), rem = n % 100;
+    if (rem === 15) return hundreds[h] + 'טו';
+    if (rem === 16) return hundreds[h] + 'טז';
+    return hundreds[h] + tens[Math.floor(rem / 10)] + ones[rem % 10];
+  }
+  function dafAmud(pn) { return toHebrewNumeral(75 + Math.floor(pn / 2)) + (pn % 2 === 1 ? ':' : ''); }
 
   var readerShell = document.getElementById('readerShell');
   var barEl = document.getElementById('bar');
   var bookEl = document.getElementById('bookTitle');
   var hereEl = document.getElementById('here');
   var progressEl = document.getElementById('progressBar');
-  var jumpForm = document.getElementById('jumpForm');
-  var jumpInput = document.getElementById('jumpInput');
+  var pageSelect = document.getElementById('pageSelect');
+  var scanToggle = document.getElementById('scanToggle');
   var grid = document.getElementById('grid');
 
   var stageEl = document.getElementById('stage');
@@ -68,10 +83,30 @@
       .replace(/ץ/g, 'צ');
   }
 
-  function fetchJson(url) {
+  // At most 6 requests in flight (flow mode asks for all 89 pages at once), one retry each.
+  var fetchQueue = [];
+  var fetchActive = 0;
+  function pumpFetches() {
+    while (fetchActive < 6 && fetchQueue.length) {
+      var job = fetchQueue.shift();
+      fetchActive++;
+      job();
+    }
+  }
+  function fetchOnce(url) {
     return fetch(url, { cache: 'no-cache' }).then(function (r) {
       if (!r.ok) throw new Error(url + ' ' + r.status);
       return r.json();
+    });
+  }
+  function fetchJson(url) {
+    return new Promise(function (resolve, reject) {
+      fetchQueue.push(function () {
+        fetchOnce(url).catch(function () { return fetchOnce(url); })
+          .then(resolve, reject)
+          .then(function () { fetchActive--; pumpFetches(); });
+      });
+      pumpFetches();
     });
   }
 
@@ -179,6 +214,65 @@
     return { byNorm: byNorm, matched: {}, remainingCount: remainingCount };
   }
 
+  // Margin page number for flow mode: "עמ׳ 6" over "עז" (or "p. 6" in English).
+  function makePgNum(page) {
+    var m = el('span', 'pgnum');
+    m.setAttribute('data-n', String(page.n));
+    m.setAttribute('aria-label', T('עמוד') + ' ' + page.n + ' (' + dafAmud(page.n) + ')');
+    m.setAttribute('role', 'note');
+    m.appendChild(el('span', 'pgnum-n', (window.RYMH_LANG === 'en' ? 'p. ' : 'עמ׳ ') + page.n));
+    m.appendChild(el('span', 'pgnum-d', dafAmud(page.n)));
+    return m;
+  }
+
+  // Put each margin page number level with the first line of its page's text. Measured, because
+  // an inline marker would stay on the previous line whenever the first word wraps.
+  var pgNumTimer = 0;
+  function placePgNums() {
+    if (!FLOW) return;
+    var marks = streamEl.querySelectorAll('.pgnum');
+    for (var i = 0; i < marks.length; i++) {
+      var m = marks[i];
+      var target = m.nextElementSibling;
+      var box = m.offsetParent;
+      if (!target || !box) continue;
+      var rects = target.getClientRects();
+      if (!rects.length) continue;
+      m.style.top = (rects[0].top - box.getBoundingClientRect().top) + 'px';
+    }
+  }
+  function schedulePgNums() {
+    if (!FLOW) return;
+    cancelAnimationFrame(pgNumTimer);
+    pgNumTimer = requestAnimationFrame(placePgNums);
+  }
+  if (FLOW && window.ResizeObserver) {
+    // Any reflow of the text (window size, font size, scan pane shown/hidden) moves the lines.
+    new ResizeObserver(schedulePgNums).observe(streamEl);
+  }
+
+  function appendLines(container, p, page, matcher) {
+    var lines = p.lines || [];
+    for (var li = 0; li < lines.length; li++) {
+      if (li > 0) container.appendChild(document.createTextNode(' '));
+      var line = lines[li];
+      var span = el('span', 'rline');
+      span.setAttribute('data-page', page.page);
+      span.setAttribute('data-para', p.pid);
+      span.setAttribute('data-line-id', line.id);
+      span.setAttribute('data-line-idx', String(li));
+      appendRich(span, line.t, page, matcher);
+      container.appendChild(span);
+    }
+  }
+
+  function lastParaOfSlot(n) {
+    var prev = textSlotsByN[n];
+    if (!prev || !mountedTextNs[n]) return null;
+    var ps = prev.querySelectorAll('p.para');
+    return ps.length ? ps[ps.length - 1] : null;
+  }
+
   function mountTextSlot(n, page) {
     var slot = textSlotsByN[n];
     if (!slot || !page || mountedTextNs[n]) return;
@@ -194,9 +288,27 @@
 
     var matcher = buildMatcher(page);
     var paras = page.paragraphs || [];
+    var pgNumPlaced = !FLOW;
 
     for (var i = 0; i < paras.length; i++) {
       var p = paras[i];
+
+      // Flow mode: a paragraph continued from the previous page joins that page's last paragraph
+      // on the same line, wrapped in an inline span that still carries this page's anchors.
+      if (FLOW && i === 0 && p.cont) {
+        var prevP = lastParaOfSlot(n - 1);
+        if (prevP) {
+          var cont = el('span', 'para-flow');
+          cont.setAttribute('data-page', page.page);
+          cont.setAttribute('data-para', p.pid);
+          prevP.appendChild(document.createTextNode(' '));
+          prevP.appendChild(makePgNum(page));
+          appendLines(cont, p, page, matcher);
+          prevP.appendChild(cont);
+          pgNumPlaced = true;
+          continue;
+        }
+      }
       var heads = p.heads || [];
       for (var hi = 0; hi < heads.length; hi++) {
         var h = el('h2', 'chapter', heads[hi]);
@@ -221,6 +333,7 @@
         } else {
           h1.textContent = h1t;
         }
+        if (!pgNumPlaced) { h1.insertBefore(makePgNum(page), h1.firstChild); pgNumPlaced = true; }
         slot.appendChild(h1);
         continue;
       }
@@ -238,18 +351,8 @@
         pEl.appendChild(document.createTextNode(' '));
       }
 
-      var lines = p.lines || [];
-      for (var li = 0; li < lines.length; li++) {
-        if (li > 0) pEl.appendChild(document.createTextNode(' '));
-        var line = lines[li];
-        var span = el('span', 'rline');
-        span.setAttribute('data-page', page.page);
-        span.setAttribute('data-para', p.pid);
-        span.setAttribute('data-line-id', line.id);
-        span.setAttribute('data-line-idx', String(li));
-        appendRich(span, line.t, page, matcher);
-        pEl.appendChild(span);
-      }
+      if (!pgNumPlaced) { pEl.appendChild(makePgNum(page)); pgNumPlaced = true; }
+      appendLines(pEl, p, page, matcher);
       block.appendChild(pEl);
 
       slot.appendChild(block);
@@ -352,6 +455,7 @@
         scanPane.setWindow(wanted, getCachedPage);
         scanPane.preloadAround(centerN);
       }
+      schedulePgNums();
     } finally {
       if (syncController) syncController.setResizeSuppressed(false);
     }
@@ -408,6 +512,10 @@
       hashTimer = setTimeout(function () {
         try { history.replaceState(null, '', '#' + pageId(currentN)); } catch (e) {}
       }, 250);
+    }
+    if (FLOW && scanPane && scanPane.ensureLoaded) scanPane.ensureLoaded(currentN);
+    if (pageSelect && pageSelect.value !== String(currentN) && document.activeElement !== pageSelect) {
+      pageSelect.value = String(currentN);
     }
     var text = T('עמוד') + ' ' + currentN + ' ' + T('מתוך') + ' ' + total;
     if (hereEl && hereEl.textContent !== text) hereEl.textContent = text;
@@ -625,13 +733,41 @@
 
   // ---- controls ----
   function setupControls() {
-    jumpInput.max = String(total);
-    jumpForm.addEventListener('submit', function (ev) {
-      ev.preventDefault();
-      go(jumpInput.value).then(function (ok) {
-        if (ok) jumpInput.blur();
+    // Page dropdown: "PageNo (DafAmud)", as on the landing page (page 1 = עה:).
+    if (pageSelect) {
+      for (var pn = 1; pn <= total; pn++) {
+        var opt = document.createElement('option');
+        opt.value = String(pn);
+        opt.textContent = pn + ' (' + dafAmud(pn) + ')';
+        pageSelect.appendChild(opt);
+      }
+      pageSelect.value = String(currentN);
+      pageSelect.addEventListener('change', function () {
+        go(pageSelect.value).then(function (ok) { if (ok) pageSelect.blur(); });
       });
-    });
+    }
+
+    // Show / hide the printed scan beside the text (desktop; phones use the Text / Printed tabs).
+    var LS_SCAN = 'rymh.scanHidden';
+    function setScanHidden(hidden, keep) {
+      readerShell.classList.toggle('scan-hidden', hidden);
+      if (scanToggle) {
+        scanToggle.setAttribute('aria-pressed', hidden ? 'false' : 'true');
+        scanToggle.setAttribute('aria-label', hidden ? T('הצג את צילום הדפוס') : T('הסתר את צילום הדפוס'));
+      }
+      if (keep) { try { localStorage.setItem(LS_SCAN, hidden ? '1' : '0'); } catch (e) {} }
+      if (!hidden && syncController) {
+        requestAnimationFrame(function () { syncController.resync(); });
+      }
+    }
+    var scanHiddenSaved = false;
+    try { scanHiddenSaved = localStorage.getItem(LS_SCAN) === '1'; } catch (e) {}
+    setScanHidden(scanHiddenSaved, false);
+    if (scanToggle) {
+      scanToggle.addEventListener('click', function () {
+        setScanHidden(!readerShell.classList.contains('scan-hidden'), true);
+      });
+    }
 
     function bumpFont(d) {
       var cur = parseFloat(getComputedStyle(document.documentElement).getPropertyValue('--font-scale')) || 1;

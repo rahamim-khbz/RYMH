@@ -32,11 +32,9 @@
             <button type="button" class="btn" id="mobileTabText" aria-pressed="true">טקסט</button>
             <button type="button" class="btn" id="mobileTabScan" aria-pressed="false">דפוס</button>
           </div>
-          <form class="jump" id="jumpForm" autocomplete="off">
-            <label for="jumpInput" class="sr">עבור לעמוד</label>
-            <input id="jumpInput" type="number" inputmode="numeric" min="1" max="89" placeholder="עמוד" dir="ltr">
-            <button type="submit" class="btn">עבור</button>
-          </form>
+          <label for="pageSelect" class="sr" id="pageSelectLabel">עבור לעמוד</label>
+          <select id="pageSelect" class="page-select" aria-label="עבור לעמוד"></select>
+          <button type="button" class="btn scan-toggle" id="scanToggle" aria-pressed="true" aria-label="הסתר את צילום הדפוס">דפוס</button>
           <button type="button" class="btn icon" id="gridBtn" aria-haspopup="dialog" aria-label="רשימת עמודים">▦</button>
           <div class="settings" id="settingsWrap">
             <button type="button" class="btn icon" id="settingsBtn" aria-expanded="false" aria-controls="settingsPop" aria-label="הגדרות תצוגה">Aa</button>

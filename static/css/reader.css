@@ -74,12 +74,12 @@ body {
 .book { font-weight: 700; font-size: 1.05rem; }
 .here { font-family: var(--ui); font-size: 0.8rem; color: var(--muted); min-block-size: 1.2em; }
 .bar-tools { display: flex; align-items: center; gap: 6px; flex-wrap: wrap; }
-.jump { display: flex; gap: 6px; align-items: center; margin: 0; }
-.jump input {
-  inline-size: 4.8rem; min-block-size: 44px; padding: 0 8px;
-  font: 500 1rem var(--ui); color: var(--ink); background: var(--surface);
-  border: 1px solid var(--rule); border-radius: 8px; text-align: center;
+.page-select {
+  min-block-size: 44px; padding: 0 8px; max-inline-size: 9rem;
+  font: 500 0.95rem var(--ui); color: var(--ink); background: var(--surface);
+  border: 1px solid var(--rule); border-radius: 8px; cursor: pointer;
 }
+.page-select:hover { border-color: var(--accent); }
 .group { display: flex; gap: 4px; }
 .btn {
   min-block-size: 44px; min-inline-size: 44px; padding: 0 12px;
@@ -310,8 +310,6 @@ dialog#grid::backdrop { background: rgb(0 0 0 / 0.55); }
   .book { font-size: 0.95rem; white-space: nowrap; }
   .here { flex: 1; min-inline-size: 0; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
   .bar-tools { inline-size: 100%; gap: 4px; }
-  .jump { flex: 1 1 8.5rem; min-inline-size: 0; }
-  .jump input { flex: 1; min-inline-size: 0; inline-size: 3.2rem; }
   .btn { padding: 0 8px; }
   .para { text-align: start; text-indent: 1.2em; }
 }
@@ -346,14 +344,48 @@ dialog#grid::backdrop { background: rgb(0 0 0 / 0.55); }
   box-shadow: 0 8px 24px rgb(0 0 0 / 0.14); inline-size: max-content; max-inline-size: calc(100vw - 32px);
 }
 .settings-pop[hidden] { display: none; }
+/* Wider than a phone: the same controls sit inline on the toolbar (no popover chrome). */
+@media (min-width: 561px) {
+  .settings, .settings-pop { display: contents; }
+  .settings-pop[hidden] { display: none; }
+  #settingsBtn { display: none; }
+}
 #settingsBtn[aria-expanded="true"] { border-color: var(--accent); }
 
-/* Phones: one compact tool row under a one-line title; page jump lives in the ▦ list. */
+/* Phones: one compact tool row under a one-line title; display settings behind "Aa". */
 @media (max-width: 560px) {
-  .jump { display: none; }
+  .page-select { max-inline-size: 6.5rem; padding: 0 4px; }
+  #gridBtn { display: none; } /* the page dropdown covers it on phones */
   .bar-row { min-block-size: 0; }
   .bar-tools { flex-wrap: nowrap; justify-content: space-between; }
   /* Anchor the popover to the bar (position: relative) so it spans the screen, never off-edge. */
   .settings { position: static; }
   .settings-pop { inset-block-start: 100%; inset-inline: 12px; max-inline-size: none; inline-size: auto; justify-content: center; }
 }
+
+/* Hide the printed scan on desktop (scanToggle); phones use the Text / Printed tabs instead. */
+.scan-toggle[aria-pressed="false"] { opacity: 0.7; }
+@media (min-width: 860px) {
+  .reader-shell.scan-hidden .pager-track { grid-template-columns: minmax(0, 1fr); }
+  .reader-shell.scan-hidden .pane-scan { display: none; }
+}
+@media (max-width: 859px) {
+  .scan-toggle { display: none; }
+}
+
+/* ---- Flow mode (reader-flow.html, <html class="flow-mode">): no page break; page number in the margin ---- */
+.pgnum { display: none; }
+html.flow-mode { --pg-margin: 3.6rem; }
+html.flow-mode .flow { padding-inline-start: var(--pg-margin); max-inline-size: calc(var(--measure) + var(--pg-margin)); }
+html.flow-mode .divider, html.flow-mode .pgmark { display: none !important; }
+html.flow-mode .para, html.flow-mode .chapter { position: relative; }
+html.flow-mode[data-markers="on"] .pgnum {
+  display: inline-block; position: absolute; inset-inline-start: calc(-1 * var(--pg-margin));
+  inline-size: calc(var(--pg-margin) - 0.7rem); margin-block-start: 0.3em;
+  font: 500 0.66rem/1.3 var(--ui); color: var(--muted); text-align: center; text-indent: 0;
+  white-space: nowrap; user-select: none; -webkit-user-select: none; pointer-events: none;
+  border-inline-end: 2px solid var(--rule); padding-inline-end: 0.35rem;
+}
+html.flow-mode .pgnum-n, html.flow-mode .pgnum-d { display: block; }
+html.flow-mode .pgnum-d { font-family: var(--he); font-size: 1.15em; }
+@media (max-width: 560px) { html.flow-mode { --pg-margin: 2.6rem; } }

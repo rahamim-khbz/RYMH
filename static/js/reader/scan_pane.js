@@ -130,7 +130,13 @@ window.ReaderScanPane = (function () {
           img.src = pageData.img;
         }
       });
-      img.src = primary;
+      if (lazyIO) {
+        // Flow mode keeps all 89 slots mounted: fetch a scan only when it nears the viewport.
+        img.setAttribute('data-src', primary);
+        lazyIO.observe(slot);
+      } else {
+        img.src = primary;
+      }
       slot.appendChild(img);
 
       var overlay = el('div', 'scan-overlay');
@@ -182,6 +188,27 @@ window.ReaderScanPane = (function () {
       slot.textContent = '';
       slot.classList.remove('is-mounted');
       delete mountedNs[n];
+    }
+
+    var lazyIO = null;
+    if (document.documentElement.classList.contains('flow-mode') && window.IntersectionObserver) {
+      lazyIO = new IntersectionObserver(function (entries) {
+        for (var i = 0; i < entries.length; i++) {
+          if (!entries[i].isIntersecting) continue;
+          var im = entries[i].target.querySelector('img[data-src]');
+          if (im) { im.src = im.getAttribute('data-src'); im.removeAttribute('data-src'); }
+          lazyIO.unobserve(entries[i].target);
+        }
+      }, { root: paneEl, rootMargin: '1500px 0px' });
+    }
+
+    // Backup for the lazy loader: make sure the scans around page n are fetched.
+    function ensureLoaded(n) {
+      if (!lazyIO || !trackEl) return;
+      for (var k = n - 2; k <= n + 2; k++) {
+        var im = trackEl.querySelector('.scan-slot[data-n="' + k + '"] img[data-src]');
+        if (im) { im.src = im.getAttribute('data-src'); im.removeAttribute('data-src'); }
+      }
     }
 
     function setWindow(wantedNs, getCachedPage) {
@@ -309,6 +336,7 @@ window.ReaderScanPane = (function () {
       mountSlot: mountSlot,
       unmountSlot: unmountSlot,
       setWindow: setWindow,
+      ensureLoaded: ensureLoaded,
       preloadAround: preloadAround,
       highlight: highlight,
       clearHover: clearHover,
