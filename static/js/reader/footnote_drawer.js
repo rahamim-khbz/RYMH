@@ -686,11 +686,11 @@
       setExpanded(!isExpandedFlag);
     });
 
-    flagBtn = el('button', 'fn-btn fn-flag-btn', 'הצע תיקון');
+    flagBtn = el('button', 'fn-btn fn-flag-btn', (window.RYMH_LANG === 'en') ? 'Flag' : 'הצע תיקון');
     flagBtn.id = 'fn-flag-btn';
     flagBtn.type = 'button';
     flagBtn.hidden = true;
-    flagBtn.setAttribute('aria-label', 'הצע תיקון להערה');
+    flagBtn.setAttribute('aria-label', (window.RYMH_LANG === 'en') ? 'Flag note' : 'הצע תיקון להערה');
     flagBtn.addEventListener('click', handleFlagClick);
 
     closeBtn = el('button', 'fn-btn fn-close-btn', '✕');

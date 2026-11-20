@@ -100,7 +100,9 @@
     lg.setAttribute('aria-label', lgLabel); lg.title = lgLabel;
     lg.setAttribute('lang', lang === 'en' ? 'he' : 'en');
     lg.addEventListener('click', function () {
-      set(LS_LANG, lang === 'en' ? 'he' : 'en');
+      var nextLang = lang === 'en' ? 'he' : 'en';
+      set(LS_LANG, nextLang);
+      set('iyye_ui_lang', nextLang);
       location.reload();
     });
 

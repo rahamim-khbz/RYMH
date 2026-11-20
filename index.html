@@ -2054,12 +2054,13 @@ html, body {
             }
         };
 
-        let uiLang = localStorage.getItem('iyye_ui_lang') || 'he';
+        let uiLang = localStorage.getItem('rymh.uiLang') || localStorage.getItem('iyye_ui_lang') || 'he';
         if (uiLang !== 'he' && uiLang !== 'en') uiLang = 'he';
 
         function applyUiLanguage(lang) {
             uiLang = (lang === 'en') ? 'en' : 'he';
             localStorage.setItem('iyye_ui_lang', uiLang);
+            localStorage.setItem('rymh.uiLang', uiLang);
             const copy = I18N[uiLang];
             const dir = uiLang === 'en' ? 'ltr' : 'rtl';
 
@@ -2245,6 +2246,10 @@ html, body {
 
         function enterReaderFromLanding(targetIdx) {
             currentPageIndex = Math.max(0, Math.min(totalPages - 1, targetIdx));
+            // Hand off to the full public reader (reader.html)
+            const n = currentPageIndex + 1;
+            window.location.href = `reader.html#page-${String(n).padStart(2, '0')}`;
+            return;
             if (landingOverlay) landingOverlay.classList.add('is-hidden');
             const newUrl = `${window.location.pathname}?page=${currentPageIndex + 1}`;
             window.history.replaceState(null, '', newUrl);
@@ -2280,7 +2285,8 @@ html, body {
         applyEngFontScale();
         initImagePan();
         if (hasDeepLinkPage) {
-            if (landingOverlay) landingOverlay.classList.add('is-hidden');
+            enterReaderFromLanding(currentPageIndex);
+            return;
         } else {
             if (landingOverlay) landingOverlay.classList.remove('is-hidden');
         }

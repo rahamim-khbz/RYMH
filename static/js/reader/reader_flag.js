@@ -49,10 +49,15 @@
     } catch (e) {}
   }
 
+
+  var EN_UI = {"הצעת תיקון לטקסט": "Suggest a text correction", "סגור חלון דיווח": "Close dialog", "התחבר עם Google": "Sign in with Google", "ההתחברות נכשלה": "Sign-in failed", "התנתק": "Sign out", "בחירת שורה או הערה בעמוד": "Choose a line or note on this page", "סוג הדיווח": "Issue type", "טעות במילה": "Wrong word", "מילה חסרה / מיותרת": "Missing / extra word", "עיצוב / הדגשה (**…**)": "Formatting / bold (**…**)", "הערת שוליים": "Footnote", "תרגום": "Translation", "יעד": "Target", "טקסט עברי / הערה": "Hebrew text / note", "הטקסט המוצע (שומר על סימוני **הדגשה**)": "Suggested text (keeps **bold** marks)", "B הדגש **": "B Bold **", "הוסף או הסר הדגשת **…**": "Toggle **…** bold", "הערה / הסבר (אופציונלי)": "Note / explanation (optional)", "ביטול": "Cancel", "שלח הצעה": "Submit suggestion", "שולח הצעה…": "Sending…", "ההצעה נשלחה בהצלחה ותיבדק על ידי העורך.": "Sent! The editor will review your suggestion.", "השליחה נכשלה": "Sending failed", "יש להתחבר עם Google כדי לשלוח הצעות תיקון (ללא דרישת הרשאת עורך).": "Sign in with Google to send corrections (no editor access needed).", "בחר שורה": "Choose a line", "הזן הצעת תיקון (אופציונלי)": "Enter a suggested correction (optional)", "הקטע ארוך מ-1000 תווים — הזן כאן את התיקון המוצע בלבד": "Passage exceeds 1000 characters — enter only the corrected portion", "יש להתחבר עם חשבון Google מאומת כדי לשלוח הצעת תיקון.": "Sign in with a verified Google account to send a correction.", "כתובת מסד הנתונים (או emulator) אינה מוגדרת.": "Database URL is not configured.", "נדרש חשבון Google עם דוא\"ל מאומת.": "A Google account with a verified email is required.", "שגיאה בהתחברות": "Sign-in error", "חיבור Google אינו זמין ללא הגדרת Firebase Auth.": "Google sign-in is unavailable (Firebase Auth not configured).", "חשבון ה-Google אינו מאומת.": "This Google account is not verified.", "הטקסט המוצע ארוך מ-1000 תווים": "Suggested text exceeds 1000 characters", "ההערה ארוכה מ-1000 תווים": "Note exceeds 1000 characters", "מזהה משתמש (UID) לא תקין": "Invalid user ID (UID)", "מספר עמוד לא תקין": "Invalid page number", "מזהה שורה חסר או לא תקין": "Missing or invalid line ID", "סוג דיווח לא תקין": "Invalid issue type", "יעד דיווח לא תקין": "Invalid target", "לא ניתן ליצור מזהה הצעה תקין": "Could not create a valid suggestion ID", "מספר פסקה לא תקין": "Invalid paragraph number", "הסיבה ארוכה מ-500 תווים": "Reason exceeds 500 characters", "Fetch API אינו זמין בסביבה זו.": "Fetch API is not available in this environment."};
+  function T(str) { return (root.RYMH_LANG === 'en' && typeof str === 'string' && EN_UI[str]) || str; }
+  function isEnLang() { return root.RYMH_LANG === 'en'; }
+
   function el(tag, cls, text) {
     var node = document.createElement(tag);
     if (cls) node.className = cls;
-    if (text != null) node.textContent = text;
+    if (text != null) node.textContent = T(text);
     return node;
   }
 
@@ -447,7 +452,7 @@
           var body = await res.json();
           detail = (body && body.error) ? (': ' + body.error) : '';
         } catch (e) {}
-        return { ok: false, error: 'השמירה נדחתה (HTTP ' + res.status + ')' + detail };
+        return { ok: false, error: (isEnLang() ? 'Save rejected (HTTP ' : 'השמירה נדחתה (HTTP ') + res.status + ')' + detail };
       }
       recordLocalFlag({
         id: built.suggestionId,
@@ -463,7 +468,7 @@
         payload: built.payload
       };
     } catch (err) {
-      return { ok: false, error: 'שגיאת רשת בשליחת ההצעה: ' + (err && err.message ? err.message : err) };
+      return { ok: false, error: (isEnLang() ? 'Network error sending suggestion: ' : 'שגיאת רשת בשליחת ההצעה: ') + (err && err.message ? err.message : err) };
     }
   }
 
@@ -520,7 +525,7 @@
       });
       return { ok: true, session: getAuthSession() };
     } catch (err) {
-      return { ok: false, error: 'שגיאת התחברות Google: ' + (err && err.message ? err.message : err) };
+      return { ok: false, error: (isEnLang() ? 'Google sign-in error: ' : 'שגיאת התחברות Google: ') + (err && err.message ? err.message : err) };
     }
   }
 
@@ -654,7 +659,7 @@
           lineId: cid,
           lineText: lines[li].t || '',
           isFootnote: false,
-          label: 'פסקה ' + (pi + 1) + ': ' + (lines[li].t || '').slice(0, 46)
+          label: (isEnLang() ? 'Paragraph ' : 'פסקה ') + (pi + 1) + ': ' + (lines[li].t || '').slice(0, 46)
         });
       }
     }
@@ -679,7 +684,7 @@
               isFootnote: true,
               noteId: nid || nlid,
               marker: nt.marker || '',
-              label: 'הערה (' + (nt.marker || (ni + 1)) + '): ' + (nLines[nli].t || '').slice(0, 42)
+              label: (isEnLang() ? 'Note (' : 'הערה (') + (nt.marker || (ni + 1)) + '): ' + (nLines[nli].t || '').slice(0, 42)
             });
           }
         }
@@ -693,7 +698,7 @@
           isFootnote: true,
           noteId: nid,
           marker: nt.marker || '',
-          label: 'הערה (' + (nt.marker || (ni + 1)) + '): ' + (nt.t || '').slice(0, 42)
+          label: (isEnLang() ? 'Note (' : 'הערה (') + (nt.marker || (ni + 1)) + '): ' + (nt.t || '').slice(0, 42)
         });
       }
     }
@@ -783,7 +788,7 @@
       return;
     }
     st.dataset.state = stateName || 'info';
-    st.textContent = text;
+    st.textContent = T(text);
     st.hidden = false;
   }
 
@@ -795,12 +800,12 @@
     }
     if (!state.dom.authInfo) return;
     if (signedIn) {
-      state.dom.authInfo.textContent = 'מחובר: ' + (sess.displayName || sess.email || sess.uid);
+      state.dom.authInfo.textContent = (isEnLang() ? 'Signed in: ' : 'מחובר: ') + (sess.displayName || sess.email || sess.uid);
       if (state.dom.signInBtn) state.dom.signInBtn.hidden = true;
       if (state.dom.signOutBtn) state.dom.signOutBtn.hidden = false;
       if (state.dom.submitBtn) state.dom.submitBtn.disabled = false;
     } else {
-      state.dom.authInfo.textContent = 'יש להתחבר עם Google כדי לשלוח הצעות תיקון (ללא דרישת הרשאת עורך).';
+      state.dom.authInfo.textContent = T('יש להתחבר עם Google כדי לשלוח הצעות תיקון (ללא דרישת הרשאת עורך).');
       if (state.dom.signInBtn) state.dom.signInBtn.hidden = false;
       if (state.dom.signOutBtn) state.dom.signOutBtn.hidden = true;
       if (state.dom.submitBtn) state.dom.submitBtn.disabled = true;
@@ -812,13 +817,13 @@
     var dom = state.dom;
     if (!dom.modal) return;
 
-    dom.pageChip.textContent = t.pageN ? ('עמוד ' + t.pageN) : (t.pageId || '');
+    dom.pageChip.textContent = t.pageN ? ((isEnLang() ? 'Page ' : 'עמוד ') + t.pageN) : (t.pageId || '');
     if (t.isFootnote && t.marker) {
-      dom.lineChip.textContent = 'הערה (' + t.marker + ')';
+      dom.lineChip.textContent = (isEnLang() ? 'Note (' : 'הערה (') + t.marker + ')';
     } else if (t.lineId) {
-      dom.lineChip.textContent = 'שורה: ' + t.lineId;
+      dom.lineChip.textContent = (isEnLang() ? 'Line: ' : 'שורה: ') + t.lineId;
     } else {
-      dom.lineChip.textContent = 'בחר שורה';
+      dom.lineChip.textContent = T('בחר שורה');
     }
 
     if (t.pageOptions && t.pageOptions.length) {
@@ -852,8 +857,8 @@
     } else {
       dom.proposedInput.value = '';
       dom.proposedInput.placeholder = t.lineText
-        ? 'הקטע ארוך מ-1000 תווים — הזן כאן את התיקון המוצע בלבד'
-        : 'הזן הצעת תיקון (אופציונלי)';
+        ? T('הקטע ארוך מ-1000 תווים — הזן כאן את התיקון המוצע בלבד')
+        : T('הזן הצעת תיקון (אופציונלי)');
     }
     dom.noteInput.value = '';
     setStatus('', '');
@@ -888,18 +893,77 @@
     var ctxMenu = el('div', 'flag-ctx-menu');
     ctxMenu.id = 'readerFlagCtxMenu';
     ctxMenu.setAttribute('role', 'menu');
-    ctxMenu.setAttribute('aria-label', 'אפשרויות דיווח על שורה');
+    var isEnUi = root.RYMH_LANG === 'en';
+    ctxMenu.setAttribute('aria-label', isEnUi ? 'Line options' : 'אפשרויות שורה');
     ctxMenu.hidden = true;
-    var ctxBtn = el('button', 'flag-ctx-item', '⚑ הצע תיקון בשורה זו');
-    ctxBtn.id = 'readerFlagCtxBtn';
-    ctxBtn.type = 'button';
-    ctxBtn.setAttribute('role', 'menuitem');
-    ctxBtn.addEventListener('click', function () {
+    function ctxText() {
+      var c = state.ctxTarget || {};
+      var t = (c.selectionText || c.lineText || '').replace(/\*\*/g, '').trim();
+      return t;
+    }
+    function mkCtxItem(id, label, handler) {
+      var b = el('button', 'flag-ctx-item', label);
+      b.id = id; b.type = 'button';
+      b.setAttribute('role', 'menuitem');
+      b.addEventListener('click', handler);
+      ctxMenu.appendChild(b);
+      return b;
+    }
+    var ctxBtn = mkCtxItem('readerCtxCopy', isEnUi ? '⧉ Copy' : '⧉ העתק', function () {
+      var txt = ctxText();
+      closeContextMenu();
+      if (!txt) return;
+      if (navigator.clipboard && navigator.clipboard.writeText) {
+        navigator.clipboard.writeText(txt).catch(function () {});
+      } else {
+        var ta = document.createElement('textarea');
+        ta.value = txt; document.body.appendChild(ta); ta.select();
+        try { document.execCommand('copy'); } catch (e) {}
+        document.body.removeChild(ta);
+      }
+    });
+    mkCtxItem('readerCtxGoogle', isEnUi ? '🔍 Google Search' : '🔍 חיפוש בגוגל', function () {
+      var txt = ctxText();
+      closeContextMenu();
+      if (!txt) return;
+      window.open('https://www.google.com/search?q=' + encodeURIComponent(txt), '_blank', 'noopener');
+    });
+    mkCtxItem('readerFlagCtxBtn', isEnUi ? '⚑ Flag' : '⚑ דיווח', function () {
       var savedCtx = state.ctxTarget;
       closeContextMenu();
-      if (savedCtx) openForTarget(savedCtx, savedCtx.triggerEl || null);
+      if (!savedCtx) return;
+      openForTarget(savedCtx, savedCtx.triggerEl || null);
+      if (state.dom.proposedInput) {
+        state.dom.proposedInput.value = '';
+        state.dom.proposedInput.placeholder = isEnUi ? 'Optional: suggested correction' : 'הזן הצעת תיקון (אופציונלי)';
+      }
     });
-    ctxMenu.appendChild(ctxBtn);
+    mkCtxItem('readerCtxFix', isEnUi ? '✎ Fix this line' : '✎ תקן שורה זו', function () {
+      var savedCtx = state.ctxTarget;
+      closeContextMenu();
+      if (!savedCtx) return;
+      openForTarget(savedCtx, savedCtx.triggerEl || null);
+      if (state.dom.proposedInput && typeof state.dom.proposedInput.focus === 'function') {
+        state.dom.proposedInput.focus();
+      }
+    });
+    ctxMenu.addEventListener('keydown', function (ev) {
+      var items = Array.prototype.slice.call(ctxMenu.querySelectorAll('.flag-ctx-item'));
+      var idx = items.indexOf(document.activeElement);
+      if (ev.key === 'ArrowDown') {
+        ev.preventDefault();
+        items[(idx + 1) % items.length].focus();
+      } else if (ev.key === 'ArrowUp') {
+        ev.preventDefault();
+        items[(idx - 1 + items.length) % items.length].focus();
+      } else if (ev.key === 'Home') {
+        ev.preventDefault();
+        items[0].focus();
+      } else if (ev.key === 'End') {
+        ev.preventDefault();
+        items[items.length - 1].focus();
+      }
+    });
     mount.appendChild(ctxMenu);
 
     // 3. Flag modal dialog
@@ -912,7 +976,7 @@
     modal.setAttribute('role', 'dialog');
     modal.setAttribute('aria-modal', 'true');
     modal.setAttribute('aria-labelledby', 'readerFlagTitle');
-    modal.setAttribute('dir', 'rtl');
+    modal.setAttribute('dir', isEnLang() ? 'ltr' : 'rtl');
     modal.hidden = true;
 
     var head = el('div', 'flag-modal-head');
@@ -921,7 +985,7 @@
     var closeBtn = el('button', 'flag-close-btn', '✕');
     closeBtn.id = 'readerFlagCloseBtn';
     closeBtn.type = 'button';
-    closeBtn.setAttribute('aria-label', 'סגור חלון דיווח');
+    closeBtn.setAttribute('aria-label', T('סגור חלון דיווח'));
     closeBtn.addEventListener('click', function () { close(); });
     head.appendChild(title);
     head.appendChild(closeBtn);
@@ -1038,7 +1102,7 @@
     var boldBtn = el('button', 'flag-bold-btn', 'B הדגש **');
     boldBtn.id = 'readerFlagBoldBtn';
     boldBtn.type = 'button';
-    boldBtn.setAttribute('aria-label', 'הוסף או הסר הדגשת **…**');
+    boldBtn.setAttribute('aria-label', T('הוסף או הסר הדגשת **…**'));
     boldBtn.addEventListener('click', function () {
       toggleBoldInTextarea(proposedInput);
     });
@@ -1058,7 +1122,7 @@
     noteLbl.setAttribute('for', 'readerFlagNote');
     var noteInput = el('textarea', null);
     noteInput.id = 'readerFlagNote';
-    noteInput.setAttribute('dir', 'rtl');
+    noteInput.setAttribute('dir', isEnLang() ? 'auto' : 'rtl');
     noteInput.maxLength = 1000;
     noteWrap.appendChild(noteLbl);
     noteWrap.appendChild(noteInput);
@@ -1225,6 +1289,7 @@
         if (!ctx || !ctx.lineId) return;
         ev.preventDefault();
         ctx.triggerEl = ev.target && ev.target.closest ? ev.target.closest('.rline') : ev.target;
+        try { ctx.selectionText = String(window.getSelection() || '').trim(); } catch (e) {}
         openContextMenu(ev.clientX, ev.clientY, ctx);
       });
 
