@@ -1,0 +1,37 @@
+{
+  "page_id": "page-01",
+  "page_num": 1,
+  "total_pages": 89,
+  "header": "שערי תשובה סי' קפ\"ה קפ\"ו קפ\"ו",
+  "image_path": "page_images/page-01.jpg",
+  "chapter": {
+    "chapter_id": "chapter-1",
+    "title_hebrew": "סימן קפז: רבינו שרירא ז\"ל - וששאלתם",
+    "title_english": "Siman 187: Rabbeinu Sherira z\"l - And What You Asked"
+  },
+  "paragraphs": [
+    {
+      "paragraph_id": "p-page-01-0",
+      "hebrew_raw": "<strong>סימן קפ\"ז רבי' שרירא ז\"ל</strong>",
+      "hebrew_html": "<strong>סימן קפ\"ז רבי' שרירא ז\"ל</strong>",
+      "english_raw": "Section 187: Rabbenu Sherira, of blessed memory.",
+      "english_html": "Section 187: Rabbenu Sherira, of blessed memory."
+    },
+    {
+      "paragraph_id": "p-page-01-1",
+      "hebrew_raw": "<strong>וששאלתם</strong> <strong>דאית ביניכו תלמידים, והם שועלים קטנים, דלית בהו ממשא (שערי צדק)</strong> <strong>וחולקים ואומרים על גאונים עמודי עולם, מנין להם דבר זה. ומוציאים</strong> <strong>ספריהם (?) <span class=\"fn-ref\" data-page-id=\"page-01\" data-marker=\"א\">(א)</span> והם לא יבינו פועל ה', ומעשה ידיו, ולא השיגו אפילו דבר קטון ממה שהשיג</strong>",
+      "hebrew_html": "<strong>וששאלתם</strong> <strong>דאית ביניכו תלמידים, והם שועלים קטנים, דלית בהו ממשא (שערי צדק)</strong> <strong>וחולקים ואומרים על גאונים עמודי עולם, מנין להם דבר זה. ומוציאים</strong> <strong>ספריהם (?) <span class=\"fn-ref\" data-page=\"page-01\" data-marker=\"א\">(א)</span> והם לא יבינו פועל ה', ומעשה ידיו, ולא השיגו אפילו דבר קטון ממה שהשיג</strong>",
+      "english_raw": "Regarding your report that there are students among you—\"little foxes\" lacking any real substance (*Sha'arei Tzedek*)— who dissent and question the *Geonim*, those pillars of the world, asking: \"From whence did they derive this matter?\" They produce their volumes <span class=\"fn-ref\" data-page-id=\"page-01\" data-marker=\"א\">(א)</span> though they understand not the work of the Lord nor the deeds of His hands, having failed to grasp even a fraction of that which a mere disciple",
+      "english_html": "Regarding your report that there are students among you—\"little foxes\" lacking any real substance (*Sha'arei Tzedek*)— who dissent and question the *Geonim*, those pillars of the world, asking: \"From whence did they derive this matter?\" They produce their volumes <span class=\"fn-ref\" data-page=\"page-01\" data-marker=\"א\">(א)</span> though they understand not the work of the Lord nor the deeds of His hands, having failed to grasp even a fraction of that which a mere disciple"
+    }
+  ],
+  "footnotes": {
+    "א": {
+      "hebrew": "ואפשר שכוונתו אל מ\"ש בירושלמי דפיאה פ\"כ \"א\"ר אבין אלו כתבתי לך רובי תורתי לא כמו זר נחשבו? מה בינו לבין א\"הע? אלו מוציאים ספריהם ואלו מוציאים ספריהם ע\"כ. ועיין יפ\"ת ש\"ר רפמ\"ז מה שפירש עי\"ש, ואפשר שהגאון נשתמש מלשון זה על התלמידים שועלים קטנים, כאלו מה בינם לבין הגאונים עמודי עולם? ולא כלום! אלו מוציאים ספריהם, ואלו מוציאים ספריהם, כלומר סברותיהם ולא ידעו להבדיל בין החי ובין המת ודוק . (*) — (*) א\"ה. לולי דברי הגאון המחבר אהובינו בר\"ו היינו יכולים לפרס משמוציאים ספרי הגאונים החזקתם ואינם מחשיבים אותם בכלל ספרי הדת שעליהם דאוי להשען וכן שגור בפי חז\"ל בתלמוד אפיק זה ועייל זה.",
+      "english": "And it is possible that his intention refers to that which is stated in the Jerusalem Talmud, Pe'ah, Chapter 2: 'Rabbi Abin said: If I had written for you the majority of My Torah, would they not have been accounted as a stranger? What is the difference between Israel and the nations of the world? These produce their books, and those produce their books,' etc. Consult also the Yefeh To'ar on Shemot Rabbah, Chapter 47, for his explanation. It is possible that the Gaon employed this phrasing regarding the students, who are 'little foxes'—as if to say: what is the difference between them and the Geonim, the pillars of the world? Nothing at all! These produce their books, and those produce their books—that is, their own opinions—and they did not know how to distinguish between the living and the dead. Reflect upon this. (*)",
+      "type": "author"
+    }
+  },
+  "prev_page_id": null,
+  "next_page_id": "page-02"
+}
