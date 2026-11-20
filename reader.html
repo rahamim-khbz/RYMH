@@ -7,7 +7,7 @@
   <meta http-equiv="X-Content-Type-Options" content="nosniff">
   <meta name="referrer" content="strict-origin-when-cross-origin">
   <title>סימן קפ"ז — קריאה</title>
-  <meta name="description" content="Siman 187: a scholarly reader of the Hebrew manuscript text, page by page.">
+  <meta name="description" content="Siman 187: a scholarly reader of the Hebrew printed text, page by page.">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Frank+Ruhl+Libre:wght@400;500;700;900&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
@@ -30,7 +30,7 @@
         <div class="bar-tools">
           <div class="pager-tabs" id="mobilePagerTabs" role="group" aria-label="תצוגה">
             <button type="button" class="btn" id="mobileTabText" aria-pressed="true">טקסט</button>
-            <button type="button" class="btn" id="mobileTabScan" aria-pressed="false">כתב יד</button>
+            <button type="button" class="btn" id="mobileTabScan" aria-pressed="false">דפוס</button>
           </div>
           <form class="jump" id="jumpForm" autocomplete="off">
             <label for="jumpInput" class="sr">עבור לעמוד</label>
@@ -38,12 +38,17 @@
             <button type="submit" class="btn">עבור</button>
           </form>
           <button type="button" class="btn icon" id="gridBtn" aria-haspopup="dialog" aria-label="רשימת עמודים">▦</button>
-          <div class="group" role="group" aria-label="גודל גופן">
-            <button type="button" class="btn icon" id="fontDown" aria-label="הקטן גופן">א−</button>
-            <button type="button" class="btn icon" id="fontUp" aria-label="הגדל גופן">א+</button>
+          <div class="settings" id="settingsWrap">
+            <button type="button" class="btn icon" id="settingsBtn" aria-expanded="false" aria-controls="settingsPop" aria-label="הגדרות תצוגה">Aa</button>
+            <div class="settings-pop" id="settingsPop" role="group" aria-label="הגדרות תצוגה" hidden>
+              <div class="group" role="group" aria-label="גודל גופן">
+                <button type="button" class="btn icon" id="fontDown" aria-label="הקטן גופן">א−</button>
+                <button type="button" class="btn icon" id="fontUp" aria-label="הגדל גופן">א+</button>
+              </div>
+              <button type="button" class="btn icon" id="markBtn" aria-pressed="false" aria-label="הצג סימוני עמודים">עמ׳</button>
+              <button type="button" class="btn icon" id="themeBtn" aria-label="החלף ערכת צבעים">◐</button>
+            </div>
           </div>
-          <button type="button" class="btn icon" id="markBtn" aria-pressed="false" aria-label="הצג סימוני עמודים">עמ׳</button>
-          <button type="button" class="btn icon" id="themeBtn" aria-label="החלף ערכת צבעים">◐</button>
           <div id="readerFlagBarSlot" class="flag-bar-slot"></div>
         </div>
       </div>
@@ -52,8 +57,8 @@
 
     <main id="stage" class="stage" dir="ltr" tabindex="-1">
       <div id="pagerTrack" class="pager-track">
-        <section id="scanPane" class="pane pane-scan" aria-label="כתב היד" tabindex="-1">
-          <div class="scan-controls" role="group" aria-label="תקריב כתב יד">
+        <section id="scanPane" class="pane pane-scan" aria-label="הדפוס" tabindex="-1">
+          <div class="scan-controls" role="group" aria-label="תקריב הדפוס">
             <button type="button" class="btn icon" id="scanZoomOut" aria-label="הקטן תמונה">−</button>
             <button type="button" class="btn" id="scanZoomReset" aria-label="התאם לרוחב">100%</button>
             <button type="button" class="btn icon" id="scanZoomIn" aria-label="הגדל תמונה">+</button>

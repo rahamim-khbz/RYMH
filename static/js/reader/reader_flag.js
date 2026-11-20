@@ -50,7 +50,7 @@
   }
 
 
-  var EN_UI = {"הצעת תיקון לטקסט": "Suggest a text correction", "סגור חלון דיווח": "Close dialog", "התחבר עם Google": "Sign in with Google", "ההתחברות נכשלה": "Sign-in failed", "התנתק": "Sign out", "בחירת שורה או הערה בעמוד": "Choose a line or note on this page", "סוג הדיווח": "Issue type", "טעות במילה": "Wrong word", "מילה חסרה / מיותרת": "Missing / extra word", "עיצוב / הדגשה (**…**)": "Formatting / bold (**…**)", "הערת שוליים": "Footnote", "תרגום": "Translation", "יעד": "Target", "טקסט עברי / הערה": "Hebrew text / note", "הטקסט המוצע (שומר על סימוני **הדגשה**)": "Suggested text (keeps **bold** marks)", "B הדגש **": "B Bold **", "הוסף או הסר הדגשת **…**": "Toggle **…** bold", "הערה / הסבר (אופציונלי)": "Note / explanation (optional)", "ביטול": "Cancel", "שלח הצעה": "Submit suggestion", "שולח הצעה…": "Sending…", "ההצעה נשלחה בהצלחה ותיבדק על ידי העורך.": "Sent! The editor will review your suggestion.", "השליחה נכשלה": "Sending failed", "יש להתחבר עם Google כדי לשלוח הצעות תיקון (ללא דרישת הרשאת עורך).": "Sign in with Google to send corrections (no editor access needed).", "בחר שורה": "Choose a line", "הזן הצעת תיקון (אופציונלי)": "Enter a suggested correction (optional)", "הקטע ארוך מ-1000 תווים — הזן כאן את התיקון המוצע בלבד": "Passage exceeds 1000 characters — enter only the corrected portion", "יש להתחבר עם חשבון Google מאומת כדי לשלוח הצעת תיקון.": "Sign in with a verified Google account to send a correction.", "כתובת מסד הנתונים (או emulator) אינה מוגדרת.": "Database URL is not configured.", "נדרש חשבון Google עם דוא\"ל מאומת.": "A Google account with a verified email is required.", "שגיאה בהתחברות": "Sign-in error", "חיבור Google אינו זמין ללא הגדרת Firebase Auth.": "Google sign-in is unavailable (Firebase Auth not configured).", "חשבון ה-Google אינו מאומת.": "This Google account is not verified.", "התחברות Google בוטלה.": "Google sign-in was cancelled.", "הדפדפן חסם את חלון ההתחברות של Google. אפשרו חלונות קופצים ונסו שוב.": "Your browser blocked the Google sign-in popup. Allow popups for this site and try again.", "האתר אינו מופיע ברשימת הדומיינים המורשים ב-Firebase.": "This site is not on the Firebase authorized-domains list yet.", "התחברות עם Google אינה מופעלת בפרויקט זה.": "Google sign-in is not enabled for this Firebase project.", "הטקסט המוצע ארוך מ-1000 תווים": "Suggested text exceeds 1000 characters", "ההערה ארוכה מ-1000 תווים": "Note exceeds 1000 characters", "מזהה משתמש (UID) לא תקין": "Invalid user ID (UID)", "מספר עמוד לא תקין": "Invalid page number", "מזהה שורה חסר או לא תקין": "Missing or invalid line ID", "סוג דיווח לא תקין": "Invalid issue type", "יעד דיווח לא תקין": "Invalid target", "לא ניתן ליצור מזהה הצעה תקין": "Could not create a valid suggestion ID", "מספר פסקה לא תקין": "Invalid paragraph number", "הסיבה ארוכה מ-500 תווים": "Reason exceeds 500 characters", "Fetch API אינו זמין בסביבה זו.": "Fetch API is not available in this environment."};
+  var EN_UI = {"הצעת תיקון לטקסט": "Suggest a text correction", "סגור חלון דיווח": "Close dialog", "התחבר עם Google": "Sign in with Google", "ההתחברות נכשלה": "Sign-in failed", "התנתק": "Sign out", "בחירת שורה או הערה בעמוד": "Choose a line or note on this page", "סוג הדיווח": "Issue type", "טעות במילה": "Wrong word", "מילה חסרה / מיותרת": "Missing / extra word", "עיצוב / הדגשה": "Formatting / bold", "הערת שוליים": "Footnote", "תרגום": "Translation", "יעד": "Target", "טקסט עברי / הערה": "Hebrew text / note", "הטקסט המוצע": "Suggested text", "B": "B", "הדגשה": "Bold", "הערה / הסבר (אופציונלי)": "Note / explanation (optional)", "ביטול": "Cancel", "שלח הצעה": "Submit suggestion", "שולח הצעה…": "Sending…", "ההצעה נשלחה בהצלחה ותיבדק על ידי העורך.": "Sent! The editor will review your suggestion.", "השליחה נכשלה": "Sending failed", "יש להתחבר עם Google כדי לשלוח הצעות תיקון (ללא דרישת הרשאת עורך).": "Sign in with Google to send corrections (no editor access needed).", "בחר שורה": "Choose a line", "הזן הצעת תיקון (אופציונלי)": "Enter a suggested correction (optional)", "הקטע ארוך מ-1000 תווים — הזן כאן את התיקון המוצע בלבד": "Passage exceeds 1000 characters — enter only the corrected portion", "יש להתחבר עם חשבון Google מאומת כדי לשלוח הצעת תיקון.": "Sign in with a verified Google account to send a correction.", "כתובת מסד הנתונים (או emulator) אינה מוגדרת.": "Database URL is not configured.", "נדרש חשבון Google עם דוא\"ל מאומת.": "A Google account with a verified email is required.", "שגיאה בהתחברות": "Sign-in error", "חיבור Google אינו זמין ללא הגדרת Firebase Auth.": "Google sign-in is unavailable (Firebase Auth not configured).", "חשבון ה-Google אינו מאומת.": "This Google account is not verified.", "התחברות Google בוטלה.": "Google sign-in was cancelled.", "הדפדפן חסם את חלון ההתחברות של Google. אפשרו חלונות קופצים ונסו שוב.": "Your browser blocked the Google sign-in popup. Allow popups for this site and try again.", "האתר אינו מופיע ברשימת הדומיינים המורשים ב-Firebase.": "This site is not on the Firebase authorized-domains list yet.", "התחברות עם Google אינה מופעלת בפרויקט זה.": "Google sign-in is not enabled for this Firebase project.", "הטקסט המוצע ארוך מ-1000 תווים": "Suggested text exceeds 1000 characters", "ההערה ארוכה מ-1000 תווים": "Note exceeds 1000 characters", "מזהה משתמש (UID) לא תקין": "Invalid user ID (UID)", "מספר עמוד לא תקין": "Invalid page number", "מזהה שורה חסר או לא תקין": "Missing or invalid line ID", "סוג דיווח לא תקין": "Invalid issue type", "יעד דיווח לא תקין": "Invalid target", "לא ניתן ליצור מזהה הצעה תקין": "Could not create a valid suggestion ID", "מספר פסקה לא תקין": "Invalid paragraph number", "הסיבה ארוכה מ-500 תווים": "Reason exceeds 500 characters", "Fetch API אינו זמין בסביבה זו.": "Fetch API is not available in this environment."};
   function T(str) { return (root.RYMH_LANG === 'en' && typeof str === 'string' && EN_UI[str]) || str; }
   function isEnLang() { return root.RYMH_LANG === 'en'; }
 
@@ -910,7 +910,10 @@
       barBtn.appendChild(el('span', null, '⚑'));
       barBtn.appendChild(el('span', 'flag-bar-label', isEn ? 'Flag' : 'דיווח'));
       barBtn.addEventListener('click', function () {
-        openForTarget(null, barBtn);
+        var last = state.lastLineCtx;
+        state.lastLineCtx = null; // one use: a later press without a new click starts from the line picker
+        if (last && last.triggerEl && last.triggerEl.isConnected === false) last = null;
+        openForTarget(last ? Object.assign({}, last, { triggerEl: barBtn }) : null, barBtn);
       });
       state.barSlotEl.appendChild(barBtn);
       state.dom.barBtn = barBtn;
@@ -1093,9 +1096,8 @@
     [
       ['word', 'טעות במילה'],
       ['missing', 'מילה חסרה / מיותרת'],
-      ['format', 'עיצוב / הדגשה (**…**)'],
-      ['footnote', 'הערת שוליים'],
-      ['translation', 'תרגום']
+      ['format', 'עיצוב / הדגשה'],
+      ['footnote', 'הערת שוליים']
     ].forEach(function (pair) {
       var o = el('option', null, pair[1]);
       o.value = pair[0];
@@ -1110,8 +1112,7 @@
     var targetSelect = el('select', null);
     targetSelect.id = 'readerFlagTarget';
     [
-      ['line', 'טקסט עברי / הערה'],
-      ['translation', 'תרגום']
+      ['line', 'טקסט עברי / הערה']
     ].forEach(function (pair) {
       var o = el('option', null, pair[1]);
       o.value = pair[0];
@@ -1119,6 +1120,8 @@
     });
     targetWrap.appendChild(targetLbl);
     targetWrap.appendChild(targetSelect);
+    // Only one target exists until a translation view ships; keep the field for the payload, hide it.
+    targetWrap.hidden = true;
 
     row.appendChild(kindWrap);
     row.appendChild(targetWrap);
@@ -1126,12 +1129,13 @@
 
     var propWrap = el('div', 'flag-field');
     var propHead = el('div', 'flag-field-head');
-    var propLbl = el('label', null, 'הטקסט המוצע (שומר על סימוני **הדגשה**)');
+    var propLbl = el('label', null, 'הטקסט המוצע');
     propLbl.setAttribute('for', 'readerFlagProposed');
-    var boldBtn = el('button', 'flag-bold-btn', 'B הדגש **');
+    var boldBtn = el('button', 'flag-bold-btn', 'B');
     boldBtn.id = 'readerFlagBoldBtn';
     boldBtn.type = 'button';
-    boldBtn.setAttribute('aria-label', T('הוסף או הסר הדגשת **…**'));
+    boldBtn.setAttribute('aria-label', T('הדגשה'));
+    boldBtn.title = T('הדגשה');
     boldBtn.addEventListener('click', function () {
       toggleBoldInTextarea(proposedInput);
     });
@@ -1312,27 +1316,16 @@
     state.initialized = true;
 
     if (state.streamEl) {
-      state.streamEl.addEventListener('contextmenu', function (ev) {
-        if (ev.shiftKey) return;
+      // The browser's own right-click menu is kept (owner, 2026-11-20). Clicking or
+      // focusing a line remembers it, and the toolbar flag button opens the form on it.
+      var remember = function (ev) {
         var ctx = resolveContextFromElement(ev.target);
         if (!ctx || !ctx.lineId) return;
-        ev.preventDefault();
         ctx.triggerEl = ev.target && ev.target.closest ? ev.target.closest('.rline') : ev.target;
-        try { ctx.selectionText = String(window.getSelection() || '').trim(); } catch (e) {}
-        openContextMenu(ev.clientX, ev.clientY, ctx);
-      });
-
-      state.streamEl.addEventListener('keydown', function (ev) {
-        if (ev.key === 'ContextMenu' || (ev.shiftKey && ev.key === 'F10')) {
-          var ctx = resolveContextFromElement(document.activeElement);
-          if (!ctx || !ctx.lineId) return;
-          ev.preventDefault();
-          var rline = document.activeElement.closest ? document.activeElement.closest('.rline') : document.activeElement;
-          var r = rline && rline.getBoundingClientRect ? rline.getBoundingClientRect() : { left: 24, bottom: 24 };
-          ctx.triggerEl = rline;
-          openContextMenu(r.left, r.bottom + 4, ctx);
-        }
-      });
+        state.lastLineCtx = ctx;
+      };
+      state.streamEl.addEventListener('click', remember);
+      state.streamEl.addEventListener('focusin', remember);
     }
 
     document.addEventListener('keydown', function (ev) {

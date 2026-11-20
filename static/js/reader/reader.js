@@ -153,11 +153,11 @@
     var div = el('div', 'divider');
     var label = el('span', null, T('עמוד') + ' ' + page.n);
     label.setAttribute('dir', 'rtl');
-    var scan = el('a', 'scan-link', T('כתב היד'));
+    var scan = el('a', 'scan-link', T('הדפוס'));
     scan.href = page.img || ('page_images/' + page.page + '.png');
     scan.target = '_blank';
     scan.rel = 'noopener';
-    scan.setAttribute('aria-label', T('פתח את כתב היד של עמוד') + ' ' + page.n);
+    scan.setAttribute('aria-label', T('פתח את הדפוס של עמוד') + ' ' + page.n);
     div.appendChild(label);
     div.appendChild(scan);
     return div;
@@ -233,7 +233,7 @@
       pEl.setAttribute('dir', 'rtl');
       if (i === 0 && p.cont) {
         var mark = el('span', 'pgmark', '[' + T('עמוד') + ' ' + page.n + ']');
-        mark.setAttribute('dir', 'rtl');
+        mark.setAttribute('dir', window.RYMH_LANG === 'en' ? 'ltr' : 'rtl');
         pEl.appendChild(mark);
         pEl.appendChild(document.createTextNode(' '));
       }
@@ -252,12 +252,6 @@
       }
       block.appendChild(pEl);
 
-      var enText = p.en || p.translation;
-      if (enText) {
-        var enP = el('p', 'para-en', enText);
-        enP.setAttribute('dir', 'ltr');
-        block.appendChild(enP);
-      }
       slot.appendChild(block);
     }
 
@@ -394,7 +388,10 @@
       barEl.classList.remove('hide');
       return;
     }
-    if (dy > 6) barEl.classList.add('hide');
+    if (dy > 6) {
+      barEl.style.setProperty('--bar-live-h', barEl.offsetHeight + 'px');
+      barEl.classList.add('hide');
+    }
     else if (dy < -6) barEl.classList.remove('hide');
   }
 
@@ -803,7 +800,12 @@
       pages = idx.pages || [];
       total = pages.length;
       for (var i = 0; i < pages.length; i++) indexByN[pages[i].n] = pages[i];
-      if (idx.title) bookEl.textContent = idx.title;
+      if (window.RYMH_LANG === 'en') {
+        bookEl.textContent = 'Siman 187';
+        document.title = 'Siman 187 — Reader';
+      } else if (idx.title) {
+        bookEl.textContent = idx.title;
+      }
 
       var startN = hashPage();
       if (!startN || startN < 1 || startN > total) startN = 1;

@@ -6,6 +6,9 @@
 // Strict CSP-compliant: zero innerHTML, zero inline scripts/handlers.
 (function () {
   'use strict';
+  // UI language (ui_prefs.js): note text stays Hebrew; only the interface switches.
+  var IS_EN = typeof window !== 'undefined' && window.RYMH_LANG === 'en';
+  function L(he, en) { return IS_EN ? en : he; }
 
   var FINAL_MAP = { 'ך': 'כ', 'ם': 'מ', 'ן': 'נ', 'ף': 'פ', 'ץ': 'צ' };
 
@@ -145,7 +148,7 @@
       btn.setAttribute('data-note-idx', String(target.idx));
       if (target.note.id) btn.setAttribute('data-note-id', target.note.id);
       btn.setAttribute('data-marker', target.note.marker || match[1]);
-      btn.setAttribute('aria-label', 'הערה פנימית ' + (target.note.marker || match[1]));
+      btn.setAttribute('aria-label', L('הערה פנימית ', 'Inner note ') + (target.note.marker || match[1]));
       (function (capturedIdx) {
         btn.addEventListener('click', function (ev) {
           ev.stopPropagation();
@@ -230,8 +233,8 @@
     isExpandedFlag = Boolean(expanded);
     drawerEl.classList.toggle('is-expanded', isExpandedFlag);
     expandBtn.setAttribute('aria-expanded', isExpandedFlag ? 'true' : 'false');
-    expandBtn.textContent = isExpandedFlag ? 'כווץ' : 'הרחב';
-    expandBtn.setAttribute('aria-label', isExpandedFlag ? 'כווץ חלונית הערה' : 'הרחב חלונית הערה');
+    expandBtn.textContent = isExpandedFlag ? L('כווץ', 'Collapse') : L('הרחב', 'Expand');
+    expandBtn.setAttribute('aria-label', isExpandedFlag ? L('כווץ חלונית הערה', 'Collapse note panel') : L('הרחב חלונית הערה', 'Expand note panel'));
   }
 
   function refreshExpandVisibility(note) {
@@ -284,12 +287,12 @@
 
     if (note.continued && pageData.n > 1) {
       checkNeighbor(pageData.n - 1, false, function (pd) {
-        return '→ תחילת הערה (' + note.marker + ') בעמוד ' + pd.n;
+        return L('→ תחילת הערה (' + note.marker + ') בעמוד ' + pd.n, '→ Start of note (' + note.marker + ') on page ' + pd.n);
       });
     }
     if (pageData.n > 0) {
       checkNeighbor(pageData.n + 1, true, function (pd) {
-        return '← המשך הערה (' + note.marker + ') בעמוד ' + pd.n;
+        return L('← המשך הערה (' + note.marker + ') בעמוד ' + pd.n, '← Note (' + note.marker + ') continues on page ' + pd.n);
       });
     }
   }
@@ -321,10 +324,10 @@
     activeView = { pageData: pageData, noteIdx: noteIdx, note: note };
     setExpanded(false);
 
-    titleEl.textContent = note.marker ? ('הערה (' + note.marker + ')') : 'הערה';
-    var metaParts = ['עמוד ' + pageData.n];
-    if (note.within) metaParts.push('בתוך (' + note.within + ')');
-    else if (note.continued) metaParts.push('המשך');
+    titleEl.textContent = note.marker ? (L('הערה', 'Note') + ' (' + note.marker + ')') : L('הערה', 'Note');
+    var metaParts = [L('עמוד ', 'Page ') + pageData.n];
+    if (note.within) metaParts.push(L('בתוך', 'within') + ' (' + note.within + ')');
+    else if (note.continued) metaParts.push(L('המשך', 'continued'));
     metaEl.textContent = metaParts.join(' · ');
 
     backBtn.hidden = historyStack.length === 0;
@@ -656,7 +659,7 @@
 
     var headerRow = el('div', 'fn-header-row');
     var titleWrap = el('div', 'fn-title-wrap');
-    titleEl = el('h2', 'fn-drawer-title', 'הערה');
+    titleEl = el('h2', 'fn-drawer-title', L('הערה', 'Note'));
     titleEl.id = 'fn-drawer-title';
     titleEl.tabIndex = -1;
     metaEl = el('span', 'fn-drawer-meta');
@@ -665,23 +668,23 @@
     titleWrap.appendChild(metaEl);
 
     var actionsEl = el('div', 'fn-header-actions');
-    backBtn = el('button', 'fn-btn fn-back-btn', 'חזרה');
+    backBtn = el('button', 'fn-btn fn-back-btn', L('חזרה', 'Back'));
     backBtn.id = 'fn-back-btn';
     backBtn.type = 'button';
     backBtn.hidden = true;
-    backBtn.setAttribute('aria-label', 'חזרה להערה הקודמת');
+    backBtn.setAttribute('aria-label', L('חזרה להערה הקודמת', 'Back to previous note'));
     backBtn.addEventListener('click', function () {
       if (!historyStack.length) return;
       var prev = historyStack.pop();
       navigateToNote(prev.pageId, prev.noteIdx, false);
     });
 
-    expandBtn = el('button', 'fn-btn fn-expand-btn', 'הרחב');
+    expandBtn = el('button', 'fn-btn fn-expand-btn', L('הרחב', 'Expand'));
     expandBtn.id = 'fn-expand-btn';
     expandBtn.type = 'button';
     expandBtn.hidden = true;
     expandBtn.setAttribute('aria-expanded', 'false');
-    expandBtn.setAttribute('aria-label', 'הרחב חלונית הערה');
+    expandBtn.setAttribute('aria-label', L('הרחב חלונית הערה', 'Expand note panel'));
     expandBtn.addEventListener('click', function () {
       setExpanded(!isExpandedFlag);
     });
@@ -696,7 +699,7 @@
     closeBtn = el('button', 'fn-btn fn-close-btn', '✕');
     closeBtn.id = 'close-drawer-btn';
     closeBtn.type = 'button';
-    closeBtn.setAttribute('aria-label', 'סגור הערה');
+    closeBtn.setAttribute('aria-label', L('סגור הערה', 'Close note'));
     closeBtn.addEventListener('click', function () { close(); });
 
     actionsEl.appendChild(backBtn);
@@ -712,7 +715,7 @@
     bodyEl.id = 'fn-drawer-body';
     bodyEl.tabIndex = 0;
     bodyEl.setAttribute('role', 'region');
-    bodyEl.setAttribute('aria-label', 'תוכן ההערה');
+    bodyEl.setAttribute('aria-label', L('תוכן ההערה', 'Note text'));
 
     footerEl = el('div', 'fn-drawer-footer');
     footerEl.id = 'fn-drawer-footer';

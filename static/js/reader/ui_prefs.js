@@ -14,8 +14,8 @@
   if (!hlOn) root.classList.add('no-line-hl');
 
   var EN = {
-    'עמוד': 'Page', 'מתוך': 'of', 'כתב היד': 'Manuscript', 'הערה': 'Note', 'המשך': 'cont.',
-    'הערות עמוד': 'Notes, page', 'פתח את כתב היד של עמוד': 'Open manuscript of page',
+    'עמוד': 'Page', 'מתוך': 'of', 'הדפוס': 'Printed', 'הערה': 'Note', 'המשך': 'cont.',
+    'הערות עמוד': 'Notes, page', 'פתח את הדפוס של עמוד': 'Open printed page',
     'עבור לעמוד': 'Go to page', 'הטקסט לא נטען. נסו לרענן את הדף.': 'Text failed to load. Please refresh.'
   };
   // Translate a Hebrew UI phrase when the UI is English.
@@ -28,7 +28,7 @@
       ['.skip', 'text', 'Skip to text'],
       ['#mobilePagerTabs', 'aria-label', 'View'],
       ['#mobileTabText', 'text', 'Text'],
-      ['#mobileTabScan', 'text', 'Manuscript'],
+      ['#mobileTabScan', 'text', 'Printed'],
       ['label[for="jumpInput"]', 'text', 'Go to page'],
       ['#jumpInput', 'placeholder', 'Page'],
       ['#jumpForm button[type="submit"]', 'text', 'Go'],
@@ -40,9 +40,11 @@
       ['#fontUp', 'text', 'A+'],
       ['#markBtn', 'aria-label', 'Show page markers'],
       ['#markBtn', 'text', 'Pg'],
+      ['#settingsBtn', 'aria-label', 'Display settings'],
+      ['#settingsPop', 'aria-label', 'Display settings'],
       ['#themeBtn', 'aria-label', 'Toggle color theme'],
-      ['#scanPane', 'aria-label', 'Manuscript'],
-      ['.scan-controls', 'aria-label', 'Manuscript zoom'],
+      ['#scanPane', 'aria-label', 'Printed'],
+      ['.scan-controls', 'aria-label', 'Printed page zoom'],
       ['#scanZoomOut', 'aria-label', 'Zoom out'],
       ['#scanZoomReset', 'aria-label', 'Fit to width'],
       ['#scanZoomIn', 'aria-label', 'Zoom in'],
@@ -106,11 +108,49 @@
       location.reload();
     });
 
-    tools.insertBefore(hl, anchor);
+    var pop = document.getElementById('settingsPop');
+    if (pop) pop.appendChild(hl); else tools.insertBefore(hl, anchor);
     tools.insertBefore(lg, anchor);
   }
 
-  document.addEventListener('DOMContentLoaded', function () { applyStatic(); buildButtons(); });
+  // "Aa" display-settings popover (font, markers, theme, line highlight).
+  function bindSettings() {
+    var btn = document.getElementById('settingsBtn');
+    var pop = document.getElementById('settingsPop');
+    if (!btn || !pop) return;
+    function show(open) {
+      pop.hidden = !open;
+      btn.setAttribute('aria-expanded', open ? 'true' : 'false');
+    }
+    btn.addEventListener('click', function (ev) { ev.stopPropagation(); show(pop.hidden); });
+    document.addEventListener('click', function (ev) {
+      if (!pop.hidden && !pop.contains(ev.target) && ev.target !== btn) show(false);
+    });
+    document.addEventListener('keydown', function (ev) {
+      if (ev.key === 'Escape' && !pop.hidden) { show(false); btn.focus(); }
+    });
+  }
+
+  // Hover tooltips: every toolbar/scan control shows its (localized) label on hover.
+  function syncTooltips() {
+    var els = document.querySelectorAll('.bar button[aria-label], .scan-controls button[aria-label]');
+    for (var i = 0; i < els.length; i++) els[i].title = els[i].getAttribute('aria-label');
+  }
+  function watchTooltips() {
+    syncTooltips();
+    var bar = document.getElementById('bar');
+    if (bar && window.MutationObserver) {
+      new MutationObserver(syncTooltips).observe(bar, { subtree: true, attributes: true, attributeFilter: ['aria-label'], childList: true });
+    }
+  }
+
+  var started = false;
+  function start() {
+    if (started) return;
+    started = true;
+    applyStatic(); buildButtons(); bindSettings(); watchTooltips();
+  }
+  document.addEventListener('DOMContentLoaded', start);
   // Run immediately too if the DOM is already parsed (defensive).
-  if (document.readyState !== 'loading') { applyStatic(); buildButtons(); }
+  if (document.readyState !== 'loading') start();
 })();

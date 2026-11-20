@@ -61,9 +61,10 @@ body {
   backdrop-filter: blur(8px); -webkit-backdrop-filter: blur(8px);
   border-block-end: 1px solid var(--rule);
   padding-block-start: env(safe-area-inset-top);
-  transition: transform 0.2s ease;
+  transition: transform 0.2s ease, margin 0.2s ease;
 }
-.bar.hide { transform: translateY(-100%); }
+/* Hidden on phones while scrolling down: slide up AND give the space back to the text. */
+.bar.hide { transform: translateY(-100%); margin-block-end: calc(-1 * var(--bar-live-h, 64px)); }
 .bar-row {
   display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between;
   gap: 8px 16px; padding: 8px var(--gutter); min-block-size: 62px;
@@ -317,7 +318,7 @@ dialog#grid::backdrop { background: rgb(0 0 0 / 0.55); }
 
 @media (prefers-reduced-motion: reduce) {
   html { scroll-behavior: auto !important; }
-  .bar, .pager-track { transition: none !important; }
+  .bar, .pager-track, .settings-pop { transition: none !important; }
 }
 @media print {
   .bar, .foot, dialog, .pane-scan, .scan-controls { display: none; }
@@ -333,5 +334,26 @@ dialog#grid::backdrop { background: rgb(0 0 0 / 0.55); }
 .no-line-hl .scan-line-box.is-hover,
 .no-line-hl .scan-para-anchor.is-hover,
 .no-line-hl .scan-fn-box.is-hover { background: transparent; outline: none; box-shadow: none; }
-#hlBtn[aria-pressed="false"] { opacity: 0.5; text-decoration: line-through; }
+#hlBtn[aria-pressed="false"] { opacity: 0.55; }
 .lang-btn { font-size: 1.1em; line-height: 1; }
+
+/* "Aa" display-settings popover */
+.settings { position: relative; }
+.settings-pop {
+  position: absolute; inset-block-start: calc(100% + 6px); inset-inline-end: 0; z-index: 40;
+  display: flex; flex-wrap: wrap; gap: 6px; padding: 8px;
+  background: var(--surface); border: 1px solid var(--rule); border-radius: 10px;
+  box-shadow: 0 8px 24px rgb(0 0 0 / 0.14); inline-size: max-content; max-inline-size: calc(100vw - 32px);
+}
+.settings-pop[hidden] { display: none; }
+#settingsBtn[aria-expanded="true"] { border-color: var(--accent); }
+
+/* Phones: one compact tool row under a one-line title; page jump lives in the ▦ list. */
+@media (max-width: 560px) {
+  .jump { display: none; }
+  .bar-row { min-block-size: 0; }
+  .bar-tools { flex-wrap: nowrap; justify-content: space-between; }
+  /* Anchor the popover to the bar (position: relative) so it spans the screen, never off-edge. */
+  .settings { position: static; }
+  .settings-pop { inset-block-start: 100%; inset-inline: 12px; max-inline-size: none; inline-size: auto; justify-content: center; }
+}

@@ -3,6 +3,9 @@
 // and hover-only line/paragraph highlighting.
 window.ReaderScanPane = (function () {
   'use strict';
+  // UI language (ui_prefs.js): note text stays Hebrew; only the interface switches.
+  var IS_EN = typeof window !== 'undefined' && window.RYMH_LANG === 'en';
+  function L(he, en) { return IS_EN ? en : he; }
 
   function createScanPane(options) {
     var opts = options || {};
@@ -47,7 +50,7 @@ window.ReaderScanPane = (function () {
         var slot = el('section', 'scan-slot');
         slot.setAttribute('data-page', p.page);
         slot.setAttribute('data-n', String(p.n));
-        slot.setAttribute('aria-label', 'כתב היד עמוד ' + p.n);
+        slot.setAttribute('aria-label', L('הדפוס עמוד ', 'Printed page ') + p.n);
         slot.style.aspectRatio = w + ' / ' + h;
         slotsByN[p.n] = slot;
         frag.appendChild(slot);
@@ -109,7 +112,7 @@ window.ReaderScanPane = (function () {
       slot.style.aspectRatio = w + ' / ' + h;
       slot.textContent = '';
 
-      var badge = el('div', 'scan-page-badge', 'עמוד ' + pageData.n);
+      var badge = el('div', 'scan-page-badge', L('עמוד ', 'Page ') + pageData.n);
       badge.setAttribute('dir', 'rtl');
       slot.appendChild(badge);
 
@@ -119,7 +122,7 @@ window.ReaderScanPane = (function () {
       img.height = h;
       img.decoding = 'async';
       img.draggable = false;
-      img.alt = 'כתב היד עמוד ' + pageData.n;
+      img.alt = L('הדפוס עמוד ', 'Printed page ') + pageData.n;
       var primary = preferredScanSrc(pageData);
       img.addEventListener('error', function () {
         if (pageData.webp && img.getAttribute('src') === pageData.webp && pageData.img) {

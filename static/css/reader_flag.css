@@ -339,3 +339,5 @@
     animation: none !important;
   }
 }
+
+.flag-field[hidden] { display: none; }
