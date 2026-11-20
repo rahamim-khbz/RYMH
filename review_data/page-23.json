@@ -3,7 +3,7 @@
   "image": "page_images/page-23.jpg",
   "page_width": 2550,
   "page_height": 3300,
-  "base_hash": "sha256:2f710df638f97e66bf36cfaf9e4ee87c78a12c50543ade075addfea19d240eca",
+  "base_hash": "sha256:70ccdd115b4c6ec49af1fb3b9f8324648436bed905187c34501ee1dab649fe50",
   "lines": [
     {
       "line_id": "eSc_line_940934f7",
@@ -16,8 +16,8 @@
         "WIDTH": 33,
         "HEIGHT": 52
       },
-      "para_start": true,
-      "is_catchword": false
+      "para_start": false,
+      "is_catchword": true
     },
     {
       "line_id": "eSc_line_6a95a569",
@@ -31,13 +31,13 @@
         "HEIGHT": 96
       },
       "para_start": false,
-      "is_catchword": false
+      "is_catchword": true
     },
     {
       "line_id": "eSc_line_f224b83e",
       "kind": "main",
       "idx": 2,
-      "text": "'על ד' סעיפי הספק הב' בטוב טעם ודעת, ובראיות מופתיות על כל דבר ודבר (כי על הסעיף הה",
+      "text": "על ד' סעיפי הספק הב' בטוב טעם ודעת, ובראיות מופתיות על כל דבר ודבר (כי על הסעיף הה'",
       "coords": {
         "HPOS": 201,
         "VPOS": 227,
@@ -101,12 +101,12 @@
         "HEIGHT": 62
       },
       "para_start": false,
-      "is_catchword": false
+      "is_catchword": true
     },
     {
       "line_id": "eSc_line_bb571aec",
-      "kind": "main",
-      "idx": 7,
+      "kind": "footnote",
+      "idx": 0,
       "text": "נוסח היוחסין הוא כמין חומר, דכיון דהוא בכתיבה ויש צד נזק שמא יבואו לקרות מתוך הכתב. א\"כ דבר זה אינו נעשה",
       "coords": {
         "HPOS": 194,
@@ -114,13 +114,12 @@
         "WIDTH": 2034,
         "HEIGHT": 59
       },
-      "para_start": false,
-      "is_catchword": false
+      "para_start": false
     },
     {
       "line_id": "eSc_line_3c6b2ff7",
-      "kind": "main",
-      "idx": 8,
+      "kind": "footnote",
+      "idx": 1,
       "text": "ונגמר, אלא מפני ההכרח, וע\"ז שפיר סיים דלא הוו צריכי לחיבורי ר\"ל כתוב לפניהם, יען בלאו הכי מילי דמגרסן על פה",
       "coords": {
         "HPOS": 194,
@@ -128,13 +127,12 @@
         "WIDTH": 2031,
         "HEIGHT": 57
       },
-      "para_start": false,
-      "is_catchword": false
+      "para_start": false
     },
     {
       "line_id": "eSc_line_c7027662",
-      "kind": "main",
-      "idx": 9,
+      "kind": "footnote",
+      "idx": 2,
       "text": "אינון, ר\"ל שאסורים ללמדם מתוך הכתב, וא\"כ למה היו צריכים לחיבור מסודר לפניהם? ואי מפני השכחה, מזה לא היה",
       "coords": {
         "HPOS": 194,
@@ -142,13 +140,12 @@
         "WIDTH": 2031,
         "HEIGHT": 61
       },
-      "para_start": false,
-      "is_catchword": false
+      "para_start": false
     },
     {
       "line_id": "eSc_line_c5ce707d",
-      "kind": "main",
-      "idx": 10,
+      "kind": "footnote",
+      "idx": 3,
       "text": "פחד, כי היו איש תחת גפנו, ותחת תאנתו, וכל חד וחד ידעי להו בקבלה\" ולא היה פחד שכחה, א\"כ לא הוו צריכי לחבורי",
       "coords": {
         "HPOS": 199,
@@ -156,41 +153,38 @@
         "WIDTH": 2028,
         "HEIGHT": 59
       },
-      "para_start": false,
-      "is_catchword": false
+      "para_start": false
     },
     {
       "line_id": "eSc_line_543c3993",
-      "kind": "main",
-      "idx": 11,
-      "text": ",ולמכתבינהו, עד דחריב בה\"מ והוכפלו הצרות, וגברה השכחה, והיו התלמידים דלא ידעי כותהון צריכים לחיבורים",
+      "kind": "footnote",
+      "idx": 4,
+      "text": "ולמכתבינהו, עד דחריב בה\"מ והוכפלו הצרות, וגברה השכחה, והיו התלמידים דלא ידעי כותהון צריכים לחיבורים,",
       "coords": {
         "HPOS": 207,
         "VPOS": 832,
         "WIDTH": 2020,
         "HEIGHT": 66
       },
-      "para_start": false,
-      "is_catchword": false
+      "para_start": false
     },
     {
       "line_id": "eSc_line_a0de1969",
-      "kind": "main",
-      "idx": 12,
-      "text": "ושפיר ראיה מר\"א בן הורקנוס שלא אמר דבר שלא שמע מפי רבו, ולמה לא שמע בל מה שידע רבו אחרי ששימש כל צרכו",
+      "kind": "footnote",
+      "idx": 5,
+      "text": "ושפיר ראיה מר\"א בן הורקנוס שלא אמר דבר שלא שמע מפי רבו, ולמה לא שמע כל מה שידע רבו אחרי ששימש כל צרכו",
       "coords": {
         "HPOS": 196,
         "VPOS": 892,
         "WIDTH": 2031,
         "HEIGHT": 55
       },
-      "para_start": false,
-      "is_catchword": false
+      "para_start": false
     },
     {
       "line_id": "eSc_line_f3e86814",
-      "kind": "main",
-      "idx": 13,
+      "kind": "footnote",
+      "idx": 6,
       "text": "כידוע? אלא שמפני הבלבולים, והשמדות והחורבנות, לא היה לו לרבו זמן מספיק להוריש לתלמידו כל מה שידע, ולא",
       "coords": {
         "HPOS": 194,
@@ -198,13 +192,12 @@
         "WIDTH": 2033,
         "HEIGHT": 67
       },
-      "para_start": false,
-      "is_catchword": false
+      "para_start": false
     },
     {
       "line_id": "eSc_line_e454bb72",
-      "kind": "main",
-      "idx": 14,
+      "kind": "footnote",
+      "idx": 7,
       "text": "הוא היה יכול ללקוט הכל, ובין כך, ובין כך, אבדנו כמה שמועות, שאנו מוכרחים בכל דור ודור, להחזירם מתוך",
       "coords": {
         "HPOS": 198,
@@ -212,13 +205,12 @@
         "WIDTH": 2029,
         "HEIGHT": 61
       },
-      "para_start": false,
-      "is_catchword": false
+      "para_start": false
     },
     {
       "line_id": "eSc_line_e6b679ee",
-      "kind": "main",
-      "idx": 15,
+      "kind": "footnote",
+      "idx": 8,
       "text": "הפלפול ודרכי ההוראה וההקש, וכפי משקל זה דברי הגאון ז\"ל שקולים בשקל הקדש, שע\"י חיבור בכתיבה גנוז, אפי' יהיו",
       "coords": {
         "HPOS": 196,
@@ -226,13 +218,12 @@
         "WIDTH": 2027,
         "HEIGHT": 68
       },
-      "para_start": false,
-      "is_catchword": false
+      "para_start": false
     },
     {
       "line_id": "eSc_line_c8d559a6",
-      "kind": "main",
-      "idx": 16,
+      "kind": "footnote",
+      "idx": 9,
       "text": "אלף צרות בדור אחד שמסיבתם המלמדים והתלמידים לא יתראו זה ע\"ז, עכ\"פ ברור שישקטו מזעף הצרות, יחזרו על",
       "coords": {
         "HPOS": 194,
@@ -240,13 +231,12 @@
         "WIDTH": 2031,
         "HEIGHT": 71
       },
-      "para_start": false,
-      "is_catchword": false
+      "para_start": false
     },
     {
       "line_id": "eSc_line_7095b85c",
-      "kind": "main",
-      "idx": 17,
+      "kind": "footnote",
+      "idx": 10,
       "text": "לימודם ע\"י החיבורים הגנוזים, אבל לפי נוסחת הח\"מ, מאי ראיה מר\"א בן הורקנוס? עד עכשיו אומר הגאון שהקדמונים",
       "coords": {
         "HPOS": 190,
@@ -254,13 +244,12 @@
         "WIDTH": 2033,
         "HEIGHT": 61
       },
-      "para_start": false,
-      "is_catchword": false
+      "para_start": false
     },
     {
       "line_id": "eSc_line_ed8d7451",
-      "kind": "main",
-      "idx": 18,
+      "kind": "footnote",
+      "idx": 11,
       "text": "לא הוו צריכי לחבורי מילי דגרסי פה אחד, ועכשיו צריכין, מפני טעם מה לא אמר ולא מידי? ולא שייך לומר טעם",
       "coords": {
         "HPOS": 192,
@@ -268,13 +257,12 @@
         "WIDTH": 2033,
         "HEIGHT": 57
       },
-      "para_start": false,
-      "is_catchword": false
+      "para_start": false
     },
     {
       "line_id": "eSc_line_837b4781",
-      "kind": "main",
-      "idx": 19,
+      "kind": "footnote",
+      "idx": 12,
       "text": "שכחה, ונשאר בקולמוס הגאון, שהרי המונח הוא בגירסת פה אחד, ועדין בלי שום זכר כתב כלל, ומאי אהניא, ומאי",
       "coords": {
         "HPOS": 192,
@@ -282,41 +270,38 @@
         "WIDTH": 2035,
         "HEIGHT": 64
       },
-      "para_start": false,
-      "is_catchword": false
+      "para_start": false
     },
     {
       "line_id": "eSc_line_51c0bd95",
-      "kind": "main",
-      "idx": 20,
-      "text": "ראיה מר\"א בן הורקנום שלא אמר דבר שלא שמע מפי רבו? שהכונה ודאי שחיסר מידיעת רבו מפני הבלבולים, ומאי תיקון",
+      "kind": "footnote",
+      "idx": 13,
+      "text": "ראיה מר\"א בן הורקנוס שלא אמר דבר שלא שמע מפי רבו? שהכונה ודאי שחיסר מידיעת רבו מפני הבלבולים, ומאי תיקון",
       "coords": {
         "HPOS": 192,
         "VPOS": 1318,
         "WIDTH": 2033,
         "HEIGHT": 62
       },
-      "para_start": false,
-      "is_catchword": false
+      "para_start": false
     },
     {
       "line_id": "eSc_line_391f496e",
-      "kind": "main",
-      "idx": 21,
-      "text": ",לזה בגירסת פה אחד ולשון אחד בלי שום כתב? והרי גם רבו מובהק ריב\"ז, ודאי שהיו כל שמועותיו פה אחד ולשון אחד",
+      "kind": "footnote",
+      "idx": 14,
+      "text": "לזה בגירסת פה אחד ולשון אחד בלי שום כתב? והרי גם רבו מובהק ריב\"ז, ודאי שהיו כל שמועותיו פה אחד ולשון אחד,",
       "coords": {
         "HPOS": 196,
         "VPOS": 1373,
         "WIDTH": 2031,
         "HEIGHT": 57
       },
-      "para_start": false,
-      "is_catchword": false
+      "para_start": false
     },
     {
       "line_id": "eSc_line_11e77d20",
-      "kind": "main",
-      "idx": 22,
+      "kind": "footnote",
+      "idx": 15,
       "text": "ועכ\"ז לא ידע מקצתן ראש תלמידיו מפני השמדות, וכבר נראה שבעל הנוסח הרגיש בעצמו, שאחר שהשמיט כל זכר",
       "coords": {
         "HPOS": 198,
@@ -324,27 +309,25 @@
         "WIDTH": 2027,
         "HEIGHT": 69
       },
-      "para_start": false,
-      "is_catchword": false
+      "para_start": false
     },
     {
       "line_id": "eSc_line_acf06144",
-      "kind": "main",
-      "idx": 23,
-      "text": "כתיבה וחיבור מהאגרת והפך הדברים וכנז\"ל, ראה עינו שראית ר\"א בן הורקנים אין לה קשר עם הקודם כלל, ולזה",
+      "kind": "footnote",
+      "idx": 16,
+      "text": "כתיבה וחיבור מהאגרת והפך הדברים וכנז\"ל, ראה עינו שראית ר\"א בן הורקנוס אין לה קשר עם הקודם כלל, ולזה",
       "coords": {
         "HPOS": 190,
         "VPOS": 1479,
         "WIDTH": 2035,
         "HEIGHT": 61
       },
-      "para_start": false,
-      "is_catchword": false
+      "para_start": false
     },
     {
       "line_id": "eSc_line_35aa58e3",
-      "kind": "main",
-      "idx": 24,
+      "kind": "footnote",
+      "idx": 17,
       "text": "במקום \"והוו צריכין לחבורי\" הכתוב ביוחסין, שינה וכתב \"והוו אמרין משמהון\" כלומר מלבד דהרוחנו שהשמטנו \"צריכין",
       "coords": {
         "HPOS": 192,
@@ -352,13 +335,12 @@
         "WIDTH": 2031,
         "HEIGHT": 59
       },
-      "para_start": false,
-      "is_catchword": false
+      "para_start": false
     },
     {
       "line_id": "eSc_line_a4060c75",
-      "kind": "main",
-      "idx": 25,
+      "kind": "footnote",
+      "idx": 18,
       "text": "לחבורי\" דמשמע חיבור כתוב, עוד זאת דע\"י זה באמת תבא ראיית ר\"א בן הורקנוס כמין חומר, שהרי לא אמר דבר שלא",
       "coords": {
         "HPOS": 190,
@@ -366,13 +348,12 @@
         "WIDTH": 2031,
         "HEIGHT": 61
       },
-      "para_start": false,
-      "is_catchword": false
+      "para_start": false
     },
     {
       "line_id": "eSc_line_bd48385d",
-      "kind": "main",
-      "idx": 26,
+      "kind": "footnote",
+      "idx": 19,
       "text": "שמע מפי רבו, מכלל דהוו אמרין משמהון, אבל לשוא שקר, דגם זה מלבד שאינה ראיה כלל דהוו אמרין משמהון, שהתם",
       "coords": {
         "HPOS": 190,
@@ -380,13 +361,12 @@
         "WIDTH": 2035,
         "HEIGHT": 70
       },
-      "para_start": false,
-      "is_catchword": false
+      "para_start": false
     },
     {
       "line_id": "eSc_line_75dda22d",
-      "kind": "main",
-      "idx": 27,
+      "kind": "footnote",
+      "idx": 20,
       "text": "עיקר הכונה היא, שאפי' היה יודע להשיב מסברתו, היה מיראי ההוראה, ולא רצה לומר דבר מסברתו מה שלא שמע מפי",
       "coords": {
         "HPOS": 192,
@@ -394,13 +374,12 @@
         "WIDTH": 2029,
         "HEIGHT": 58
       },
-      "para_start": false,
-      "is_catchword": false
+      "para_start": false
     },
     {
       "line_id": "eSc_line_76d28fc2",
-      "kind": "main",
-      "idx": 28,
+      "kind": "footnote",
+      "idx": 21,
       "text": "רבו, אבל מי מפיס שאם ישאלוהו דבר ששמע מפי רבו, שהיה אומר אותו משם רבו ולא בסתם? כיון דתלמידו היה ומימיו",
       "coords": {
         "HPOS": 192,
@@ -408,13 +387,12 @@
         "WIDTH": 2027,
         "HEIGHT": 60
       },
-      "para_start": false,
-      "is_catchword": false
+      "para_start": false
     },
     {
       "line_id": "eSc_line_7f349551",
-      "kind": "main",
-      "idx": 29,
+      "kind": "footnote",
+      "idx": 22,
       "text": "היה שותה לא היה צריך להזכיר שם רבו בכל פעם, וא\"כ מאי ראיה דהוו אמרין משמהון? ואחרי מופלג האיר ה' את עיני",
       "coords": {
         "HPOS": 194,
@@ -422,13 +400,12 @@
         "WIDTH": 2027,
         "HEIGHT": 66
       },
-      "para_start": false,
-      "is_catchword": false
+      "para_start": false
     },
     {
       "line_id": "eSc_line_5f39790d",
-      "kind": "main",
-      "idx": 30,
+      "kind": "footnote",
+      "idx": 23,
       "text": "ומצאתי ראיה חותכת לדברי בפ\"א דערלה מ\"ז ר\"א אומר המעמיד בשרף ערלה אסור, אר\"י שמעתי בפירוש וכו', ועיין להרב",
       "coords": {
         "HPOS": 190,
@@ -436,27 +413,25 @@
         "WIDTH": 2031,
         "HEIGHT": 66
       },
-      "para_start": false,
-      "is_catchword": false
+      "para_start": false
     },
     {
       "line_id": "eSc_line_cced1964",
-      "kind": "main",
-      "idx": 31,
-      "text": "שושנים לדוך שם שפירש דכיון דר\"א לא אמר דבר שלא שמע מפי רבו על זה לא חילק בין עלים ועיקרים לפנים יען",
+      "kind": "footnote",
+      "idx": 24,
+      "text": "שושנים לדוד שם שפירש דכיון דר\"א לא אמר דבר שלא שמע מפי רבו על זה לא חילק בין עלים ועיקרים לפנים יען",
       "coords": {
         "HPOS": 194,
         "VPOS": 1895,
         "WIDTH": 2027,
         "HEIGHT": 70
       },
-      "para_start": false,
-      "is_catchword": false
+      "para_start": false
     },
     {
       "line_id": "eSc_line_4f9fd707",
-      "kind": "main",
-      "idx": 32,
+      "kind": "footnote",
+      "idx": 25,
       "text": "שהוא לא שמע מרבו, כ\"א הדין הכללי ולא הפרטי, וע\"ז אמר לו ר\"י שגם הוא היה תלמיד ריב\"ז שכבר שמעו הוא הדבר",
       "coords": {
         "HPOS": 194,
@@ -464,13 +439,12 @@
         "WIDTH": 2027,
         "HEIGHT": 68
       },
-      "para_start": false,
-      "is_catchword": false
+      "para_start": false
     },
     {
       "line_id": "eSc_line_51f2fccb",
-      "kind": "main",
-      "idx": 33,
+      "kind": "footnote",
+      "idx": 26,
       "text": "בפי' מפי רבו עיש\"ב. למדנו מזה תרתי כדאמרן ממש, למדנו שכונת שלא אמר דבר שלא שמע מפי רבו, היינו שלא הורה",
       "coords": {
         "HPOS": 192,
@@ -478,13 +452,12 @@
         "WIDTH": 2027,
         "HEIGHT": 68
       },
-      "para_start": false,
-      "is_catchword": false
+      "para_start": false
     },
     {
       "line_id": "eSc_line_abe4a55d",
-      "kind": "main",
-      "idx": 34,
+      "kind": "footnote",
+      "idx": 27,
       "text": "שום דין הנלמד בהקש בשיקול דעתו כמו חילוק זה שבין עלים ועקרים שאינן פרי שהוא דין פשוט ונלמד מכמה מקצועות",
       "coords": {
         "HPOS": 190,
@@ -492,13 +465,12 @@
         "WIDTH": 2033,
         "HEIGHT": 67
       },
-      "para_start": false,
-      "is_catchword": false
+      "para_start": false
     },
     {
       "line_id": "eSc_line_0c4f7e22",
-      "kind": "main",
-      "idx": 35,
+      "kind": "footnote",
+      "idx": 28,
       "text": "שבדין ערלה ובפרט ממשנה ט' שם ודוק כי מיראי ההוראה היה, ולמדנו דדבר ששמע מפי רבו היה אומרו בשמו, ולא היה",
       "coords": {
         "HPOS": 190,
@@ -506,13 +478,12 @@
         "WIDTH": 2029,
         "HEIGHT": 60
       },
-      "para_start": false,
-      "is_catchword": false
+      "para_start": false
     },
     {
       "line_id": "eSc_line_f2f93275",
-      "kind": "main",
-      "idx": 36,
+      "kind": "footnote",
+      "idx": 29,
       "text": "מזכיר שם רבו שהרי דין זה אמרוהו במשנה בשם ר\"א, הכל ממש כדאמרן עלז לבי בה'. ועוד דאפי' ידחה הדוחה כל מה",
       "coords": {
         "HPOS": 190,
@@ -520,13 +491,12 @@
         "WIDTH": 2029,
         "HEIGHT": 68
       },
-      "para_start": false,
-      "is_catchword": false
+      "para_start": false
     },
     {
       "line_id": "eSc_line_9c277893",
-      "kind": "main",
-      "idx": 37,
+      "kind": "footnote",
+      "idx": 30,
       "text": "שיעלה במזלגו סוף סוף לא יוכל להכחיש שהם דברים בלי קשר כלל למה שקדם, והוא הפסק החוט של חסד המשוך בדברי",
       "coords": {
         "HPOS": 196,
@@ -534,13 +504,12 @@
         "WIDTH": 2025,
         "HEIGHT": 65
       },
-      "para_start": false,
-      "is_catchword": false
+      "para_start": false
     },
     {
       "line_id": "eSc_line_4a8c0b4e",
-      "kind": "main",
-      "idx": 38,
+      "kind": "footnote",
+      "idx": 31,
       "text": "הגאון ז\"ל, דמעיקרא אומר: \"דקמאי לא צריכי וכו' עד דחריב ב\"המק\" שנעשה מה ולא כלום, כי אם בהפסק חידוש חדש",
       "coords": {
         "HPOS": 187,
@@ -548,27 +517,25 @@
         "WIDTH": 2030,
         "HEIGHT": 69
       },
-      "para_start": false,
-      "is_catchword": false
+      "para_start": false
     },
     {
       "line_id": "eSc_line_3fec3e57",
-      "kind": "main",
-      "idx": 39,
-      "text": ":דתלמידים שלא היו יודעים כמוהם אומרים משם רבותם, בראיה מר\"א בן הורקנוס מה ענין שמיטה אצל הר סיני? מו",
+      "kind": "footnote",
+      "idx": 32,
+      "text": "דתלמידים שלא היו יודעים כמוהם אומרים משם רבותם, בראיה מר\"א בן הורקנוס מה ענין שמיטה אצל הר סיני? מה:",
       "coords": {
         "HPOS": 188,
         "VPOS": 2326,
         "WIDTH": 2028,
         "HEIGHT": 64
       },
-      "para_start": false,
-      "is_catchword": false
+      "para_start": false
     },
     {
       "line_id": "eSc_line_51f1d0a5",
-      "kind": "main",
-      "idx": 40,
+      "kind": "footnote",
+      "idx": 33,
       "text": "ענין אומר הלכה משם רבו למאי דהוינן בה? ובפרט למאי שיבא אחר זה בגמר הדברים \"ולהכי אצטריך רבי\" או \"ודאצטריך",
       "coords": {
         "HPOS": 201,
@@ -576,13 +543,12 @@
         "WIDTH": 2015,
         "HEIGHT": 60
       },
-      "para_start": false,
-      "is_catchword": false
+      "para_start": false
     },
     {
       "line_id": "eSc_line_afad5b82",
-      "kind": "main",
-      "idx": 41,
+      "kind": "footnote",
+      "idx": 34,
       "text": "רבי\" מה קשר ודמות עם הקודם שהיו אומרים הלכה משם רבותם, בחיי ראשי איני יודע מה לומר על בעל הנוסח הזה כי",
       "coords": {
         "HPOS": 192,
@@ -590,13 +556,12 @@
         "WIDTH": 2022,
         "HEIGHT": 70
       },
-      "para_start": false,
-      "is_catchword": false
+      "para_start": false
     },
     {
       "line_id": "eSc_line_020e0ce5",
-      "kind": "main",
-      "idx": 42,
+      "kind": "footnote",
+      "idx": 35,
       "text": "אם, כי לא די כי דמי האי מרבנן כדלא גמרי אינשי שמעתתא, אלא עוד זאת...... ושתיקותי יפה לי, ומי לא יראה",
       "coords": {
         "HPOS": 190,
@@ -604,13 +569,12 @@
         "WIDTH": 2024,
         "HEIGHT": 60
       },
-      "para_start": false,
-      "is_catchword": false
+      "para_start": false
     },
     {
       "line_id": "eSc_line_e6eaaad8",
-      "kind": "main",
-      "idx": 43,
+      "kind": "footnote",
+      "idx": 36,
       "text": "אמיתות דברי אלה על פני כל הנוסח הזה כי עלה כולו קמשונים וזדונים עד להפליא מה פירוש בדברים אלו, ודאצטריך",
       "coords": {
         "HPOS": 196,
@@ -618,13 +582,12 @@
         "WIDTH": 2018,
         "HEIGHT": 68
       },
-      "para_start": false,
-      "is_catchword": false
+      "para_start": false
     },
     {
       "line_id": "eSc_line_e3431bae",
-      "kind": "main",
-      "idx": 44,
+      "kind": "footnote",
+      "idx": 37,
       "text": "רבי למאי דפרישנא\" שאינם לא גמר לדברים שקדמו יען שלא סיים בלשון \"ולהכי אצטריך\" ולא התחלת ענין, שהרי לא",
       "coords": {
         "HPOS": 192,
@@ -632,13 +595,12 @@
         "WIDTH": 2020,
         "HEIGHT": 72
       },
-      "para_start": false,
-      "is_catchword": false
+      "para_start": false
     },
     {
       "line_id": "eSc_line_44e47da0",
-      "kind": "main",
-      "idx": 45,
+      "kind": "footnote",
+      "idx": 38,
       "text": "אמר כלום אח\"ז כמו שבאמת שם סיום הענין, וידוע שלשון \"ודאצטריך\" הוא התחלת דיבור ונתינת טעם חדש או ישן ולא",
       "coords": {
         "HPOS": 192,
@@ -646,13 +608,12 @@
         "WIDTH": 2022,
         "HEIGHT": 67
       },
-      "para_start": false,
-      "is_catchword": false
+      "para_start": false
     },
     {
       "line_id": "eSc_line_b3b6ecb8",
-      "kind": "main",
-      "idx": 46,
+      "kind": "footnote",
+      "idx": 39,
       "text": "חזינא כהאי סימנא ועוד מה זה \"למאי דפרישנא\"? ולמה לא יאמר אותו בפירוש כדרך הגאון ז\"ל בכל האגרת לחזור ולחזור",
       "coords": {
         "HPOS": 190,
@@ -660,13 +621,12 @@
         "WIDTH": 2022,
         "HEIGHT": 62
       },
-      "para_start": false,
-      "is_catchword": false
+      "para_start": false
     },
     {
       "line_id": "eSc_line_1bce30cc",
-      "kind": "main",
-      "idx": 47,
+      "kind": "footnote",
+      "idx": 40,
       "text": "לברר הדבר הדק היטב? אבל האמת עד לעצמו שרצה להשמיט לחבורי ולתרוצי וכו' הכתוב ביוחסין, ולא מצא דברים",
       "coords": {
         "HPOS": 190,
@@ -674,27 +634,25 @@
         "WIDTH": 2024,
         "HEIGHT": 66
       },
-      "para_start": false,
-      "is_catchword": false
+      "para_start": false
     },
     {
       "line_id": "eSc_line_4ba5d1cf",
-      "kind": "main",
-      "idx": 48,
-      "text": "נאותים ליתן במקומם, ונתפחד שלא ילכד ברשתני, ע\"ז השלים הענין בכותבו \"למאי דפרישנא\" כלומר מה שסדרתי למעלה",
+      "kind": "footnote",
+      "idx": 41,
+      "text": "נאותים ליתן במקומם, ונתפחד שלא ילכד ברשתנו, ע\"ז השלים הענין בכותבו \"למאי דפרישנא\" כלומר מה שסדרתי למעלה",
       "coords": {
         "HPOS": 190,
         "VPOS": 2805,
         "WIDTH": 2024,
         "HEIGHT": 69
       },
-      "para_start": false,
-      "is_catchword": false
+      "para_start": false
     },
     {
       "line_id": "eSc_line_eed80961",
-      "kind": "main",
-      "idx": 49,
+      "kind": "footnote",
+      "idx": 42,
       "text": "והוא: \"חיבורי מילי דגרסי פה אחד\" וכאן בא לו הענין כבר לחזור ולשנותו וע\"כ החליפו \"בלמאי דפרישנא\" וזה מלבד",
       "coords": {
         "HPOS": 194,
@@ -702,36 +660,33 @@
         "WIDTH": 2020,
         "HEIGHT": 69
       },
-      "para_start": false,
-      "is_catchword": false
-    },
-    {
-      "line_id": "eSc_line_3941677d",
-      "kind": "main",
-      "idx": 50,
-      "text": ".טעיות מנוולים כאלו אם דאוי לסמוך על הנוסח הזה אפי' בדרך מראה וריח",
-      "coords": {
-        "HPOS": 895,
-        "VPOS": 2966,
-        "WIDTH": 1317,
-        "HEIGHT": 73
-      },
-      "para_start": false,
-      "is_catchword": false
+      "para_start": false
     },
     {
       "line_id": "eSc_line_3bc7dc6e",
-      "kind": "main",
-      "idx": 51,
-      "text": "הקמשונים \"דנא\" במקום דנח\" \"ודאיתבהי, במקום \"ב' דורות\" וטעות זה האחרון הוא מעות לא יוכל לתקון ואיני יודע אחר",
+      "kind": "footnote",
+      "idx": 43,
+      "text": "הקמשונים \"דנא\" במקום דנח\" \"ודאיתבהי\" במקום \"ב' דורות\" וטעות זה האחרון הוא מעות לא יוכל לתקון ואיני יודע אחר",
       "coords": {
         "HPOS": 194,
         "VPOS": 2916,
         "WIDTH": 2020,
         "HEIGHT": 77
       },
-      "para_start": true,
-      "is_catchword": false
+      "para_start": false
+    },
+    {
+      "line_id": "eSc_line_3941677d",
+      "kind": "footnote",
+      "idx": 44,
+      "text": "טעיות מנוולים כאלו אם ראוי לסמוך על הנוסח הזה אפי' בדרך מראה וריח.",
+      "coords": {
+        "HPOS": 895,
+        "VPOS": 2966,
+        "WIDTH": 1317,
+        "HEIGHT": 73
+      },
+      "para_start": false
     }
   ]
 }

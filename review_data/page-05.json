@@ -3,7 +3,7 @@
   "image": "page_images/page-05.png",
   "page_width": 2550,
   "page_height": 3300,
-  "base_hash": "sha256:fb2d21421efe16759d9f63cbb1c78f4d0000342c0d8ce037c4221206c8ede9af",
+  "base_hash": "sha256:7a35f54bcbb8b8c0fedec5cf5e88c41d8b7784987cf416812771ab9330638b9b",
   "lines": [
     {
       "line_id": "_09dd9b79-030d-4460-b425-3bed689887fc",
@@ -37,7 +37,7 @@
       "line_id": "_43a94cd5-8c6f-40a6-903d-b93e0d84e3e3",
       "kind": "main",
       "idx": 2,
-      "text": "והנורא הזה, בין רבותינו גאוני ספרד הקדמונים והאחדונים, לבין רבותינו גאוני צרפת הקדמונים",
+      "text": "והנורא הזה, בין רבותינו גאוני ספרד הקדמונים והאחרונים, לבין רבותינו גאוני צרפת הקדמונים",
       "coords": {
         "HPOS": 148,
         "VPOS": 346,
@@ -79,7 +79,7 @@
       "line_id": "_15fa0625-2e24-4e8b-b4c1-277cb026af4f",
       "kind": "main",
       "idx": 5,
-      "text": "המקלוקת על מתכונתו יתראה במופת חותך שנוסח האגרת המובאה בספר יוחסין הוא נוסח הספרדי",
+      "text": "המחלוקת על מתכונתו יתראה במופת חותך שנוסח האגרת המובאה בספר יוחסין הוא נוסח הספרדי",
       "coords": {
         "HPOS": 172,
         "VPOS": 544,
@@ -303,7 +303,7 @@
       "line_id": "_b3df2b81-a472-4756-867c-9cf5df87a85e",
       "kind": "main",
       "idx": 21,
-      "text": "יהיה איך שיהיה הענין, כבר נראה לעיני השמש והירח שגאוני ספרד כרוזא קרו בחיל שהיתה",
+      "text": "**יהיה** איך שיהיה הענין, כבר נראה לעיני השמש והירח שגאוני ספרד כרוזא קרו בחיל שהיתה",
       "coords": {
         "HPOS": 150,
         "VPOS": 1580,
@@ -373,7 +373,7 @@
       "line_id": "_6efacd73-3c21-4e84-9035-190be60d0fad",
       "kind": "main",
       "idx": 26,
-      "text": "הכתב כי אם בע\"פ ממש, (*) ומסיבת איסור זה נאסרה גם הכתיבה בדי שלא יבואו ללמוד מתוכו על",
+      "text": "הכתב כי אם בע\"פ ממש, (*) ומסיבת איסור זה נאסרה גם הכתיבה כדי שלא יבואו ללמוד מתוכו על",
       "coords": {
         "HPOS": 154,
         "VPOS": 1903,
@@ -409,12 +409,12 @@
         "HEIGHT": 64
       },
       "para_start": false,
-      "is_catchword": false
+      "is_catchword": true
     },
     {
       "line_id": "_a2cefa2d-a5ef-4a67-8bd3-16289b77b83e",
-      "kind": "main",
-      "idx": 29,
+      "kind": "footnote",
+      "idx": 0,
       "text": "(ב) לא אוכל עד אשר דברתי שתי דברות מתרעומת גדולה שיש לי על החכם המפורסם השד\"ל נר\"ו בספרו יודאיסמוס",
       "coords": {
         "HPOS": 154,
@@ -422,13 +422,12 @@
         "WIDTH": 2036,
         "HEIGHT": 68
       },
-      "para_start": true,
-      "is_catchword": false
+      "para_start": false
     },
     {
       "line_id": "_1c105735-0c9c-456d-9038-8b1781a12085",
-      "kind": "main",
-      "idx": 30,
+      "kind": "footnote",
+      "idx": 1,
       "text": "האיטלקי שבכתבו שם שלשלת התורה והחכמה למספר דורות בני ישראל לא הזכיר הספרדים תלמידי הגאונים כי אם",
       "coords": {
         "HPOS": 157,
@@ -436,13 +435,12 @@
         "WIDTH": 1958,
         "HEIGHT": 58
       },
-      "para_start": false,
-      "is_catchword": false
+      "para_start": false
     },
     {
       "line_id": "_e2859417-d1d1-4fbd-ab61-73e91a77aa28",
-      "kind": "main",
-      "idx": 31,
+      "kind": "footnote",
+      "idx": 2,
       "text": "לגנאי באומרו: \"שמהם פשטו השיבושים והדעות הזרות\" ומי יתנך כאח לי הגאון שי\"ר נר\"ו מספרך אשר כתבת בתולדות",
       "coords": {
         "HPOS": 155,
@@ -450,13 +448,12 @@
         "WIDTH": 2037,
         "HEIGHT": 67
       },
-      "para_start": false,
-      "is_catchword": false
+      "para_start": false
     },
     {
       "line_id": "_b85d979c-41d2-4b73-b4ac-e2ad71d28a99",
-      "kind": "main",
-      "idx": 32,
+      "kind": "footnote",
+      "idx": 3,
       "text": "ר\"ן בעל הערוך (הערה כ\"ו וכ\"ז ובתולדות ר\"ה גאון הערה ב' ג') הדברים והאמת האלה שהספרדים תלמידי הגאונים,",
       "coords": {
         "HPOS": 161,
@@ -464,13 +461,12 @@
         "WIDTH": 2025,
         "HEIGHT": 73
       },
-      "para_start": false,
-      "is_catchword": false
+      "para_start": false
     },
     {
       "line_id": "_c51d4b1f-b718-46c2-b473-acb0bb30e43c",
-      "kind": "main",
-      "idx": 33,
+      "kind": "footnote",
+      "idx": 4,
       "text": "והאיטלקים תלמידי הספרדים, והצרפתים והאשכנזים תלמידי האיטלקים, ועם שאתה הידיד ממיוחסי כהונה שבאשכנז",
       "coords": {
         "HPOS": 155,
@@ -478,13 +474,12 @@
         "WIDTH": 2037,
         "HEIGHT": 70
       },
-      "para_start": false,
-      "is_catchword": false
+      "para_start": false
     },
     {
       "line_id": "_22535010-384c-47c1-9e69-ed9189ab2efb",
-      "kind": "main",
-      "idx": 34,
+      "kind": "footnote",
+      "idx": 5,
       "text": "(עיין ועד לחכמים מע' ה\"מ דנ\"א ע\"א) עכ\"ז אהבת האמת אשר בקרבך קדוש חייבך להעיר האמת במה שהוא. ועתה חנן",
       "coords": {
         "HPOS": 157,
@@ -492,13 +487,12 @@
         "WIDTH": 2031,
         "HEIGHT": 75
       },
-      "para_start": false,
-      "is_catchword": false
+      "para_start": false
     },
     {
       "line_id": "_a79833bb-bc5c-43b2-adf0-9e39eefc6e10",
-      "kind": "main",
-      "idx": 35,
+      "kind": "footnote",
+      "idx": 6,
       "text": "לי רב רחומאי אחי\"ם לי נר\"ו בעי\"ת טריאיסטי יע\"א שאר חלקי כרם חמד בתורת שאלה, ובפתחי אורו עיני כל מעיני בראותי",
       "coords": {
         "HPOS": 157,
@@ -506,41 +500,38 @@
         "WIDTH": 2033,
         "HEIGHT": 68
       },
-      "para_start": false,
-      "is_catchword": false
+      "para_start": false
     },
     {
       "line_id": "_1799d72a-1fd1-4699-a0ac-18f1cf90ca1e",
-      "kind": "main",
-      "idx": 36,
-      "text": "שי\"ר נר\"ו שכתב בח\"ז בעמוד צ\"ט וז\"ל, \"ועוך זאת אומר ולא אתאפק כי בעיני תכונת וטהרת הנפש של חכמי ספרד גדולה",
+      "kind": "footnote",
+      "idx": 7,
+      "text": "שי\"ר נר\"ו שכתב בח\"ז בעמוד צ\"ט וז\"ל, \"ועוד זאת אומר ולא אתאפק כי בעיני תכונת וטהרת הנפש של חכמי ספרד גדולה",
       "coords": {
         "HPOS": 155,
         "VPOS": 2506,
         "WIDTH": 2037,
         "HEIGHT": 57
       },
-      "para_start": false,
-      "is_catchword": false
+      "para_start": false
     },
     {
       "line_id": "_4df15208-23e3-44e3-a313-41090d80c837",
-      "kind": "main",
-      "idx": 37,
-      "text": "וחזקה היא מאד מאד ואין עדוך אליה, דרך לימודיהם וסברותיהם העמוקות והישרות בתלמוד והלכות, וגם בחכמות,",
+      "kind": "footnote",
+      "idx": 8,
+      "text": "וחזקה היא מאד מאד ואין ערוך אליה, דרך לימודיהם וסברותיהם העמוקות והישרות בתלמוד והלכות, וגם בחכמות,",
       "coords": {
         "HPOS": 161,
         "VPOS": 2553,
         "WIDTH": 2029,
         "HEIGHT": 77
       },
-      "para_start": false,
-      "is_catchword": false
+      "para_start": false
     },
     {
       "line_id": "_d4fac9ce-e3c8-45df-85f7-d9bf9ca5f85c",
-      "kind": "main",
-      "idx": 38,
+      "kind": "footnote",
+      "idx": 9,
       "text": "וארח שירותם ותהלותם לצור ישראל, מתקו גם שניהם עד להפליא ולא בעבור למדו חכמת יונית נחלו מעלות האלה, רק",
       "coords": {
         "HPOS": 159,
@@ -548,13 +539,12 @@
         "WIDTH": 2031,
         "HEIGHT": 73
       },
-      "para_start": false,
-      "is_catchword": false
+      "para_start": false
     },
     {
       "line_id": "_e76d439d-90ed-4521-b4ff-a5f93fdf3701",
-      "kind": "main",
-      "idx": 39,
+      "kind": "footnote",
+      "idx": 10,
       "text": "להפך למדו גם חכמה יונית בעבור תכונת נפשם החזקה, ולא יראו רע, מאשר נכון לבם בטוח בה'\" עכ\"ד דברי אלהים חיים.",
       "coords": {
         "HPOS": 163,
@@ -562,41 +552,38 @@
         "WIDTH": 2027,
         "HEIGHT": 61
       },
-      "para_start": false,
-      "is_catchword": false
+      "para_start": false
     },
     {
       "line_id": "_801cb39f-a6da-4394-8028-927a869f8ef9",
-      "kind": "main",
-      "idx": 40,
-      "text": "ושוב ראיתי לרבינו המאירי בפתיחתו לאבות צד ל\"ב ע\"ב ואילך בסדר הרבנים שהאדיך בשבח גדולת גאוני ספרד אחר",
+      "kind": "footnote",
+      "idx": 11,
+      "text": "ושוב ראיתי לרבינו המאירי בפתיחתו לאבות צד ל\"ב ע\"ב ואילך בסדר הרבנים שהאריך בשבח גדולת גאוני ספרד אחר",
       "coords": {
         "HPOS": 163,
         "VPOS": 2713,
         "WIDTH": 2027,
         "HEIGHT": 68
       },
-      "para_start": true,
-      "is_catchword": false
+      "para_start": false
     },
     {
       "line_id": "_e1876689-3cbb-43ec-8550-15a648ae6720",
-      "kind": "main",
-      "idx": 41,
-      "text": "פשירת ר\"ה ז\"ל עד שכתב שהיו התלמידים חוזרים, והתורה מתפזרת ומתפשטת בכל ארצות ספרד מקצה ועד קצה, ואחר",
+      "kind": "footnote",
+      "idx": 12,
+      "text": "פטירת ר\"ה ז\"ל עד שכתב שהיו התלמידים חוזרים, והתורה מתפזרת ומתפשטת בכל ארצות ספרד מקצה ועד קצה, ואחר",
       "coords": {
         "HPOS": 163,
         "VPOS": 2770,
         "WIDTH": 2025,
         "HEIGHT": 66
       },
-      "para_start": false,
-      "is_catchword": false
+      "para_start": false
     },
     {
       "line_id": "_eaf98736-8090-4295-b949-b3d5cce2cfd1",
-      "kind": "main",
-      "idx": 42,
+      "kind": "footnote",
+      "idx": 13,
       "text": "זה היו בצרפת רבנים גדולים אלא שלא היו שם באותם הזמנים ישיבות מפורסמות על דרך שהיו בספרד.",
       "coords": {
         "HPOS": 460,
@@ -604,13 +591,12 @@
         "WIDTH": 1728,
         "HEIGHT": 60
       },
-      "para_start": false,
-      "is_catchword": false
+      "para_start": false
     },
     {
       "line_id": "_531999d3-3a8f-495f-b5df-979ca62c7019",
       "kind": "footnote",
-      "idx": 0,
+      "idx": 14,
       "text": "(*) וטעמים מספיקים אל הצווי הזה, עיין בהקדמת ס' אור ה' להפילוסוף האלהי ר\"א ן' חסדאי ותרוה צמאונך ועי\"ש כי",
       "coords": {
         "HPOS": 165,
@@ -623,7 +609,7 @@
     {
       "line_id": "_60a2cb25-1010-4bd1-98b8-f0115a4b8075",
       "kind": "footnote",
-      "idx": 1,
+      "idx": 15,
       "text": "משלנו דמזמן אנשי כנ\"הג כבר התחילו לכתוב.",
       "coords": {
         "HPOS": 1322,

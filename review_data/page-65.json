@@ -3,7 +3,7 @@
   "image": "page_images/page-65.jpg",
   "page_width": 2550,
   "page_height": 3300,
-  "base_hash": "sha256:20ab18c2434226f50ced97ae0d3bfc5697296afeda311ded73d6ffbb1da7d485",
+  "base_hash": "sha256:3c65716975058fc1dc891d5c27283225662bce97273733938eb7b8460d9fa20c",
   "lines": [
     {
       "line_id": "eSc_line_05708403",
@@ -23,7 +23,7 @@
       "line_id": "eSc_line_94077914",
       "kind": "main",
       "idx": 1,
-      "text": "\"כמה נקל לנפול הטעות בספרים הכתובים וכו' ובזה אין להאריך כי למפורסמות אין צריך ראיה",
+      "text": "כמה נקל לנפול הטעות בספרים הכתובים וכו' ובזה אין להאריך כי למפורסמות אין צריך ראיה\"",
       "coords": {
         "HPOS": 260,
         "VPOS": 278,
@@ -51,7 +51,7 @@
       "line_id": "eSc_line_b214aeac",
       "kind": "main",
       "idx": 3,
-      "text": "זאת שנית",
+      "text": "**זאת שנית**",
       "coords": {
         "HPOS": 1913,
         "VPOS": 401,
@@ -149,7 +149,7 @@
       "line_id": "eSc_line_250a8ca2",
       "kind": "main",
       "idx": 10,
-      "text": "הוא \"אמר רבי איכא מאן דלשאיל\" וכזה סרה קושית הגאון הרמ\"ז בחק\"ל יו\"ד דש\"י ע\"ר ודוק, ותמהני",
+      "text": "הוא \"אמר רבי איכא מאן דלשאיל\" ובזה סרה קושית הגאון הרמ\"ז בחק\"ל יו\"ד דש\"י ע\"ד ודוק, ותמהני",
       "coords": {
         "HPOS": 249,
         "VPOS": 797,
@@ -163,7 +163,7 @@
       "line_id": "eSc_line_09cf54c9",
       "kind": "main",
       "idx": 11,
-      "text": ",על בעלי הגהות איך עד היום לא נרגשו מטעות זה, אלא דמצד אחד אני תמיה על החידוש הזה",
+      "text": "על בעלי הגהות איך עד היום לא נרגשו מטעות זה, אלא דמצד אחד אני תמיה על החידוש הזה,",
       "coords": {
         "HPOS": 253,
         "VPOS": 865,
@@ -213,488 +213,12 @@
         "HEIGHT": 68
       },
       "para_start": false,
-      "is_catchword": false
-    },
-    {
-      "line_id": "eSc_line_3e090013",
-      "kind": "main",
-      "idx": 15,
-      "text": ",לז) ושוב ראיתי להתוס' בע\"ז דל\"ד ע\"א ד\"ה ו\"ע איקלע לגינזק שכתבו דרש\"י בתענית די\"אגרים מר עוקבא במקום ר\"ע)",
-      "coords": {
-        "HPOS": 243,
-        "VPOS": 1180,
-        "WIDTH": 2017,
-        "HEIGHT": 72
-      },
-      "para_start": false,
-      "is_catchword": false
-    },
-    {
-      "line_id": "eSc_line_a5dedcd5",
-      "kind": "main",
-      "idx": 16,
-      "text": "דח\"ו שר\"ע היה מסתפק באותם הדברים הפשוטים, ועוד כי היה לו לתלמוד להביאה בלשון ברייתא מיהו הא לא",
-      "coords": {
-        "HPOS": 240,
-        "VPOS": 1235,
-        "WIDTH": 1935,
-        "HEIGHT": 64
-      },
-      "para_start": false,
-      "is_catchword": false
-    },
-    {
-      "line_id": "eSc_line_b272ef12",
-      "kind": "main",
-      "idx": 17,
-      "text": "קשיא דהרבה מקומות מצינו שמזכיר מעשה בר\"ע וכיוצא בו עכ\"ד. הנה נמצא דקי\"ל להתוס דהתלמוד מורגל להביא",
-      "coords": {
-        "HPOS": 242,
-        "VPOS": 1298,
-        "WIDTH": 2019,
-        "HEIGHT": 58
-      },
-      "para_start": false,
-      "is_catchword": false
-    },
-    {
-      "line_id": "eSc_line_12497090",
-      "kind": "main",
-      "idx": 18,
-      "text": ",ענינים מהתנאים ומימרותיהם בלי לשון תנן או תניא וכדומה אלא מביאם כמו שמביא ענין או מימרא מאיזה אמורא פשוט",
-      "coords": {
-        "HPOS": 245,
-        "VPOS": 1345,
-        "WIDTH": 2018,
-        "HEIGHT": 70
-      },
-      "para_start": false,
-      "is_catchword": false
-    },
-    {
-      "line_id": "eSc_line_ce069dc3",
-      "kind": "main",
-      "idx": 19,
-      "text": "אמת, דלשון רש\"י בתענית כבר מוכיח זה שהרי עיקר חקירת רש\"י אינו אלא מסדר הלשון שהוא ר\"ע איקלע וכו' שהוא לשון",
-      "coords": {
-        "HPOS": 240,
-        "VPOS": 1400,
-        "WIDTH": 2021,
-        "HEIGHT": 68
-      },
-      "para_start": false,
-      "is_catchword": false
-    },
-    {
-      "line_id": "eSc_line_00c32a25",
-      "kind": "main",
-      "idx": 20,
-      "text": "תלמוד ולא לשון ברייתא, דלשון ברייתא הוא מעשה בר\"ע וכו ואיני יכול לחפש אגב ריהטאי אם יש מי שנתעורר בישוב לשון",
-      "coords": {
-        "HPOS": 242,
-        "VPOS": 1453,
-        "WIDTH": 2021,
-        "HEIGHT": 66
-      },
-      "para_start": false,
-      "is_catchword": false
-    },
-    {
-      "line_id": "eSc_line_27b18300",
-      "kind": "main",
-      "idx": 21,
-      "text": "רש\"י הלזה, יהיה איך שיהיה, עכ\"פ הרי מצינו שהתוס' מעידין בגדלן דהרבה מקומות מצינו בתלמוד כיוצא בו, והאמת כן",
-      "coords": {
-        "HPOS": 240,
-        "VPOS": 1516,
-        "WIDTH": 2023,
-        "HEIGHT": 57
-      },
-      "para_start": false,
-      "is_catchword": false
-    },
-    {
-      "line_id": "eSc_line_b518ca56",
-      "kind": "main",
-      "idx": 22,
-      "text": "הוא, שהרבה מאורעים וממרות של התנאים מובאים בסתם בתלמוד בלי שום לשון שמובן ממנו שהוא ברייתא או משנה או",
-      "coords": {
-        "HPOS": 240,
-        "VPOS": 1569,
-        "WIDTH": 2025,
-        "HEIGHT": 51
-      },
-      "para_start": false,
-      "is_catchword": false
-    },
-    {
-      "line_id": "eSc_line_98cfd9b4",
-      "kind": "main",
-      "idx": 23,
-      "text": "תוספתא, ועיין שבת דכ\"א ע\"א אמר רב הונא אמר רבי, כדרך שמביא מימרות האמוראים, וכן שם דל\"ב ע\"ב פליגי בה",
-      "coords": {
-        "HPOS": 242,
-        "VPOS": 1615,
-        "WIDTH": 2021,
-        "HEIGHT": 58
-      },
-      "para_start": false,
-      "is_catchword": false
-    },
-    {
-      "line_id": "eSc_line_32a0071e",
-      "kind": "main",
-      "idx": 24,
-      "text": "ר\"מ ור\"י, חד אמר וכו' וחד אמר וכו' והוא לשון תלמוד אחרון ממש, וכן שם דמ\"ו וביצה ד\"מ, בעא מיניה ר\"ש ברבי מרבי",
-      "coords": {
-        "HPOS": 243,
-        "VPOS": 1666,
-        "WIDTH": 2017,
-        "HEIGHT": 64
-      },
-      "para_start": false,
-      "is_catchword": false
-    },
-    {
-      "line_id": "eSc_line_97feb899",
-      "kind": "main",
-      "idx": 25,
-      "text": "בסתם, וכך כל אותם הענינים שמספר בריש פ' הפועלים מרבי אלעזר ברבי שמעון ורבי, וכן בעובדא דתנורו של עננאי",
-      "coords": {
-        "HPOS": 242,
-        "VPOS": 1717,
-        "WIDTH": 2021,
-        "HEIGHT": 65
-      },
-      "para_start": false,
-      "is_catchword": false
-    },
-    {
-      "line_id": "eSc_line_9d9f8588",
-      "kind": "main",
-      "idx": 26,
-      "text": "ב\"מ דנ\"ט ע\"ב) דביתהו דר\"א אחתיה דר\"ג וכו', הכל כאשר לכל הם מאורעים שארעו לתנאים גדולים ולא זאת בלבד)",
-      "coords": {
-        "HPOS": 243,
-        "VPOS": 1772,
-        "WIDTH": 2017,
-        "HEIGHT": 65
-      },
-      "para_start": false,
-      "is_catchword": false
-    },
-    {
-      "line_id": "eSc_line_d9bf9b9d",
-      "kind": "main",
-      "idx": 27,
-      "text": "שמביאם התלמוד מבלי שיקדים תנן או תניא או תנא, אלא עוד זאת דסדר סדר המערכה בלשון תלמודיי גמור, אקלע רבי",
-      "coords": {
-        "HPOS": 243,
-        "VPOS": 1837,
-        "WIDTH": 2018,
-        "HEIGHT": 51
-      },
-      "para_start": false,
-      "is_catchword": false
-    },
-    {
-      "line_id": "eSc_line_32b7857c",
-      "kind": "main",
-      "idx": 28,
-      "text": "לאתריה דראב\"ש, לאתריה דרבי טרפון (שם דפ\"ה) ולא לשון הקדש צחה כאשר הוא לשון התנאים כנודע. וכל זה מופת חותך",
-      "coords": {
-        "HPOS": 242,
-        "VPOS": 1877,
-        "WIDTH": 2016,
-        "HEIGHT": 66
-      },
-      "para_start": false,
-      "is_catchword": false
-    },
-    {
-      "line_id": "eSc_line_6270ae39",
-      "kind": "main",
-      "idx": 29,
-      "text": "לדברי התוס' הנז\"ל, דאלו לא היו הספיקות הפשוטים שא\"א לחשוב שלא ידע ר\"ע להתירן לא היה הדין להחליף הגירסא",
-      "coords": {
-        "HPOS": 238,
-        "VPOS": 1930,
-        "WIDTH": 2022,
-        "HEIGHT": 66
-      },
-      "para_start": false,
-      "is_catchword": false
-    },
-    {
-      "line_id": "eSc_line_636d9730",
-      "kind": "main",
-      "idx": 30,
-      "text": "מטעם שנוי הלשון לבד, ואפילו שמספר אותו התלמוד בלשון ר\"ע איקלע הרגיל לתלמוד אחרון, ולא בלשון מעשה בר\"ע",
-      "coords": {
-        "HPOS": 240,
-        "VPOS": 1987,
-        "WIDTH": 2020,
-        "HEIGHT": 62
-      },
-      "para_start": false,
-      "is_catchword": false
-    },
-    {
-      "line_id": "eSc_line_a928fb66",
-      "kind": "main",
-      "idx": 31,
-      "text": "בלשון ברייתא שהרי כן מצינו בהדבה מקומות. אלא דהואיל ואתא לידן כאן שנה רבי אין מעבירין על המצות, וראוי",
-      "coords": {
-        "HPOS": 242,
-        "VPOS": 2038,
-        "WIDTH": 2016,
-        "HEIGHT": 66
-      },
-      "para_start": false,
-      "is_catchword": false
-    },
-    {
-      "line_id": "eSc_line_4751a6f9",
-      "kind": "main",
-      "idx": 32,
-      "text": "לעמוד פה כמעט רגע למען דעת טעמן של דברים מאי שנא דברים אלו שמובאים על אופן האמור מענינים ודינים רבים",
-      "coords": {
-        "HPOS": 240,
-        "VPOS": 2097,
-        "WIDTH": 2020,
-        "HEIGHT": 59
-      },
-      "para_start": false,
-      "is_catchword": false
-    },
-    {
-      "line_id": "eSc_line_a89e5092",
-      "kind": "main",
-      "idx": 33,
-      "text": "המובאים בלשון ברייתא ומשנה ובהזכרת שם החיבור כמו תנן או תנא ותניא והדומה, אבל לפי היסוד האמת שיסדנו דכל",
-      "coords": {
-        "HPOS": 238,
-        "VPOS": 2152,
-        "WIDTH": 2020,
-        "HEIGHT": 59
-      },
-      "para_start": false,
-      "is_catchword": false
-    },
-    {
-      "line_id": "eSc_line_ffbf42f3",
-      "kind": "main",
-      "idx": 34,
-      "text": "המשניות והברייתות והתוספתות כבר היו מסודרות וכתובות וגנוזות ועומדות, ע\"ז כאשר מוכרח מחבר התלמוד להביא",
-      "coords": {
-        "HPOS": 242,
-        "VPOS": 2207,
-        "WIDTH": 2016,
-        "HEIGHT": 57
-      },
-      "para_start": false,
-      "is_catchword": false
-    },
-    {
-      "line_id": "eSc_line_311a7993",
-      "kind": "main",
-      "idx": 35,
-      "text": ",חדא מהנה לקובעה ולשוקעה בתלמודא, מעתיקה באותו לשון, ובאותו סגנון ומזכיר ג\"כ שם החיבור שממנו העתיקה",
-      "coords": {
-        "HPOS": 242,
-        "VPOS": 2253,
-        "WIDTH": 2014,
-        "HEIGHT": 73
-      },
-      "para_start": false,
-      "is_catchword": false
-    },
-    {
-      "line_id": "eSc_line_459d86b2",
-      "kind": "main",
-      "idx": 36,
-      "text": "כהשתמשו מחך מהלשונות הנאותים לאותו חבור, אם תנן או תניא או תנא או ת\"ש, ורמינהי, וכיוצא, וכאשר נאריך לאמן",
-      "coords": {
-        "HPOS": 238,
-        "VPOS": 2306,
-        "WIDTH": 2020,
-        "HEIGHT": 71
-      },
-      "para_start": false,
-      "is_catchword": false
-    },
-    {
-      "line_id": "eSc_line_93a2c4fb",
-      "kind": "main",
-      "idx": 37,
-      "text": ",עוד לענין מגלת סתרים, וכיון שהתלמוד אינו אלא מעתיק, ע\"כ. לא זאת שישתמש בלשון התנא עצמו שהיתה ל\"הק צחה",
-      "coords": {
-        "HPOS": 240,
-        "VPOS": 2359,
-        "WIDTH": 2016,
-        "HEIGHT": 72
-      },
-      "para_start": false,
-      "is_catchword": false
-    },
-    {
-      "line_id": "eSc_line_bc6b6bbd",
-      "kind": "main",
-      "idx": 38,
-      "text": ",אלא שאינו מוסיף ואינו גורע מפני הכבוד וכדומה, כמו מעשה ובדק בן זכאי בעוקצי תאנים שכך מצאה רבי וכך העתיקה",
-      "coords": {
-        "HPOS": 240,
-        "VPOS": 2418,
-        "WIDTH": 2016,
-        "HEIGHT": 66
-      },
-      "para_start": false,
-      "is_catchword": false
-    },
-    {
-      "line_id": "eSc_line_ce2de951",
-      "kind": "main",
-      "idx": 39,
-      "text": "וכן הא שהוכרחגו לעיל סי' ט\"ל כשהוכרח התלמוד להביא הגרייתא עם פי' זעירי שכבר היתה כתובה וגנוזה הביאה",
-      "coords": {
-        "HPOS": 238,
-        "VPOS": 2475,
-        "WIDTH": 2016,
-        "HEIGHT": 58
-      },
-      "para_start": false,
-      "is_catchword": false
-    },
-    {
-      "line_id": "eSc_line_56a3fb69",
-      "kind": "main",
-      "idx": 40,
-      "text": "בלשון אמר זעירי, שבאותו זמן כך היו קורין אותו בלי תואר רב, אבל רבא כשרצה להזכירו תארו בכל הכבוד הואוי לו",
-      "coords": {
-        "HPOS": 238,
-        "VPOS": 2522,
-        "WIDTH": 2018,
-        "HEIGHT": 61
-      },
-      "para_start": false,
-      "is_catchword": false
-    },
-    {
-      "line_id": "eSc_line_9e2b6a68",
-      "kind": "main",
-      "idx": 41,
-      "text": "ואמר כל מתניתא דלא מפרשא לי רב זעירי, עיין לעיל ותרוה צמאונך. וכל זה תינח בדברים שכבר היו כתובים וגנוזים",
-      "coords": {
-        "HPOS": 236,
-        "VPOS": 2574,
-        "WIDTH": 2018,
-        "HEIGHT": 66
-      },
-      "para_start": false,
-      "is_catchword": false
-    },
-    {
-      "line_id": "eSc_line_3e603705",
-      "kind": "main",
-      "idx": 42,
-      "text": "בקמתן ובצביונן, אבל דברים רבים שנשארו על פה ולא נכתבו ולא נסדרו בפה אחד ולשון אחד עד זמן האמוראים כגון",
-      "coords": {
-        "HPOS": 238,
-        "VPOS": 2625,
-        "WIDTH": 2014,
-        "HEIGHT": 73
-      },
-      "para_start": false,
-      "is_catchword": false
-    },
-    {
-      "line_id": "eSc_line_38e85dad",
-      "kind": "main",
-      "idx": 43,
-      "text": "דא ודאי בשבאים לקובעם בתלמודא אינם יכולים להזכיר שם תנן או תניא וכו' מפני שאינם באותם החבורים, גם על אופן",
-      "coords": {
-        "HPOS": 240,
-        "VPOS": 2691,
-        "WIDTH": 2012,
-        "HEIGHT": 59
-      },
-      "para_start": false,
-      "is_catchword": false
-    },
-    {
-      "line_id": "eSc_line_078d6da7",
-      "kind": "main",
-      "idx": 44,
-      "text": "מגילת סתרים וכדבעינן למימר לקמן, לא היה אפשר להזכירם יען שלא נמצאו הדברים כתובים כ\"א מקובלים תלמיד מפי",
-      "coords": {
-        "HPOS": 242,
-        "VPOS": 2735,
-        "WIDTH": 2010,
-        "HEIGHT": 62
-      },
-      "para_start": false,
-      "is_catchword": false
-    },
-    {
-      "line_id": "eSc_line_5c44067e",
-      "kind": "main",
-      "idx": 45,
-      "text": "רב בע\"פ ממש, ואחר שכן האמורא האחרון בודאי אינו מגיד השמועה אלא בלשון שמדבר בה וגם מסדר התלמוד אינו קובעה",
-      "coords": {
-        "HPOS": 238,
-        "VPOS": 2786,
-        "WIDTH": 2009,
-        "HEIGHT": 68
-      },
-      "para_start": false,
-      "is_catchword": false
-    },
-    {
-      "line_id": "eSc_line_a6984928",
-      "kind": "main",
-      "idx": 46,
-      "text": "בתלמוד כ\"א בלשונו המורגל בה, והוא ברור כשמש. ובזה לע\"ד אין אנו צריכים לדוחק התוס' ישנים ביומא דנ\"ז שעל",
-      "coords": {
-        "HPOS": 238,
-        "VPOS": 2843,
-        "WIDTH": 2016,
-        "HEIGHT": 61
-      },
-      "para_start": false,
-      "is_catchword": false
-    },
-    {
-      "line_id": "eSc_line_297cc575",
-      "kind": "main",
-      "idx": 47,
-      "text": "מ\"ש בתלמודא שם על מחלוקת רבי יאשיה ורבי יונתן בלשון איתמר, כתבו התוס' שמפני שהיו תנאים אחרונים נקטו לשון",
-      "coords": {
-        "HPOS": 238,
-        "VPOS": 2905,
-        "WIDTH": 2014,
-        "HEIGHT": 57
-      },
-      "para_start": false,
-      "is_catchword": false
-    },
-    {
-      "line_id": "eSc_line_11cec532",
-      "kind": "main",
-      "idx": 48,
-      "text": "זה המורגל על האמוראים ובאמת יפה אמרתי שהוא דוחק עצום, שהרי בכמה מקומות הובאו מחלוקתם של תנאים אחרונים",
-      "coords": {
-        "HPOS": 236,
-        "VPOS": 2955,
-        "WIDTH": 2013,
-        "HEIGHT": 59
-      },
-      "para_start": false,
-      "is_catchword": false
+      "is_catchword": true
     },
     {
       "line_id": "eSc_line_89cf2d60",
       "kind": "main",
-      "idx": 49,
+      "idx": 15,
       "text": "אלו",
       "coords": {
         "HPOS": 346,
@@ -704,6 +228,448 @@
       },
       "para_start": false,
       "is_catchword": true
+    },
+    {
+      "line_id": "eSc_line_3e090013",
+      "kind": "footnote",
+      "idx": 0,
+      "text": "(לז) ושוב ראיתי להתוס' בע\"ז דל\"ד ע\"א ד\"ה ר\"ע איקלע לגינזק שכתבו דרש\"י בתענית די\"א גריס מר עוקבא במקום ר\"ע,",
+      "coords": {
+        "HPOS": 243,
+        "VPOS": 1180,
+        "WIDTH": 2017,
+        "HEIGHT": 72
+      },
+      "para_start": false
+    },
+    {
+      "line_id": "eSc_line_a5dedcd5",
+      "kind": "footnote",
+      "idx": 1,
+      "text": "דח\"ו שר\"ע היה מסתפק באותם הדברים הפשוטים, ועוד כי היה לו לתלמוד להביאה בלשון ברייתא מיהו הא לא",
+      "coords": {
+        "HPOS": 240,
+        "VPOS": 1235,
+        "WIDTH": 1935,
+        "HEIGHT": 64
+      },
+      "para_start": false
+    },
+    {
+      "line_id": "eSc_line_b272ef12",
+      "kind": "footnote",
+      "idx": 2,
+      "text": "קשיא דהרבה מקומות מצינו שמזכיר מעשה בר\"ע וכיוצא בו עכ\"ד. הנה נמצא דקי\"ל להתוס דהתלמוד מורגל להביא",
+      "coords": {
+        "HPOS": 242,
+        "VPOS": 1298,
+        "WIDTH": 2019,
+        "HEIGHT": 58
+      },
+      "para_start": false
+    },
+    {
+      "line_id": "eSc_line_12497090",
+      "kind": "footnote",
+      "idx": 3,
+      "text": "ענינים מהתנאים ומימרותיהם בלי לשון תנן או תניא וכדומה אלא מביאם כמו שמביא ענין או מימרא מאיזה אמורא פשוט,",
+      "coords": {
+        "HPOS": 245,
+        "VPOS": 1345,
+        "WIDTH": 2018,
+        "HEIGHT": 70
+      },
+      "para_start": false
+    },
+    {
+      "line_id": "eSc_line_ce069dc3",
+      "kind": "footnote",
+      "idx": 4,
+      "text": "אמת, דלשון רש\"י בתענית כבר מוכיח זה שהרי עיקר חקירת רש\"י אינו אלא מסדר הלשון שהוא ר\"ע איקלע וכו' שהוא לשון",
+      "coords": {
+        "HPOS": 240,
+        "VPOS": 1400,
+        "WIDTH": 2021,
+        "HEIGHT": 68
+      },
+      "para_start": false
+    },
+    {
+      "line_id": "eSc_line_00c32a25",
+      "kind": "footnote",
+      "idx": 5,
+      "text": "תלמוד ולא לשון ברייתא, דלשון ברייתא הוא מעשה בר\"ע וכו ואיני יכול לחפש אגב ריהטאי אם יש מי שנתעורר בישוב לשון",
+      "coords": {
+        "HPOS": 242,
+        "VPOS": 1453,
+        "WIDTH": 2021,
+        "HEIGHT": 66
+      },
+      "para_start": false
+    },
+    {
+      "line_id": "eSc_line_27b18300",
+      "kind": "footnote",
+      "idx": 6,
+      "text": "רש\"י הלזה, יהיה איך שיהיה, עכ\"פ הרי מצינו שהתוס' מעידין בגדלן דהרבה מקומות מצינו בתלמוד כיוצא בו, והאמת כן",
+      "coords": {
+        "HPOS": 240,
+        "VPOS": 1516,
+        "WIDTH": 2023,
+        "HEIGHT": 57
+      },
+      "para_start": false
+    },
+    {
+      "line_id": "eSc_line_b518ca56",
+      "kind": "footnote",
+      "idx": 7,
+      "text": "הוא, שהרבה מאורעים וממרות של התנאים מובאים בסתם בתלמוד בלי שום לשון שמובן ממנו שהוא ברייתא או משנה או",
+      "coords": {
+        "HPOS": 240,
+        "VPOS": 1569,
+        "WIDTH": 2025,
+        "HEIGHT": 51
+      },
+      "para_start": false
+    },
+    {
+      "line_id": "eSc_line_98cfd9b4",
+      "kind": "footnote",
+      "idx": 8,
+      "text": "תוספתא, ועיין שבת דכ\"א ע\"א אמר רב הונא אמר רבי, כדרך שמביא מימרות האמוראים, וכן שם דל\"ב ע\"ב פליגי בה",
+      "coords": {
+        "HPOS": 242,
+        "VPOS": 1615,
+        "WIDTH": 2021,
+        "HEIGHT": 58
+      },
+      "para_start": false
+    },
+    {
+      "line_id": "eSc_line_32a0071e",
+      "kind": "footnote",
+      "idx": 9,
+      "text": "ר\"מ ור\"י, חד אמר וכו' וחד אמר וכו' והוא לשון תלמוד אחרון ממש, וכן שם דמ\"ו וביצה ד\"מ, בעא מיניה ר\"ש ברבי מרבי",
+      "coords": {
+        "HPOS": 243,
+        "VPOS": 1666,
+        "WIDTH": 2017,
+        "HEIGHT": 64
+      },
+      "para_start": false
+    },
+    {
+      "line_id": "eSc_line_97feb899",
+      "kind": "footnote",
+      "idx": 10,
+      "text": "בסתם, וכך כל אותם הענינים שמספר בריש פ' הפועלים מרבי אלעזר ברבי שמעון ורבי, וכן בעובדא דתנורו של עכנאי",
+      "coords": {
+        "HPOS": 242,
+        "VPOS": 1717,
+        "WIDTH": 2021,
+        "HEIGHT": 65
+      },
+      "para_start": false
+    },
+    {
+      "line_id": "eSc_line_9d9f8588",
+      "kind": "footnote",
+      "idx": 11,
+      "text": "(ב\"מ דנ\"ט ע\"ב) דביתהו דר\"א אחתיה דר\"ג וכו', הכל כאשר לכל הם מאורעים שארעו לתנאים גדולים ולא זאת בלבד",
+      "coords": {
+        "HPOS": 243,
+        "VPOS": 1772,
+        "WIDTH": 2017,
+        "HEIGHT": 65
+      },
+      "para_start": false
+    },
+    {
+      "line_id": "eSc_line_d9bf9b9d",
+      "kind": "footnote",
+      "idx": 12,
+      "text": "שמביאם התלמוד מבלי שיקדים תנן או תניא או תנא, אלא עוד זאת דסדר סדר המערכה בלשון תלמודיי גמור, אקלע רבי",
+      "coords": {
+        "HPOS": 243,
+        "VPOS": 1837,
+        "WIDTH": 2018,
+        "HEIGHT": 51
+      },
+      "para_start": false
+    },
+    {
+      "line_id": "eSc_line_32b7857c",
+      "kind": "footnote",
+      "idx": 13,
+      "text": "לאתריה דראב\"ש, לאתריה דרבי טרפון (שם דפ\"ה) ולא לשון הקדש צחה כאשר הוא לשון התנאים כנודע. וכל זה מופת חותך",
+      "coords": {
+        "HPOS": 242,
+        "VPOS": 1877,
+        "WIDTH": 2016,
+        "HEIGHT": 66
+      },
+      "para_start": false
+    },
+    {
+      "line_id": "eSc_line_6270ae39",
+      "kind": "footnote",
+      "idx": 14,
+      "text": "לדברי התוס' הנז\"ל, דאלו לא היו הספיקות הפשוטים שא\"א לחשוב שלא ידע ר\"ע להתירן לא היה הדין להחליף הגירסא",
+      "coords": {
+        "HPOS": 238,
+        "VPOS": 1930,
+        "WIDTH": 2022,
+        "HEIGHT": 66
+      },
+      "para_start": false
+    },
+    {
+      "line_id": "eSc_line_636d9730",
+      "kind": "footnote",
+      "idx": 15,
+      "text": "מטעם שנוי הלשון לבד, ואפילו שמספר אותו התלמוד בלשון ר\"ע איקלע הרגיל לתלמוד אחרון, ולא בלשון מעשה בר\"ע",
+      "coords": {
+        "HPOS": 240,
+        "VPOS": 1987,
+        "WIDTH": 2020,
+        "HEIGHT": 62
+      },
+      "para_start": false
+    },
+    {
+      "line_id": "eSc_line_a928fb66",
+      "kind": "footnote",
+      "idx": 16,
+      "text": "בלשון ברייתא שהרי כן מצינו בהרבה מקומות. **אלא** דהואיל ואתא לידן כאן שנה רבי אין מעבירין על המצות, וראוי",
+      "coords": {
+        "HPOS": 242,
+        "VPOS": 2038,
+        "WIDTH": 2016,
+        "HEIGHT": 66
+      },
+      "para_start": false
+    },
+    {
+      "line_id": "eSc_line_4751a6f9",
+      "kind": "footnote",
+      "idx": 17,
+      "text": "לעמוד פה כמעט רגע למען דעת טעמן של דברים מאי שנא דברים אלו שמובאים על אופן האמור מענינים ודינים רבים",
+      "coords": {
+        "HPOS": 240,
+        "VPOS": 2097,
+        "WIDTH": 2020,
+        "HEIGHT": 59
+      },
+      "para_start": false
+    },
+    {
+      "line_id": "eSc_line_a89e5092",
+      "kind": "footnote",
+      "idx": 18,
+      "text": "המובאים בלשון ברייתא ומשנה ובהזכרת שם החיבור כמו תנן או תנא ותניא והדומה, אבל לפי היסוד האמת שיסדנו דכל",
+      "coords": {
+        "HPOS": 238,
+        "VPOS": 2152,
+        "WIDTH": 2020,
+        "HEIGHT": 59
+      },
+      "para_start": false
+    },
+    {
+      "line_id": "eSc_line_ffbf42f3",
+      "kind": "footnote",
+      "idx": 19,
+      "text": "המשניות והברייתות והתוספתות כבר היו מסודרות וכתובות וגנוזות ועומדות, ע\"ז כאשר מוכרח מחבר התלמוד להביא",
+      "coords": {
+        "HPOS": 242,
+        "VPOS": 2207,
+        "WIDTH": 2016,
+        "HEIGHT": 57
+      },
+      "para_start": false
+    },
+    {
+      "line_id": "eSc_line_311a7993",
+      "kind": "footnote",
+      "idx": 20,
+      "text": "חדא מהנה לקובעה ולשוקעה בתלמודא, מעתיקה באותו לשון, ובאותו סגנון ומזכיר ג\"כ שם החיבור שממנו העתיקה,",
+      "coords": {
+        "HPOS": 242,
+        "VPOS": 2253,
+        "WIDTH": 2014,
+        "HEIGHT": 73
+      },
+      "para_start": false
+    },
+    {
+      "line_id": "eSc_line_459d86b2",
+      "kind": "footnote",
+      "idx": 21,
+      "text": "כהשתמשו מחד מהלשונות הנאותים לאותו חבור, אם תנן או תניא או תנא או ת\"ש, ורמינהי, וכיוצא, וכאשר נאריך לקמן",
+      "coords": {
+        "HPOS": 238,
+        "VPOS": 2306,
+        "WIDTH": 2020,
+        "HEIGHT": 71
+      },
+      "para_start": false
+    },
+    {
+      "line_id": "eSc_line_93a2c4fb",
+      "kind": "footnote",
+      "idx": 22,
+      "text": "עוד לענין מגלת סתרים, וכיון שהתלמוד אינו אלא מעתיק, ע\"כ. לא זאת שישתמש בלשון התנא עצמו שהיתה ל\"הק צחה,",
+      "coords": {
+        "HPOS": 240,
+        "VPOS": 2359,
+        "WIDTH": 2016,
+        "HEIGHT": 72
+      },
+      "para_start": false
+    },
+    {
+      "line_id": "eSc_line_bc6b6bbd",
+      "kind": "footnote",
+      "idx": 23,
+      "text": "אלא שאינו מוסיף ואינו גורע מפני הכבוד וכדומה, כמו מעשה ובדק בן זכאי בעוקצי תאנים שכך מצאה רבי וכך העתיקה,",
+      "coords": {
+        "HPOS": 240,
+        "VPOS": 2418,
+        "WIDTH": 2016,
+        "HEIGHT": 66
+      },
+      "para_start": false
+    },
+    {
+      "line_id": "eSc_line_ce2de951",
+      "kind": "footnote",
+      "idx": 24,
+      "text": "וכן הא שהוכרחנו לעיל סי' ט\"ל כשהוכרח התלמוד להביא הברייתא עם פי' זעירי שכבר היתה כתובה וגנוזה הביאה",
+      "coords": {
+        "HPOS": 238,
+        "VPOS": 2475,
+        "WIDTH": 2016,
+        "HEIGHT": 58
+      },
+      "para_start": false
+    },
+    {
+      "line_id": "eSc_line_56a3fb69",
+      "kind": "footnote",
+      "idx": 25,
+      "text": "בלשון אמר זעירי, שבאותו זמן כך היו קורין אותו בלי תואר רב, אבל רבא כשרצה להזכירו תארו בכל הכבוד הראוי לו",
+      "coords": {
+        "HPOS": 238,
+        "VPOS": 2522,
+        "WIDTH": 2018,
+        "HEIGHT": 61
+      },
+      "para_start": false
+    },
+    {
+      "line_id": "eSc_line_9e2b6a68",
+      "kind": "footnote",
+      "idx": 26,
+      "text": "ואמר כל מתניתא דלא מפרשא לי רב זעירי, עיין לעיל ותרוה צמאונך. וכל זה תינח בדברים שכבר היו כתובים וגנוזים",
+      "coords": {
+        "HPOS": 236,
+        "VPOS": 2574,
+        "WIDTH": 2018,
+        "HEIGHT": 66
+      },
+      "para_start": false
+    },
+    {
+      "line_id": "eSc_line_3e603705",
+      "kind": "footnote",
+      "idx": 27,
+      "text": "בקמתן ובצביונן, אבל דברים רבים שנשארו על פה ולא נכתבו ולא נסדרו בפה אחד ולשון אחד עד זמן האמוראים כגון",
+      "coords": {
+        "HPOS": 238,
+        "VPOS": 2625,
+        "WIDTH": 2014,
+        "HEIGHT": 73
+      },
+      "para_start": false
+    },
+    {
+      "line_id": "eSc_line_38e85dad",
+      "kind": "footnote",
+      "idx": 28,
+      "text": "דא ודאי כשבאים לקובעם בתלמודא אינם יכולים להזכיר שם תנן או תניא וכו' מפני שאינם באותם החבורים, גם על אופן",
+      "coords": {
+        "HPOS": 240,
+        "VPOS": 2691,
+        "WIDTH": 2012,
+        "HEIGHT": 59
+      },
+      "para_start": false
+    },
+    {
+      "line_id": "eSc_line_078d6da7",
+      "kind": "footnote",
+      "idx": 29,
+      "text": "מגילת סתרים וכדבעינן למימר לקמן, לא היה אפשר להזכירם יען שלא נמצאו הדברים כתובים כ\"א מקובלים תלמיד מפי",
+      "coords": {
+        "HPOS": 242,
+        "VPOS": 2735,
+        "WIDTH": 2010,
+        "HEIGHT": 62
+      },
+      "para_start": false
+    },
+    {
+      "line_id": "eSc_line_5c44067e",
+      "kind": "footnote",
+      "idx": 30,
+      "text": "רב בע\"פ ממש, ואחר שכן האמורא האחרון בודאי אינו מגיד השמועה אלא בלשון שמדבר בה וגם מסדר התלמוד אינו קובעה",
+      "coords": {
+        "HPOS": 238,
+        "VPOS": 2786,
+        "WIDTH": 2009,
+        "HEIGHT": 68
+      },
+      "para_start": false
+    },
+    {
+      "line_id": "eSc_line_a6984928",
+      "kind": "footnote",
+      "idx": 31,
+      "text": "בתלמוד כ\"א בלשונו המורגל בה, והוא ברור כשמש. **ובזה** לע\"ד אין אנו צריכים לדוחק התוס' ישנים ביומא דנ\"ז שעל",
+      "coords": {
+        "HPOS": 238,
+        "VPOS": 2843,
+        "WIDTH": 2016,
+        "HEIGHT": 61
+      },
+      "para_start": false
+    },
+    {
+      "line_id": "eSc_line_297cc575",
+      "kind": "footnote",
+      "idx": 32,
+      "text": "מ\"ש בתלמודא שם על מחלוקת רבי יאשיה ורבי יונתן בלשון איתמר, כתבו התוס' שמפני שהיו תנאים אחרונים נקטו לשון",
+      "coords": {
+        "HPOS": 238,
+        "VPOS": 2905,
+        "WIDTH": 2014,
+        "HEIGHT": 57
+      },
+      "para_start": false
+    },
+    {
+      "line_id": "eSc_line_11cec532",
+      "kind": "footnote",
+      "idx": 33,
+      "text": "זה המורגל על האמוראים ובאמת יפה אמרתי שהוא דוחק עצום, שהרי בכמה מקומות הובאו מחלוקתם של תנאים אחרונים",
+      "coords": {
+        "HPOS": 236,
+        "VPOS": 2955,
+        "WIDTH": 2013,
+        "HEIGHT": 59
+      },
+      "para_start": false
     }
   ]
 }

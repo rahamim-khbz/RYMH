@@ -3,7 +3,7 @@
   "image": "page_images/page-34.jpg",
   "page_width": 2550,
   "page_height": 3300,
-  "base_hash": "sha256:264ed597f697fb91b3b19ea0a0dec27e854940d8371dcfc7fa4a775e28c012ed",
+  "base_hash": "sha256:b564e6fa1d21103af306dde1604afa3b8e4df989cb9db83f01d26e0dbdc4cfb8",
   "lines": [
     {
       "line_id": "eSc_line_29b0c9ae",
@@ -23,7 +23,7 @@
       "line_id": "eSc_line_c8b5c513",
       "kind": "main",
       "idx": 1,
-      "text": ",האחרונים לחלק על הראשונים שקדמום בראיות מופתיות מן התלמוד, אבל לא על למעלה מזה",
+      "text": "האחרונים לחלק על הראשונים שקדמום בראיות מופתיות מן התלמוד, אבל לא על למעלה מזה,",
       "coords": {
         "HPOS": 249,
         "VPOS": 286,
@@ -37,7 +37,7 @@
       "line_id": "eSc_line_5a5f3dd9",
       "kind": "main",
       "idx": 2,
-      "text": ",שכבר התלמוד ופלפולו ורוב עוביו ורוב הקיפו נתקבל באומה לתדיר ומקודש, ובו נהגה יומם ולילה",
+      "text": "שכבר התלמוד ופלפולו ורוב עוביו ורוב הקיפו נתקבל באומה לתדיר ומקודש, ובו נהגה יומם ולילה,",
       "coords": {
         "HPOS": 245,
         "VPOS": 353,
@@ -51,7 +51,7 @@
       "line_id": "eSc_line_b2b1752b",
       "kind": "main",
       "idx": 3,
-      "text": "וממנו תורה והוראה יוצאה לכל ישראל (נג) ואחר שהגאון בירר תשובתו, כשמלה בת מאה אלף",
+      "text": "וממנו תורה והוראה יוצאה לכל ישראל (כג) ואחר שהגאון בירר תשובתו, כשמלה בת מאה אלף",
       "coords": {
         "HPOS": 236,
         "VPOS": 421,
@@ -79,7 +79,7 @@
       "line_id": "eSc_line_1654d30d",
       "kind": "main",
       "idx": 5,
-      "text": "לראשונים, כי באמח הוא קבלה ככל יסודי התורה והלכות דעות הכתובים בו, ובירר וזיקק הדברים",
+      "text": "לראשונים, כי באמת הוא קבלה ככל יסודי התורה והלכות דעות הכתובים בו, ובירר וזיקק הדברים",
       "coords": {
         "HPOS": 256,
         "VPOS": 546,
@@ -93,7 +93,7 @@
       "line_id": "eSc_line_41c1c40c",
       "kind": "main",
       "idx": 6,
-      "text": "להראות לכל באי עולם במופתים חותכים שבכל רור ודור מטבע הענין היו מוכרחים לסדר ולקבוע",
+      "text": "להראות לכל באי עולם במופתים חותכים שבכל דור ודור מטבע הענין היו מוכרחים לסדר ולקבוע",
       "coords": {
         "HPOS": 232,
         "VPOS": 614,
@@ -149,7 +149,7 @@
       "line_id": "eSc_line_74a5d4a4",
       "kind": "main",
       "idx": 10,
-      "text": "הסירור ועל הזמן, ואם באמת עתה כדבריהם כן הוא, כי מצד טבע הענין א\"א בלאו הכי: ר\"ל שא\"א",
+      "text": "הסידור ועל הזמן, ואם באמת עתה כדבריהם כן הוא, כי מצד טבע הענין א\"א בלאו הכי: ר\"ל שא\"א",
       "coords": {
         "HPOS": 234,
         "VPOS": 874,
@@ -275,7 +275,7 @@
       "line_id": "eSc_line_ece14d95",
       "kind": "main",
       "idx": 19,
-      "text": "נמצא שגאוננו ז\"ל כותב הנפק על ס' השואלים דהיתה כתיבה בעולם, ומעולם לא נאסרה כשום",
+      "text": "נמצא שגאוננו ז\"ל כותב הנפק על ס' השואלים דהיתה כתיבה בעולם, ומעולם לא נאסרה בשום",
       "coords": {
         "HPOS": 238,
         "VPOS": 1457,
@@ -297,40 +297,38 @@
         "HEIGHT": 74
       },
       "para_start": false,
-      "is_catchword": false
+      "is_catchword": true
     },
     {
       "line_id": "eSc_line_8178840a",
-      "kind": "main",
-      "idx": 21,
-      "text": "כג) וכלל דברי אלה כבר יצא מפי תרי מרבנן בציון עמוד ק\"ח ועמוד ק\"ט, אלא שהשואל כל גבורותיו למבעי בעיי, ולהניח)",
+      "kind": "footnote",
+      "idx": 0,
+      "text": "(כג) וכלל דברי אלה כבר יצא מפי תרי מרבנן בציון עמוד ק\"ח ועמוד ק\"ט, אלא שהשואל כל גבורותיו למבעי בעיי, ולהניח",
       "coords": {
         "HPOS": 231,
         "VPOS": 1620,
         "WIDTH": 2032,
         "HEIGHT": 81
       },
-      "para_start": false,
-      "is_catchword": false
+      "para_start": false
     },
     {
       "line_id": "eSc_line_2abd4e68",
-      "kind": "main",
-      "idx": 22,
-      "text": "פולם חרב גם בלי שליש ישוב וע\"ז עוד הפעם מכנים עצמו בין הדבקים ושם בעמוד ק\"ח כתב וז\"ל: \"אמר השואל סוף",
+      "kind": "footnote",
+      "idx": 1,
+      "text": "פולם חרב גם בלי שליש ישוב וע\"ז עוד הפעם מכניס עצמו בין הדבקים ושם בעמוד ק\"ח כתב וז\"ל: \"אמר השואל סוף",
       "coords": {
         "HPOS": 234,
         "VPOS": 1679,
         "WIDTH": 1941,
         "HEIGHT": 79
       },
-      "para_start": false,
-      "is_catchword": false
+      "para_start": false
     },
     {
       "line_id": "eSc_line_87c469d5",
-      "kind": "main",
-      "idx": 23,
+      "kind": "footnote",
+      "idx": 2,
       "text": "סוף קשה ביד מי היה הכח לסגור דלתי ההוראה\" עכ\"ד. באמת אתמהה! ביד מי היה הכח? ביד מי שהיה לסגיד דלתי",
       "coords": {
         "HPOS": 236,
@@ -338,13 +336,12 @@
         "WIDTH": 2031,
         "HEIGHT": 73
       },
-      "para_start": false,
-      "is_catchword": false
+      "para_start": false
     },
     {
       "line_id": "eSc_line_2e90b78e",
-      "kind": "main",
-      "idx": 24,
+      "kind": "footnote",
+      "idx": 3,
       "text": "ההוראה בא\"י בזמן נחותי בבל שהוא קודם חתימת התלמוד זמן לא מעט. והוא השמד המר והנמהר, אשר לא חסרנוהו דור",
       "coords": {
         "HPOS": 236,
@@ -352,13 +349,12 @@
         "WIDTH": 2031,
         "HEIGHT": 74
       },
-      "para_start": false,
-      "is_catchword": false
+      "para_start": false
     },
     {
       "line_id": "eSc_line_f3523576",
-      "kind": "main",
-      "idx": 25,
+      "kind": "footnote",
+      "idx": 4,
       "text": "דור, וע\"כ כשהגיע השמד עוד בבל היה הסיבה לחתי התלמוד וחתימת זמן ההוראה, ר\"ל חתי' לאותו כח קדמון ולאותו",
       "coords": {
         "HPOS": 234,
@@ -366,27 +362,25 @@
         "WIDTH": 2031,
         "HEIGHT": 77
       },
-      "para_start": false,
-      "is_catchword": false
+      "para_start": false
     },
     {
       "line_id": "eSc_line_79f048e4",
-      "kind": "main",
-      "idx": 26,
-      "text": "סגנון, ונשאר לנו הכח לדמות מילתא למילתא באיזה ספק רמתיליד לדמותו אל מקור מפורש הנמצא בתלמוד, אבל כל מה",
+      "kind": "footnote",
+      "idx": 5,
+      "text": "סגנון, ונשאר לנו הכח לדמות מילתא למילתא באיזה ספק דמתיליד לדמותו אל מקור מפורש הנמצא בתלמוד, אבל כל מה",
       "coords": {
         "HPOS": 232,
         "VPOS": 1892,
         "WIDTH": 2037,
         "HEIGHT": 75
       },
-      "para_start": false,
-      "is_catchword": false
+      "para_start": false
     },
     {
       "line_id": "eSc_line_6008d7fd",
-      "kind": "main",
-      "idx": 27,
+      "kind": "footnote",
+      "idx": 6,
       "text": "שיתחדש אחר זה לאו תורה חתומה היא, כיון שיוכל אחרון לחלוק על הראשון שקדמו בראיות אחרות מופתיות שיביא מן",
       "coords": {
         "HPOS": 234,
@@ -394,13 +388,12 @@
         "WIDTH": 2035,
         "HEIGHT": 86
       },
-      "para_start": false,
-      "is_catchword": false
+      "para_start": false
     },
     {
       "line_id": "eSc_line_e94ad221",
-      "kind": "main",
-      "idx": 28,
+      "kind": "footnote",
+      "idx": 7,
       "text": "התלמוד גופיה, וכאשר נתברר וזה היה כח הרי\"ף, והרמב ם, וכל גדולי הראשונים אחר חתי' התלמוד, ובזה היה גדול כחו",
       "coords": {
         "HPOS": 234,
@@ -408,13 +401,12 @@
         "WIDTH": 2035,
         "HEIGHT": 68
       },
-      "para_start": false,
-      "is_catchword": false
+      "para_start": false
     },
     {
       "line_id": "eSc_line_8cb6a23d",
-      "kind": "main",
-      "idx": 29,
+      "kind": "footnote",
+      "idx": 8,
       "text": "של הרשב\"א ובני גילו (מוהרלנ\"ח דרפ\"ד ע\"ג) ומה ענין שלשלת הקבלה לזה כדי שיבא עלינו שם השואל בעמוד ק\"ט בכח",
       "coords": {
         "HPOS": 231,
@@ -422,27 +414,12 @@
         "WIDTH": 2040,
         "HEIGHT": 83
       },
-      "para_start": false,
-      "is_catchword": false
-    },
-    {
-      "line_id": "eSc_line_87e71d5c",
-      "kind": "main",
-      "idx": 30,
-      "text": "הבשר. ומה ענין שלעלת הקבלה לזה? הם! וזה הדין, וזה הטעם עצמו, ר\"ל ריבוי הצרות ומיעוט החכמה שבדורנו ובדור",
-      "coords": {
-        "HPOS": 238,
-        "VPOS": 2161,
-        "WIDTH": 2033,
-        "HEIGHT": 75
-      },
-      "para_start": false,
-      "is_catchword": false
+      "para_start": false
     },
     {
       "line_id": "eSc_line_a5712ac9",
-      "kind": "main",
-      "idx": 31,
+      "kind": "footnote",
+      "idx": 9,
       "text": "גדול? לב רחב אנו מבקשים להבין הדברים על מתכונתם ואיננו כי לקח אותו אלהים עם הכפלת צרות רעות המראה ודקות",
       "coords": {
         "HPOS": 232,
@@ -450,83 +427,38 @@
         "WIDTH": 2039,
         "HEIGHT": 82
       },
-      "para_start": false,
-      "is_catchword": false
+      "para_start": false
+    },
+    {
+      "line_id": "eSc_line_87e71d5c",
+      "kind": "footnote",
+      "idx": 10,
+      "text": "הבשר. ומה ענין שלשלת הקבלה לזה? הס! וזה הדין, וזה הטעם עצמו, ר\"ל ריבוי הצרות ומיעוט החכמה שבדורנו ובדור",
+      "coords": {
+        "HPOS": 238,
+        "VPOS": 2161,
+        "WIDTH": 2033,
+        "HEIGHT": 75
+      },
+      "para_start": false
     },
     {
       "line_id": "eSc_line_efb551c1",
-      "kind": "main",
-      "idx": 32,
-      "text": "שלפנינו ולפני פני פנינו הוא היה הגדמא שלא ניתן לא לנו ולא להם לפסוק במחלוקת הגמרא\" כלום, כי כבר מתוקן הוא",
+      "kind": "footnote",
+      "idx": 11,
+      "text": "שלפנינו ולפני פני פנינו הוא היה הגרמא שלא ניתן לא לנו ולא להם לפסוק במחלוקת הגמרא\" כלום, כי כבר מתוקן הוא",
       "coords": {
         "HPOS": 232,
         "VPOS": 2211,
         "WIDTH": 2040,
         "HEIGHT": 80
       },
-      "para_start": false,
-      "is_catchword": false
-    },
-    {
-      "line_id": "eSc_line_28e1793a",
-      "kind": "main",
-      "idx": 33,
-      "text": "בידינו שהסדר הזה תקנו הלל בן בנו של ר\"הק, אבל לא ידעתי מקום לדבר זה\" כך הם דבוי הרשב\"א ח\"אסימן רנ\"ד\" וכ\"נ",
-      "coords": {
-        "HPOS": 240,
-        "VPOS": 2431,
-        "WIDTH": 2027,
-        "HEIGHT": 80
-      },
-      "para_start": false,
-      "is_catchword": false
-    },
-    {
-      "line_id": "eSc_line_a4b6c7ee",
-      "kind": "main",
-      "idx": 34,
-      "text": "ב' טיפי מרגליות, עליהן אין להוסיף, כי לא מטעם שלשלת הקבלה אנו באים, כי מטעם צרות הלב, ואדרבא ראית העיבור",
-      "coords": {
-        "HPOS": 236,
-        "VPOS": 2321,
-        "WIDTH": 2027,
-        "HEIGHT": 77
-      },
-      "para_start": false,
-      "is_catchword": false
-    },
-    {
-      "line_id": "eSc_line_2364ecc7",
-      "kind": "main",
-      "idx": 35,
-      "text": "שהביא השואל תוכיח שלא נפסקה הקבלה שגם שאין לו שורש ומוצא בכל הש\"ם כדברי השואל אנו נמשכים אחריו \"וקבלה",
-      "coords": {
-        "HPOS": 236,
-        "VPOS": 2370,
-        "WIDTH": 2035,
-        "HEIGHT": 95
-      },
-      "para_start": false,
-      "is_catchword": false
-    },
-    {
-      "line_id": "eSc_line_320e74d1",
-      "kind": "main",
-      "idx": 36,
-      "text": "התשב\"ן ח\"א סימן קל\"ו רס\"ח ע\"ד הלל האחרון שהיה בימי אביי ורבא, והיה ג\"כ אמורא\" והוא המסדר הקבועים שלנו כמו",
-      "coords": {
-        "HPOS": 236,
-        "VPOS": 2480,
-        "WIDTH": 2033,
-        "HEIGHT": 77
-      },
-      "para_start": false,
-      "is_catchword": false
+      "para_start": false
     },
     {
       "line_id": "eSc_line_a4617e62",
-      "kind": "main",
-      "idx": 37,
+      "kind": "footnote",
+      "idx": 12,
       "text": "בפסקי הראשונים ואחרונים (תשב\"ץ ח\"ב ד\"י) כללן של דברים שכל מה שהשיבו הב' ת\"ח הנז\"ל בענין זה שם בציון הוא כמין",
       "coords": {
         "HPOS": 234,
@@ -534,27 +466,77 @@
         "WIDTH": 2035,
         "HEIGHT": 83
       },
-      "para_start": false,
-      "is_catchword": false
+      "para_start": false
+    },
+    {
+      "line_id": "eSc_line_a4b6c7ee",
+      "kind": "footnote",
+      "idx": 13,
+      "text": "ב' טיפי מרגליות, עליהן אין להוסיף, כי לא מטעם שלשלת הקבלה אנו באים, כי מטעם צרות הלב, ואדרבא ראית העיבור",
+      "coords": {
+        "HPOS": 236,
+        "VPOS": 2321,
+        "WIDTH": 2027,
+        "HEIGHT": 77
+      },
+      "para_start": false
+    },
+    {
+      "line_id": "eSc_line_2364ecc7",
+      "kind": "footnote",
+      "idx": 14,
+      "text": "שהביא השואל תוכיח שלא נפסקה הקבלה שגם שאין לו שורש ומוצא בכל הש\"ס כדברי השואל אנו נמשכים אחריו \"וקבלה",
+      "coords": {
+        "HPOS": 236,
+        "VPOS": 2370,
+        "WIDTH": 2035,
+        "HEIGHT": 95
+      },
+      "para_start": false
+    },
+    {
+      "line_id": "eSc_line_28e1793a",
+      "kind": "footnote",
+      "idx": 15,
+      "text": "בידינו שהסדר הזה תקנו הלל בן בנו של ר\"הק, אבל לא ידעתי מקום לדבר זה\" כך הם דברי הרשב\"א ח\"א סימן רנ\"ד\" וכ\"כ",
+      "coords": {
+        "HPOS": 240,
+        "VPOS": 2431,
+        "WIDTH": 2027,
+        "HEIGHT": 80
+      },
+      "para_start": false
+    },
+    {
+      "line_id": "eSc_line_320e74d1",
+      "kind": "footnote",
+      "idx": 16,
+      "text": "התשב\"ץ ח\"א סימן קל\"ו דס\"ח ע\"ד הלל האחרון שהיה בימי אביי ורבא, והיה ג\"כ אמורא\" והוא המסדר הקבועים שלנו כמו",
+      "coords": {
+        "HPOS": 236,
+        "VPOS": 2480,
+        "WIDTH": 2033,
+        "HEIGHT": 77
+      },
+      "para_start": false
     },
     {
       "line_id": "eSc_line_32c43b9d",
-      "kind": "main",
-      "idx": 38,
-      "text": "שהוא מקובל בידינו וכמ\"ש הרמב\"ן בס' המצוות שלו (ועיין מה שהארכתי בפוט זה לקמן ח\"ב סוף סימןמ בהערה מבקרת",
+      "kind": "footnote",
+      "idx": 17,
+      "text": "שהוא מקובל בידינו וכמ\"ש הרמב\"ן בס' המצוות שלו (ועיין מה שהארכתי בפרט זה לקמן ח\"ב סוף סימן מ בהערה מבקרת",
       "coords": {
         "HPOS": 236,
         "VPOS": 2539,
         "WIDTH": 2035,
         "HEIGHT": 79
       },
-      "para_start": false,
-      "is_catchword": false
+      "para_start": false
     },
     {
       "line_id": "eSc_line_29627172",
-      "kind": "main",
-      "idx": 39,
+      "kind": "footnote",
+      "idx": 18,
       "text": "קדמוניות ותרוה צמאונך) וכאלה רבות קבלות אחת ותשע ואנו נשענים עליהן, כעור הנשען על הפקח הבריא, וענין רבנן",
       "coords": {
         "HPOS": 238,
@@ -562,55 +544,38 @@
         "WIDTH": 2033,
         "HEIGHT": 79
       },
-      "para_start": false,
-      "is_catchword": false
+      "para_start": false
     },
     {
       "line_id": "eSc_line_42496b78",
-      "kind": "main",
-      "idx": 40,
-      "text": "סבוראי שהביא השואל בהקשותו: \"איך הרשו רבנן סבוראי את עצמם להכנים דברים חדשים בגוף התלמוד\"? לאו שמא",
+      "kind": "footnote",
+      "idx": 19,
+      "text": "סבוראי שהביא השואל בהקשותו: \"איך הרשו רבנן סבוראי את עצמם להכניס דברים חדשים בגוף התלמוד\"? לאו שמא",
       "coords": {
         "HPOS": 236,
         "VPOS": 2643,
         "WIDTH": 2035,
         "HEIGHT": 77
       },
-      "para_start": false,
-      "is_catchword": false
+      "para_start": false
     },
     {
       "line_id": "eSc_line_62873f81",
-      "kind": "main",
-      "idx": 41,
-      "text": "מתיא? חדא שהדברים שהכניסו לא היו כי אם סברות וטעמים, ונעד יכתבם, וידועים ומבוררים כמה הם כמ\"ש גאוננו",
+      "kind": "footnote",
+      "idx": 20,
+      "text": "מתיא? חדא שהדברים שהכניסו לא היו כי אם סברות וטעמים, ונער יכתבם, וידועים ומבוררים כמה הם כמ\"ש גאוננו",
       "coords": {
         "HPOS": 238,
         "VPOS": 2700,
         "WIDTH": 2033,
         "HEIGHT": 75
       },
-      "para_start": false,
-      "is_catchword": false
-    },
-    {
-      "line_id": "eSc_line_a3f67829",
-      "kind": "main",
-      "idx": 42,
-      "text": "יודעים היו שאותם הדברים שהוסיפו היה הרשות בידם, ובודאי קבלה היתה בידם, כיון שעד ימיהם היו לומדים התלמוד",
-      "coords": {
-        "HPOS": 240,
-        "VPOS": 2801,
-        "WIDTH": 2031,
-        "HEIGHT": 82
-      },
-      "para_start": false,
-      "is_catchword": false
+      "para_start": false
     },
     {
       "line_id": "eSc_line_a049b151",
-      "kind": "main",
-      "idx": 43,
+      "kind": "footnote",
+      "idx": 21,
       "text": "באגרת הזאת אשר אנו עסוקים בביאורה, א\"כ הרי כאילו לא הוסיפו ועוד מה לתבן את הבר? הם שהיו קרובים אל ההוראה",
       "coords": {
         "HPOS": 238,
@@ -618,27 +583,25 @@
         "WIDTH": 2034,
         "HEIGHT": 72
       },
-      "para_start": false,
-      "is_catchword": false
+      "para_start": false
     },
     {
-      "line_id": "eSc_line_5985d4a5",
-      "kind": "main",
-      "idx": 44,
-      "text": ".הנעים, וירבה לסלוח אם הענין הכריחנו לצאת מהבונה בדברים הנוגעים לכונתנו בביאור תשו' גאוננו",
+      "line_id": "eSc_line_a3f67829",
+      "kind": "footnote",
+      "idx": 22,
+      "text": "יודעים היו שאותם הדברים שהוסיפו היה הרשות בידם, ובודאי קבלה היתה בידם, כיון שעד ימיהם היו לומדים התלמוד",
       "coords": {
-        "HPOS": 574,
-        "VPOS": 2962,
-        "WIDTH": 1697,
-        "HEIGHT": 81
+        "HPOS": 240,
+        "VPOS": 2801,
+        "WIDTH": 2031,
+        "HEIGHT": 82
       },
-      "para_start": false,
-      "is_catchword": false
+      "para_start": false
     },
     {
       "line_id": "eSc_line_8a484c11",
-      "kind": "main",
-      "idx": 45,
+      "kind": "footnote",
+      "idx": 23,
       "text": "בע\"פ, וכדלקמן ענף ג' וד', ואלו הם מן הדברים אשר לא יועילו ולא יצילו, ואין בהם כדאי להעלותם בספר ובדיו אם",
       "coords": {
         "HPOS": 240,
@@ -646,13 +609,12 @@
         "WIDTH": 2031,
         "HEIGHT": 77
       },
-      "para_start": true,
-      "is_catchword": false
+      "para_start": false
     },
     {
       "line_id": "eSc_line_69a09a00",
-      "kind": "main",
-      "idx": 46,
+      "kind": "footnote",
+      "idx": 24,
       "text": "לא מי שלא שימש ת\"ח, ולא דרך בדרך המשא והמתן התלמודיי כשואל הזה שכך ניכר מתוך כתבו, יעדיף מטובו הקורא",
       "coords": {
         "HPOS": 240,
@@ -660,8 +622,20 @@
         "WIDTH": 2031,
         "HEIGHT": 92
       },
-      "para_start": false,
-      "is_catchword": false
+      "para_start": false
+    },
+    {
+      "line_id": "eSc_line_5985d4a5",
+      "kind": "footnote",
+      "idx": 25,
+      "text": "הנעים, וירבה לסלוח אם הענין הכריחנו לצאת מהכונה בדברים הנוגעים לכונתנו בביאור תשו' גאוננו.",
+      "coords": {
+        "HPOS": 574,
+        "VPOS": 2962,
+        "WIDTH": 1697,
+        "HEIGHT": 81
+      },
+      "para_start": false
     }
   ]
 }

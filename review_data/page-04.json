@@ -3,7 +3,7 @@
   "image": "page_images/page-04.png",
   "page_width": 2550,
   "page_height": 3300,
-  "base_hash": "sha256:bdda13484fde1b506fae9d3d20a4da1265f99b66b32e6e03b3249f05e3c40fc5",
+  "base_hash": "sha256:6dcf4eb32db010eee8fd34926cd420b3ff39321e304843f428d9c4cd7856ad96",
   "lines": [
     {
       "line_id": "_a0b61537-86cc-48b9-ae92-fe9ffd0c0d77",
@@ -247,7 +247,7 @@
       "line_id": "_6f1357b3-76f6-4028-bffb-b9191cb887fd",
       "kind": "main",
       "idx": 17,
-      "text": "וכתוב דברים רמרפסן איגרי מיניה וביה? וכמה פעמים אחרי סידור המשנה נשתמש הגאון לעולם",
+      "text": "יכתוב דברים דמרפסן איגרי מיניה וביה? וכמה פעמים אחרי סידור המשנה נשתמש הגאון לעולם",
       "coords": {
         "HPOS": 297,
         "VPOS": 1340,
@@ -619,7 +619,7 @@
         "HEIGHT": 59
       },
       "para_start": false,
-      "is_catchword": false
+      "is_catchword": true
     },
     {
       "line_id": "_61de96ef-bb18-418e-8f06-3b6db179878e",

@@ -3,7 +3,7 @@
   "image": "page_images/page-35.jpg",
   "page_width": 2550,
   "page_height": 3300,
-  "base_hash": "sha256:f6e1689366947b9b82ee6293c897247f5bd8a43828b66d666a800aac0597c3ad",
+  "base_hash": "sha256:7a549278b6bbef72e23cfd2870a3c74069c754c7d08f4467dc4676bb3e9250b3",
   "lines": [
     {
       "line_id": "eSc_line_979e8d40",
@@ -93,7 +93,7 @@
       "line_id": "eSc_line_e2560b9d",
       "kind": "main",
       "idx": 6,
-      "text": "מנסחי דכתיבי\" (כד) דאמרינן בתמורה דברים שב ע\"פ א\"א רשאי לאומרם",
+      "text": "מנסחי דכתיבי\" (כד) דאמרינן בתמורה דברים שבע\"פ א\"א רשאי לאומרם",
       "coords": {
         "HPOS": 212,
         "VPOS": 616,
@@ -149,7 +149,7 @@
       "line_id": "eSc_line_35f3d12e",
       "kind": "main",
       "idx": 10,
-      "text": "המוקדם, וכדומה ממלאכת הסידור והחיבור והדומה להם, אבל תדעו נאמנה שמעולם לא",
+      "text": "המוקדם, וכדומה ממלאכת הסידור והחיבור והדומה להם, אבל תדעו נאמנה שמעולם **לא**",
       "coords": {
         "HPOS": 210,
         "VPOS": 874,
@@ -160,24 +160,10 @@
       "is_catchword": false
     },
     {
-      "line_id": "eSc_line_01dbe6c7",
-      "kind": "main",
-      "idx": 11,
-      "text": "ואפי' שהיה הכל כתוב ומסודר ומחוני\" הוו זהירין למגרסינהו על פה אבל",
-      "coords": {
-        "HPOS": 232,
-        "VPOS": 997,
-        "WIDTH": 2007,
-        "HEIGHT": 88
-      },
-      "para_start": false,
-      "is_catchword": false
-    },
-    {
       "line_id": "eSc_line_a863addf",
       "kind": "main",
-      "idx": 12,
-      "text": "אכתיבו ר\"ל לא ניתנו ליכתב כדי שילמדו מתוכם כי זה באיסורא קאי עד תחילת זמן הגאונים",
+      "idx": 11,
+      "text": "**אכתיבו** ר\"ל לא ניתנו ליכתב כדי שילמדו מתוכם כי זה באיסורא קאי עד תחילת זמן הגאונים",
       "coords": {
         "HPOS": 231,
         "VPOS": 944,
@@ -188,15 +174,15 @@
       "is_catchword": false
     },
     {
-      "line_id": "eSc_line_a1bbfa7e",
+      "line_id": "eSc_line_01dbe6c7",
       "kind": "main",
       "idx": 13,
-      "text": "ש",
+      "text": "ואפי' שהיה הכל כתוב ומסודר ומחובר **הוו זהירין למגרסינהו על פה אבל**",
       "coords": {
-        "HPOS": 223,
-        "VPOS": 971,
-        "WIDTH": 24,
-        "HEIGHT": 77
+        "HPOS": 232,
+        "VPOS": 997,
+        "WIDTH": 2007,
+        "HEIGHT": 88
       },
       "para_start": false,
       "is_catchword": false
@@ -205,7 +191,7 @@
       "line_id": "eSc_line_980b4aa9",
       "kind": "main",
       "idx": 14,
-      "text": "מנסחי דכתיבי",
+      "text": "**מנסחי דכתיבי**",
       "coords": {
         "HPOS": 1781,
         "VPOS": 1067,
@@ -303,7 +289,7 @@
       "line_id": "eSc_line_a95b1bf3",
       "kind": "main",
       "idx": 21,
-      "text": "?שמא עי\"ז יבא ללמוד מתוך הכתב, אבל אם אין כתיבה בעולם אין מכשול ומאי \"זהירין\" דקאמר",
+      "text": "שמא עי\"ז יבא ללמוד מתוך הכתב, אבל אם אין כתיבה בעולם אין מכשול ומאי \"זהירין\" דקאמר?",
       "coords": {
         "HPOS": 229,
         "VPOS": 1455,
@@ -331,7 +317,7 @@
       "line_id": "eSc_line_1045720a",
       "kind": "main",
       "idx": 23,
-      "text": "\"הביא ראיה מרן הגאון ז\"ל מהתלמוד שעיקר האיסור הוא: \"דברים שבע\"פ א\"א רשאי לאומרם בכתב",
+      "text": "הביא ראיה מרן הגאון ז\"ל מהתלמוד שעיקר האיסור הוא: \"דברים שבע\"פ א\"א רשאי לאומרם בכתב\"",
       "coords": {
         "HPOS": 227,
         "VPOS": 1587,
@@ -401,7 +387,7 @@
       "line_id": "eSc_line_6228dd10",
       "kind": "main",
       "idx": 28,
-      "text": ",תנא דבי ר\"יש לא איירי כ\"א על איסור אמירת דברים מתוך הכתב, ולא על איסור הכתיבה כלל",
+      "text": "תנא דבי ר\"יש לא איירי כ\"א על איסור אמירת דברים מתוך הכתב, ולא על איסור הכתיבה כלל,",
       "coords": {
         "HPOS": 229,
         "VPOS": 1908,
@@ -423,40 +409,38 @@
         "HEIGHT": 66
       },
       "para_start": false,
-      "is_catchword": false
+      "is_catchword": true
     },
     {
       "line_id": "eSc_line_39af7147",
-      "kind": "main",
-      "idx": 30,
-      "text": "כד) בנוסח ח\"מ גם פה הוסיף וגרע וז\"ל: \"ו דכתבון כיצד נכתבה המשנה ונכתב התלמוד, תלמוד ומשנה לא)",
+      "kind": "footnote",
+      "idx": 0,
+      "text": "(כד) בנוסח ח\"מ גם פה הוסיף וגרע וז\"ל: \"ודכתבון כיצד נכתבה המשנה ונכתב התלמוד, תלמוד ומשנה לא",
       "coords": {
         "HPOS": 214,
         "VPOS": 2101,
         "WIDTH": 2033,
         "HEIGHT": 67
       },
-      "para_start": true,
-      "is_catchword": false
+      "para_start": false
     },
     {
       "line_id": "eSc_line_75c39919",
-      "kind": "main",
-      "idx": 31,
-      "text": "איכתיבו אלא תירצו איתריצו, וזהירין רבנן למגרס ע\"פ, אבל מגסחי לא דאמרי גרע \"דכתיבי\" והוסיף",
+      "kind": "footnote",
+      "idx": 1,
+      "text": "איכתיבו אלא תירצו איתריצו, וזהירין רבנן למגרס ע\"פ, אבל **מנסחי לא** דאמרי גרע \"דכתיבי\" והוסיף",
       "coords": {
         "HPOS": 220,
         "VPOS": 2161,
         "WIDTH": 1926,
         "HEIGHT": 59
       },
-      "para_start": false,
-      "is_catchword": false
+      "para_start": false
     },
     {
       "line_id": "eSc_line_eae5328e",
-      "kind": "main",
-      "idx": 32,
+      "kind": "footnote",
+      "idx": 2,
       "text": "לא\" ובזה עלתה להמעתיק כל התשובה לדעת רבותינו הצרפתים, שלא היתה ריח כתיבה עד תחילת זמן הגאונים, ולהראות",
       "coords": {
         "HPOS": 220,
@@ -464,27 +448,25 @@
         "WIDTH": 2019,
         "HEIGHT": 64
       },
-      "para_start": false,
-      "is_catchword": false
+      "para_start": false
     },
     {
       "line_id": "eSc_line_9be1236a",
-      "kind": "main",
-      "idx": 33,
-      "text": "?\"גם פה איך נראה השילוח יד מבורר לעין כל אינו צריך אריכות דמלבד מה שהקשינו בגוף דברינו לעיל, \"מאי זהירין",
+      "kind": "footnote",
+      "idx": 3,
+      "text": "גם פה איך נראה השילוח יד מבורר לעין כל אינו צריך אריכות דמלבד מה שהקשינו בגוף דברינו לעיל, \"מאי זהירין\"?",
       "coords": {
         "HPOS": 223,
         "VPOS": 2266,
         "WIDTH": 2026,
         "HEIGHT": 60
       },
-      "para_start": false,
-      "is_catchword": false
+      "para_start": false
     },
     {
       "line_id": "eSc_line_16cf3601",
-      "kind": "main",
-      "idx": 34,
+      "kind": "footnote",
+      "idx": 4,
       "text": "דאם אין כתיבה בעולם לא שייך לשון זהירות, וזה די והותר, לחיזוק ביאורנו האמתי דהיתה כתיבה בעולם, והנוסח הזה",
       "coords": {
         "HPOS": 218,
@@ -492,13 +474,12 @@
         "WIDTH": 2027,
         "HEIGHT": 57
       },
-      "para_start": true,
-      "is_catchword": false
+      "para_start": false
     },
     {
       "line_id": "eSc_line_9f7ce8e8",
-      "kind": "main",
-      "idx": 35,
+      "kind": "footnote",
+      "idx": 5,
       "text": "הוא נידון בשילוח יד, בלי שום ריח ספק, עוד זאת קשה דאם כבר כתב הגאון דלא אכתיבו כלל, ולפי דעת בעל הנוסח הוא",
       "coords": {
         "HPOS": 220,
@@ -506,27 +487,25 @@
         "WIDTH": 2029,
         "HEIGHT": 55
       },
-      "para_start": false,
-      "is_catchword": false
+      "para_start": false
     },
     {
       "line_id": "eSc_line_b2b44f36",
-      "kind": "main",
-      "idx": 36,
-      "text": "? \"שר\"ל שלא היה ריח כתיבה בעולם, ולא שהכונה הוא שלא הותרו ללמוד מתוכן, א\"כ מאי האי דקאמר \"אבל מנסחי לא",
+      "kind": "footnote",
+      "idx": 6,
+      "text": "שר\"ל שלא היה ריח כתיבה בעולם, ולא שהכונה הוא שלא הותרו ללמוד מתוכן, א\"כ מאי האי דקאמר \"אבל מנסחי לא\" ?",
       "coords": {
         "HPOS": 225,
         "VPOS": 2421,
         "WIDTH": 2022,
         "HEIGHT": 70
       },
-      "para_start": false,
-      "is_catchword": false
+      "para_start": false
     },
     {
       "line_id": "eSc_line_2e9e5e9a",
-      "kind": "main",
-      "idx": 37,
+      "kind": "footnote",
+      "idx": 7,
       "text": "צריכא למימר? כיון דלא איכתיבו כלל מהיכן ימצאו הנוסחאות כדי שיפרש דבריו הגאון כ\"כ לומר: \"למגרס ע\"פ\" \"אבל",
       "coords": {
         "HPOS": 220,
@@ -534,13 +513,12 @@
         "WIDTH": 2025,
         "HEIGHT": 69
       },
-      "para_start": false,
-      "is_catchword": false
+      "para_start": false
     },
     {
       "line_id": "eSc_line_a7b0b030",
-      "kind": "main",
-      "idx": 38,
+      "kind": "footnote",
+      "idx": 8,
       "text": "מנסחי לא\"? ודאי לא, כיון דלא אכתיבו, ואפילו מי שהוא ממהדורי מילי, לא יכתוב דברים בלי הכרח כאלו, כ\"ש גאוננו",
       "coords": {
         "HPOS": 221,
@@ -548,27 +526,25 @@
         "WIDTH": 2028,
         "HEIGHT": 71
       },
-      "para_start": false,
-      "is_catchword": false
+      "para_start": false
     },
     {
       "line_id": "eSc_line_30f606b4",
-      "kind": "main",
-      "idx": 39,
-      "text": ",דכל דבריו הם מילי דמזבני בדינרי, אבל לפי ביאורנו הנז\"ל, גירסא זאת ג\"כ אפילו דגנב תיבת \"דכתיבי, הוא כמין חומר",
+      "kind": "footnote",
+      "idx": 9,
+      "text": "דכל דבריו הם מילי דמזבני בדינרי, אבל לפי ביאורנו הנז\"ל, גירסא זאת ג\"כ אפילו דגנב תיבת \"דכתיבי, הוא כמין חומר,",
       "coords": {
         "HPOS": 225,
         "VPOS": 2581,
         "WIDTH": 2022,
         "HEIGHT": 71
       },
-      "para_start": false,
-      "is_catchword": false
+      "para_start": false
     },
     {
       "line_id": "eSc_line_8bb67603",
-      "kind": "main",
-      "idx": 40,
+      "kind": "footnote",
+      "idx": 10,
       "text": "דאחר דבירור \"לא איכתיבו\" הוא כמו לא ניתנו ליכתב דתלמודין שפי' הוא שלא נתנו ללמוד מתוכן אבל הכתיבה היתה",
       "coords": {
         "HPOS": 223,
@@ -576,13 +552,12 @@
         "WIDTH": 2024,
         "HEIGHT": 60
       },
-      "para_start": false,
-      "is_catchword": false
+      "para_start": false
     },
     {
       "line_id": "eSc_line_22ec7ae3",
-      "kind": "main",
-      "idx": 41,
+      "kind": "footnote",
+      "idx": 11,
       "text": "בעולם ע\"ז מסיים שאפילו שהיתה הכתיבה, עכ\"ז זהירין רבנן למגרס ע\"פ \"אבל מנסחי לא\" ר\"ל שהיו נזהרין שלא ללמוד",
       "coords": {
         "HPOS": 223,
@@ -590,13 +565,12 @@
         "WIDTH": 2027,
         "HEIGHT": 70
       },
-      "para_start": false,
-      "is_catchword": false
+      "para_start": false
     },
     {
       "line_id": "eSc_line_72a231fe",
-      "kind": "main",
-      "idx": 42,
+      "kind": "footnote",
+      "idx": 12,
       "text": "מתוך הכתב, והוא מפרש בזה מ\"ש בתחי' דבריו \"לא אכתיבו\" ודוק היטב, ולדעתי אפשר שהנוסח האמתי הוא: \"אבל",
       "coords": {
         "HPOS": 221,
@@ -604,27 +578,25 @@
         "WIDTH": 2028,
         "HEIGHT": 72
       },
-      "para_start": false,
-      "is_catchword": false
+      "para_start": false
     },
     {
       "line_id": "eSc_line_c9eb0c28",
-      "kind": "main",
-      "idx": 43,
-      "text": "מנוסחי דכתיבי לא, ר\"ל יגרשו בע\"פ ולא מתוך הספר, וביוחסין הושמטה תיבת \"לא\" כי מי יודע? לעולם אינו ענין כלל",
+      "kind": "footnote",
+      "idx": 13,
+      "text": "מנוסחי דכתיבי לא, ר\"ל יגרסו בע\"פ ולא מתוך הספר, וביוחסין הושמטה תיבת \"לא\" כי מי יודע? לעולם אינו ענין כלל",
       "coords": {
         "HPOS": 221,
         "VPOS": 2795,
         "WIDTH": 2028,
         "HEIGHT": 70
       },
-      "para_start": false,
-      "is_catchword": false
+      "para_start": false
     },
     {
       "line_id": "eSc_line_0195aaa8",
-      "kind": "main",
-      "idx": 44,
+      "kind": "footnote",
+      "idx": 14,
       "text": "דהכל הולך אל מקום אחד, אם נגרוס \"אבל מנוסחי דכתיבי\" כמו שהוא ביוחסין לפנינו כונתו מבוארת כמ\"ש לעיל שהכונה",
       "coords": {
         "HPOS": 223,
@@ -632,13 +604,12 @@
         "WIDTH": 2024,
         "HEIGHT": 55
       },
-      "para_start": false,
-      "is_catchword": false
+      "para_start": false
     },
     {
       "line_id": "eSc_line_20b09f8f",
-      "kind": "main",
-      "idx": 45,
+      "kind": "footnote",
+      "idx": 15,
       "text": "שהיו רואים מתוך הכתב וגורסין בע\"פ, ואם הוא כנוסח זה יתפרש כאמור \"אבל מנסחי דכתיבי לא\" ר\"ל היו זהירין שלא",
       "coords": {
         "HPOS": 223,
@@ -646,22 +617,20 @@
         "WIDTH": 2026,
         "HEIGHT": 66
       },
-      "para_start": false,
-      "is_catchword": false
+      "para_start": false
     },
     {
       "line_id": "eSc_line_cb81d481",
-      "kind": "main",
-      "idx": 46,
-      "text": ".ללמוד מתוך הכתב אפי' אות אחת כ\"א ראיה בעלמא כדי ליקח הדברים בעל פה",
+      "kind": "footnote",
+      "idx": 16,
+      "text": "ללמוד מתוך הכתב אפי' אות אחת כ\"א ראיה בעלמא כדי ליקח הדברים בעל פה.",
       "coords": {
         "HPOS": 919,
         "VPOS": 2955,
         "WIDTH": 1326,
         "HEIGHT": 73
       },
-      "para_start": false,
-      "is_catchword": false
+      "para_start": false
     }
   ]
 }
