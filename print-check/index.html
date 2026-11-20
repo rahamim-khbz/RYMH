@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="color-scheme" content="light dark">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' https://www.gstatic.com https://apis.google.com https://identitytoolkit.googleapis.com https://securetoken.googleapis.com; connect-src 'self' https://iyye-hayyam-default-rtdb.firebaseio.com https://identitytoolkit.googleapis.com https://securetoken.googleapis.com wss://iyye-hayyam-default-rtdb.firebaseio.com; img-src 'self' data: https://lh3.googleusercontent.com; frame-src https://iyye-hayyam.firebaseapp.com https://accounts.google.com https://apis.google.com; style-src 'self' https://fonts.googleapis.com; font-src 'self' https://fonts.gstatic.com; object-src 'none'; base-uri 'none';">
+  <meta http-equiv="X-Content-Type-Options" content="nosniff">
+  <meta name="referrer" content="strict-origin-when-cross-origin">
+  <title>Iyye Hayyam print check — איי הים</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Frank+Ruhl+Libre:wght@400;500;700&family=IBM+Plex+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../static/css/print_check.css">
+  <script defer src="https://www.gstatic.com/firebasejs/10.12.2/firebase-app-compat.js"></script>
+  <script defer src="https://www.gstatic.com/firebasejs/10.12.2/firebase-auth-compat.js"></script>
+  <script defer src="../static/js/print_check.js"></script>
+</head>
+<body>
+  <div class="wrap">
+    <header>
+      <h1>Iyye Hayyam print check <bdi dir="rtl" lang="he" class="he">איי הים</bdi></h1>
+      <p class="intro">We are proofreading a digital transcription of <i>Iyye Hayyam</i>. For each item below, our scan was too faint or ambiguous to settle a word or letter. If you have an original printed copy, please check the spot and tell us what the print shows.</p>
+      <p class="intro">Each item gives the book leaf (<bdi dir="rtl" lang="he" class="q-he">דף</bdi>) and side as printed at the top of the book: the leaf number appears on the front side (<bdi dir="rtl" lang="he" class="q-he">ע״א</bdi>) only, and <bdi dir="rtl" lang="he" class="q-he">ע״ב</bdi> is the back of that leaf. You can also open the full scanned page from any item. Pick the reading your copy prints (or type it under "Something else"), then press <b>Send this answer</b> on that item.</p>
+    </header>
+
+    <div class="bar" role="region" aria-label="Checklist controls">
+      <div class="progress">
+        <span id="prog">0 of 14 sent</span>
+        <progress id="meter" max="14" value="0" aria-label="Answers sent"></progress>
+      </div>
+      <span class="status" id="status" role="status" aria-live="polite">Loading items…</span>
+      <div class="bar-actions">
+        <button type="button" id="signInBtn" class="primary-btn">Sign in with Google</button>
+        <span class="user-badge" id="userBadge" hidden></span>
+        <button type="button" id="signOutBtn" hidden>Sign out</button>
+        <span id="chiefBar" class="chief-bar" hidden>
+          <button type="button" id="refreshAllBtn">Refresh answers</button>
+          <button type="button" id="copyAllJsonBtn">Copy all (JSON)</button>
+        </span>
+        <button type="button" id="copyBtn">Copy my answers</button>
+        <button type="button" id="themeBtn" aria-label="Toggle color theme" aria-pressed="false">Dark mode</button>
+      </div>
+    </div>
+
+    <div class="notice" id="authNotice">
+      You can browse all 14 items and fill in answers right away (drafts stay saved in this browser). <b>Sign in with Google</b> above to send answers directly one at a time, or use <b>Copy my answers</b> to send them by email or message.
+    </div>
+
+    <main class="wrap" id="list" aria-busy="true" data-legend="What does your copy print at the highlighted spot?" data-scan-caption="Our scan: the line in question is boxed, with the lines above and below it."></main>
+
+    <footer>Questions about this list? Reply to whoever sent you the link.</footer>
+  </div>
+</body>
+</html>

@@ -1,0 +1,588 @@
+/* Printer's errata slip layout for /print-check/ */
+:root {
+  color-scheme: light dark;
+  --paper-light: #f6f5f1;
+  --slip-light: #ffffff;
+  --ink-light: #1f2328;
+  --muted-light: #57606a;
+  --rule-light: #dcdad3;
+  --accent-light: #2b5b84;
+  --mark-light: #fbe7a1;
+  --ok-light: #256b3f;
+  --okbg-light: #e6f3ea;
+  --err-light: #b42318;
+  --notice-light: #edf3f8;
+
+  --paper-dark: #17191c;
+  --slip-dark: #202328;
+  --ink-dark: #e8e6e1;
+  --muted-dark: #a2a8b0;
+  --rule-dark: #353940;
+  --accent-dark: #8fb8de;
+  --mark-dark: #5c4c14;
+  --ok-dark: #8fd3a7;
+  --okbg-dark: #1f3428;
+  --err-dark: #f28b82;
+  --notice-dark: #1e2934;
+
+  --paper: var(--paper-light);
+  --slip: var(--slip-light);
+  --ink: var(--ink-light);
+  --muted: var(--muted-light);
+  --rule: var(--rule-light);
+  --accent: var(--accent-light);
+  --mark: var(--mark-light);
+  --ok: var(--ok-light);
+  --okbg: var(--okbg-light);
+  --err: var(--err-light);
+  --notice: var(--notice-light);
+
+  --heb: "Frank Ruhl Libre", "SBL Hebrew", "Times New Roman", serif;
+  --ui: "IBM Plex Sans", -apple-system, "Segoe UI", sans-serif;
+  --target-size: 24px;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --paper: var(--paper-dark);
+    --slip: var(--slip-dark);
+    --ink: var(--ink-dark);
+    --muted: var(--muted-dark);
+    --rule: var(--rule-dark);
+    --accent: var(--accent-dark);
+    --mark: var(--mark-dark);
+    --ok: var(--ok-dark);
+    --okbg: var(--okbg-dark);
+    --err: var(--err-dark);
+    --notice: var(--notice-dark);
+  }
+}
+
+:root[data-theme="dark"] {
+  color-scheme: dark;
+  --paper: var(--paper-dark);
+  --slip: var(--slip-dark);
+  --ink: var(--ink-dark);
+  --muted: var(--muted-dark);
+  --rule: var(--rule-dark);
+  --accent: var(--accent-dark);
+  --mark: var(--mark-dark);
+  --ok: var(--ok-dark);
+  --okbg: var(--okbg-dark);
+  --err: var(--err-dark);
+  --notice: var(--notice-dark);
+}
+
+:root[data-theme="light"] {
+  color-scheme: light;
+}
+
+@media (pointer: coarse) {
+  :root {
+    --target-size: 44px;
+  }
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  accent-color: var(--accent);
+  scroll-padding-top: calc(5.5rem + env(safe-area-inset-top, 0px));
+}
+
+body {
+  margin: 0;
+  background: var(--paper);
+  color: var(--ink);
+  font: 15px/1.55 var(--ui);
+  overflow-wrap: break-word;
+  padding-inline-start: max(16px, env(safe-area-inset-left, 0px));
+  padding-inline-end: max(16px, env(safe-area-inset-right, 0px));
+  padding-block: 0 max(64px, env(safe-area-inset-bottom, 0px));
+}
+
+body::before {
+  content: "";
+  position: fixed;
+  inset: 0 0 auto;
+  height: env(safe-area-inset-top, 0px);
+  z-index: 10;
+  background: var(--paper);
+}
+
+[hidden] {
+  display: none !important;
+}
+
+img {
+  max-inline-size: 100%;
+  block-size: auto;
+}
+
+.wrap {
+  max-inline-size: 860px;
+  margin-inline: auto;
+  display: grid;
+  gap: 20px;
+}
+
+header {
+  padding-block: 32px 4px;
+  display: grid;
+  gap: 10px;
+}
+
+h1 {
+  font: 700 30px/1.15 var(--heb);
+  margin: 0;
+  text-wrap: balance;
+}
+
+h1 .he {
+  font-weight: 500;
+  color: var(--muted);
+  margin-inline-start: 10px;
+  unicode-bidi: isolate;
+}
+
+.intro {
+  color: var(--ink);
+  max-inline-size: 68ch;
+  margin: 0;
+  text-wrap: pretty;
+}
+
+.intro + .intro {
+  color: var(--muted);
+}
+
+.bar {
+  position: sticky;
+  top: env(safe-area-inset-top, 0px);
+  z-index: 5;
+  background: var(--paper);
+  border-block-end: 1px solid var(--rule);
+  padding-block: 10px;
+  display: flex;
+  gap: 10px 12px;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+:where(.bar > :not(button, input, select, textarea, a, label)) {
+  min-inline-size: 0;
+}
+
+.progress {
+  flex: 1 1 180px;
+  min-inline-size: 150px;
+  font-size: 13px;
+  color: var(--muted);
+}
+
+progress#meter {
+  appearance: none;
+  display: block;
+  inline-size: 100%;
+  block-size: 6px;
+  margin-block-start: 5px;
+  border: 0;
+  border-radius: 3px;
+  background: var(--rule);
+  overflow: hidden;
+}
+
+progress#meter::-webkit-progress-bar {
+  background: var(--rule);
+  border-radius: 3px;
+}
+
+progress#meter::-webkit-progress-value {
+  background: var(--ok);
+  border-radius: 3px;
+  transition: width 0.25s ease;
+}
+
+progress#meter::-moz-progress-bar {
+  background: var(--ok);
+  border-radius: 3px;
+}
+
+.status {
+  font-size: 13px;
+  color: var(--muted);
+}
+
+.bar-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  align-items: center;
+}
+
+.chief-bar {
+  display: inline-flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  align-items: center;
+}
+
+.user-badge {
+  font-size: 13px;
+  color: var(--ink);
+  font-weight: 500;
+  padding-inline: 4px;
+}
+
+button {
+  font: 500 14px var(--ui);
+  border: 1px solid var(--rule);
+  background: var(--slip);
+  color: var(--ink);
+  border-radius: 6px;
+  padding: 6px 12px;
+  cursor: pointer;
+}
+
+:where(button, input:not([type="radio"]), textarea, a.full-page-link, label.opt) {
+  min-block-size: var(--target-size);
+}
+
+button:focus-visible,
+input:focus-visible,
+textarea:focus-visible,
+a:focus-visible,
+figure:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 2px;
+}
+
+.primary-btn,
+.sendBtn {
+  background: var(--accent);
+  border-color: var(--accent);
+  color: var(--slip);
+}
+
+.sendBtn:disabled {
+  background: var(--slip);
+  color: var(--muted);
+  border-color: var(--rule);
+  cursor: default;
+}
+
+.notice {
+  background: var(--notice);
+  border: 1px solid var(--rule);
+  color: var(--ink);
+  border-radius: 6px;
+  padding: 10px 14px;
+  font-size: 14px;
+}
+
+.notice.ok {
+  background: var(--okbg);
+}
+
+.notice.err {
+  border-color: var(--err);
+}
+
+.slip {
+  background: var(--slip);
+  border: 1px solid var(--rule);
+  border-radius: 8px;
+  padding: 18px 20px;
+  min-inline-size: 0;
+}
+
+.slip.done {
+  border-color: var(--ok);
+}
+
+.slip-form {
+  display: grid;
+  gap: 12px;
+  min-inline-size: 0;
+}
+
+.head {
+  display: flex;
+  gap: 6px 12px;
+  align-items: baseline;
+  flex-wrap: wrap;
+  font-size: 13px;
+  color: var(--muted);
+}
+
+.head .num {
+  font: 700 18px var(--heb);
+  color: var(--ink);
+  font-variant-numeric: tabular-nums;
+}
+
+.head .loc {
+  font-weight: 600;
+  color: var(--ink);
+}
+
+.head .leaf {
+  font: 600 19px var(--heb);
+  unicode-bidi: isolate;
+}
+
+.head .scan {
+  font-size: 12px;
+  opacity: 0.85;
+}
+
+.head .saved {
+  margin-inline-start: auto;
+  color: var(--ok);
+  font-weight: 600;
+}
+
+.full-page-link {
+  color: var(--accent);
+  font-weight: 500;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+  display: inline-flex;
+  align-items: center;
+  white-space: nowrap;
+}
+
+.q {
+  margin: 0;
+  max-inline-size: 68ch;
+  text-wrap: pretty;
+  font-size: 15.5px;
+}
+
+.q-he {
+  font-family: var(--heb);
+  font-size: 1.15em;
+  font-weight: 500;
+  unicode-bidi: isolate;
+}
+
+.q-blank {
+  display: inline-block;
+  min-inline-size: 1.4em;
+  border-block-end: 2px solid var(--accent);
+  text-align: center;
+  color: var(--accent);
+  font-family: var(--ui);
+  font-size: 0.78em;
+  margin-inline: 2px;
+  vertical-align: baseline;
+}
+
+.text {
+  direction: rtl;
+  text-align: right;
+  font: 400 20px/1.85 var(--heb);
+  padding: 12px 16px;
+  background: var(--paper);
+  border-radius: 6px;
+  min-inline-size: 0;
+  overflow-wrap: break-word;
+}
+
+.text .ctx {
+  color: var(--muted);
+  font-size: 17px;
+}
+
+.text b {
+  font-weight: 700;
+}
+
+.text mark {
+  background: var(--mark);
+  color: var(--ink);
+  border-radius: 3px;
+  padding: 0 3px;
+}
+
+figure {
+  margin: 0;
+  overflow-x: auto;
+  border-radius: 4px;
+}
+
+figure img {
+  display: block;
+  max-inline-size: 100%;
+  block-size: auto;
+  border: 1px solid var(--rule);
+  border-radius: 4px;
+  background: #ffffff;
+}
+
+figcaption {
+  font-size: 12.5px;
+  color: var(--muted);
+  margin-block-start: 6px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px 10px;
+  align-items: center;
+}
+
+fieldset {
+  border: 0;
+  padding: 0;
+  margin: 0;
+  display: grid;
+  gap: 8px;
+}
+
+legend {
+  font-size: 13px;
+  font-weight: 600;
+  margin-block-end: 4px;
+  padding: 0;
+}
+
+.opts {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.opt {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  border: 1px solid var(--rule);
+  border-radius: 6px;
+  padding: 6px 14px;
+  cursor: pointer;
+  background: var(--slip);
+}
+
+.opt input {
+  margin: 0;
+  inline-size: 18px;
+  block-size: 18px;
+}
+
+.opt .he {
+  font: 500 19px var(--heb);
+  unicode-bidi: isolate;
+}
+
+.opt.sel {
+  border-color: var(--accent);
+  box-shadow: inset 0 0 0 1px var(--accent);
+}
+
+.row {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 10px;
+}
+
+.field {
+  display: grid;
+  gap: 4px;
+  font-size: 13px;
+  color: var(--muted);
+  min-inline-size: 0;
+}
+
+input[type="text"],
+textarea {
+  font: inherit;
+  font-size: max(1rem, 1em);
+  color: var(--ink);
+  background: var(--paper);
+  border: 1px solid var(--rule);
+  border-radius: 6px;
+  padding: 8px 10px;
+  inline-size: 100%;
+}
+
+input[type="text"].he {
+  font-family: var(--heb);
+  font-size: 19px;
+}
+
+input[aria-invalid="true"] {
+  border-color: var(--err);
+}
+
+textarea {
+  min-block-size: 48px;
+  resize: vertical;
+}
+
+.send {
+  display: flex;
+  gap: 10px 12px;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.sstate {
+  font-size: 13px;
+  color: var(--muted);
+}
+
+.sstate.ok {
+  color: var(--ok);
+  font-weight: 500;
+}
+
+.sstate.err {
+  color: var(--err);
+  font-weight: 500;
+}
+
+.theirs {
+  font-size: 13px;
+  border-block-start: 1px dashed var(--rule);
+  padding-block-start: 8px;
+  color: var(--muted);
+  display: grid;
+  gap: 4px;
+}
+
+.theirs b {
+  color: var(--ink);
+  font-weight: 600;
+}
+
+.copy-fallback-box {
+  width: 100%;
+  min-block-size: 120px;
+  font: 13px/1.45 var(--ui);
+}
+
+footer {
+  color: var(--muted);
+  font-size: 13px;
+}
+
+@media (max-width: 600px) {
+  .row {
+    grid-template-columns: 1fr;
+  }
+
+  h1 {
+    font-size: 25px;
+  }
+
+  .slip {
+    padding: 14px;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  progress#meter::-webkit-progress-value {
+    transition: none;
+  }
+}

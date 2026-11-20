@@ -1,0 +1,529 @@
+[
+  {
+    "n": 1,
+    "id": "rl-page-24-03",
+    "scan": 24,
+    "page_id": "page-24",
+    "leaf": "דף פ״ז ע״א",
+    "where": "near the top (6% down)",
+    "prev": "בהו מוקדם ומאוחר וז\"א: \"ולענין מסכייתא דחזיתון דאית בהון מוקדם",
+    "line": "ומאוחר, רבי כד",
+    "next": "תרצינון למתני' לא סדרינון למסכייתא חדא דבתר",
+    "mark": "כד",
+    "question": "Last word of the line, after “רבי”: כד or כר?",
+    "question_parts": [
+      "Last word of the line, after ",
+      {
+        "he_quote": [
+          "רבי"
+        ]
+      },
+      ": ",
+      {
+        "he": "כד"
+      },
+      " or ",
+      {
+        "he": "כר"
+      },
+      "?"
+    ],
+    "options": [
+      "כד",
+      "כר"
+    ],
+    "crop": "crops/rl-page-24-03.jpg",
+    "crop_width": 1400,
+    "crop_height": 149,
+    "full_page": "../page_images/page-24.jpg"
+  },
+  {
+    "n": 2,
+    "id": "ar-page-31-11-2",
+    "scan": 31,
+    "page_id": "page-31",
+    "leaf": "דף צ׳ ע״ב",
+    "where": "middle (60% down)",
+    "prev": "נר\"ו הערה ל\"ב שקדמה להדפסת ח\"מ בט\"ו שנים שגם הוא נר\"ו הגיה \"ורבנן דבבל\" והוא פלא על יופי שלימותו, מי שמונה",
+    "line": "פסיעותיו של ר\"מ בוטריל נ\"ע בדקדוקים עצומים (עיין לו שם בתו' רה\"ג הערה ל\"ג) וחד מהם ממילת \"בבל\" יגיה כאן",
+    "next": "דבבל\" ולא \"דהכא\". איך שיהיה אלהים אנה לידי עוד חיזוק נחמד להשערתי שנוסח ח\"מ הוא מועתק מנוסח יוחסין,",
+    "mark": "רה\"ג",
+    "question": "“בתו' רה\"ג הערה ל\"ג”: does the abbreviation begin with ר or ד?",
+    "question_parts": [
+      {
+        "he_quote": [
+          "בתו' רה\"ג הערה ל\"ג"
+        ]
+      },
+      ": does the abbreviation begin with ",
+      {
+        "he": "ר"
+      },
+      " or ",
+      {
+        "he": "ד"
+      },
+      "?"
+    ],
+    "options": [
+      "רה\"ג",
+      "דה\"ג"
+    ],
+    "crop": "crops/ar-page-31-11-2.jpg",
+    "crop_width": 1400,
+    "crop_height": 133,
+    "full_page": "../page_images/page-31.jpg"
+  },
+  {
+    "n": 3,
+    "id": "p42-bold-vav",
+    "scan": 42,
+    "page_id": "page-42",
+    "leaf": "דף צ״ו ע״א",
+    "where": "upper part (21% down)",
+    "prev": "שנ\"ג בהגהותי וז\"ל \"ודברי הרבים הוא היסוד המוכיח על כל משנה ועל כל גמרא וש\"י למור\"ה ז\"ל.",
+    "line": "**ו** מצוה להביא מן החדש מה שמצאתי לרבינו המאירי בפתיחתו למס' אבות, נדפס בשאלוניקי עם",
+    "next": "ס' דרכי חיים להרב המפורסם מר שניי כמוהרח\"ף נר\"ו (*) ונעתיק דברי רבינו המאירי ז\"ל פסקי",
+    "mark": "ו מצוה",
+    "question": "Start of the line before “מצוה להביא מן החדש”: is it printed as one word (ומצוה with a large/bold initial ו) or a separate letter ו with a space?",
+    "question_parts": [
+      "Start of the line before ",
+      {
+        "he_quote": [
+          "מצוה להביא מן החדש"
+        ]
+      },
+      ": is it printed as one word (",
+      {
+        "he": "ומצוה"
+      },
+      " with a large/bold initial ",
+      {
+        "he": "ו"
+      },
+      ") or a separate letter ",
+      {
+        "he": "ו"
+      },
+      " with a space?"
+    ],
+    "options": [
+      "ומצוה",
+      "ו מצוה"
+    ],
+    "crop": "crops/p42-bold-vav.jpg",
+    "crop_width": 1400,
+    "crop_height": 150,
+    "full_page": "../page_images/page-42.jpg"
+  },
+  {
+    "n": 4,
+    "id": "rl-page-50-14-2",
+    "scan": 50,
+    "page_id": "page-50",
+    "leaf": "דף ק׳ ע״א",
+    "where": "lower part (79% down)",
+    "prev": "משמיה דחביבנו ומאור עינינו הגאון שי\"ר נר\"ו, והוא האמת בלי ספק, ולא עוד אלא, כי היתה",
+    "line": "גזרה בכל תוקף שלא יוציאום לחו\"ל, וזהו שכתב ר\"א לירתוי דההוא כהנא דדמך בא\" שהיו בבבל \"ספרים",
+    "next": "שזכתה בהם א\"י אין מוציאין אותם לחו\"ל\" (ירוש' פי' זה בורר ה' ט') ירצה על עקדי הגניזות ולא על",
+    "mark": "בא\"",
+    "question": "“דההוא כהנא דדמך ___ שהיו בבבל”: our scan shows a broken abbreviation. What is printed?",
+    "question_parts": [
+      {
+        "he_quote": [
+          "דההוא כהנא דדמך ",
+          {
+            "blank": "___"
+          },
+          " שהיו בבבל"
+        ]
+      },
+      ": our scan shows a broken abbreviation. What is printed?"
+    ],
+    "options": [
+      "בא\"י",
+      "בא'"
+    ],
+    "crop": "crops/rl-page-50-14-2.jpg",
+    "crop_width": 1400,
+    "crop_height": 150,
+    "full_page": "../page_images/page-50.jpg"
+  },
+  {
+    "n": 5,
+    "id": "ar-page-59-9-2",
+    "scan": 59,
+    "page_id": "page-59",
+    "leaf": "דף ק״ד ע״ב",
+    "where": "upper part (28% down)",
+    "prev": "תושבע\"פ, ולקמן נאריך הדבור בזה, והראיה מסוגיית חולין \"דהתלמוד מסופק על מימרת רב אשי",
+    "line": "'האחרון מסדר התלמוד, אם הוא אמרה קמיה רב כהנא האחרון שהיה רבו (עיין סד\"ה דקנ\"ז ע\"ג וד'",
+    "next": "ודוק) או רב כהנא אמרה קמיה דרב שימי, דאם כן מכאן ראיה שהתלמוד לא נכתב\" אומר: דבאמת",
+    "mark": "וד'",
+    "question": "Citation in parentheses at the end of the line: וד' or ור'?",
+    "question_parts": [
+      "Citation in parentheses at the end of the line: ",
+      {
+        "he": "וד'"
+      },
+      " or ",
+      {
+        "he": "ור'"
+      },
+      "?"
+    ],
+    "options": [
+      "וד'",
+      "ור'"
+    ],
+    "crop": "crops/ar-page-59-9-2.jpg",
+    "crop_width": 1400,
+    "crop_height": 150,
+    "full_page": "../page_images/page-59.jpg"
+  },
+  {
+    "n": 6,
+    "id": "op-page-65-1",
+    "scan": 65,
+    "page_id": "page-65",
+    "leaf": "דף ק״ז ע״ב",
+    "where": "upper part (21% down)",
+    "prev": "איכא\" \"לאבא\" ושוב כדי לכוין הלשון הוסיפו גם מלת \"איכא\" ונעשה \"א\"ר אבא איכא\" וכו' והאמת",
+    "line": "הוא \"אמר רבי איכא מאן דלשאיל\" ובזה סרה קושית הגאון הרמ\"ז בחק\"ל יו\"ד דש\"י ע\"ד ודוק, ותמהני",
+    "next": "על בעלי הגהות איך עד היום לא נרגשו מטעות זה, אלא דמצד אחד אני תמיה על החידוש הזה,",
+    "mark": "ע\"ד",
+    "question": "Citation of Hikekei Lev, Yoreh De'ah: is the column after דש\"י printed ע\"ד or ע\"ר?",
+    "question_parts": [
+      "Citation of Hikekei Lev, Yoreh De'ah: is the column after ",
+      {
+        "he": "דש\"י"
+      },
+      " printed ",
+      {
+        "he": "ע\"ד"
+      },
+      " or ",
+      {
+        "he": "ע\"ר"
+      },
+      "?"
+    ],
+    "options": [
+      "ע\"ד",
+      "ע\"ר"
+    ],
+    "crop": "crops/op-page-65-1.jpg",
+    "crop_width": 1400,
+    "crop_height": 153,
+    "full_page": "../page_images/page-65.jpg"
+  },
+  {
+    "n": 7,
+    "id": "ar-page-66-4",
+    "scan": 66,
+    "page_id": "page-66",
+    "leaf": "דף ק״ח ע״א",
+    "where": "near the top (10% down)",
+    "prev": "",
+    "line": "אלו בלשון תנו רבנן וחד מהם בסוטה דמ\"ו ע\"ב, תנו רבנן אשר לא יעבד בו וכו', וראה כמה מקורות אחרות ברבינו בעל",
+    "next": "סד\"ה שבכולם הם תניא או ת\"ר, ואכ מאי שנא הא? אבל לפי האמור, הענין כמין חומר דמחלוקתם המובא ביומא נשאר",
+    "mark": "בלשון",
+    "question": "First words of the line, “אלו _לשון תנו רבנן”: ב or כ?",
+    "question_parts": [
+      "First words of the line, ",
+      {
+        "he_quote": [
+          "אלו ",
+          {
+            "blank": "_"
+          },
+          "לשון תנו רבנן"
+        ]
+      },
+      ": ",
+      {
+        "he": "ב"
+      },
+      " or ",
+      {
+        "he": "כ"
+      },
+      "?"
+    ],
+    "options": [
+      "כלשון",
+      "בלשון"
+    ],
+    "crop": "crops/ar-page-66-4.jpg",
+    "crop_width": 1400,
+    "crop_height": 152,
+    "full_page": "../page_images/page-66.jpg"
+  },
+  {
+    "n": 8,
+    "id": "ar-page-68-16",
+    "scan": 68,
+    "page_id": "page-68",
+    "leaf": "דף ק״ט ע״א",
+    "where": "middle (42% down)",
+    "prev": "הנז\"ל \"ואחריהן רבנן סבוראי\" תחלת הדבור מתחיל \"מימות משה\" וכו' והם הדברים שהובאו ביעיר",
+    "line": "אזן בשם מחזור ויטרי בחסרון ניכר והם עצמם שהובאו לעיל סימן ך' בתיקונם בשם רב האיי גאון ז\"ל",
+    "next": "כיעויין לעיל בדברי שם, וא\"כ הוברר כי דברי מחזור ויטרי, לכל הפחות אלו, ממקור הגאונים יצאו",
+    "mark": "בחסרון",
+    "question": "“מחזור ויטרי _חסרון ניכר”: does the word begin with ב or כ?",
+    "question_parts": [
+      {
+        "he_quote": [
+          "מחזור ויטרי ",
+          {
+            "blank": "_"
+          },
+          "חסרון ניכר"
+        ]
+      },
+      ": does the word begin with ",
+      {
+        "he": "ב"
+      },
+      " or ",
+      {
+        "he": "כ"
+      },
+      "?"
+    ],
+    "options": [
+      "בחסרון",
+      "כחסרון"
+    ],
+    "crop": "crops/ar-page-68-16.jpg",
+    "crop_width": 1400,
+    "crop_height": 149,
+    "full_page": "../page_images/page-68.jpg"
+  },
+  {
+    "n": 9,
+    "id": "ar-page-81-20",
+    "scan": 81,
+    "page_id": "page-81",
+    "leaf": "דף קט״ו ע״ב",
+    "where": "near the bottom (94% down)",
+    "prev": "משה ועד אחר חרבן בית שני בק\"ן שנה (*) בימי ר' יהודה הנשיא אשר נקרא רבי ור\"הק כדאמרי' בירוש' פ' הנחנקין הלכה",
+    "line": "ב' אמ\"ר אבהו וכו' והיה בימי אנטונינוס מלך אדום והיה אצלו במעלה גדולה ובשררה יתירה כאשר אבאר מקצת מה שאמצא",
+    "next": "(*) כבר כתבנו בהערה מבקרת קדמוניות הבאה בע\"ה בח\"ב סי' מ' שהאמת כמו שביאר הגאון שי\"ר נר\"ו דהיה זה בק\"ך שנה לחרבן כ\"ה שהוא ת\"ק",
+    "mark": "ב'",
+    "question": "First word of the line, before “אמ\"ר אבהו”: which letter is printed, ב' or נ'?",
+    "question_parts": [
+      "First word of the line, before ",
+      {
+        "he_quote": [
+          "אמ\"ר אבהו"
+        ]
+      },
+      ": which letter is printed, ",
+      {
+        "he": "ב'"
+      },
+      " or ",
+      {
+        "he": "נ'"
+      },
+      "?"
+    ],
+    "options": [
+      "ב'",
+      "נ'"
+    ],
+    "crop": "crops/ar-page-81-20.jpg",
+    "crop_width": 1400,
+    "crop_height": 161,
+    "full_page": "../page_images/page-81.jpg"
+  },
+  {
+    "n": 10,
+    "id": "ar-page-82-5",
+    "scan": 82,
+    "page_id": "page-82",
+    "leaf": "דף קט״ז ע״א",
+    "where": "near the top (14% down)",
+    "prev": "כמוהו ולא מי שהגיע למעלתו ביראה ובתורה ובגדולה כאשר אמרו רז\"ל (סנהדרין דל\"ו וגיטין דנ\"ט) מימות משה וכו'.",
+    "line": "וכאשר ראה העתקת האומה בדלדול ובחסרון בגירסא ובחכמה וכאשר אמרו לבם של ראשונים וכו' וראה עוד מה שעבר על",
+    "next": "האומה שהשמדות והעול והיו ימיו ימי ישועה לקרבו מהמלך, עלה בידו שיקבץ כל מה שיש בידם מהקבלה לפי שראה",
+    "mark": "שעבר",
+    "question": "“וראה עוד מה ___ על”: the word at the end of the line, שעבר or שעבד?",
+    "question_parts": [
+      {
+        "he_quote": [
+          "וראה עוד מה ",
+          {
+            "blank": "___"
+          },
+          " על"
+        ]
+      },
+      ": the word at the end of the line, ",
+      {
+        "he": "שעבר"
+      },
+      " or ",
+      {
+        "he": "שעבד"
+      },
+      "?"
+    ],
+    "options": [
+      "שעבר",
+      "שעבד"
+    ],
+    "crop": "crops/ar-page-82-5.jpg",
+    "crop_width": 1400,
+    "crop_height": 128,
+    "full_page": "../page_images/page-82.jpg"
+  },
+  {
+    "n": 11,
+    "id": "ar-page-82-30-2",
+    "scan": 82,
+    "page_id": "page-82",
+    "leaf": "דף קט״ז ע״א",
+    "where": "lower part (74% down)",
+    "prev": "בררנו הדברים בכל הילוך ההערות שנתעסקנו בהם לברר הזיוף כשמש בחצי השמים, ואין ספק כי מן השמים סייעונו למצוא",
+    "line": "מציאה נחמדת כזאת ובער'ב היא באה בסוף ההערות כלומר הרי זה מנוש אחרון אשר עליו אין להוסיף והתברר הדבר כשמלה",
+    "next": "בת מאה אלף ידיעות, תלי\"ת.",
+    "mark": "כשמלה",
+    "question": "Last word of the line: כשמלה or בשמלה?",
+    "question_parts": [
+      "Last word of the line: ",
+      {
+        "he": "כשמלה"
+      },
+      " or ",
+      {
+        "he": "בשמלה"
+      },
+      "?"
+    ],
+    "options": [
+      "כשמלה",
+      "בשמלה"
+    ],
+    "crop": "crops/ar-page-82-30-2.jpg",
+    "crop_width": 1400,
+    "crop_height": 132,
+    "full_page": "../page_images/page-82.jpg"
+  },
+  {
+    "n": 12,
+    "id": "ar-page-87-10",
+    "scan": 87,
+    "page_id": "page-87",
+    "leaf": "דף קי״ח ע״ב",
+    "where": "near the bottom (83% down)",
+    "prev": "דעתו, כמו שכתבו הרשב\"א והר\"ן וזולתן לגבי הרי\"ף וכו' וכל ספרי האחרונים מלאים מכיוצא בזה\"",
+    "line": "א\"ד, עיש\"ב",
+    "next": "**ועתה** סמוך להדפסה קניתי שאר חלקי בכורי העתים בקמ\"ד ווין ע\"א מפני תורתו של ידידינו",
+    "mark": "א\"ד",
+    "question": "First abbreviation of the line, before “עיש\"ב”: א\"ד or א\"ר?",
+    "question_parts": [
+      "First abbreviation of the line, before ",
+      {
+        "he_quote": [
+          "עיש\"ב"
+        ]
+      },
+      ": ",
+      {
+        "he": "א\"ד"
+      },
+      " or ",
+      {
+        "he": "א\"ר"
+      },
+      "?"
+    ],
+    "options": [
+      "א\"ד",
+      "א\"ר"
+    ],
+    "crop": "crops/ar-page-87-10.jpg",
+    "crop_width": 1400,
+    "crop_height": 160,
+    "full_page": "../page_images/page-87.jpg"
+  },
+  {
+    "n": 13,
+    "id": "ar-page-87-11-2",
+    "scan": 87,
+    "page_id": "page-87",
+    "leaf": "דף קי״ח ע״ב",
+    "where": "near the bottom (86% down)",
+    "prev": "א\"ד, עיש\"ב",
+    "line": "**ועתה** סמוך להדפסה קניתי שאר חלקי בכורי העתים בקמ\"ד ווין ע\"א מפני תורתו של ידידינו",
+    "next": "הגאון שי\"ר נר\"ו דחביבה עלי עד לאחת, וראיתי לו שם בב\"הע תקצ\"א עמוד פ\"ד שכתב",
+    "mark": "בקמ\"ד",
+    "question": "“סמוך להדפסה קניתי שאר חלקי בכורי העתים ___ ווין”: last letter of the abbreviation, בקמ\"ד or בקמ\"ר?",
+    "question_parts": [
+      {
+        "he_quote": [
+          "סמוך להדפסה קניתי שאר חלקי בכורי העתים ",
+          {
+            "blank": "___"
+          },
+          " ווין"
+        ]
+      },
+      ": last letter of the abbreviation, ",
+      {
+        "he": "בקמ\"ד"
+      },
+      " or ",
+      {
+        "he": "בקמ\"ר"
+      },
+      "?"
+    ],
+    "options": [
+      "בקמ\"ד",
+      "בקמ\"ר"
+    ],
+    "crop": "crops/ar-page-87-11-2.jpg",
+    "crop_width": 1400,
+    "crop_height": 152,
+    "full_page": "../page_images/page-87.jpg"
+  },
+  {
+    "n": 14,
+    "id": "p88-lirdot",
+    "scan": 88,
+    "page_id": "page-88",
+    "leaf": "דף קי״ט ע״א",
+    "where": "lower part (67% down)",
+    "prev": "ככתבן היטב צר לי מאד מראות איך לא ירד לעצם כונתי באומרו כי חושש הוא שמא ינתן מקום למינים",
+    "line": "יינת על דבר הכרעה לפי הדור כי האמת לא תשתנה בשום זמן את\"ד ע\"ש שהאריך כי הצקתהו רוח",
+    "next": "בטנו מפני רוח רעה שמשלה בדורינו זה כי לא מלבו,",
+    "mark": "יינת",
+    "question": "First word of the line, after “שמא ינתן מקום למינים” and before “על דבר הכרעה”: the right edge is faint in our scan. What word is printed?",
+    "question_parts": [
+      "First word of the line, after ",
+      {
+        "he_quote": [
+          "שמא ינתן מקום למינים"
+        ]
+      },
+      " and before ",
+      {
+        "he_quote": [
+          "על דבר הכרעה"
+        ]
+      },
+      ": the right edge is faint in our scan. What word is printed?"
+    ],
+    "options": [
+      "לרדות",
+      "יינת"
+    ],
+    "crop": "crops/p88-lirdot.jpg",
+    "crop_width": 1400,
+    "crop_height": 143,
+    "full_page": "../page_images/page-88.jpg"
+  }
+]
