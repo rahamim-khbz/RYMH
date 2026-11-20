@@ -660,7 +660,7 @@
 
     var markBtn = document.getElementById('markBtn');
     var markersOn = false;
-    try { markersOn = localStorage.getItem('ih_reader_markers') === '1'; } catch (e) {}
+    try { markersOn = localStorage.getItem('ih_reader_markers') !== '0'; } catch (e) {}
     function applyMarkers() {
       document.documentElement.setAttribute('data-markers', markersOn ? 'on' : 'off');
       markBtn.setAttribute('aria-pressed', markersOn ? 'true' : 'false');

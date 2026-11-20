@@ -7,7 +7,7 @@
   function set(k, v) { try { localStorage.setItem(k, v); } catch (e) {} }
 
   var lang = get(LS_LANG) === 'en' ? 'en' : 'he';
-  var hlOn = get(LS_HL) !== 'off';
+  var hlOn = get(LS_HL) === 'on';
   var root = document.documentElement;
   root.lang = lang;
   root.dir = lang === 'en' ? 'ltr' : 'rtl';

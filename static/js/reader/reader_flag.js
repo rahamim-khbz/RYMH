@@ -870,10 +870,11 @@
       var barBtn = el('button', 'btn icon flag-bar-btn');
       barBtn.id = 'readerFlagBarBtn';
       barBtn.type = 'button';
-      barBtn.setAttribute('aria-label', 'הצע תיקון לטקסט');
-      barBtn.setAttribute('title', 'הצע תיקון (Flag)');
+      var isEn = window.RYMH_LANG === 'en';
+      barBtn.setAttribute('aria-label', isEn ? 'Suggest a text correction' : 'הצע תיקון לטקסט');
+      barBtn.setAttribute('title', isEn ? 'Suggest a correction (Flag)' : 'הצע תיקון (Flag)');
       barBtn.appendChild(el('span', null, '⚑'));
-      barBtn.appendChild(el('span', 'flag-bar-label', 'דיווח'));
+      barBtn.appendChild(el('span', 'flag-bar-label', isEn ? 'Flag' : 'דיווח'));
       barBtn.addEventListener('click', function () {
         openForTarget(null, barBtn);
       });
