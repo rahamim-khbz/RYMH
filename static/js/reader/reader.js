@@ -3,6 +3,7 @@
 // Reads only static JSON (reader_data/). All text goes through textContent / text nodes.
 (function () {
   'use strict';
+  var T = window.RYMH_T || function (x) { return x; };
 
   var DATA = 'reader_data/';
   var THEMES = ['dark', 'sepia', 'light'];
@@ -105,7 +106,7 @@
     btn.setAttribute('data-note-idx', String(noteIdx));
     btn.setAttribute('data-note-id', note.id || '');
     btn.setAttribute('data-marker', note.marker || '');
-    var label = 'הערה ' + (note.marker || (noteIdx + 1)) + ' (עמוד ' + page.n + (note.continued ? ', המשך' : '') + ')';
+    var label = T('הערה') + ' ' + (note.marker || (noteIdx + 1)) + ' (' + T('עמוד') + ' ' + page.n + (note.continued ? ', ' + T('המשך') : '') + ')';
     btn.setAttribute('aria-label', label);
     return btn;
   }
@@ -150,13 +151,13 @@
 
   function makeDivider(page) {
     var div = el('div', 'divider');
-    var label = el('span', null, 'עמוד ' + page.n);
+    var label = el('span', null, T('עמוד') + ' ' + page.n);
     label.setAttribute('dir', 'rtl');
-    var scan = el('a', 'scan-link', 'כתב היד');
+    var scan = el('a', 'scan-link', T('כתב היד'));
     scan.href = page.img || ('page_images/' + page.page + '.png');
     scan.target = '_blank';
     scan.rel = 'noopener';
-    scan.setAttribute('aria-label', 'פתח את כתב היד של עמוד ' + page.n);
+    scan.setAttribute('aria-label', T('פתח את כתב היד של עמוד') + ' ' + page.n);
     div.appendChild(label);
     div.appendChild(scan);
     return div;
@@ -231,7 +232,7 @@
       var pEl = el('p', p.cont ? 'para cont' : 'para');
       pEl.setAttribute('dir', 'rtl');
       if (i === 0 && p.cont) {
-        var mark = el('span', 'pgmark', '[עמוד ' + page.n + ']');
+        var mark = el('span', 'pgmark', '[' + T('עמוד') + ' ' + page.n + ']');
         mark.setAttribute('dir', 'rtl');
         pEl.appendChild(mark);
         pEl.appendChild(document.createTextNode(' '));
@@ -266,13 +267,13 @@
     for (var ni = 0; ni < notes.length; ni++) {
       var nt = notes[ni];
       if (nt.continued || (!nt.within && !matcher.matched[ni])) {
-        var btnText = 'הערה (' + (nt.marker || (ni + 1)) + ')' + (nt.continued ? ' — המשך' : '');
+        var btnText = T('הערה') + ' (' + (nt.marker || (ni + 1)) + ')' + (nt.continued ? ' — ' + T('המשך') : '');
         stripBtns.push(makeNoteTrigger(page, nt, ni, btnText, true));
       }
     }
     if (stripBtns.length) {
       var strip = el('div', 'page-fn-strip');
-      strip.setAttribute('aria-label', 'הערות עמוד ' + page.n);
+      strip.setAttribute('aria-label', T('הערות עמוד') + ' ' + page.n);
       for (var si = 0; si < stripBtns.length; si++) {
         strip.appendChild(stripBtns[si]);
       }
@@ -411,7 +412,7 @@
         try { history.replaceState(null, '', '#' + pageId(currentN)); } catch (e) {}
       }, 250);
     }
-    var text = 'עמוד ' + currentN + ' מתוך ' + total;
+    var text = T('עמוד') + ' ' + currentN + ' ' + T('מתוך') + ' ' + total;
     if (hereEl && hereEl.textContent !== text) hereEl.textContent = text;
     if (progressEl && textPaneEl) {
       var span = Math.max(1, textPaneEl.scrollHeight - textPaneEl.clientHeight);
@@ -434,6 +435,7 @@
   }
 
   function handleHoverPair(pageIdStr, lineId, paraPid, active) {
+    if (active && document.documentElement.classList.contains('no-line-hl')) return;
     highlightLineSafe(pageIdStr, lineId, active);
     if (scanPane && paraPid) scanPane.highlight(pageIdStr, null, paraPid, !!active);
   }
@@ -744,7 +746,7 @@
       var a = el('a', 'tile');
       a.href = '#' + pageId(p.n);
       a.setAttribute('data-n', String(p.n));
-      a.setAttribute('aria-label', 'עבור לעמוד ' + p.n);
+      a.setAttribute('aria-label', T('עבור לעמוד') + ' ' + p.n);
       var img = document.createElement('img');
       img.loading = 'lazy';
       img.decoding = 'async';
@@ -875,7 +877,7 @@
         updateStatus(startN);
       });
     }).catch(function () {
-      fail('הטקסט לא נטען. נסו לרענן את הדף.');
+      fail(T('הטקסט לא נטען. נסו לרענן את הדף.'));
     });
   }
 

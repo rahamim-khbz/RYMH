@@ -326,3 +326,12 @@ dialog#grid::backdrop { background: rgb(0 0 0 / 0.55); }
     background: #fff; color: #000;
   }
 }
+
+/* Line-highlight toggle (ui_prefs.js) */
+.no-line-hl .rline.is-hover,
+.no-line-hl .scan-line-box:hover,
+.no-line-hl .scan-line-box.is-hover,
+.no-line-hl .scan-para-anchor.is-hover,
+.no-line-hl .scan-fn-box.is-hover { background: transparent; outline: none; box-shadow: none; }
+#hlBtn[aria-pressed="false"] { opacity: 0.5; text-decoration: line-through; }
+.lang-btn { font-size: 1.1em; line-height: 1; }
