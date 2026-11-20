@@ -2245,6 +2245,10 @@ html, body {
 
         function enterReaderFromLanding(targetIdx) {
             currentPageIndex = Math.max(0, Math.min(totalPages - 1, targetIdx));
+            // Hand off to the full public reader (reader.html)
+            const n = currentPageIndex + 1;
+            window.location.href = `reader.html#page-${String(n).padStart(2, '0')}`;
+            return;
             if (landingOverlay) landingOverlay.classList.add('is-hidden');
             const newUrl = `${window.location.pathname}?page=${currentPageIndex + 1}`;
             window.history.replaceState(null, '', newUrl);
@@ -2280,7 +2284,8 @@ html, body {
         applyEngFontScale();
         initImagePan();
         if (hasDeepLinkPage) {
-            if (landingOverlay) landingOverlay.classList.add('is-hidden');
+            enterReaderFromLanding(currentPageIndex);
+            return;
         } else {
             if (landingOverlay) landingOverlay.classList.remove('is-hidden');
         }
