@@ -75,48 +75,6 @@
     "full_page": "../page_images/page-31.jpg"
   },
   {
-    "n": 3,
-    "id": "p42-bold-vav",
-    "scan": 42,
-    "page_id": "page-42",
-    "leaf": "דף צ״ו ע״א",
-    "where": "upper part (21% down)",
-    "prev": "שנ\"ג בהגהותי וז\"ל \"ודברי הרבים הוא היסוד המוכיח על כל משנה ועל כל גמרא וש\"י למור\"ה ז\"ל.",
-    "line": "**ו** מצוה להביא מן החדש מה שמצאתי לרבינו המאירי בפתיחתו למס' אבות, נדפס בשאלוניקי עם",
-    "next": "ס' דרכי חיים להרב המפורסם מר שניי כמוהרח\"ף נר\"ו (*) ונעתיק דברי רבינו המאירי ז\"ל פסקי",
-    "mark": "ו מצוה",
-    "question": "Start of the line before “מצוה להביא מן החדש”: is it printed as one word (ומצוה with a large/bold initial ו) or a separate letter ו with a space?",
-    "question_parts": [
-      "Start of the line before ",
-      {
-        "he_quote": [
-          "מצוה להביא מן החדש"
-        ]
-      },
-      ": is it printed as one word (",
-      {
-        "he": "ומצוה"
-      },
-      " with a large/bold initial ",
-      {
-        "he": "ו"
-      },
-      ") or a separate letter ",
-      {
-        "he": "ו"
-      },
-      " with a space?"
-    ],
-    "options": [
-      "ומצוה",
-      "ו מצוה"
-    ],
-    "crop": "crops/p42-bold-vav.jpg",
-    "crop_width": 1400,
-    "crop_height": 150,
-    "full_page": "../page_images/page-42.jpg"
-  },
-  {
     "n": 4,
     "id": "rl-page-50-14-2",
     "scan": 50,
@@ -301,44 +259,6 @@
     "full_page": "../page_images/page-68.jpg"
   },
   {
-    "n": 9,
-    "id": "ar-page-81-20",
-    "scan": 81,
-    "page_id": "page-81",
-    "leaf": "דף קט״ו ע״ב",
-    "where": "near the bottom (94% down)",
-    "prev": "משה ועד אחר חרבן בית שני בק\"ן שנה (*) בימי ר' יהודה הנשיא אשר נקרא רבי ור\"הק כדאמרי' בירוש' פ' הנחנקין הלכה",
-    "line": "ב' אמ\"ר אבהו וכו' והיה בימי אנטונינוס מלך אדום והיה אצלו במעלה גדולה ובשררה יתירה כאשר אבאר מקצת מה שאמצא",
-    "next": "(*) כבר כתבנו בהערה מבקרת קדמוניות הבאה בע\"ה בח\"ב סי' מ' שהאמת כמו שביאר הגאון שי\"ר נר\"ו דהיה זה בק\"ך שנה לחרבן כ\"ה שהוא ת\"ק",
-    "mark": "ב'",
-    "question": "First word of the line, before “אמ\"ר אבהו”: which letter is printed, ב' or נ'?",
-    "question_parts": [
-      "First word of the line, before ",
-      {
-        "he_quote": [
-          "אמ\"ר אבהו"
-        ]
-      },
-      ": which letter is printed, ",
-      {
-        "he": "ב'"
-      },
-      " or ",
-      {
-        "he": "נ'"
-      },
-      "?"
-    ],
-    "options": [
-      "ב'",
-      "נ'"
-    ],
-    "crop": "crops/ar-page-81-20.jpg",
-    "crop_width": 1400,
-    "crop_height": 161,
-    "full_page": "../page_images/page-81.jpg"
-  },
-  {
     "n": 10,
     "id": "ar-page-82-5",
     "scan": 82,
@@ -489,41 +409,5 @@
     "crop_width": 1400,
     "crop_height": 152,
     "full_page": "../page_images/page-87.jpg"
-  },
-  {
-    "n": 14,
-    "id": "p88-lirdot",
-    "scan": 88,
-    "page_id": "page-88",
-    "leaf": "דף קי״ט ע״א",
-    "where": "lower part (67% down)",
-    "prev": "ככתבן היטב צר לי מאד מראות איך לא ירד לעצם כונתי באומרו כי חושש הוא שמא ינתן מקום למינים",
-    "line": "יינת על דבר הכרעה לפי הדור כי האמת לא תשתנה בשום זמן את\"ד ע\"ש שהאריך כי הצקתהו רוח",
-    "next": "בטנו מפני רוח רעה שמשלה בדורינו זה כי לא מלבו,",
-    "mark": "יינת",
-    "question": "First word of the line, after “שמא ינתן מקום למינים” and before “על דבר הכרעה”: the right edge is faint in our scan. What word is printed?",
-    "question_parts": [
-      "First word of the line, after ",
-      {
-        "he_quote": [
-          "שמא ינתן מקום למינים"
-        ]
-      },
-      " and before ",
-      {
-        "he_quote": [
-          "על דבר הכרעה"
-        ]
-      },
-      ": the right edge is faint in our scan. What word is printed?"
-    ],
-    "options": [
-      "לרדות",
-      "יינת"
-    ],
-    "crop": "crops/p88-lirdot.jpg",
-    "crop_width": 1400,
-    "crop_height": 143,
-    "full_page": "../page_images/page-88.jpg"
   }
 ]
