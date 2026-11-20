@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' https://www.gstatic.com https://apis.google.com https://identitytoolkit.googleapis.com https://securetoken.googleapis.com; connect-src 'self' http://127.0.0.1:* http://localhost:* https://identitytoolkit.googleapis.com https://securetoken.googleapis.com; img-src 'self' data: https://lh3.googleusercontent.com; frame-src https://accounts.google.com https://apis.google.com http://127.0.0.1:* http://localhost:*; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src 'self' https://fonts.gstatic.com; object-src 'none'; base-uri 'none'; form-action 'none';">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' https://www.gstatic.com https://apis.google.com https://identitytoolkit.googleapis.com https://securetoken.googleapis.com; connect-src 'self' http://127.0.0.1:* http://localhost:* https://*.firebaseio.com wss://*.firebaseio.com https://identitytoolkit.googleapis.com https://securetoken.googleapis.com https://apis.google.com https://www.googleapis.com; img-src 'self' data: https://lh3.googleusercontent.com; frame-src https://iyye-hayyam.firebaseapp.com https://accounts.google.com https://apis.google.com http://127.0.0.1:* http://localhost:*; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src 'self' https://fonts.gstatic.com; object-src 'none'; base-uri 'none'; form-action 'none';">
   <meta http-equiv="X-Content-Type-Options" content="nosniff">
   <meta name="referrer" content="strict-origin-when-cross-origin">
   <title>סימן קפ"ז — קריאה</title>
@@ -85,6 +85,9 @@
   <div id="footnoteDrawerRoot"></div>
   <div id="readerFlagRoot"></div>
 
+  <script src="https://www.gstatic.com/firebasejs/10.12.2/firebase-app-compat.js" defer></script>
+  <script src="https://www.gstatic.com/firebasejs/10.12.2/firebase-auth-compat.js" defer></script>
+  <script src="static/js/reader/firebase_config.js" defer></script>
   <script src="static/js/reader/sync_controller.js" defer></script>
   <script src="static/js/reader/scan_pane.js" defer></script>
   <script src="static/js/reader/mobile_pager.js" defer></script>

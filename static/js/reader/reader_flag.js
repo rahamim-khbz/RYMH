@@ -50,7 +50,7 @@
   }
 
 
-  var EN_UI = {"הצעת תיקון לטקסט": "Suggest a text correction", "סגור חלון דיווח": "Close dialog", "התחבר עם Google": "Sign in with Google", "ההתחברות נכשלה": "Sign-in failed", "התנתק": "Sign out", "בחירת שורה או הערה בעמוד": "Choose a line or note on this page", "סוג הדיווח": "Issue type", "טעות במילה": "Wrong word", "מילה חסרה / מיותרת": "Missing / extra word", "עיצוב / הדגשה (**…**)": "Formatting / bold (**…**)", "הערת שוליים": "Footnote", "תרגום": "Translation", "יעד": "Target", "טקסט עברי / הערה": "Hebrew text / note", "הטקסט המוצע (שומר על סימוני **הדגשה**)": "Suggested text (keeps **bold** marks)", "B הדגש **": "B Bold **", "הוסף או הסר הדגשת **…**": "Toggle **…** bold", "הערה / הסבר (אופציונלי)": "Note / explanation (optional)", "ביטול": "Cancel", "שלח הצעה": "Submit suggestion", "שולח הצעה…": "Sending…", "ההצעה נשלחה בהצלחה ותיבדק על ידי העורך.": "Sent! The editor will review your suggestion.", "השליחה נכשלה": "Sending failed", "יש להתחבר עם Google כדי לשלוח הצעות תיקון (ללא דרישת הרשאת עורך).": "Sign in with Google to send corrections (no editor access needed).", "בחר שורה": "Choose a line", "הזן הצעת תיקון (אופציונלי)": "Enter a suggested correction (optional)", "הקטע ארוך מ-1000 תווים — הזן כאן את התיקון המוצע בלבד": "Passage exceeds 1000 characters — enter only the corrected portion", "יש להתחבר עם חשבון Google מאומת כדי לשלוח הצעת תיקון.": "Sign in with a verified Google account to send a correction.", "כתובת מסד הנתונים (או emulator) אינה מוגדרת.": "Database URL is not configured.", "נדרש חשבון Google עם דוא\"ל מאומת.": "A Google account with a verified email is required.", "שגיאה בהתחברות": "Sign-in error", "חיבור Google אינו זמין ללא הגדרת Firebase Auth.": "Google sign-in is unavailable (Firebase Auth not configured).", "חשבון ה-Google אינו מאומת.": "This Google account is not verified.", "הטקסט המוצע ארוך מ-1000 תווים": "Suggested text exceeds 1000 characters", "ההערה ארוכה מ-1000 תווים": "Note exceeds 1000 characters", "מזהה משתמש (UID) לא תקין": "Invalid user ID (UID)", "מספר עמוד לא תקין": "Invalid page number", "מזהה שורה חסר או לא תקין": "Missing or invalid line ID", "סוג דיווח לא תקין": "Invalid issue type", "יעד דיווח לא תקין": "Invalid target", "לא ניתן ליצור מזהה הצעה תקין": "Could not create a valid suggestion ID", "מספר פסקה לא תקין": "Invalid paragraph number", "הסיבה ארוכה מ-500 תווים": "Reason exceeds 500 characters", "Fetch API אינו זמין בסביבה זו.": "Fetch API is not available in this environment."};
+  var EN_UI = {"הצעת תיקון לטקסט": "Suggest a text correction", "סגור חלון דיווח": "Close dialog", "התחבר עם Google": "Sign in with Google", "ההתחברות נכשלה": "Sign-in failed", "התנתק": "Sign out", "בחירת שורה או הערה בעמוד": "Choose a line or note on this page", "סוג הדיווח": "Issue type", "טעות במילה": "Wrong word", "מילה חסרה / מיותרת": "Missing / extra word", "עיצוב / הדגשה (**…**)": "Formatting / bold (**…**)", "הערת שוליים": "Footnote", "תרגום": "Translation", "יעד": "Target", "טקסט עברי / הערה": "Hebrew text / note", "הטקסט המוצע (שומר על סימוני **הדגשה**)": "Suggested text (keeps **bold** marks)", "B הדגש **": "B Bold **", "הוסף או הסר הדגשת **…**": "Toggle **…** bold", "הערה / הסבר (אופציונלי)": "Note / explanation (optional)", "ביטול": "Cancel", "שלח הצעה": "Submit suggestion", "שולח הצעה…": "Sending…", "ההצעה נשלחה בהצלחה ותיבדק על ידי העורך.": "Sent! The editor will review your suggestion.", "השליחה נכשלה": "Sending failed", "יש להתחבר עם Google כדי לשלוח הצעות תיקון (ללא דרישת הרשאת עורך).": "Sign in with Google to send corrections (no editor access needed).", "בחר שורה": "Choose a line", "הזן הצעת תיקון (אופציונלי)": "Enter a suggested correction (optional)", "הקטע ארוך מ-1000 תווים — הזן כאן את התיקון המוצע בלבד": "Passage exceeds 1000 characters — enter only the corrected portion", "יש להתחבר עם חשבון Google מאומת כדי לשלוח הצעת תיקון.": "Sign in with a verified Google account to send a correction.", "כתובת מסד הנתונים (או emulator) אינה מוגדרת.": "Database URL is not configured.", "נדרש חשבון Google עם דוא\"ל מאומת.": "A Google account with a verified email is required.", "שגיאה בהתחברות": "Sign-in error", "חיבור Google אינו זמין ללא הגדרת Firebase Auth.": "Google sign-in is unavailable (Firebase Auth not configured).", "חשבון ה-Google אינו מאומת.": "This Google account is not verified.", "התחברות Google בוטלה.": "Google sign-in was cancelled.", "הדפדפן חסם את חלון ההתחברות של Google. אפשרו חלונות קופצים ונסו שוב.": "Your browser blocked the Google sign-in popup. Allow popups for this site and try again.", "האתר אינו מופיע ברשימת הדומיינים המורשים ב-Firebase.": "This site is not on the Firebase authorized-domains list yet.", "התחברות עם Google אינה מופעלת בפרויקט זה.": "Google sign-in is not enabled for this Firebase project.", "הטקסט המוצע ארוך מ-1000 תווים": "Suggested text exceeds 1000 characters", "ההערה ארוכה מ-1000 תווים": "Note exceeds 1000 characters", "מזהה משתמש (UID) לא תקין": "Invalid user ID (UID)", "מספר עמוד לא תקין": "Invalid page number", "מזהה שורה חסר או לא תקין": "Missing or invalid line ID", "סוג דיווח לא תקין": "Invalid issue type", "יעד דיווח לא תקין": "Invalid target", "לא ניתן ליצור מזהה הצעה תקין": "Could not create a valid suggestion ID", "מספר פסקה לא תקין": "Invalid paragraph number", "הסיבה ארוכה מ-500 תווים": "Reason exceeds 500 characters", "Fetch API אינו זמין בסביבה זו.": "Fetch API is not available in this environment."};
   function T(str) { return (root.RYMH_LANG === 'en' && typeof str === 'string' && EN_UI[str]) || str; }
   function isEnLang() { return root.RYMH_LANG === 'en'; }
 
@@ -434,17 +434,33 @@
     }));
     if (!built.ok) return built;
 
-    var url = buildWriteUrl(dbCfg, built.pageId, built.suggestionId, session.idToken);
+    var token = session.idToken;
+    var g = typeof window !== 'undefined' ? window : {};
+    try {
+      if (g.firebase && g.firebase.auth && g.firebase.apps && g.firebase.apps.length) {
+        var curUser = g.firebase.auth().currentUser;
+        if (curUser && curUser.uid === session.uid && typeof curUser.getIdToken === 'function') {
+          var freshTok = await curUser.getIdToken();
+          if (freshTok) token = freshTok;
+        }
+      }
+    } catch (e) {}
+
+    var url = buildWriteUrl(dbCfg, built.pageId, built.suggestionId, token);
     var fetchFn = (state.config && state.config.fetch) || (typeof fetch === 'function' ? fetch : null);
     if (!fetchFn) {
       return { ok: false, error: 'Fetch API אינו זמין בסביבה זו.' };
     }
 
+    var bodyPayload = (opts && opts.createdAt != null)
+      ? built.payload
+      : Object.assign({}, built.payload, { created_at: { '.sv': 'timestamp' } });
+
     try {
       var res = await fetchFn(url, {
         method: 'PUT',
         headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify(built.payload)
+        body: JSON.stringify(bodyPayload)
       });
       if (!res.ok) {
         var detail = '';
@@ -489,7 +505,7 @@
     var g = typeof window !== 'undefined' ? window : {};
     var fb = g.firebase;
     var fbConfig = (state.config && state.config.firebaseConfig) || g.FIREBASE_CONFIG;
-    if (!fb || !fb.auth) {
+    if (!fb || !fb.auth || (!fb.apps.length && !fbConfig)) {
       return { ok: false, error: 'חיבור Google אינו זמין ללא הגדרת Firebase Auth.' };
     }
     try {
@@ -525,6 +541,19 @@
       });
       return { ok: true, session: getAuthSession() };
     } catch (err) {
+      var code = err && err.code;
+      if (code === 'auth/popup-closed-by-user' || code === 'auth/cancelled-popup-request') {
+        return { ok: false, error: 'התחברות Google בוטלה.' };
+      }
+      if (code === 'auth/popup-blocked') {
+        return { ok: false, error: 'הדפדפן חסם את חלון ההתחברות של Google. אפשרו חלונות קופצים ונסו שוב.' };
+      }
+      if (code === 'auth/unauthorized-domain') {
+        return { ok: false, error: 'האתר אינו מופיע ברשימת הדומיינים המורשים ב-Firebase.' };
+      }
+      if (code === 'auth/operation-not-allowed') {
+        return { ok: false, error: 'התחברות עם Google אינה מופעלת בפרויקט זה.' };
+      }
       return { ok: false, error: (isEnLang() ? 'Google sign-in error: ' : 'שגיאת התחברות Google: ') + (err && err.message ? err.message : err) };
     }
   }
