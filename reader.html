@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="he" dir="rtl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' https://www.gstatic.com https://apis.google.com https://identitytoolkit.googleapis.com https://securetoken.googleapis.com; connect-src 'self' http://127.0.0.1:* http://localhost:* https://identitytoolkit.googleapis.com https://securetoken.googleapis.com; img-src 'self' data: https://lh3.googleusercontent.com; frame-src https://accounts.google.com https://apis.google.com http://127.0.0.1:* http://localhost:*; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src 'self' https://fonts.gstatic.com; object-src 'none'; base-uri 'none'; form-action 'none';">
+  <meta http-equiv="X-Content-Type-Options" content="nosniff">
+  <meta name="referrer" content="strict-origin-when-cross-origin">
+  <title>סימן קפ"ז — קריאה</title>
+  <meta name="description" content="Siman 187: a scholarly reader of the Hebrew manuscript text, page by page.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Frank+Ruhl+Libre:wght@400;500;700;900&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="static/css/reader.css">
+  <link rel="stylesheet" href="static/css/reader_drawer.css">
+  <link rel="stylesheet" href="static/css/reader_flag.css">
+  <script src="static/js/reader/theme-init.js"></script>
+</head>
+<body>
+  <div id="readerShell" class="reader-shell">
+    <a class="skip" href="#textPane">דלג לטקסט</a>
+
+    <header class="bar" id="bar">
+      <div class="bar-row">
+        <div class="bar-title">
+          <span class="book" id="bookTitle">סימן קפ"ז</span>
+          <span class="here" id="here" aria-live="polite"></span>
+        </div>
+        <div class="bar-tools">
+          <div class="pager-tabs" id="mobilePagerTabs" role="group" aria-label="תצוגה">
+            <button type="button" class="btn" id="mobileTabText" aria-pressed="true">טקסט</button>
+            <button type="button" class="btn" id="mobileTabScan" aria-pressed="false">כתב יד</button>
+          </div>
+          <form class="jump" id="jumpForm" autocomplete="off">
+            <label for="jumpInput" class="sr">עבור לעמוד</label>
+            <input id="jumpInput" type="number" inputmode="numeric" min="1" max="89" placeholder="עמוד" dir="ltr">
+            <button type="submit" class="btn">עבור</button>
+          </form>
+          <button type="button" class="btn icon" id="gridBtn" aria-haspopup="dialog" aria-label="רשימת עמודים">▦</button>
+          <div class="group" role="group" aria-label="גודל גופן">
+            <button type="button" class="btn icon" id="fontDown" aria-label="הקטן גופן">א−</button>
+            <button type="button" class="btn icon" id="fontUp" aria-label="הגדל גופן">א+</button>
+          </div>
+          <button type="button" class="btn icon" id="markBtn" aria-pressed="false" aria-label="הצג סימוני עמודים">עמ׳</button>
+          <button type="button" class="btn icon" id="themeBtn" aria-label="החלף ערכת צבעים">◐</button>
+          <div id="readerFlagBarSlot" class="flag-bar-slot"></div>
+        </div>
+      </div>
+      <div class="progress" aria-hidden="true"><div id="progressBar"></div></div>
+    </header>
+
+    <main id="stage" class="stage" dir="ltr" tabindex="-1">
+      <div id="pagerTrack" class="pager-track">
+        <section id="scanPane" class="pane pane-scan" aria-label="כתב היד" tabindex="-1">
+          <div class="scan-controls" role="group" aria-label="תקריב כתב יד">
+            <button type="button" class="btn icon" id="scanZoomOut" aria-label="הקטן תמונה">−</button>
+            <button type="button" class="btn" id="scanZoomReset" aria-label="התאם לרוחב">100%</button>
+            <button type="button" class="btn icon" id="scanZoomIn" aria-label="הגדל תמונה">+</button>
+          </div>
+          <div id="scanTrack" class="scan-track"></div>
+        </section>
+
+        <section id="textPane" class="pane pane-text" dir="rtl" aria-label="טקסט" tabindex="-1">
+          <div id="stream" class="stream">
+            <p class="loading" id="loading">טוען…</p>
+          </div>
+        </section>
+      </div>
+    </main>
+
+    <footer class="foot">
+      <a href="dashboard.html">כניסת מגיהים</a>
+    </footer>
+
+    <dialog id="grid" aria-label="רשימת עמודים">
+      <div class="grid-head">
+        <h2>עמודים</h2>
+        <button type="button" class="btn icon" id="gridClose" aria-label="סגור">✕</button>
+      </div>
+      <div class="grid-body" id="gridBody"></div>
+    </dialog>
+  </div>
+
+  <div id="footnoteDrawerRoot"></div>
+  <div id="readerFlagRoot"></div>
+
+  <script src="static/js/reader/sync_controller.js" defer></script>
+  <script src="static/js/reader/scan_pane.js" defer></script>
+  <script src="static/js/reader/mobile_pager.js" defer></script>
+  <script src="static/js/reader/footnote_drawer.js" defer></script>
+  <script src="static/js/reader/reader_flag.js" defer></script>
+  <script src="static/js/reader/reader.js" defer></script>
+</body>
+</html>

@@ -1,0 +1,341 @@
+/* Public reader M4: flagging & suggestion dialog + context menu.
+   Uses only reader.css theme tokens so light / sepia / dark modes match. */
+
+.flag-bar-slot {
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+
+.flag-bar-btn {
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+  min-inline-size: 44px;
+  min-block-size: 44px;
+}
+
+.flag-bar-btn[data-signed-in="true"]::after {
+  content: "";
+  position: absolute;
+  inset-block-start: 7px;
+  inset-inline-end: 7px;
+  inline-size: 7px;
+  block-size: 7px;
+  border-radius: 50%;
+  background: var(--accent);
+}
+
+.flag-bar-label {
+  font-size: 0.85rem;
+}
+
+@media (max-width: 560px) {
+  .flag-bar-label {
+    position: absolute;
+    inline-size: 1px;
+    block-size: 1px;
+    overflow: hidden;
+    clip-path: inset(50%);
+    white-space: nowrap;
+  }
+}
+
+/* ---- Context menu ---- */
+.flag-ctx-menu {
+  position: fixed;
+  z-index: 250;
+  min-inline-size: 180px;
+  padding: 4px;
+  background: var(--surface);
+  color: var(--ink);
+  border: 1px solid var(--rule);
+  border-radius: 10px;
+  box-shadow: 0 10px 28px rgb(0 0 0 / 0.28);
+  font-family: var(--ui);
+}
+
+.flag-ctx-menu[hidden] {
+  display: none !important;
+}
+
+.flag-ctx-item {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  inline-size: 100%;
+  min-block-size: 44px;
+  min-inline-size: 44px;
+  padding: 8px 12px;
+  border: 0;
+  border-radius: 7px;
+  background: transparent;
+  color: inherit;
+  font: 500 0.92rem var(--ui);
+  text-align: start;
+  cursor: pointer;
+}
+
+.flag-ctx-item:hover,
+.flag-ctx-item:focus-visible {
+  background: var(--note-bg);
+}
+
+/* ---- Modal dialog ---- */
+.flag-backdrop {
+  position: fixed;
+  inset: 0;
+  z-index: 300;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 12px max(12px, env(safe-area-inset-right)) max(12px, env(safe-area-inset-bottom)) max(12px, env(safe-area-inset-left));
+  background: rgb(0 0 0 / 0.56);
+}
+
+.flag-backdrop[hidden] {
+  display: none !important;
+}
+
+.flag-modal {
+  display: flex;
+  flex-direction: column;
+  inline-size: min(36rem, 100%);
+  max-block-size: min(90vh, 90dvh);
+  background: var(--surface);
+  color: var(--ink);
+  border: 1px solid var(--rule);
+  border-radius: 14px;
+  box-shadow: 0 20px 50px rgb(0 0 0 / 0.4);
+  overflow: hidden;
+  font-family: var(--ui);
+}
+
+.flag-modal-head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  padding: 10px 16px;
+  border-block-end: 1px solid var(--rule);
+  background: var(--surface);
+}
+
+.flag-modal-title {
+  margin: 0;
+  font-size: 1.05rem;
+  font-weight: 600;
+}
+
+.flag-close-btn {
+  min-inline-size: 44px;
+  min-block-size: 44px;
+  padding: 0;
+  border: 1px solid var(--rule);
+  border-radius: 8px;
+  background: var(--bg);
+  color: var(--ink);
+  font: 600 1rem var(--ui);
+  cursor: pointer;
+}
+
+.flag-close-btn:hover {
+  border-color: var(--accent);
+}
+
+.flag-modal-body {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  padding: 16px;
+  overflow-y: auto;
+  overscroll-behavior: contain;
+}
+
+.flag-auth-bar {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+  padding: 10px 12px;
+  background: var(--note-bg);
+  border: 1px solid var(--rule);
+  border-radius: 10px;
+  font-size: 0.88rem;
+}
+
+.flag-auth-info {
+  min-inline-size: 0;
+  color: var(--ink);
+}
+
+.flag-signin-btn,
+.flag-signout-btn,
+.flag-bold-btn,
+.flag-submit-btn,
+.flag-cancel-btn {
+  min-block-size: 44px;
+  min-inline-size: 44px;
+  padding: 0 14px;
+  border-radius: 8px;
+  border: 1px solid var(--rule);
+  font: 500 0.92rem var(--ui);
+  cursor: pointer;
+}
+
+.flag-signin-btn,
+.flag-submit-btn {
+  background: var(--accent);
+  color: var(--accent-ink);
+  border-color: var(--accent);
+}
+
+.flag-signout-btn,
+.flag-cancel-btn,
+.flag-bold-btn {
+  background: var(--bg);
+  color: var(--ink);
+}
+
+.flag-submit-btn:disabled,
+.flag-signin-btn:disabled {
+  opacity: 0.55;
+  cursor: not-allowed;
+}
+
+.flag-target-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  align-items: center;
+  font-size: 0.82rem;
+  color: var(--muted);
+}
+
+.flag-meta-chip {
+  padding: 3px 8px;
+  border-radius: 6px;
+  background: var(--note-bg);
+  border: 1px solid var(--rule);
+  color: var(--ink);
+}
+
+.flag-preview {
+  margin: 0;
+  padding: 10px 12px;
+  background: var(--bg);
+  border: 1px solid var(--rule);
+  border-radius: 8px;
+  font-family: var(--he);
+  font-size: 1.08rem;
+  line-height: 1.75;
+}
+
+.flag-preview b {
+  font-weight: 900;
+}
+
+.flag-form {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.flag-row {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 10px;
+}
+
+@media (max-width: 560px) {
+  .flag-row {
+    grid-template-columns: 1fr;
+  }
+}
+
+.flag-field {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
+.flag-field-head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+}
+
+.flag-field label {
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: var(--ink);
+}
+
+.flag-field select,
+.flag-field input,
+.flag-field textarea {
+  inline-size: 100%;
+  min-block-size: 44px;
+  padding: 8px 10px;
+  border: 1px solid var(--rule);
+  border-radius: 8px;
+  background: var(--bg);
+  color: var(--ink);
+  font: 400 0.98rem var(--ui);
+}
+
+.flag-field textarea {
+  min-block-size: 76px;
+  resize: vertical;
+  font-family: var(--he);
+  font-size: 1.08rem;
+  line-height: 1.6;
+}
+
+.flag-bold-btn {
+  min-block-size: 36px;
+  min-inline-size: 44px;
+  padding: 0 10px;
+  font-weight: 700;
+  font-size: 0.85rem;
+}
+
+.flag-status {
+  padding: 10px 12px;
+  border-radius: 8px;
+  font-size: 0.88rem;
+  border: 1px solid var(--rule);
+  background: var(--note-bg);
+}
+
+.flag-status[hidden] {
+  display: none !important;
+}
+
+.flag-status[data-state="success"] {
+  border-color: var(--accent);
+}
+
+.flag-status[data-state="error"] {
+  border-color: #c2410c;
+}
+
+.flag-actions {
+  display: flex;
+  justify-content: flex-end;
+  gap: 10px;
+  padding-block-start: 4px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .flag-backdrop,
+  .flag-modal,
+  .flag-ctx-menu {
+    transition: none !important;
+    animation: none !important;
+  }
+}
