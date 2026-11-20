@@ -824,3 +824,12 @@
   font-weight: 700;
   text-align: center;
 }
+
+.badge-new {
+  background: #dc2626;
+  color: #fff;
+  font-weight: 700;
+  font-size: 11px;
+  padding: 2px 6px;
+  border-radius: 4px;
+}

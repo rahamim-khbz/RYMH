@@ -714,7 +714,7 @@ window.ReviewSync = (function() {
     return csvContent;
   }
 
-  function saveLine(pageId, lineId, text, isVerified = false) {
+  function saveLine(pageId, lineId, text, isVerified = false, opts = {}) {
     // Check reviewer passcode gate
     if (window.AuthGate && typeof window.AuthGate.checkPasscodeOrPrompt === 'function') {
       if (!window.AuthGate.checkPasscodeOrPrompt('🔒 Enter Reviewer Passcode to edit lines:')) {
@@ -790,7 +790,8 @@ window.ReviewSync = (function() {
     if (!originalText && pageState.lines && pageState.lines[lineId]) {
       originalText = pageState.lines[lineId].text || '';
     }
-    logEditAudit(pageId, lineId, text, isVerified, isFlagged, 'line_edit', originalText);
+    const auditAction = (opts && opts.action) || 'line_edit';
+    logEditAudit(pageId, lineId, text, isVerified, isFlagged, auditAction, originalText);
 
     const saveKey = `${pageId}::${lineId}`;
     pendingSaves.set(saveKey, {

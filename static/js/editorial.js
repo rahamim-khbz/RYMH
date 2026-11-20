@@ -18,6 +18,28 @@
   let activeTab = 'questions';
   let searchTerm = '';
   let filterKind = 'all';
+  const SEEN_KEY = 'ih_hub_flags_seen_at';
+  let latestNewFlagsCount = 0;
+  let latestPendingAccessCount = 0;
+
+  function getSeenAt() {
+    try { return Number(localStorage.getItem(SEEN_KEY)) || 0; } catch (e) { return 0; }
+  }
+
+  // Pure: flags newer than seenAt are marked is_new and sorted first (then updated_at desc).
+  function markNewFlags(list, seenAt) {
+    const seen = Number(seenAt) || 0;
+    const out = (list || []).map(q => {
+      const t = Number(q.updated_at) || 0;
+      return Object.assign({}, q, { is_new: t > seen });
+    });
+    out.sort((a, b) => {
+      if (a.is_new !== b.is_new) return a.is_new ? -1 : 1;
+      return (Number(b.updated_at) || 0) - (Number(a.updated_at) || 0);
+    });
+    return { list: out, newCount: out.filter(q => q.is_new).length };
+  }
+  if (typeof window !== 'undefined') window.EditorialHubTest = { markNewFlags };
 
   // -------------------------------------------------------------
   // Theme Management
@@ -328,8 +350,11 @@
     const elM = document.getElementById('statMergedPages');
     if (elM) elM.textContent = mergeCount;
 
+    const newCount = markNewFlags(summaryData.flagged_questions || [], getSeenAt()).newCount;
+    latestNewFlagsCount = newCount;
     const tabQ = document.getElementById('tabCountQuestions');
-    if (tabQ) tabQ.textContent = qCount;
+    if (tabQ) tabQ.textContent = newCount ? `${qCount} \u00B7 ${newCount} new` : qCount;
+    updateDocumentTitleBadge(latestPendingAccessCount);
     const tabS = document.getElementById('tabCountSubmissions');
     if (tabS) tabS.textContent = summaryData.submitted_pages ? summaryData.submitted_pages.length : 0;
   }
@@ -341,7 +366,7 @@
     const container = document.getElementById('questionsContainer');
     if (!container) return;
 
-    let list = summaryData.flagged_questions || [];
+    let list = markNewFlags(summaryData.flagged_questions || [], getSeenAt()).list;
 
     // Filter by kind
     if (filterKind !== 'all') {
@@ -384,6 +409,7 @@
       card.innerHTML = `
         <div class="card-header-bar">
           <div class="card-tags">
+            ${q.is_new ? '<span class="badge-new">NEW</span>' : ''}
             <span class="badge-page">Page ${escapeHtml(q.page_num)}</span>
             <span class="badge-line">Line ${Number(q.line_idx) + 1}</span>
             <span class="${q.kind === 'footnote' ? 'badge-kind-footnote' : 'badge-line'}">${q.kind === 'footnote' ? 'Footnote' : 'Main'}</span>
@@ -804,10 +830,14 @@
     renderPreapprovedEmails();
   }
 
-  // Show waiting requests in the browser tab title, e.g. "(2) Master Editorial Hub"
+  // Show waiting requests and new flags in the browser tab title, e.g. "(2) Master Editorial Hub"
   const BASE_DOCUMENT_TITLE = document.title.replace(/^\(\d+\)\s*/, '');
   function updateDocumentTitleBadge(count) {
-    document.title = count > 0 ? `(${count}) ${BASE_DOCUMENT_TITLE}` : BASE_DOCUMENT_TITLE;
+    if (count !== undefined) {
+      latestPendingAccessCount = Number(count) || 0;
+    }
+    const total = latestPendingAccessCount + latestNewFlagsCount;
+    document.title = total > 0 ? `(${total}) ${BASE_DOCUMENT_TITLE}` : BASE_DOCUMENT_TITLE;
   }
 
   function renderPendingRequests() {
@@ -1252,6 +1282,15 @@
         filterKind = e.target.value;
         if (activeTab === 'questions') renderQuestions();
         else if (activeTab === 'submissions') renderSubmissions();
+      });
+    }
+
+    const seenBtn = document.getElementById('btnMarkFlagsSeen');
+    if (seenBtn) {
+      seenBtn.addEventListener('click', () => {
+        try { localStorage.setItem(SEEN_KEY, String(Date.now())); } catch (e) { /* ignore */ }
+        updateHeroStats();
+        renderQuestions();
       });
     }
 

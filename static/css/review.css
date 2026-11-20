@@ -851,3 +851,19 @@ input.micro-target-input[readonly] {
   border-color: var(--accent-green);
   color: #fff;
 }
+
+/* Right-click line menu and toast (line_context_menu.js) */
+#lineContextMenu{position:fixed;z-index:300;min-width:220px;padding:4px;background:var(--bg-panel);
+  color:var(--text-main);border:1px solid var(--border-color);border-radius:8px;box-shadow:0 8px 24px rgba(0,0,0,.35);font-size:14px}
+#lineContextMenu[hidden]{display:none}
+#lineContextMenu [role=menuitem]{display:flex;flex-direction:column;align-items:flex-start;width:100%;padding:8px 10px;
+  background:none;border:0;border-radius:6px;color:inherit;text-align:left;cursor:pointer;font:inherit}
+#lineContextMenu [role=menuitem]:hover,#lineContextMenu [role=menuitem]:focus-visible{background:var(--bg-subtle);outline:none}
+#lineContextMenu [aria-disabled=true]{opacity:.55;cursor:not-allowed}
+.lcm-reason,.lcm-hint{font-size:12px;color:var(--text-muted)}
+.lcm-reason:empty{display:none}
+#lineContextToast{position:fixed;bottom:16px;left:50%;transform:translateX(-50%);z-index:300;padding:8px 14px;
+  background:var(--bg-panel);color:var(--text-main);border:1px solid var(--border-color);border-radius:8px;
+  box-shadow:0 8px 24px rgba(0,0,0,.35);font-size:14px;max-width:90vw}
+#lineContextToast[hidden]{display:none}
+@media (pointer:coarse){#lineContextMenu [role=menuitem]{padding:12px}}

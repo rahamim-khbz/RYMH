@@ -49,6 +49,7 @@ window.ReviewerGuide = (function() {
                 <li><strong>Lines on Right:</strong> Each numbered row matches a line in the scan. Click any line to edit directly in place.</li>
                 <li><strong>Focused 3-Line Inspector (Recommended):</strong> Double-click any line to open the zoomed 3-line slice at the bottom, showing the current line alongside the line above and below.</li>
                 <li><strong>Verify Button (<code>✓</code>):</strong> Click the checkmark on a line once you've confirmed it matches the scan.</li>
+                <li><strong>Right-click a word:</strong> choose <code>Flag</code> or <code>Review PDF &amp; Edit</code> (Shift+right-click for the browser menu; Shift+F10 on the keyboard). On iPhone/iPad use the toolbar <code>🚩</code> and the <code>🖼️</code> button. A selection that partly overlaps a flag removes the nearest flag.</li>
               </ul>
             </div>
 

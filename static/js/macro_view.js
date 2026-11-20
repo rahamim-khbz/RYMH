@@ -115,6 +115,7 @@ window.MacroView = (function() {
   }
 
   async function loadPage(pageId) {
+    if (window.LineContextMenu) window.LineContextMenu.close();
     currentPageId = pageId;
     document.getElementById('pageTitleLabel').textContent = `Page ${pageId.replace('page-', '')}`;
     
@@ -320,6 +321,7 @@ window.MacroView = (function() {
     if (btnFlag) btnFlag.disabled = !!isLocked;
     const btnComplete = document.getElementById('btnCompletePage');
     if (btnComplete) btnComplete.disabled = !!isLocked;
+    if (window.LineContextMenu) window.LineContextMenu.close();
   }
 
   function renderRowVerified(row, verified) {
@@ -545,13 +547,39 @@ window.MacroView = (function() {
     return node.innerText || node.textContent || '';
   }
 
+  // All .flagged-word elements (inside root) that a range starts in, ends in,
+  // sits inside, points at via an element container offset, or intersects.
+  function findFlagsInRange(range, root) {
+    const found = [];
+    const add = (f) => { if (f && found.indexOf(f) < 0 && root.contains(f)) found.push(f); };
+    const flagOf = (node) => {
+      const el = node && (node.nodeType === 1 ? node : node.parentElement);
+      return el && el.closest ? el.closest('.flagged-word') : null;
+    };
+    add(flagOf(range.startContainer));
+    add(flagOf(range.endContainer));
+    add(flagOf(range.commonAncestorContainer));
+    const sc = range.startContainer;
+    const ec = range.endContainer;
+    if (sc.nodeType === 1 && sc.childNodes) add(flagOf(sc.childNodes[range.startOffset]));
+    if (ec.nodeType === 1 && ec.childNodes && range.endOffset > 0) add(flagOf(ec.childNodes[range.endOffset - 1]));
+    if (root.querySelectorAll && typeof range.intersectsNode === 'function') {
+      Array.from(root.querySelectorAll('.flagged-word')).forEach((f) => {
+        if (range.intersectsNode(f)) add(f);
+      });
+    }
+    return found;
+  }
+
   function toggleMarkdownInElement(targetTextDiv, targetIdx, marker) {
-    if (!currentPageData || !currentPageData.lines || !currentPageData.lines[targetIdx]) return;
+    if (!currentPageData || !currentPageData.lines || !currentPageData.lines[targetIdx]) return { ok: false, reason: 'no-target' };
     const line = currentPageData.lines[targetIdx];
 
     const sel = (typeof window !== 'undefined' && window.getSelection) ? window.getSelection() : null;
 
     let applied = false;
+    let noop = false;
+    let action = 'none';
     if (sel && sel.anchorNode && targetTextDiv.contains && targetTextDiv.contains(sel.anchorNode)) {
       if (sel.isCollapsed && sel.anchorNode.nodeType === 3) {
         const parentTag = sel.anchorNode.parentElement ? sel.anchorNode.parentElement.tagName.toLowerCase() : '';
@@ -570,6 +598,7 @@ window.MacroView = (function() {
           while (el.firstChild) p.insertBefore(el.firstChild, el);
           p.removeChild(el);
           applied = true;
+          action = 'removed';
         } else if (typeof document !== 'undefined' && document.createRange) {
           const text = sel.anchorNode.nodeValue || '';
           let wStart = sel.anchorOffset;
@@ -591,18 +620,25 @@ window.MacroView = (function() {
         const selText = sel.toString();
         const parent = sel.anchorNode.parentElement;
         const strongEl = parent && parent.closest ? parent.closest('strong, b') : null;
-        const flagEl = parent && parent.closest ? parent.closest('.flagged-word') : null;
+        const flagEls = marker === '??' ? findFlagsInRange(range, targetTextDiv) : [];
 
         if (marker === '**' && strongEl && targetTextDiv.contains(strongEl)) {
           const p = strongEl.parentNode;
           while (strongEl.firstChild) p.insertBefore(strongEl.firstChild, strongEl);
           p.removeChild(strongEl);
           applied = true;
-        } else if (marker === '??' && flagEl && targetTextDiv.contains(flagEl)) {
-          const p = flagEl.parentNode;
-          while (flagEl.firstChild) p.insertBefore(flagEl.firstChild, flagEl);
-          p.removeChild(flagEl);
+        } else if (marker === '??' && flagEls.length) {
+          // Never nest a flag inside a flag: toggling over any flag removes it.
+          flagEls.forEach((fe) => {
+            const p = fe.parentNode;
+            if (!p) return;
+            while (fe.firstChild) p.insertBefore(fe.firstChild, fe);
+            p.removeChild(fe);
+          });
           applied = true;
+          action = 'removed';
+        } else if (marker === '??' && !range.collapsed && selText.trim() === '') {
+          noop = true;
         } else if (selText && selText.length > 0) {
           const wrapper = document.createElement(marker === '**' ? 'strong' : 'span');
           if (marker === '??') {
@@ -617,8 +653,13 @@ window.MacroView = (function() {
             range.insertNode(wrapper);
           }
           applied = true;
+          action = 'added';
         }
       }
+    }
+
+    if (noop) {
+      return { ok: true, changed: false, flagged: !!line.flagged, saved: true, action: 'none' };
     }
 
     let newRaw = '';
@@ -635,8 +676,13 @@ window.MacroView = (function() {
       } else if (marker === '??') {
         if (curText.startsWith('??') && curText.endsWith('??') && curText.length >= 4) {
           newRaw = curText.slice(2, -2);
+          action = 'removed';
+        } else if (curText.indexOf('??') >= 0) {
+          // line already holds flags: wrapping it all would nest (????); do nothing
+          newRaw = curText;
         } else {
           newRaw = `??${curText}??`;
+          action = 'added';
         }
       }
       targetTextDiv.innerHTML = formatMarkup(newRaw);
@@ -652,16 +698,20 @@ window.MacroView = (function() {
       row.classList.toggle('flagged', line.flagged);
     }
     if (changed) clearVerifiedOnEdit(line, row);
+    let saved = true;
     if (window.ReviewSync && changed) {
-      window.ReviewSync.saveLine(currentPageId, line.line_id, newRaw, !!line.verified);
+      saved = window.ReviewSync.saveLine(currentPageId, line.line_id, newRaw, !!line.verified, {
+        action: marker === '??' ? (line.flagged ? 'flag' : 'unflag') : 'bold'
+      }) !== false;
     }
+    return { ok: true, changed, flagged: !!line.flagged, saved, action };
   }
 
   function applySelectionAction(marker) {
-    if (!currentPageData || !currentPageData.lines) return;
+    if (!currentPageData || !currentPageData.lines) return { ok: false, reason: 'no-target' };
     if (window.ReviewSync && typeof window.ReviewSync.isPageEditable === 'function' && !window.ReviewSync.isPageEditable(currentPageId)) {
       console.warn(`Formatting blocked: ${currentPageId} is locked.`);
-      return;
+      return { ok: false, reason: 'locked' };
     }
     let targetTextDiv = null;
     let targetIdx = -1;
@@ -701,8 +751,9 @@ window.MacroView = (function() {
     }
 
     if (targetTextDiv && targetIdx >= 0) {
-      toggleMarkdownInElement(targetTextDiv, targetIdx, marker);
+      return toggleMarkdownInElement(targetTextDiv, targetIdx, marker);
     }
+    return { ok: false, reason: 'no-target' };
   }
 
   function setupToolbarSelectionEvents() {
