@@ -3,7 +3,7 @@
   "image": "page_images/page-30.jpg",
   "page_width": 2550,
   "page_height": 3300,
-  "base_hash": "sha256:3c6b654521b31e334243291cb07b25dde7749ca92f536e95a91a6aac28b65c89",
+  "base_hash": "sha256:aed91c32c176d6a8a63a4256bb9f0809bcdc299a1aa750ce6be6f7a303727425",
   "lines": [
     {
       "line_id": "eSc_line_247e2d6f",
@@ -623,19 +623,6 @@
         "VPOS": 2915,
         "WIDTH": 2005,
         "HEIGHT": 78
-      },
-      "para_start": false
-    },
-    {
-      "line_id": "eSc_line_f7c4af22",
-      "kind": "footnote",
-      "idx": 9,
-      "text": "זאת",
-      "coords": {
-        "HPOS": 410,
-        "VPOS": 2981,
-        "WIDTH": 79,
-        "HEIGHT": 66
       },
       "para_start": false
     }

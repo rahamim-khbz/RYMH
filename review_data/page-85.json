@@ -3,7 +3,7 @@
   "image": "page_images/page-85.jpg",
   "page_width": 2550,
   "page_height": 3300,
-  "base_hash": "sha256:6706c3fc4adc877268d61dcd4e949a6b117d53aa18af5ecd5625a151af35b5bf",
+  "base_hash": "sha256:7780c22aa0b072d2a340c6c4f64df4731e3f542b60339251009be040663c1a52",
   "lines": [
     {
       "line_id": "eSc_line_ca1370d9",
@@ -303,7 +303,7 @@
       "line_id": "eSc_line_09d06915",
       "kind": "footnote",
       "idx": 0,
-      "text": "(*) קונטריס הסמיכה דשכ\"ה ע\"ד!",
+      "text": "(*) קונטריס הסמיכה דשכ\"ה ע\"ד.",
       "coords": {
         "HPOS": 1614,
         "VPOS": 1529,

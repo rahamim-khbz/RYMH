@@ -3,7 +3,7 @@
   "image": "page_images/page-27.jpg",
   "page_width": 2550,
   "page_height": 3300,
-  "base_hash": "sha256:a2345ec87593a8f833ff129fe7086713a9b536b33d24cf3adfe35381d391dd81",
+  "base_hash": "sha256:0cbd33bf0a3bcef578b426823d43395df254862221d6ee139ed9ab53d1a39357",
   "lines": [
     {
       "line_id": "eSc_line_174891f7",
@@ -631,19 +631,6 @@
         "VPOS": 2938,
         "WIDTH": 1981,
         "HEIGHT": 77
-      },
-      "para_start": false
-    },
-    {
-      "line_id": "eSc_line_5e1a7dfe",
-      "kind": "footnote",
-      "idx": 15,
-      "text": "דלשון",
-      "coords": {
-        "HPOS": 315,
-        "VPOS": 2992,
-        "WIDTH": 105,
-        "HEIGHT": 69
       },
       "para_start": false
     }
