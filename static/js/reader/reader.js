@@ -298,6 +298,19 @@
       if (FLOW && i === 0 && p.cont) {
         var prevP = lastParaOfSlot(n - 1);
         if (prevP) {
+          // Sync anchors must not nest: the first time a paragraph is joined, move its own lines
+          // into an inline span carrying its anchor and drop the anchor from the outer block, so
+          // each page's part of the joined paragraph is a separate, side-by-side anchor.
+          var prevBlock = prevP.closest('.para-block');
+          if (prevBlock && prevBlock.hasAttribute('data-para')) {
+            var head = el('span', 'para-flow');
+            head.setAttribute('data-page', prevBlock.getAttribute('data-page'));
+            head.setAttribute('data-para', prevBlock.getAttribute('data-para'));
+            while (prevP.firstChild) head.appendChild(prevP.firstChild);
+            prevP.appendChild(head);
+            prevBlock.setAttribute('data-flow-para', prevBlock.getAttribute('data-para'));
+            prevBlock.removeAttribute('data-para');
+          }
           var cont = el('span', 'para-flow');
           cont.setAttribute('data-page', page.page);
           cont.setAttribute('data-para', p.pid);
@@ -661,7 +674,7 @@
 
     var lineEl = targetEl.closest('.rline[data-line-id]');
     if (!lineEl) {
-      var block = targetEl.closest('.para-block[data-para]');
+      var block = targetEl.closest('.para-block[data-para], .para-block[data-flow-para]');
       if (block) lineEl = block.querySelector('.rline[data-line-id]');
     }
     if (!lineEl) return null;

@@ -51,8 +51,14 @@ window.ReaderSyncController = (function () {
     function getVisibleAnchors(paneEl) {
       var list = paneEl.querySelectorAll(PARA_SELECTOR);
       var out = [];
+      var seen = {};
       for (var i = 0; i < list.length; i++) {
         var el = list[i];
+        // One anchor per paragraph: the scan's per-line boxes also carry data-para; keep only the
+        // first element of each pid (the paragraph box, the same one findAnchorEl resolves).
+        var pidKey = el.getAttribute('data-para');
+        if (seen[pidKey]) continue;
+        seen[pidKey] = true;
         var rect = el.getBoundingClientRect();
         if (rect.height <= 0 && rect.width <= 0) continue;
         out.push({
@@ -75,22 +81,39 @@ window.ReaderSyncController = (function () {
       if (!anchors.length) return null;
 
       var lineY = paneRect.top + pane.el.clientHeight * readingRatio;
+      // Effective bounds. When the next anchor starts on a line the current one still occupies
+      // (flowed text across a page break, or overlapping scan boxes), that shared band becomes
+      // the gap between them, so the other pane glides across instead of jumping.
+      for (var e = 0; e < anchors.length; e++) {
+        anchors[e].top = anchors[e].rect.top;
+        anchors[e].bottom = anchors[e].rect.bottom;
+      }
+      for (var o = 0; o + 1 < anchors.length; o++) {
+        var a = anchors[o], b = anchors[o + 1];
+        if (b.rect.top < a.rect.bottom && b.rect.top >= a.rect.top && b.rect.bottom > a.rect.bottom) {
+          // Glide band of ~5 lines centred on the break (even when a is a single shared line),
+          // so the other pane crosses the space between them smoothly instead of jumping.
+          var half = 80;
+          a.bottom = Math.max(a.rect.top + 1, a.rect.bottom - half);
+          b.top = Math.min(b.rect.bottom - 1, a.rect.bottom + half);
+        }
+      }
       var first = anchors[0];
-      if (lineY < first.rect.top) {
+      if (lineY < first.top) {
         return {
           mode: 'above',
           page: first.page,
           n: first.n,
           pid: first.pid,
           frac: 0,
-          offsetFromTop: first.rect.top - paneRect.top
+          offsetFromTop: first.top - paneRect.top
         };
       }
 
       for (var i = 0; i < anchors.length; i++) {
         var cur = anchors[i];
-        if (lineY <= cur.rect.bottom) {
-          var frac = (lineY - cur.rect.top) / Math.max(1, cur.rect.height);
+        if (lineY <= cur.bottom) {
+          var frac = (lineY - cur.top) / Math.max(1, cur.bottom - cur.top);
           return {
             mode: 'para',
             page: cur.page,
@@ -101,9 +124,9 @@ window.ReaderSyncController = (function () {
         }
         if (i + 1 < anchors.length) {
           var next = anchors[i + 1];
-          if (lineY < next.rect.top) {
-            var gap = Math.max(1, next.rect.top - cur.rect.bottom);
-            var gapFrac = clamp((lineY - cur.rect.bottom) / gap, 0, 1);
+          if (lineY < next.top) {
+            var gap = Math.max(1, next.top - cur.bottom);
+            var gapFrac = clamp((lineY - cur.bottom) / gap, 0, 1);
             return {
               mode: 'gap',
               page: cur.page,
@@ -127,6 +150,27 @@ window.ReaderSyncController = (function () {
       };
     }
 
+    // Bounds of a paragraph anchor, with any overlap against the neighbouring PARAGRAPHS split at
+    // the midpoint (scan line boxes also carry data-para, so compare paragraph-level anchors only:
+    // the first element of each pid, as findAnchorEl picks).
+    function effBounds(list, el) {
+      var order = [], firstByPid = {};
+      for (var i = 0; i < list.length; i++) {
+        var pid = list[i].pid;
+        if (!firstByPid[pid]) { firstByPid[pid] = list[i]; order.push(pid); }
+      }
+      var me = el.getAttribute('data-para');
+      var k = order.indexOf(me);
+      var r = el.getBoundingClientRect();
+      if (k < 0) return { top: r.top, bottom: r.bottom };
+      var top = r.top, bottom = r.bottom;
+      var prev = k > 0 ? firstByPid[order[k - 1]].rect : null;
+      var next = k + 1 < order.length ? firstByPid[order[k + 1]].rect : null;
+      if (prev && prev.bottom > top && prev.top <= top) top = (prev.bottom + top) / 2;
+      if (next && next.top < bottom && next.bottom >= bottom) bottom = (next.top + bottom) / 2;
+      return { top: top, bottom: Math.max(top, bottom) };
+    }
+
     function applyAnchorToPane(pane, anchor, alignReadingLine) {
       if (!pane || !pane.el || !anchor) return;
       var paneRect = pane.el.getBoundingClientRect();
@@ -141,22 +185,24 @@ window.ReaderSyncController = (function () {
 
       var targetRect = targetEl.getBoundingClientRect();
       var delta = 0;
+      var paneAnchors = getVisibleAnchors(pane.el);
+      var tb = effBounds(paneAnchors, targetEl);
 
       if (anchor.mode === 'above' && !alignReadingLine) {
         delta = targetRect.top - (paneRect.top + (anchor.offsetFromTop || 0));
       } else if (anchor.mode === 'gap' && anchor.nextPid) {
         var nextEl = findAnchorEl(pane.el, anchor.nextPid);
-        var targetY = targetRect.bottom;
+        var targetY = tb.bottom;
         if (nextEl) {
-          var nextRect = nextEl.getBoundingClientRect();
-          if (nextRect.top >= targetRect.bottom) {
-            targetY = targetRect.bottom + anchor.gapFrac * (nextRect.top - targetRect.bottom);
+          var nb = effBounds(paneAnchors, nextEl);
+          if (nb.top >= tb.bottom) {
+            targetY = tb.bottom + anchor.gapFrac * (nb.top - tb.bottom);
           }
         }
         delta = targetY - lineY;
       } else {
         var f = typeof anchor.frac === 'number' ? anchor.frac : 0;
-        var y = targetRect.top + f * targetRect.height;
+        var y = tb.top + f * (tb.bottom - tb.top);
         delta = y - lineY;
       }
 
