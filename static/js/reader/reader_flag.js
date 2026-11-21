@@ -14,6 +14,8 @@
 
   var state = {
     initialized: false,
+    authBound: false,
+    signInAttemptId: 0,
     mountEl: null,
     barSlotEl: null,
     streamEl: null,
@@ -50,7 +52,7 @@
   }
 
 
-  var EN_UI = {"הצעת תיקון לטקסט": "Suggest a text correction", "סגור חלון דיווח": "Close dialog", "התחבר עם Google": "Sign in with Google", "ההתחברות נכשלה": "Sign-in failed", "התנתק": "Sign out", "בחירת שורה או הערה בעמוד": "Choose a line or note on this page", "סוג הדיווח": "Issue type", "טעות במילה": "Wrong word", "מילה חסרה / מיותרת": "Missing / extra word", "עיצוב / הדגשה": "Formatting / bold", "הערת שוליים": "Footnote", "תרגום": "Translation", "יעד": "Target", "טקסט עברי / הערה": "Hebrew text / note", "הטקסט המוצע": "Suggested text", "B": "B", "הדגשה": "Bold", "הערה / הסבר (אופציונלי)": "Note / explanation (optional)", "ביטול": "Cancel", "שלח הצעה": "Submit suggestion", "שולח הצעה…": "Sending…", "ההצעה נשלחה בהצלחה ותיבדק על ידי העורך.": "Sent! The editor will review your suggestion.", "השליחה נכשלה": "Sending failed", "יש להתחבר עם Google כדי לשלוח הצעות תיקון (ללא דרישת הרשאת עורך).": "Sign in with Google to send corrections (no editor access needed).", "בחר שורה": "Choose a line", "הזן הצעת תיקון (אופציונלי)": "Enter a suggested correction (optional)", "הקטע ארוך מ-1000 תווים — הזן כאן את התיקון המוצע בלבד": "Passage exceeds 1000 characters — enter only the corrected portion", "יש להתחבר עם חשבון Google מאומת כדי לשלוח הצעת תיקון.": "Sign in with a verified Google account to send a correction.", "כתובת מסד הנתונים (או emulator) אינה מוגדרת.": "Database URL is not configured.", "נדרש חשבון Google עם דוא\"ל מאומת.": "A Google account with a verified email is required.", "שגיאה בהתחברות": "Sign-in error", "חיבור Google אינו זמין ללא הגדרת Firebase Auth.": "Google sign-in is unavailable (Firebase Auth not configured).", "חשבון ה-Google אינו מאומת.": "This Google account is not verified.", "התחברות Google בוטלה.": "Google sign-in was cancelled.", "הדפדפן חסם את חלון ההתחברות של Google. אפשרו חלונות קופצים ונסו שוב.": "Your browser blocked the Google sign-in popup. Allow popups for this site and try again.", "האתר אינו מופיע ברשימת הדומיינים המורשים ב-Firebase.": "This site is not on the Firebase authorized-domains list yet.", "התחברות עם Google אינה מופעלת בפרויקט זה.": "Google sign-in is not enabled for this Firebase project.", "הטקסט המוצע ארוך מ-1000 תווים": "Suggested text exceeds 1000 characters", "ההערה ארוכה מ-1000 תווים": "Note exceeds 1000 characters", "מזהה משתמש (UID) לא תקין": "Invalid user ID (UID)", "מספר עמוד לא תקין": "Invalid page number", "מזהה שורה חסר או לא תקין": "Missing or invalid line ID", "סוג דיווח לא תקין": "Invalid issue type", "יעד דיווח לא תקין": "Invalid target", "לא ניתן ליצור מזהה הצעה תקין": "Could not create a valid suggestion ID", "מספר פסקה לא תקין": "Invalid paragraph number", "הסיבה ארוכה מ-500 תווים": "Reason exceeds 500 characters", "Fetch API אינו זמין בסביבה זו.": "Fetch API is not available in this environment."};
+  var EN_UI = {"הצעת תיקון לטקסט": "Suggest a text correction", "סגור חלון דיווח": "Close dialog", "התחבר עם Google": "Sign in with Google", "ההתחברות נכשלה": "Sign-in failed", "התנתק": "Sign out", "בחירת שורה או הערה בעמוד": "Choose a line or note on this page", "סוג הדיווח": "Issue type", "טעות במילה": "Wrong word", "מילה חסרה / מיותרת": "Missing / extra word", "עיצוב / הדגשה": "Formatting / bold", "הערת שוליים": "Footnote", "תרגום": "Translation", "יעד": "Target", "טקסט עברי / הערה": "Hebrew text / note", "הטקסט המוצע": "Suggested text", "B": "B", "הדגשה": "Bold", "הערה / הסבר (אופציונלי)": "Note / explanation (optional)", "ביטול": "Cancel", "שלח הצעה": "Submit suggestion", "שולח הצעה…": "Sending…", "ההצעה נשלחה בהצלחה ותיבדק על ידי העורך.": "Sent! The editor will review your suggestion.", "השליחה נכשלה": "Sending failed", "יש להתחבר עם Google כדי לשלוח הצעות תיקון (ללא דרישת הרשאת עורך).": "Sign in with Google to send corrections (no editor access needed).", "בחר שורה": "Choose a line", "הזן הצעת תיקון (אופציונלי)": "Enter a suggested correction (optional)", "הקטע ארוך מ-1000 תווים — הזן כאן את התיקון המוצע בלבד": "Passage exceeds 1000 characters — enter only the corrected portion", "יש להתחבר עם חשבון Google מאומת כדי לשלוח הצעת תיקון.": "Sign in with a verified Google account to send a correction.", "כתובת מסד הנתונים (או emulator) אינה מוגדרת.": "Database URL is not configured.", "נדרש חשבון Google עם דוא\"ל מאומת.": "A Google account with a verified email is required.", "שגיאה בהתחברות": "Sign-in error", "חיבור Google אינו זמין ללא הגדרת Firebase Auth.": "Google sign-in is unavailable (Firebase Auth not configured).", "חשבון ה-Google אינו מאומת.": "This Google account is not verified.", "התחברות Google בוטלה.": "Google sign-in was cancelled.", "הדפדפן חסם את חלון ההתחברות של Google. אפשרו חלונות קופצים ונסו שוב.": "Your browser blocked the Google sign-in popup. Allow popups for this site and try again.", "האתר אינו מופיע ברשימת הדומיינים המורשים ב-Firebase.": "This site is not on the Firebase authorized-domains list yet.", "התחברות עם Google אינה מופעלת בפרויקט זה.": "Google sign-in is not enabled for this Firebase project.", "המפתח של Firebase מורשה רק עבור הדומיין הציבורי (rahamim-khbz.github.io).": "Google sign-in is only authorized on the live site (rahamim-khbz.github.io), not this local address.", "הטקסט המוצע ארוך מ-1000 תווים": "Suggested text exceeds 1000 characters", "ההערה ארוכה מ-1000 תווים": "Note exceeds 1000 characters", "מזהה משתמש (UID) לא תקין": "Invalid user ID (UID)", "מספר עמוד לא תקין": "Invalid page number", "מזהה שורה חסר או לא תקין": "Missing or invalid line ID", "סוג דיווח לא תקין": "Invalid issue type", "יעד דיווח לא תקין": "Invalid target", "לא ניתן ליצור מזהה הצעה תקין": "Could not create a valid suggestion ID", "מספר פסקה לא תקין": "Invalid paragraph number", "הסיבה ארוכה מ-500 תווים": "Reason exceeds 500 characters", "Fetch API אינו זמין בסביבה זו.": "Fetch API is not available in this environment."};
   function T(str) { return (root.RYMH_LANG === 'en' && typeof str === 'string' && EN_UI[str]) || str; }
   function isEnLang() { return root.RYMH_LANG === 'en'; }
 
@@ -373,7 +375,95 @@
         };
       }
     }
+    // Direct localStorage fallback when signed in on dashboard/review (AuthGate script is not loaded on reader.html)
+    var lsProv = safeStorageGet('ih_reviewer_provider');
+    var lsUid = safeStorageGet('ih_reviewer_uid');
+    var lsTok = safeStorageGet('ih_firebase_auth_token');
+    var lsExp = parseInt(safeStorageGet('ih_firebase_auth_token_exp') || '0', 10);
+    if (lsProv === 'google.com' && lsUid && lsTok && (!lsExp || Date.now() < lsExp)) {
+      return {
+        uid: lsUid,
+        email: safeStorageGet('ih_reviewer_email') || '',
+        displayName: safeStorageGet('ih_reviewer_name') || '',
+        emailVerified: true,
+        provider: 'google.com',
+        idToken: lsTok,
+        exp: lsExp || 0
+      };
+    }
+    // If stored token expired, trigger background sync/refresh from persisted Firebase Auth user if available
+    if (g.firebase && g.firebase.auth && g.firebase.apps && g.firebase.apps.length) {
+      try {
+        var curUser = g.firebase.auth().currentUser;
+        if (curUser && curUser.emailVerified) {
+          syncFirebaseUser(curUser);
+        }
+      } catch (e) {}
+    }
     return null;
+  }
+
+  function isGoogleFirebaseUser(user) {
+    if (!user || !user.emailVerified) return false;
+    var pdata = Array.isArray(user.providerData) ? user.providerData : [];
+    if (!pdata.length) return true;
+    for (var i = 0; i < pdata.length; i++) {
+      if (pdata[i] && pdata[i].providerId === 'google.com') return true;
+    }
+    return false;
+  }
+
+  async function syncFirebaseUser(user) {
+    if (!isGoogleFirebaseUser(user) || typeof user.getIdToken !== 'function') return null;
+    try {
+      var idToken = await user.getIdToken();
+      var tokenRes = typeof user.getIdTokenResult === 'function' ? await user.getIdTokenResult() : null;
+      var exp = tokenRes && tokenRes.expirationTime ? Date.parse(tokenRes.expirationTime) : (Date.now() + 3600000);
+      return setAuthSession({
+        uid: user.uid,
+        email: user.email,
+        displayName: user.displayName || (user.email ? user.email.split('@')[0] : 'Reader'),
+        emailVerified: true,
+        provider: 'google.com',
+        idToken: idToken,
+        exp: exp
+      });
+    } catch (e) {
+      return null;
+    }
+  }
+
+  function bindFirebaseAuthState() {
+    var g = typeof window !== 'undefined' ? window : {};
+    var fb = g.firebase;
+    if (!fb || !fb.auth) return;
+    var fbConfig = (state.config && state.config.firebaseConfig) || g.FIREBASE_CONFIG;
+    if (!fb.apps || (!fb.apps.length && !fbConfig)) return;
+    try {
+      if (typeof g.prewarmReaderFirebaseAuth === 'function') {
+        g.prewarmReaderFirebaseAuth(fb);
+      } else {
+        if (!fb.apps.length && fbConfig) fb.initializeApp(fbConfig);
+        var preAuth = fb.auth();
+        var d = preAuth && preAuth._delegate;
+        if (d && d._popupRedirectResolver && typeof d._popupRedirectResolver._initialize === 'function') {
+          Promise.resolve(d._popupRedirectResolver._initialize(d)).catch(function () {});
+        }
+      }
+      if (state.authBound) return;
+      var auth = fb.auth();
+      if (state.config && state.config.authEmulatorUrl && typeof auth.useEmulator === 'function') {
+        auth.useEmulator(state.config.authEmulatorUrl);
+      }
+      state.authBound = true;
+      if (typeof auth.onAuthStateChanged === 'function') {
+        auth.onAuthStateChanged(function (user) {
+          if (user) {
+            syncFirebaseUser(user);
+          }
+        });
+      }
+    } catch (e) {}
   }
 
   function setAuthSession(session) {
@@ -542,7 +632,11 @@
       return { ok: true, session: getAuthSession() };
     } catch (err) {
       var code = err && err.code;
-      if (code === 'auth/popup-closed-by-user' || code === 'auth/cancelled-popup-request') {
+      var msgStr = String((err && err.message) || err || '');
+      if (code === 'auth/cancelled-popup-request') {
+        return { ok: false, cancelled: true, error: 'התחברות Google בוטלה.' };
+      }
+      if (code === 'auth/popup-closed-by-user') {
         return { ok: false, error: 'התחברות Google בוטלה.' };
       }
       if (code === 'auth/popup-blocked') {
@@ -554,7 +648,10 @@
       if (code === 'auth/operation-not-allowed') {
         return { ok: false, error: 'התחברות עם Google אינה מופעלת בפרויקט זה.' };
       }
-      return { ok: false, error: (isEnLang() ? 'Google sign-in error: ' : 'שגיאת התחברות Google: ') + (err && err.message ? err.message : err) };
+      if ((code && String(code).indexOf('requests-from-referer-') !== -1) || msgStr.indexOf('requests-from-referer-') !== -1) {
+        return { ok: false, error: 'המפתח של Firebase מורשה רק עבור הדומיין הציבורי (rahamim-khbz.github.io).' };
+      }
+      return { ok: false, error: (isEnLang() ? 'Google sign-in error: ' : 'שגיאת התחברות Google: ') + msgStr };
     }
   }
 
@@ -565,6 +662,9 @@
         g.firebase.auth().signOut();
       }
     } catch (e) {}
+    safeStorageRemove('ih_firebase_auth_token');
+    safeStorageRemove('ih_firebase_auth_token_exp');
+    safeStorageRemove('ih_reviewer_provider');
     clearAuthSession();
   }
 
@@ -819,6 +919,9 @@
     st.dataset.state = stateName || 'info';
     st.textContent = T(text);
     st.hidden = false;
+    if (typeof st.scrollIntoView === 'function') {
+      try { st.scrollIntoView({ block: 'nearest' }); } catch (e) {}
+    }
   }
 
   function refreshAuthUi() {
@@ -1033,13 +1136,41 @@
     signInBtn.id = 'readerFlagSignInBtn';
     signInBtn.type = 'button';
     signInBtn.addEventListener('click', function () {
+      state.signInAttemptId = (state.signInAttemptId || 0) + 1;
+      var myAttempt = state.signInAttemptId;
       signInBtn.disabled = true;
       setStatus('', '');
+
+      var resetTimer = null;
+      var onWinFocus = null;
+      function cleanupUnlock() {
+        if (resetTimer) {
+          clearTimeout(resetTimer);
+          resetTimer = null;
+        }
+        if (onWinFocus && typeof window !== 'undefined' && typeof window.removeEventListener === 'function') {
+          window.removeEventListener('focus', onWinFocus);
+          onWinFocus = null;
+        }
+      }
+      function unlockIfCurrent() {
+        if (myAttempt === state.signInAttemptId) signInBtn.disabled = false;
+      }
+      if (typeof setTimeout === 'function') {
+        resetTimer = setTimeout(unlockIfCurrent, 1200);
+      }
+      if (typeof window !== 'undefined' && typeof window.addEventListener === 'function') {
+        onWinFocus = function () { unlockIfCurrent(); };
+        window.addEventListener('focus', onWinFocus);
+      }
+
       // Call synchronously within click gesture for popup sign-in
       signInWithGoogle().then(function (res) {
+        cleanupUnlock();
+        if (myAttempt !== state.signInAttemptId) return;
         signInBtn.disabled = false;
         refreshAuthUi();
-        if (!res.ok) setStatus('error', res.error || 'ההתחברות נכשלה');
+        if (!res.ok && !res.cancelled) setStatus('error', res.error || 'ההתחברות נכשלה');
       });
     });
     var signOutBtn = el('button', 'flag-signout-btn', 'התנתק');
@@ -1279,6 +1410,7 @@
 
   function openForTarget(ctx, fallbackTrigger) {
     if (typeof document !== 'undefined' && !state.dom.modal) buildUi();
+    bindFirebaseAuthState();
     closeContextMenu();
     var normalized = normalizeTargetContext(ctx);
     state.triggerEl = normalized.triggerEl || fallbackTrigger || (typeof document !== 'undefined' ? document.activeElement : null);
@@ -1384,6 +1516,7 @@
     state.config = Object.assign({}, o.config || (typeof window !== 'undefined' && window.READER_FLAG_CONFIG) || {});
     buildUi();
     bindGlobalEvents();
+    bindFirebaseAuthState();
     return api;
   }
 

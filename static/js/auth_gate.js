@@ -301,8 +301,15 @@ window.AuthGate = (function() {
       const base = `https://www.gstatic.com/firebasejs/${FIREBASE_SDK_VERSION}`;
       firebaseSdkPromise = loadScript(`${base}/firebase-app-compat.js`)
         .then(() => loadScript(`${base}/firebase-auth-compat.js`))
-        .then(() => {
+        .then(async () => {
           if (!window.firebase.apps.length) window.firebase.initializeApp(getFirebaseConfig());
+          try {
+            const auth = window.firebase.auth();
+            const d = auth && auth._delegate;
+            if (d && d._popupRedirectResolver && typeof d._popupRedirectResolver._initialize === 'function') {
+              await d._popupRedirectResolver._initialize(d);
+            }
+          } catch (e) {}
           return window.firebase;
         })
         .catch(err => { firebaseSdkPromise = null; throw err; });

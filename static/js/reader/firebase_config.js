@@ -29,9 +29,22 @@
     root.FIREBASE_DB_URL = root.FIREBASE_DB_URL || 'https://iyye-hayyam-default-rtdb.firebaseio.com';
   }
 
-  try {
-    if (root.firebase && root.firebase.apps && !root.firebase.apps.length && root.FIREBASE_CONFIG) {
-      root.firebase.initializeApp(root.FIREBASE_CONFIG);
-    }
-  } catch (e) {}
+  function prewarmFirebaseAuth(fb) {
+    if (!fb) return;
+    try {
+      if (fb.apps && !fb.apps.length && root.FIREBASE_CONFIG) {
+        fb.initializeApp(root.FIREBASE_CONFIG);
+      }
+      if (typeof fb.auth === 'function') {
+        var auth = fb.auth();
+        var d = auth && auth._delegate;
+        if (d && d._popupRedirectResolver && typeof d._popupRedirectResolver._initialize === 'function') {
+          Promise.resolve(d._popupRedirectResolver._initialize(d)).catch(function () {});
+        }
+      }
+    } catch (e) {}
+  }
+
+  root.prewarmReaderFirebaseAuth = prewarmFirebaseAuth;
+  prewarmFirebaseAuth(root.firebase);
 })(typeof window !== 'undefined' ? window : globalThis);
