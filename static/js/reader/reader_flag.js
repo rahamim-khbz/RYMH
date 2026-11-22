@@ -9,8 +9,7 @@
   var EMU_STORAGE_KEY = 'ih_reader_emulator_url';
   var OAUTH_PENDING_KEY = 'ih_reader_oauth_pending';
   var AUTHORIZED_REDIRECT_URIS = [
-    'https://rahamim-khbz.github.io/RYMH/reader.html',
-    'https://rahamim-khbz.github.io/RYMH/reader-flow.html'
+    'https://rahamim-khbz.github.io/RYMH/reader.html'
   ];
   var VALID_KINDS = ['word', 'missing', 'format', 'footnote', 'translation'];
   var VALID_TARGETS = ['line', 'translation'];
