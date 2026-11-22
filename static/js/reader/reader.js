@@ -540,17 +540,58 @@
     }
   }
 
-  // ---- hover highlighting (NEVER scrolls another pane) ----
-  function highlightLineSafe(pageIdStr, lineId, active) {
+  // ---- hover & inspect highlighting ----
+  function highlightLineSafe(pageIdStr, lineId, active, className) {
     if (!lineId) return;
+    var cls = className || 'is-hover';
     var lines = streamEl.querySelectorAll('.rline[data-line-id]');
     for (var i = 0; i < lines.length; i++) {
       if (lines[i].getAttribute('data-line-id') === lineId &&
           (!pageIdStr || lines[i].getAttribute('data-page') === pageIdStr)) {
-        lines[i].classList.toggle('is-hover', !!active);
+        lines[i].classList.toggle(cls, !!active);
       }
     }
-    if (scanPane) scanPane.highlight(pageIdStr, lineId, null, !!active);
+    if (scanPane) scanPane.highlight(pageIdStr, lineId, null, !!active, cls);
+  }
+
+  function setInspectHighlight(pageIdStr, lineId) {
+    var prevText = streamEl.querySelectorAll('.rline.is-inspecting');
+    for (var i = 0; i < prevText.length; i++) prevText[i].classList.remove('is-inspecting');
+    if (scanTrackEl) {
+      var prevScan = scanTrackEl.querySelectorAll('.scan-line-box.is-inspecting');
+      for (var j = 0; j < prevScan.length; j++) prevScan[j].classList.remove('is-inspecting');
+    }
+    if (lineId) {
+      highlightLineSafe(pageIdStr, lineId, true, 'is-inspecting');
+    }
+  }
+
+  function scrollLineForInspect(pageIdStr, lineId, drawerHeightPx) {
+    if (!textPaneEl || !streamEl || !lineId) return;
+    var lines = streamEl.querySelectorAll('.rline[data-line-id]');
+    var target = null;
+    for (var i = 0; i < lines.length; i++) {
+      if (lines[i].getAttribute('data-line-id') === lineId &&
+          (!pageIdStr || lines[i].getAttribute('data-page') === pageIdStr)) {
+        target = lines[i];
+        break;
+      }
+    }
+    if (!target) return;
+    var paneRect = textPaneEl.getBoundingClientRect();
+    var lineRect = target.getBoundingClientRect();
+    var drawerH = (typeof drawerHeightPx === 'number' && drawerHeightPx > 0)
+      ? drawerHeightPx
+      : (function () {
+          var d = document.getElementById('microDrawer');
+          return d && d.classList.contains('open') ? (d.getBoundingClientRect().height || 0) : 0;
+        })();
+    var visibleH = Math.max(80, paneRect.height - drawerH);
+    var relTop = lineRect.top - paneRect.top;
+    var desiredTop = Math.max(24, (visibleH - lineRect.height) * 0.45);
+    if (relTop < 20 || relTop + lineRect.height > visibleH - 16) {
+      textPaneEl.scrollTop += (relTop - desiredTop);
+    }
   }
 
   function handleHoverPair(pageIdStr, lineId, paraPid, active) {
@@ -938,8 +979,17 @@
         streamEl: streamEl,
         inertEl: readerShell,
         getPageData: getPageData,
+        getCachedPage: getCachedPage,
         getCurrentPage: function () { return currentN; },
+        getTotalPages: function () { return total; },
         getLineContext: getLineContext,
+        getScanImage: function (n) { return scanPane && scanPane.getImageEl ? scanPane.getImageEl(n) : null; },
+        onInspectHighlight: setInspectHighlight,
+        scrollLineForInspect: scrollLineForInspect,
+        onInspectOpenChange: function (open) {
+          if (readerShell) readerShell.classList.toggle('micro-open', !!open);
+        },
+        goToPage: go,
         config: window.READER_FLAG_CONFIG || null
       });
     }
@@ -998,6 +1048,7 @@
         scanTabBtn: document.getElementById('mobileTabScan'),
         isBlocked: function () {
           return (window.FootnoteDrawer && window.FootnoteDrawer.isOpen && window.FootnoteDrawer.isOpen()) ||
+                 (window.MicroView && window.MicroView.isOpen && window.MicroView.isOpen()) ||
                  !!(grid && grid.open);
         },
         onSwipeStateChange: function (swiping) {
@@ -1022,6 +1073,7 @@
       return Promise.all(initialWanted.map(function (n) { return getPageData(n); })).then(function () {
         applyWindowSync(startN);
         if (startN > 1) {
+          holdBar = Date.now() + 700;
           syncController.scrollToPage('text', startN);
         } else {
           syncController.syncFromPane('text');
@@ -1043,6 +1095,8 @@
     getScanPane: function () { return scanPane; },
     getMobilePager: function () { return mobilePager; },
     getPageData: getPageData,
+    getCachedPage: getCachedPage,
+    getTotalPages: function () { return total; },
     highlightLine: highlightLineSafe
   };
 

@@ -26,13 +26,26 @@
     streamEl: null,
     inertEl: null,
     getPageData: null,
+    getCachedPage: null,
     getCurrentPage: null,
+    getTotalPages: null,
     getLineContext: null,
+    getScanImage: null,
+    onInspectHighlight: null,
+    scrollLineForInspect: null,
+    onInspectOpenChange: null,
+    goToPage: null,
     config: {},
     memorySession: null,
     activeTarget: null,
     triggerEl: null,
     ctxTarget: null,
+    localPageCache: {},
+    inspectPageCache: {},
+    inspectScanImgCache: {},
+    inspectPageN: 1,
+    pendingInspectSubmit: null,
+    inspectStatusTimer: null,
     dom: {}
   };
 
@@ -147,7 +160,7 @@
   })();
 
 
-  var EN_UI = {"הצעת תיקון לטקסט": "Suggest a text correction", "סגור חלון דיווח": "Close dialog", "התחבר עם Google": "Sign in with Google", "ההתחברות נכשלה": "Sign-in failed", "התנתק": "Sign out", "בחירת שורה או הערה בעמוד": "Choose a line or note on this page", "סוג הדיווח": "Issue type", "טעות במילה": "Wrong word", "מילה חסרה / מיותרת": "Missing / extra word", "עיצוב / הדגשה": "Formatting / bold", "הערת שוליים": "Footnote", "תרגום": "Translation", "יעד": "Target", "טקסט עברי / הערה": "Hebrew text / note", "הטקסט המוצע": "Suggested text", "B": "B", "הדגשה": "Bold", "הערה / הסבר (אופציונלי)": "Note / explanation (optional)", "ביטול": "Cancel", "שלח הצעה": "Submit suggestion", "שולח הצעה…": "Sending…", "ההצעה נשלחה בהצלחה ותיבדק על ידי העורך.": "Sent! The editor will review your suggestion.", "השליחה נכשלה": "Sending failed", "יש להתחבר עם Google כדי לשלוח הצעות תיקון (ללא דרישת הרשאת עורך).": "Sign in with Google to send corrections (no editor access needed).", "בחר שורה": "Choose a line", "הזן הצעת תיקון (אופציונלי)": "Enter a suggested correction (optional)", "הקטע ארוך מ-1000 תווים — הזן כאן את התיקון המוצע בלבד": "Passage exceeds 1000 characters — enter only the corrected portion", "יש להתחבר עם חשבון Google מאומת כדי לשלוח הצעת תיקון.": "Sign in with a verified Google account to send a correction.", "כתובת מסד הנתונים (או emulator) אינה מוגדרת.": "Database URL is not configured.", "נדרש חשבון Google עם דוא\"ל מאומת.": "A Google account with a verified email is required.", "שגיאה בהתחברות": "Sign-in error", "חיבור Google אינו זמין ללא הגדרת Firebase Auth.": "Google sign-in is unavailable (Firebase Auth not configured).", "חשבון ה-Google אינו מאומת.": "This Google account is not verified.", "התחברות Google בוטלה.": "Google sign-in was cancelled.", "הדפדפן חסם את חלון ההתחברות של Google. אפשרו חלונות קופצים ונסו שוב.": "Your browser blocked the Google sign-in popup. Allow popups for this site and try again.", "האתר אינו מופיע ברשימת הדומיינים המורשים ב-Firebase.": "This site is not on the Firebase authorized-domains list yet.", "התחברות עם Google אינה מופעלת בפרויקט זה.": "Google sign-in is not enabled for this Firebase project.", "המפתח של Firebase מורשה רק עבור הדומיין הציבורי (rahamim-khbz.github.io).": "Google sign-in is only authorized on the live site (rahamim-khbz.github.io), not this local address.", "הטקסט המוצע ארוך מ-1000 תווים": "Suggested text exceeds 1000 characters", "ההערה ארוכה מ-1000 תווים": "Note exceeds 1000 characters", "מזהה משתמש (UID) לא תקין": "Invalid user ID (UID)", "מספר עמוד לא תקין": "Invalid page number", "מזהה שורה חסר או לא תקין": "Missing or invalid line ID", "סוג דיווח לא תקין": "Invalid issue type", "יעד דיווח לא תקין": "Invalid target", "לא ניתן ליצור מזהה הצעה תקין": "Could not create a valid suggestion ID", "מספר פסקה לא תקין": "Invalid paragraph number", "הסיבה ארוכה מ-500 תווים": "Reason exceeds 500 characters", "Fetch API אינו זמין בסביבה זו.": "Fetch API is not available in this environment."};
+  var EN_UI = {"הצעת תיקון לטקסט": "Suggest a text correction", "סגור חלון דיווח": "Close dialog", "התחבר עם Google": "Sign in with Google", "ההתחברות נכשלה": "Sign-in failed", "התנתק": "Sign out", "בחירת שורה או הערה בעמוד": "Choose a line or note on this page", "סוג הדיווח": "Issue type", "טעות במילה": "Wrong word", "מילה חסרה / מיותרת": "Missing / extra word", "עיצוב / הדגשה": "Formatting / bold", "הערת שוליים": "Footnote", "תרגום": "Translation", "יעד": "Target", "טקסט עברי / הערה": "Hebrew text / note", "הטקסט המוצע": "Suggested text", "B": "B", "הדגשה": "Bold", "הערה / הסבר (אופציונלי)": "Note / explanation (optional)", "ביטול": "Cancel", "שלח הצעה": "Submit suggestion", "שולח הצעה…": "Sending…", "ההצעה נשלחה בהצלחה ותיבדק על ידי העורך.": "Sent! The editor will review your suggestion.", "השליחה נכשלה": "Sending failed", "יש להתחבר עם Google כדי לשלוח הצעות תיקון (ללא דרישת הרשאת עורך).": "Sign in with Google to send corrections (no editor access needed).", "בחר שורה": "Choose a line", "הזן הצעת תיקון (אופציונלי)": "Enter a suggested correction (optional)", "הקטע ארוך מ-1000 תווים — הזן כאן את התיקון המוצע בלבד": "Passage exceeds 1000 characters — enter only the corrected portion", "יש להתחבר עם חשבון Google מאומת כדי לשלוח הצעת תיקון.": "Sign in with a verified Google account to send a correction.", "כתובת מסד הנתונים (או emulator) אינה מוגדרת.": "Database URL is not configured.", "נדרש חשבון Google עם דוא\"ל מאומת.": "A Google account with a verified email is required.", "שגיאה בהתחברות": "Sign-in error", "חיבור Google אינו זמין ללא הגדרת Firebase Auth.": "Google sign-in is unavailable (Firebase Auth not configured).", "חשבון ה-Google אינו מאומת.": "This Google account is not verified.", "התחברות Google בוטלה.": "Google sign-in was cancelled.", "הדפדפן חסם את חלון ההתחברות של Google. אפשרו חלונות קופצים ונסו שוב.": "Your browser blocked the Google sign-in popup. Allow popups for this site and try again.", "האתר אינו מופיע ברשימת הדומיינים המורשים ב-Firebase.": "This site is not on the Firebase authorized-domains list yet.", "התחברות עם Google אינה מופעלת בפרויקט זה.": "Google sign-in is not enabled for this Firebase project.", "המפתח של Firebase מורשה רק עבור הדומיין הציבורי (rahamim-khbz.github.io).": "Google sign-in is only authorized on the live site (rahamim-khbz.github.io), not this local address.", "הטקסט המוצע ארוך מ-1000 תווים": "Suggested text exceeds 1000 characters", "ההערה ארוכה מ-1000 תווים": "Note exceeds 1000 characters", "מזהה משתמש (UID) לא תקין": "Invalid user ID (UID)", "מספר עמוד לא תקין": "Invalid page number", "מזהה שורה חסר או לא תקין": "Missing or invalid line ID", "סוג דיווח לא תקין": "Invalid issue type", "יעד דיווח לא תקין": "Invalid target", "לא ניתן ליצור מזהה הצעה תקין": "Could not create a valid suggestion ID", "מספר פסקה לא תקין": "Invalid paragraph number", "הסיבה ארוכה מ-500 תווים": "Reason exceeds 500 characters", "Fetch API אינו זמין בסביבה זו.": "Fetch API is not available in this environment.", "בדיקת שורה": "Inspect", "בדיקת שורה (תצוגת 3 שורות)": "Inspect line (3-line view)", "בדיקת 3 שורות": "3-Line Inspector", "בדיקת שורה ממוקדת": "Focused Line Inspection", "הוסף הערה": "Flag / Note", "סגור (Esc)": "Close (Esc)", "הקודם (↑)": "Prev (↑)", "הבא (↓)": "Next (↓)", "שלח והמשך (Enter)": "Submit & next (Enter)", "התחבר עם Google לשליחה": "Sign in with Google to submit", "✓ נשלח!": "✓ Sent!"};
   function T(str) { return (root.RYMH_LANG === 'en' && typeof str === 'string' && EN_UI[str]) || str; }
   function isEnLang() { return root.RYMH_LANG === 'en'; }
 
@@ -261,14 +274,23 @@
     return nextVal;
   }
 
-  function makeSuggestionId(uid, nowMs, randStr) {
+  function makeSuggestionId(uid, lineIdOrNowMs, randStr) {
     var cleanUid = String(uid == null ? '' : uid).trim();
     if (!cleanUid || !/^[A-Za-z0-9_-]{1,62}$/.test(cleanUid)) return '';
-    var ts = (typeof nowMs === 'number' && isFinite(nowMs) ? Math.floor(nowMs) : Date.now()).toString(36);
+    var maxSuffix = 64 - cleanUid.length - 1;
+    if (typeof lineIdOrNowMs === 'string') {
+      var cleanLineId = normalizeLineId(lineIdOrNowMs);
+      if (cleanLineId) {
+        var compact = cleanLineId.length <= maxSuffix ? cleanLineId : cleanLineId.replace(/-/g, '');
+        var lineSuffix = compact.length <= maxSuffix ? compact : compact.slice(-maxSuffix);
+        if (!lineSuffix) lineSuffix = '0';
+        return cleanUid + '_' + lineSuffix;
+      }
+    }
+    var ts = (typeof lineIdOrNowMs === 'number' && isFinite(lineIdOrNowMs) ? Math.floor(lineIdOrNowMs) : Date.now()).toString(36);
     var rnd = (randStr != null ? String(randStr) : Math.random().toString(36).slice(2, 8))
       .replace(/[^A-Za-z0-9_-]/g, '');
     if (!rnd) rnd = '0';
-    var maxSuffix = 64 - cleanUid.length - 1;
     var rawSuffix = maxSuffix >= ts.length + 2 ? (ts + '_' + rnd) : (ts + rnd);
     var suffix = rawSuffix.slice(0, maxSuffix);
     if (!suffix) suffix = '0';
@@ -299,7 +321,7 @@
     }
 
     var createdAt = typeof o.createdAt === 'number' && isFinite(o.createdAt) ? Math.floor(o.createdAt) : Date.now();
-    var suggestionId = makeSuggestionId(uid, createdAt, o.randStr);
+    var suggestionId = makeSuggestionId(uid, lineId);
     if (!suggestionId || !SAFE_ID_RE.test(suggestionId) || suggestionId.indexOf(uid + '_') !== 0) {
       return { ok: false, error: 'לא ניתן ליצור מזהה הצעה תקין' };
     }
@@ -676,8 +698,31 @@
   function startGoogleOAuthRedirect(clientId, redirectUri) {
     var stateToken = randomHex(16);
     var nonce = randomHex(16);
-    var reopenMode = isOpen() ? 'flag' : '';
-    var savedTarget = isOpen() ? (state.activeTarget || null) : null;
+    var reopenMode = '';
+    var savedTarget = null;
+    if (isOpen()) {
+      reopenMode = 'flag';
+      savedTarget = state.activeTarget || null;
+    } else if (root.MicroView && typeof root.MicroView.isOpen === 'function' && root.MicroView.isOpen()) {
+      reopenMode = 'inspect';
+      var draftInfo = root.MicroView && typeof root.MicroView.getCurrentDraft === 'function'
+        ? root.MicroView.getCurrentDraft()
+        : null;
+      if (draftInfo && draftInfo.line) {
+        savedTarget = {
+          pageId: draftInfo.line.pageId,
+          pageN: draftInfo.line.pageN,
+          paraPid: draftInfo.line.paraPid,
+          paraIndex: draftInfo.line.paraIndex,
+          lineId: draftInfo.line.line_id,
+          lineText: draftInfo.line.origText != null ? draftInfo.line.origText : draftInfo.line.text,
+          draftText: draftInfo.draftText,
+          isFootnote: draftInfo.line.isFootnote,
+          noteId: draftInfo.line.noteId,
+          marker: draftInfo.line.marker
+        };
+      }
+    }
     var curPageN = state.getCurrentPage ? state.getCurrentPage() : null;
     var returnHash = (typeof window !== 'undefined' && window.location && window.location.hash) ||
       (curPageN ? ('#' + normalizePageId(curPageN)) : '');
@@ -707,11 +752,19 @@
     capturedOAuthCallback = null;
 
     var pending = cb.pending;
-    if (cb.error) return;
-    if (!cb.idToken || !pending || !pending.state || cb.state !== pending.state) return;
-    if (typeof pending.ts !== 'number' || (Date.now() - pending.ts) > 10 * 60 * 1000) return;
+    if (cb.error) {
+      return;
+    }
+    if (!cb.idToken || !pending || !pending.state || cb.state !== pending.state) {
+      return;
+    }
+    if (typeof pending.ts !== 'number' || (Date.now() - pending.ts) > 10 * 60 * 1000) {
+      return;
+    }
     var claims = parseJwtPayload(cb.idToken);
-    if (!claims || !pending.nonce || claims.nonce !== pending.nonce) return;
+    if (!claims || !pending.nonce || claims.nonce !== pending.nonce) {
+      return;
+    }
 
     var g = typeof window !== 'undefined' ? window : {};
     var fb = g.firebase;
@@ -734,6 +787,10 @@
       if (pending.reopenMode === 'flag') {
         setTimeout(function () {
           openForTarget(pending.activeTarget || null, state.dom.barBtn || null);
+        }, 150);
+      } else if (pending.reopenMode === 'inspect' && pending.activeTarget) {
+        setTimeout(function () {
+          openInspectorForTarget(pending.activeTarget, state.dom.barBtn || null);
         }, 150);
       }
     } catch (e) {}
@@ -909,6 +966,45 @@
     return null;
   }
 
+  function cachePageData(data) {
+    if (!data || typeof data !== 'object') return;
+    var pid = normalizePageId(data.page || data.n);
+    if (pid) state.localPageCache[pid] = data;
+  }
+
+  function getSyncPageData(pageIdOrN) {
+    var pid = normalizePageId(pageIdOrN);
+    var n = pid ? parseInt(pid.slice(5), 10) : (typeof pageIdOrN === 'number' ? pageIdOrN : null);
+    if (typeof state.getCachedPage === 'function' && n) {
+      var cached = state.getCachedPage(n);
+      if (cached) {
+        cachePageData(cached);
+        return cached;
+      }
+    }
+    if (pid && state.localPageCache[pid]) return state.localPageCache[pid];
+    if (typeof state.getPageData === 'function') {
+      var res = state.getPageData(n || pid || pageIdOrN);
+      if (res && typeof res.then !== 'function') {
+        cachePageData(res);
+        return res;
+      }
+    }
+    return null;
+  }
+
+  function loadPageDataAsync(pageIdOrN) {
+    var sync = getSyncPageData(pageIdOrN);
+    if (sync) return Promise.resolve(sync);
+    if (typeof state.getPageData !== 'function') return Promise.resolve(null);
+    return Promise.resolve(state.getPageData(pageIdOrN)).then(function (data) {
+      if (data) cachePageData(data);
+      return data || null;
+    }, function () {
+      return null;
+    });
+  }
+
   function resolveContextFromElement(targetEl) {
     if (!targetEl) return null;
     if (typeof state.getLineContext === 'function') {
@@ -922,9 +1018,7 @@
     var lineId = normalizeLineId(rline.getAttribute('data-line-id'));
     var paraPid = rline.getAttribute('data-para') || '';
     var pageN = pageId ? parseInt(pageId.slice(5), 10) : null;
-    var pageData = typeof state.getPageData === 'function' && (pageN || pageId)
-      ? state.getPageData(pageN || pageId)
-      : null;
+    var pageData = (pageN || pageId) ? getSyncPageData(pageN || pageId) : null;
     var found = findLineInPageData(pageData, lineId);
     return {
       pageId: pageId,
@@ -940,8 +1034,7 @@
   }
 
   function collectPageLineOptions(pageIdOrN) {
-    if (typeof state.getPageData !== 'function') return [];
-    var pageData = state.getPageData(pageIdOrN);
+    var pageData = getSyncPageData(pageIdOrN);
     if (!pageData) return [];
     var out = [];
     var paras = Array.isArray(pageData.paragraphs) ? pageData.paragraphs : [];
@@ -1034,8 +1127,8 @@
     var paraPid = ctx.paraPid || null;
     var paraIndex = ctx.paraIndex;
 
-    if ((!lineText || paraIndex == null) && typeof state.getPageData === 'function' && (pageN || pageId)) {
-      var pData = state.getPageData(pageN || pageId);
+    if ((!lineText || paraIndex == null) && (pageN || pageId)) {
+      var pData = getSyncPageData(pageN || pageId);
       var lookup = findLineInPageData(pData, lineId);
       if (lookup) {
         if (!lineText) lineText = lookup.lineText;
@@ -1065,6 +1158,7 @@
       paraIndex: parseParaIndex(paraPid, paraIndex),
       lineId: lineId || '',
       lineText: lineText,
+      draftText: typeof ctx.draftText === 'string' ? ctx.draftText : null,
       isFootnote: isFn,
       noteId: normalizeLineId(ctx.noteId || (noteObj && noteObj.id)) || null,
       marker: ctx.marker || (noteObj && noteObj.marker) || '',
@@ -1094,23 +1188,103 @@
     }
   }
 
+  function setInspectStatus(stateName, text) {
+    if (state.inspectStatusTimer) {
+      clearTimeout(state.inspectStatusTimer);
+      state.inspectStatusTimer = null;
+    }
+    var st = state.dom.microStatusBadge;
+    if (!st) return;
+    if (!text) {
+      st.hidden = true;
+      st.textContent = '';
+      delete st.dataset.state;
+      return;
+    }
+    st.dataset.state = stateName || 'info';
+    st.textContent = T(text);
+    st.hidden = false;
+    if (stateName === 'success' && typeof setTimeout === 'function') {
+      state.inspectStatusTimer = setTimeout(function () {
+        if (state.dom.microStatusBadge && state.dom.microStatusBadge.dataset.state === 'success') {
+          setInspectStatus('', '');
+        }
+      }, 2500);
+    }
+  }
+
+  function attachSignInClick(btn, onResult) {
+    btn.addEventListener('click', function () {
+      state.signInAttemptId = (state.signInAttemptId || 0) + 1;
+      var myAttempt = state.signInAttemptId;
+      btn.disabled = true;
+
+      var resetTimer = null;
+      var onWinFocus = null;
+      function cleanupUnlock() {
+        if (resetTimer) {
+          clearTimeout(resetTimer);
+          resetTimer = null;
+        }
+        if (onWinFocus && typeof window !== 'undefined' && typeof window.removeEventListener === 'function') {
+          window.removeEventListener('focus', onWinFocus);
+          onWinFocus = null;
+        }
+      }
+      function unlockIfCurrent() {
+        if (myAttempt === state.signInAttemptId) btn.disabled = false;
+      }
+      if (typeof setTimeout === 'function') {
+        resetTimer = setTimeout(unlockIfCurrent, 1200);
+      }
+      if (typeof window !== 'undefined' && typeof window.addEventListener === 'function') {
+        onWinFocus = function () { unlockIfCurrent(); };
+        window.addEventListener('focus', onWinFocus);
+      }
+
+      // Call synchronously within click gesture for popup sign-in
+      signInWithGoogle().then(function (res) {
+        cleanupUnlock();
+        if (myAttempt !== state.signInAttemptId) return;
+        btn.disabled = false;
+        refreshAuthUi();
+        if (typeof onResult === 'function') onResult(res);
+      });
+    });
+  }
+
   function refreshAuthUi() {
     var sess = getAuthSession();
     var signedIn = isGoogleVerifiedSession(sess);
     if (state.dom.barBtn) {
       state.dom.barBtn.setAttribute('data-signed-in', signedIn ? 'true' : 'false');
     }
-    if (!state.dom.authInfo) return;
-    if (signedIn) {
-      state.dom.authInfo.textContent = (isEnLang() ? 'Signed in: ' : 'מחובר: ') + (sess.displayName || sess.email || sess.uid);
-      if (state.dom.signInBtn) state.dom.signInBtn.hidden = true;
-      if (state.dom.signOutBtn) state.dom.signOutBtn.hidden = false;
-      if (state.dom.submitBtn) state.dom.submitBtn.disabled = false;
-    } else {
-      state.dom.authInfo.textContent = T('יש להתחבר עם Google כדי לשלוח הצעות תיקון (ללא דרישת הרשאת עורך).');
-      if (state.dom.signInBtn) state.dom.signInBtn.hidden = false;
-      if (state.dom.signOutBtn) state.dom.signOutBtn.hidden = true;
-      if (state.dom.submitBtn) state.dom.submitBtn.disabled = true;
+    if (state.dom.authInfo) {
+      if (signedIn) {
+        state.dom.authInfo.textContent = (isEnLang() ? 'Signed in: ' : 'מחובר: ') + (sess.displayName || sess.email || sess.uid);
+        if (state.dom.signInBtn) state.dom.signInBtn.hidden = true;
+        if (state.dom.signOutBtn) state.dom.signOutBtn.hidden = false;
+        if (state.dom.submitBtn) state.dom.submitBtn.disabled = false;
+      } else {
+        state.dom.authInfo.textContent = T('יש להתחבר עם Google כדי לשלוח הצעות תיקון (ללא דרישת הרשאת עורך).');
+        if (state.dom.signInBtn) state.dom.signInBtn.hidden = false;
+        if (state.dom.signOutBtn) state.dom.signOutBtn.hidden = true;
+        if (state.dom.submitBtn) state.dom.submitBtn.disabled = true;
+      }
+    }
+    if (state.dom.microAuthInfo) {
+      if (signedIn) {
+        state.dom.microAuthInfo.textContent = (isEnLang() ? 'Signed in: ' : 'מחובר: ') + (sess.displayName || sess.email || sess.uid);
+        if (state.dom.microSignInBtn) state.dom.microSignInBtn.hidden = true;
+      } else {
+        state.dom.microAuthInfo.textContent = '';
+        if (state.dom.microSignInBtn) state.dom.microSignInBtn.hidden = false;
+      }
+    }
+    if (signedIn && state.pendingInspectSubmit) {
+      var pending = state.pendingInspectSubmit;
+      state.pendingInspectSubmit = null;
+      submitInspectEdit(pending.pageId, pending.line, pending.newText);
     }
   }
 
@@ -1153,12 +1327,13 @@
 
     dom.kindSelect.value = t.kind && VALID_KINDS.indexOf(t.kind) !== -1 ? t.kind : (t.isFootnote ? 'footnote' : 'word');
     dom.targetSelect.value = t.target && VALID_TARGETS.indexOf(t.target) !== -1 ? t.target : 'line';
-    if (t.lineText && t.lineText.length <= 1000) {
-      dom.proposedInput.value = t.lineText;
+    var initialText = t.draftText != null ? t.draftText : t.lineText;
+    if (initialText && initialText.length <= 1000) {
+      dom.proposedInput.value = initialText;
       dom.proposedInput.placeholder = '';
     } else {
       dom.proposedInput.value = '';
-      dom.proposedInput.placeholder = t.lineText
+      dom.proposedInput.placeholder = initialText
         ? T('הקטע ארוך מ-1000 תווים — הזן כאן את התיקון המוצע בלבד')
         : T('הזן הצעת תיקון (אופציונלי)');
     }
@@ -1167,11 +1342,465 @@
     refreshAuthUi();
   }
 
+  function buildInspectPageModel(rawPage) {
+    if (!rawPage) return null;
+    var pid = normalizePageId(rawPage.page || rawPage.n);
+    if (!pid) return null;
+    if (state.inspectPageCache[pid]) return state.inspectPageCache[pid];
+
+    var pNum = rawPage.n || parseInt(pid.slice(5), 10);
+    var lines = [];
+    var mainCounter = 1;
+    var paras = Array.isArray(rawPage.paragraphs) ? rawPage.paragraphs : [];
+    for (var pi = 0; pi < paras.length; pi++) {
+      var pLines = Array.isArray(paras[pi].lines) ? paras[pi].lines : [];
+      for (var li = 0; li < pLines.length; li++) {
+        var pl = pLines[li];
+        var cid = normalizeLineId(pl.id);
+        if (!cid) continue;
+        var box = Array.isArray(pl.box) && pl.box.length === 4 ? pl.box : null;
+        lines.push({
+          line_id: cid,
+          pageId: pid,
+          pageN: pNum,
+          text: pl.t || '',
+          origText: pl.t || '',
+          coords: box ? { x: box[0], y: box[1], width: box[2], height: box[3] } : null,
+          paraPid: paras[pi].pid || null,
+          paraIndex: pi <= 99 ? pi : null,
+          isFootnote: false,
+          noteId: null,
+          marker: '',
+          displayIdx: mainCounter++
+        });
+      }
+    }
+
+    var notes = Array.isArray(rawPage.notes) ? rawPage.notes : [];
+    for (var ni = 0; ni < notes.length; ni++) {
+      var nt = notes[ni];
+      var nid = normalizeLineId(nt.id);
+      var noteBoxMap = {};
+      var ntLines = Array.isArray(nt.lines) ? nt.lines : [];
+      for (var nbi = 0; nbi < ntLines.length; nbi++) {
+        var nbid = normalizeLineId(ntLines[nbi].id);
+        if (nbid && Array.isArray(ntLines[nbi].box) && ntLines[nbi].box.length === 4) {
+          noteBoxMap[nbid] = ntLines[nbi].box;
+        }
+      }
+      var noteCounter = 1;
+      var nParas = Array.isArray(nt.paragraphs) ? nt.paragraphs : [];
+      if (nParas.length) {
+        for (var npi = 0; npi < nParas.length; npi++) {
+          var nLines = Array.isArray(nParas[npi].lines) ? nParas[npi].lines : [];
+          for (var nli = 0; nli < nLines.length; nli++) {
+            var nl = nLines[nli];
+            var nlid = normalizeLineId(nl.id);
+            if (!nlid) continue;
+            var nbox = (Array.isArray(nl.box) && nl.box.length === 4 ? nl.box : null) || noteBoxMap[nlid] || null;
+            lines.push({
+              line_id: nlid,
+              pageId: pid,
+              pageN: pNum,
+              text: nl.t || '',
+              origText: nl.t || '',
+              coords: nbox ? { x: nbox[0], y: nbox[1], width: nbox[2], height: nbox[3] } : null,
+              paraPid: nParas[npi].pid || null,
+              paraIndex: npi <= 99 ? npi : null,
+              isFootnote: true,
+              noteId: nid || nlid,
+              marker: nt.marker || '',
+              displayIdx: noteCounter++
+            });
+          }
+        }
+      } else if (nid) {
+        var fbBox = noteBoxMap[nid] || null;
+        lines.push({
+          line_id: nid,
+          pageId: pid,
+          pageN: pNum,
+          text: nt.t || '',
+          origText: nt.t || '',
+          coords: fbBox ? { x: fbBox[0], y: fbBox[1], width: fbBox[2], height: fbBox[3] } : null,
+          paraPid: null,
+          paraIndex: ni <= 99 ? ni : null,
+          isFootnote: true,
+          noteId: nid,
+          marker: nt.marker || '',
+          displayIdx: 1
+        });
+      }
+    }
+
+    var model = {
+      pageId: pid,
+      pageN: pNum,
+      imageWidth: rawPage.w || 2550,
+      imageHeight: rawPage.h || 3300,
+      img: rawPage.img || '',
+      webp: rawPage.webp || '',
+      lines: lines
+    };
+    state.inspectPageCache[pid] = model;
+    return model;
+  }
+
+  function submitInspectEdit(pageId, line, newText) {
+    if (!line) return;
+    setInspectStatus('info', 'שולח הצעה…');
+    submitFlag({
+      pageId: pageId || line.pageId,
+      lineId: line.line_id,
+      kind: line.isFootnote ? 'footnote' : 'word',
+      target: 'line',
+      para: line.paraIndex,
+      proposedText: newText
+    }).then(function (res) {
+      refreshAuthUi();
+      if (res.ok) {
+        line.text = newText;
+        line.origText = newText;
+        setInspectStatus('success', '✓ נשלח!');
+      } else {
+        setInspectStatus('error', res.error || 'השליחה נכשלה');
+      }
+    });
+  }
+
+  function attachCropImageLoad(img, onLoad) {
+    if (!img || typeof onLoad !== 'function') return;
+    if (('complete' in img) && img.complete && img.naturalWidth > 0) return;
+    img.__ihOnLoad = onLoad;
+    if (!img.__ihLoadBound && typeof img.addEventListener === 'function') {
+      img.__ihLoadBound = true;
+      var fire = function () {
+        if (typeof img.__ihOnLoad === 'function') img.__ihOnLoad();
+      };
+      img.addEventListener('load', fire);
+    }
+  }
+
+  function getInspectorAdapter() {
+    var isEn = isEnLang();
+    return {
+      mode: 'suggest',
+      skipPasscode: true,
+      scrollRowOnClose: false,
+      startLabel: isEn ? '— (Start of page) —' : '— (תחילת עמוד) —',
+      endLabel: isEn ? '— (End of page) —' : '— (סוף עמוד) —',
+      isSameSection: function (a, b) {
+        if (!a || !b) return false;
+        if (Boolean(a.isFootnote) !== Boolean(b.isFootnote)) return false;
+        if (a.isFootnote && a.noteId !== b.noteId) return false;
+        return true;
+      },
+      formatLineLabel: function (line, activeIdx, totalLines, pageData) {
+        var prefix = isEn ? ('Page ' + pageData.pageN + ' · ') : ('עמוד ' + pageData.pageN + ' · ');
+        if (line && line.isFootnote) {
+          var noteTag = isEn ? ('Note (' + (line.marker || '') + ') · ') : ('הערה (' + (line.marker || '') + ') · ');
+          prefix += noteTag;
+        }
+        return prefix + (isEn ? ('Line ' + (activeIdx + 1) + ' of ' + totalLines) : ('שורה ' + (activeIdx + 1) + ' מתוך ' + totalLines));
+      },
+      getCurrentPageId: function () {
+        return normalizePageId(state.inspectPageN) || 'page-01';
+      },
+      getPageData: function () {
+        var pid = normalizePageId(state.inspectPageN) || 'page-01';
+        if (state.inspectPageCache[pid]) return state.inspectPageCache[pid];
+        var raw = getSyncPageData(state.inspectPageN);
+        return raw ? buildInspectPageModel(raw) : null;
+      },
+      getScanImage: function (pageData, onLoad) {
+        if (!pageData) return null;
+        var img = typeof state.getScanImage === 'function' ? state.getScanImage(pageData.pageN) : null;
+        if (!img && (pageData.webp || pageData.img) && typeof Image === 'function') {
+          var key = pageData.pageId;
+          img = state.inspectScanImgCache[key];
+          if (!img) {
+            img = new Image();
+            img.decoding = 'async';
+            img.addEventListener('error', function () {
+              if (pageData.webp && img.getAttribute('src') === pageData.webp && pageData.img) {
+                img.src = pageData.img;
+              }
+            });
+            img.src = pageData.webp || pageData.img;
+            state.inspectScanImgCache[key] = img;
+          }
+        }
+        if (img) attachCropImageLoad(img, onLoad);
+        return img || null;
+      },
+      onSaveLine: function (line, newText, activeLineIdx, opts) {
+        var sess = getAuthSession();
+        if (!isGoogleVerifiedSession(sess)) {
+          if (opts && opts.allowCloseOnBlock) {
+            state.pendingInspectSubmit = null;
+            return { blocked: 'auth' };
+          }
+          state.pendingInspectSubmit = {
+            pageId: line.pageId || normalizePageId(state.inspectPageN),
+            line: line,
+            newText: newText
+          };
+          setInspectStatus('auth', 'התחבר עם Google לשליחה');
+          return { blocked: 'auth' };
+        }
+        state.pendingInspectSubmit = null;
+        submitInspectEdit(line.pageId || normalizePageId(state.inspectPageN), line, newText);
+        return { saved: true, markSubmitted: true };
+      },
+      onActiveLineChange: function (line, activeLineIdx, pageData) {
+        if (!line || !pageData) {
+          if (typeof state.onInspectHighlight === 'function') state.onInspectHighlight(null, null);
+          return;
+        }
+        state.lastLineCtx = {
+          pageId: pageData.pageId,
+          pageN: pageData.pageN,
+          paraPid: line.paraPid,
+          paraIndex: line.paraIndex,
+          lineId: line.line_id,
+          lineText: line.origText != null ? line.origText : line.text,
+          isFootnote: line.isFootnote,
+          noteId: line.noteId,
+          marker: line.marker
+        };
+        if (typeof state.onInspectHighlight === 'function') {
+          state.onInspectHighlight(pageData.pageId, line.line_id);
+        }
+        if (typeof state.scrollLineForInspect === 'function') {
+          var drawer = state.dom.microDrawer;
+          var doScroll = function () {
+            var h = drawer ? (drawer.getBoundingClientRect().height || 0) : 0;
+            state.scrollLineForInspect(pageData.pageId, line.line_id, h);
+          };
+          if (typeof requestAnimationFrame === 'function') requestAnimationFrame(doScroll);
+          else doScroll();
+        }
+      },
+      onOpenChange: function (open) {
+        if (!open) {
+          state.pendingInspectSubmit = null;
+          setInspectStatus('', '');
+        }
+        if (typeof state.onInspectOpenChange === 'function') {
+          state.onInspectOpenChange(open);
+        }
+      },
+      onCrossPageStep: function (direction, pageData) {
+        var curN = (pageData && pageData.pageN) || state.inspectPageN || 1;
+        var nextN = direction === 'prev' ? (curN - 1) : (curN + 1);
+        var totalP = typeof state.getTotalPages === 'function' ? state.getTotalPages() : 89;
+        if (nextN < 1 || nextN > totalP) return false;
+        state.inspectPageN = nextN;
+        var navPromise = typeof state.goToPage === 'function'
+          ? Promise.resolve(state.goToPage(nextN))
+          : Promise.resolve(true);
+        return navPromise.then(function () {
+          return loadPageDataAsync(nextN);
+        }).then(function (raw) {
+          if (!raw) return false;
+          buildInspectPageModel(raw);
+          return true;
+        }, function () {
+          return false;
+        });
+      }
+    };
+  }
+
+  function buildInspectorUi(mount) {
+    if (typeof document === 'undefined' || !root.MicroView) return;
+    if (document.getElementById('microDrawer')) {
+      root.MicroView.configure(getInspectorAdapter());
+      return;
+    }
+
+    var isEn = isEnLang();
+    var drawer = el('aside', 'micro-drawer reader-micro-drawer');
+    drawer.id = 'microDrawer';
+    drawer.setAttribute('dir', 'ltr');
+    drawer.setAttribute('role', 'region');
+    drawer.setAttribute('aria-labelledby', 'microDrawerTitle');
+
+    // Header
+    var header = el('div', 'drawer-header');
+    var metaGroup = el('div', 'micro-header-meta');
+    var titleStrong = el('strong', 'micro-drawer-title', 'בדיקת שורה ממוקדת');
+    titleStrong.id = 'microDrawerTitle';
+    var lineLabel = el('span', 'micro-line-label', '');
+    lineLabel.id = 'microLineLabel';
+    var statusBadge = el('span', 'micro-status-badge', '');
+    statusBadge.id = 'microStatusBadge';
+    statusBadge.setAttribute('role', 'status');
+    statusBadge.setAttribute('aria-live', 'polite');
+    statusBadge.hidden = true;
+    metaGroup.appendChild(titleStrong);
+    metaGroup.appendChild(lineLabel);
+    metaGroup.appendChild(statusBadge);
+
+    var ctrlGroup = el('div', 'micro-header-controls');
+    var fontCtrl = el('div', 'font-size-control');
+    fontCtrl.id = 'microFontControl';
+    var btnFontDec = el('button', 'btn btn-sm', 'A-');
+    btnFontDec.id = 'btnMicroFontDec';
+    btnFontDec.type = 'button';
+    btnFontDec.setAttribute('aria-label', isEn ? 'Decrease inspector font size' : 'הקטן גופן בבדיקה');
+    btnFontDec.title = isEn ? 'Decrease font size' : 'הקטן גופן';
+    var fontVal = el('span', 'font-size-val', '22px');
+    fontVal.id = 'microFontSizeDisplay';
+    var btnFontInc = el('button', 'btn btn-sm', 'A+');
+    btnFontInc.id = 'btnMicroFontInc';
+    btnFontInc.type = 'button';
+    btnFontInc.setAttribute('aria-label', isEn ? 'Increase inspector font size' : 'הגדל גופן בבדיקה');
+    btnFontInc.title = isEn ? 'Increase font size' : 'הגדל גופן';
+    fontCtrl.appendChild(btnFontDec);
+    fontCtrl.appendChild(fontVal);
+    fontCtrl.appendChild(btnFontInc);
+
+    var authWrap = el('div', 'micro-auth-wrap');
+    authWrap.id = 'microAuthWrap';
+    var microAuthInfo = el('span', 'micro-auth-info', '');
+    microAuthInfo.id = 'microAuthInfo';
+    var microSignInBtn = el('button', 'btn btn-sm micro-signin-btn', 'התחבר עם Google');
+    microSignInBtn.id = 'btnMicroSignIn';
+    microSignInBtn.type = 'button';
+    attachSignInClick(microSignInBtn, function (res) {
+      if (!res.ok && !res.cancelled) {
+        setInspectStatus('error', res.error || 'ההתחברות נכשלה');
+      }
+    });
+    authWrap.appendChild(microAuthInfo);
+    authWrap.appendChild(microSignInBtn);
+
+    var switchToFlagBtn = el('button', 'btn btn-sm micro-flag-switch-btn');
+    switchToFlagBtn.id = 'btnMicroOpenFlag';
+    switchToFlagBtn.type = 'button';
+    switchToFlagBtn.textContent = '⚑ ' + T('הוסף הערה');
+    switchToFlagBtn.addEventListener('click', function () {
+      var draftInfo = root.MicroView && typeof root.MicroView.getCurrentDraft === 'function'
+        ? root.MicroView.getCurrentDraft()
+        : null;
+      var line = draftInfo && draftInfo.line;
+      var draftText = draftInfo ? draftInfo.draftText : '';
+      closeInspector(false);
+      if (line) {
+        openForTarget({
+          pageId: line.pageId,
+          pageN: line.pageN,
+          paraPid: line.paraPid,
+          paraIndex: line.paraIndex,
+          lineId: line.line_id,
+          lineText: line.origText != null ? line.origText : line.text,
+          draftText: draftText,
+          isFootnote: line.isFootnote,
+          noteId: line.noteId,
+          marker: line.marker
+        }, state.dom.barBtn || null);
+      } else {
+        openForTarget(null, state.dom.barBtn || null);
+      }
+    });
+
+    var closeDrawerBtn = el('button', 'btn btn-sm micro-close-btn');
+    closeDrawerBtn.id = 'btnCloseDrawer';
+    closeDrawerBtn.type = 'button';
+    closeDrawerBtn.textContent = '✕ ' + T('סגור (Esc)');
+    closeDrawerBtn.title = T('סגור (Esc)');
+
+    ctrlGroup.appendChild(fontCtrl);
+    ctrlGroup.appendChild(authWrap);
+    ctrlGroup.appendChild(switchToFlagBtn);
+    ctrlGroup.appendChild(closeDrawerBtn);
+    header.appendChild(metaGroup);
+    header.appendChild(ctrlGroup);
+    drawer.appendChild(header);
+
+    // Content (Canvas 3-line crop + 3-line editor box)
+    var content = el('div', 'drawer-content');
+    var cropWrap = el('div', 'canvas-crop-wrapper');
+    var cropCanvas = document.createElement('canvas');
+    cropCanvas.id = 'cropCanvas';
+    cropWrap.appendChild(cropCanvas);
+    content.appendChild(cropWrap);
+
+    var editorBox = el('div', 'micro-editor-box');
+    editorBox.setAttribute('dir', 'rtl');
+    var prevDiv = el('div', 'micro-context-line');
+    prevDiv.id = 'microPrevLine';
+    var inputRow = el('div', 'micro-target-input-row');
+    var boldBtn = el('button', 'btn micro-bold-btn', 'B');
+    boldBtn.id = 'btnMicroBold';
+    boldBtn.type = 'button';
+    boldBtn.title = isEn ? 'Bold Ashurit (**word**) - Cmd+B / Ctrl+B' : 'הדגשת אשורית (**מילה**) - Cmd+B / Ctrl+B';
+    boldBtn.setAttribute('aria-label', T('הדגשה'));
+    var wordFlagBtn = el('button', 'btn btn-flag-word', '🚩 ?');
+    wordFlagBtn.id = 'btnMicroFlag';
+    wordFlagBtn.type = 'button';
+    wordFlagBtn.title = isEn ? 'Flag uncertain word (??word??) - Cmd+/ / Ctrl+/' : 'סמן מילה לבדיקה (??מילה??) - Cmd+/ / Ctrl+/';
+    wordFlagBtn.setAttribute('aria-label', isEn ? 'Flag uncertain word' : 'סמן מילה לבדיקה');
+    var targetInput = document.createElement('input');
+    targetInput.type = 'text';
+    targetInput.id = 'microTargetInput';
+    targetInput.className = 'micro-target-input';
+    targetInput.spellcheck = false;
+    targetInput.autocomplete = 'off';
+    targetInput.setAttribute('aria-label', T('הטקסט המוצע'));
+    inputRow.appendChild(boldBtn);
+    inputRow.appendChild(wordFlagBtn);
+    inputRow.appendChild(targetInput);
+    var nextDiv = el('div', 'micro-context-line');
+    nextDiv.id = 'microNextLine';
+    editorBox.appendChild(prevDiv);
+    editorBox.appendChild(inputRow);
+    editorBox.appendChild(nextDiv);
+    content.appendChild(editorBox);
+    drawer.appendChild(content);
+
+    // Footer
+    var footer = el('div', 'drawer-footer');
+    var hints = el('div', 'micro-kbd-hints');
+    hints.textContent = isEn
+      ? 'Enter: Submit & next  |  ↓ / ↑: Next / Prev (edits auto-submit)  |  Cmd+B: Bold  |  Cmd+/: Flag word (??)'
+      : 'Enter: שלח והמשך  |  ↓ / ↑: הבא / הקודם (תיקונים נשלחים אוטומטית)  |  Cmd+B: הדגשה  |  Cmd+/: סימון מילה (??)';
+    var footerActions = el('div', 'micro-footer-actions');
+    var btnPrev = el('button', 'btn micro-nav-btn');
+    btnPrev.id = 'btnMicroPrevLine';
+    btnPrev.type = 'button';
+    btnPrev.textContent = '▲ ' + T('הקודם (↑)');
+    var btnNext = el('button', 'btn micro-nav-btn');
+    btnNext.id = 'btnMicroNext';
+    btnNext.type = 'button';
+    btnNext.textContent = T('הבא (↓)') + ' ▶';
+    var btnSubmitNext = el('button', 'btn btn-primary micro-submit-next-btn');
+    btnSubmitNext.id = 'btnMicroVerifyNext';
+    btnSubmitNext.type = 'button';
+    btnSubmitNext.textContent = '✓ ' + T('שלח והמשך (Enter)');
+    footerActions.appendChild(btnPrev);
+    footerActions.appendChild(btnNext);
+    footerActions.appendChild(btnSubmitNext);
+    footer.appendChild(hints);
+    footer.appendChild(footerActions);
+    drawer.appendChild(footer);
+
+    mount.appendChild(drawer);
+    state.dom.microDrawer = drawer;
+    state.dom.microStatusBadge = statusBadge;
+    state.dom.microAuthInfo = microAuthInfo;
+    state.dom.microSignInBtn = microSignInBtn;
+
+    root.MicroView.configure(getInspectorAdapter());
+    refreshAuthUi();
+  }
+
   function buildUi() {
     if (typeof document === 'undefined') return;
     var mount = state.mountEl || document.body;
 
-    // 1. Compact toolbar button
+    // 1. Compact toolbar buttons (Flag + desktop 3-Line Inspector)
     if (state.barSlotEl && !state.dom.barBtn) {
       state.barSlotEl.textContent = '';
       var barBtn = el('button', 'btn icon flag-bar-btn');
@@ -1190,6 +1819,26 @@
       });
       state.barSlotEl.appendChild(barBtn);
       state.dom.barBtn = barBtn;
+
+      var inspectBarBtn = el('button', 'btn icon flag-bar-btn inspect-bar-btn');
+      inspectBarBtn.id = 'readerInspectBarBtn';
+      inspectBarBtn.type = 'button';
+      inspectBarBtn.hidden = !root.MicroView;
+      inspectBarBtn.setAttribute('aria-label', T('בדיקת שורה (תצוגת 3 שורות)'));
+      inspectBarBtn.setAttribute('title', T('בדיקת שורה (תצוגת 3 שורות)'));
+      inspectBarBtn.appendChild(el('span', null, '🔎'));
+      inspectBarBtn.appendChild(el('span', 'flag-bar-label', T('בדיקת שורה')));
+      inspectBarBtn.addEventListener('click', function () {
+        var last = state.lastLineCtx;
+        if (last && last.triggerEl && last.triggerEl.isConnected === false) last = null;
+        openInspectorForTarget(last ? Object.assign({}, last, { triggerEl: inspectBarBtn }) : null, inspectBarBtn);
+      });
+      state.barSlotEl.appendChild(inspectBarBtn);
+      state.dom.inspectBarBtn = inspectBarBtn;
+    }
+
+    if (root.MicroView && !state.dom.microDrawer) {
+      buildInspectorUi(mount);
     }
 
     if (state.dom.backdrop) return;
@@ -1287,13 +1936,30 @@
     var head = el('div', 'flag-modal-head');
     var title = el('h2', 'flag-modal-title', 'הצעת תיקון לטקסט');
     title.id = 'readerFlagTitle';
+    var headActions = el('div', 'flag-head-actions');
+    var modalInspectBtn = el('button', 'flag-inspect-switch-btn');
+    modalInspectBtn.id = 'readerFlagInspectBtn';
+    modalInspectBtn.type = 'button';
+    modalInspectBtn.hidden = !root.MicroView;
+    modalInspectBtn.textContent = '🔎 ' + T('בדיקת 3 שורות');
+    modalInspectBtn.title = T('בדיקת שורה (תצוגת 3 שורות)');
+    modalInspectBtn.addEventListener('click', function () {
+      var curTarget = state.activeTarget ? Object.assign({}, state.activeTarget) : {};
+      var draft = state.dom.proposedInput ? state.dom.proposedInput.value : null;
+      var retTrigger = state.triggerEl;
+      close({ restoreFocus: false });
+      if (typeof draft === 'string') curTarget.draftText = draft;
+      openInspectorForTarget(curTarget, retTrigger);
+    });
     var closeBtn = el('button', 'flag-close-btn', '✕');
     closeBtn.id = 'readerFlagCloseBtn';
     closeBtn.type = 'button';
     closeBtn.setAttribute('aria-label', T('סגור חלון דיווח'));
     closeBtn.addEventListener('click', function () { close(); });
+    headActions.appendChild(modalInspectBtn);
+    headActions.appendChild(closeBtn);
     head.appendChild(title);
-    head.appendChild(closeBtn);
+    head.appendChild(headActions);
     modal.appendChild(head);
 
     var body = el('div', 'flag-modal-body');
@@ -1305,43 +1971,9 @@
     var signInBtn = el('button', 'flag-signin-btn', 'התחבר עם Google');
     signInBtn.id = 'readerFlagSignInBtn';
     signInBtn.type = 'button';
-    signInBtn.addEventListener('click', function () {
-      state.signInAttemptId = (state.signInAttemptId || 0) + 1;
-      var myAttempt = state.signInAttemptId;
-      signInBtn.disabled = true;
-      setStatus('', '');
-
-      var resetTimer = null;
-      var onWinFocus = null;
-      function cleanupUnlock() {
-        if (resetTimer) {
-          clearTimeout(resetTimer);
-          resetTimer = null;
-        }
-        if (onWinFocus && typeof window !== 'undefined' && typeof window.removeEventListener === 'function') {
-          window.removeEventListener('focus', onWinFocus);
-          onWinFocus = null;
-        }
-      }
-      function unlockIfCurrent() {
-        if (myAttempt === state.signInAttemptId) signInBtn.disabled = false;
-      }
-      if (typeof setTimeout === 'function') {
-        resetTimer = setTimeout(unlockIfCurrent, 1200);
-      }
-      if (typeof window !== 'undefined' && typeof window.addEventListener === 'function') {
-        onWinFocus = function () { unlockIfCurrent(); };
-        window.addEventListener('focus', onWinFocus);
-      }
-
-      // Call synchronously within click gesture for popup sign-in
-      signInWithGoogle().then(function (res) {
-        cleanupUnlock();
-        if (myAttempt !== state.signInAttemptId) return;
-        signInBtn.disabled = false;
-        refreshAuthUi();
-        if (!res.ok && !res.cancelled) setStatus('error', res.error || 'ההתחברות נכשלה');
-      });
+    signInBtn.addEventListener('click', function () { setStatus('', ''); });
+    attachSignInClick(signInBtn, function (res) {
+      if (!res.ok && !res.cancelled) setStatus('error', res.error || 'ההתחברות נכשלה');
     });
     var signOutBtn = el('button', 'flag-signout-btn', 'התנתק');
     signOutBtn.id = 'readerFlagSignOutBtn';
@@ -1582,9 +2214,19 @@
     if (typeof document !== 'undefined' && !state.dom.modal) buildUi();
     bindFirebaseAuthState();
     closeContextMenu();
+    if (root.MicroView && root.MicroView.isOpen && root.MicroView.isOpen()) {
+      closeInspector(true);
+    }
     var normalized = normalizeTargetContext(ctx);
     state.triggerEl = normalized.triggerEl || fallbackTrigger || (typeof document !== 'undefined' ? document.activeElement : null);
     applyTargetToForm(normalized);
+    if (!ctx && !normalized.lineId && normalized.pageN) {
+      loadPageDataAsync(normalized.pageN).then(function (data) {
+        if (data && isOpen() && state.activeTarget && !state.activeTarget.lineId) {
+          applyTargetToForm(normalizeTargetContext(null));
+        }
+      });
+    }
     if (state.dom.backdrop && state.dom.modal) {
       setBackgroundInert(true);
       state.dom.backdrop.hidden = false;
@@ -1595,7 +2237,7 @@
     }
   }
 
-  function close() {
+  function close(opts) {
     closeContextMenu();
     if (!state.dom.backdrop || state.dom.backdrop.hidden) return;
     state.dom.modal.hidden = true;
@@ -1604,8 +2246,56 @@
     var prev = state.triggerEl;
     state.triggerEl = null;
     state.activeTarget = null;
-    if (prev && prev.isConnected !== false && typeof prev.focus === 'function') {
-      prev.focus();
+    if (!(opts && opts.restoreFocus === false)) {
+      if (prev && prev.isConnected !== false && typeof prev.focus === 'function') {
+        prev.focus();
+      }
+    }
+  }
+
+  function closeInspector(saveIfDirty) {
+    if (root.MicroView && typeof root.MicroView.close === 'function' && root.MicroView.isOpen && root.MicroView.isOpen()) {
+      root.MicroView.close(saveIfDirty !== false);
+    }
+  }
+
+  function openInspectorForTarget(ctx, fallbackTrigger) {
+    if (typeof document !== 'undefined' && !state.dom.modal) buildUi();
+    if (!root.MicroView) {
+      openForTarget(ctx, fallbackTrigger);
+      return;
+    }
+    bindFirebaseAuthState();
+    closeContextMenu();
+    close({ restoreFocus: false });
+    if (root.FootnoteDrawer && root.FootnoteDrawer.isOpen && root.FootnoteDrawer.isOpen()) {
+      root.FootnoteDrawer.close();
+    }
+    if (!state.dom.microDrawer) buildInspectorUi(state.mountEl || document.body);
+    root.MicroView.configure(getInspectorAdapter());
+
+    var normalized = normalizeTargetContext(ctx);
+    var targetPageN = normalized.pageN || (typeof state.getCurrentPage === 'function' ? state.getCurrentPage() : 1) || 1;
+    var trigger = normalized.triggerEl || fallbackTrigger || (typeof document !== 'undefined' ? document.activeElement : null);
+    state.inspectPageN = targetPageN;
+
+    function launchWithRawPage(rawPage) {
+      if (!rawPage) return;
+      var model = buildInspectPageModel(rawPage);
+      if (!model || !model.lines.length) return;
+      var lineId = normalized.lineId || model.lines[0].line_id;
+      var openOpts = { triggerEl: trigger };
+      if (typeof normalized.draftText === 'string') {
+        openOpts.draftText = normalized.draftText;
+      }
+      root.MicroView.openForLineId(lineId, openOpts.draftText, openOpts);
+    }
+
+    var syncRaw = getSyncPageData(targetPageN);
+    if (syncRaw) {
+      launchWithRawPage(syncRaw);
+    } else {
+      loadPageDataAsync(targetPageN).then(launchWithRawPage);
     }
   }
 
@@ -1625,6 +2315,12 @@
         if (!ctx || !ctx.lineId) return;
         ctx.triggerEl = ev.target && ev.target.closest ? ev.target.closest('.rline') : ev.target;
         state.lastLineCtx = ctx;
+        if (ev.type === 'click' && root.MicroView && root.MicroView.isOpen && root.MicroView.isOpen()) {
+          if (ev.target && ev.target.closest && ev.target.closest('[data-fn-trigger], .fn-ref')) return;
+          var sel = typeof window !== 'undefined' && window.getSelection ? window.getSelection() : null;
+          if (sel && !sel.isCollapsed && String(sel).trim().length > 0) return;
+          openInspectorForTarget(ctx);
+        }
       };
       state.streamEl.addEventListener('click', remember);
       state.streamEl.addEventListener('focusin', remember);
@@ -1681,8 +2377,15 @@
     state.streamEl = o.streamEl || null;
     state.inertEl = o.inertEl || null;
     state.getPageData = typeof o.getPageData === 'function' ? o.getPageData : null;
+    state.getCachedPage = typeof o.getCachedPage === 'function' ? o.getCachedPage : null;
     state.getCurrentPage = typeof o.getCurrentPage === 'function' ? o.getCurrentPage : null;
+    state.getTotalPages = typeof o.getTotalPages === 'function' ? o.getTotalPages : null;
     state.getLineContext = typeof o.getLineContext === 'function' ? o.getLineContext : null;
+    state.getScanImage = typeof o.getScanImage === 'function' ? o.getScanImage : null;
+    state.onInspectHighlight = typeof o.onInspectHighlight === 'function' ? o.onInspectHighlight : null;
+    state.scrollLineForInspect = typeof o.scrollLineForInspect === 'function' ? o.scrollLineForInspect : null;
+    state.onInspectOpenChange = typeof o.onInspectOpenChange === 'function' ? o.onInspectOpenChange : null;
+    state.goToPage = typeof o.goToPage === 'function' ? o.goToPage : null;
     state.config = Object.assign({}, o.config || (typeof window !== 'undefined' && window.READER_FLAG_CONFIG) || {});
     buildUi();
     bindGlobalEvents();
@@ -1695,7 +2398,9 @@
     init: init,
     configure: configure,
     openForTarget: openForTarget,
+    openInspectorForTarget: openInspectorForTarget,
     close: close,
+    closeInspector: closeInspector,
     isOpen: isOpen,
     submitFlag: submitFlag,
     signInWithGoogle: signInWithGoogle,

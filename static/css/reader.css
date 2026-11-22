@@ -184,6 +184,10 @@ body {
   background: color-mix(in srgb, var(--focus) 14%, transparent);
   outline: 2px solid var(--focus);
 }
+.scan-line-box.is-inspecting {
+  background: color-mix(in srgb, var(--focus) 16%, transparent);
+  outline: 2px solid var(--focus);
+}
 
 /* ---- text stream pane ---- */
 .pane-text {
@@ -241,6 +245,16 @@ html[data-markers="on"] .divider { display: flex; }
 .rline.is-hover {
   background: var(--hover-bg);
   box-shadow: 0 0 0 2px var(--hover-bg);
+}
+.rline.is-inspecting {
+  background: color-mix(in srgb, var(--focus) 18%, transparent);
+  box-shadow: 0 0 0 2px color-mix(in srgb, var(--focus) 18%, transparent);
+}
+.reader-shell.micro-open .pane-text {
+  padding-bottom: 72vh;
+}
+.reader-shell.micro-open .rline {
+  cursor: pointer;
 }
 .page-fn-strip {
   display: flex; flex-wrap: wrap; gap: 8px;

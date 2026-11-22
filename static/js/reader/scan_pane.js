@@ -230,14 +230,21 @@ window.ReaderScanPane = (function () {
       }
     }
 
-    function highlight(pageId, lineId, paraPid, active) {
+    function getImageEl(n) {
+      ensureLoaded(n);
+      var slot = slotsByN[n];
+      return slot ? slot.querySelector('img.scan-img') : null;
+    }
+
+    function highlight(pageId, lineId, paraPid, active, className) {
       if (!trackEl) return;
+      var cls = className || 'is-hover';
       if (lineId) {
         var boxes = trackEl.querySelectorAll('.scan-line-box[data-line-id]');
         for (var i = 0; i < boxes.length; i++) {
           if (boxes[i].getAttribute('data-line-id') === lineId &&
               (!pageId || boxes[i].getAttribute('data-page') === pageId)) {
-            boxes[i].classList.toggle('is-hover', !!active);
+            boxes[i].classList.toggle(cls, !!active);
           }
         }
       }
@@ -245,7 +252,7 @@ window.ReaderScanPane = (function () {
         var paras = trackEl.querySelectorAll('.scan-para-anchor[data-para]');
         for (var j = 0; j < paras.length; j++) {
           if (paras[j].getAttribute('data-para') === paraPid) {
-            paras[j].classList.toggle('is-hover', !!active);
+            paras[j].classList.toggle(cls, !!active);
           }
         }
       }
@@ -339,6 +346,7 @@ window.ReaderScanPane = (function () {
       ensureLoaded: ensureLoaded,
       preloadAround: preloadAround,
       highlight: highlight,
+      getImageEl: getImageEl,
       clearHover: clearHover,
       setZoom: setZoom,
       getZoom: function () { return zoomScale; },

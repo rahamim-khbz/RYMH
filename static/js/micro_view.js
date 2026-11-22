@@ -16,6 +16,37 @@ window.MicroView = (function() {
   let isOpen = false;
   let currentProposal = null;
   let microFontSize = 22;
+  let customAdapter = null;
+  let pendingDraftText = null;
+  let windowEventsBound = false;
+  let crossPageBusy = false;
+
+  function isSuggestMode() {
+    return !!(customAdapter && customAdapter.mode === 'suggest');
+  }
+
+  function getPageContextData() {
+    if (customAdapter && typeof customAdapter.getPageData === 'function') {
+      return customAdapter.getPageData();
+    }
+    return window.MacroView ? window.MacroView.getCurrentPageData() : null;
+  }
+
+  function getCurrentPageIdSafe(pageData) {
+    if (pageData && pageData.pageId) return pageData.pageId;
+    if (customAdapter && typeof customAdapter.getCurrentPageId === 'function') {
+      return customAdapter.getCurrentPageId();
+    }
+    return window.MacroView ? window.MacroView.getCurrentPageId() : 'page-05';
+  }
+
+  function isSameSection(a, b) {
+    if (!a || !b) return false;
+    if (customAdapter && typeof customAdapter.isSameSection === 'function') {
+      return customAdapter.isSameSection(a, b);
+    }
+    return true;
+  }
 
   function initMicroFontSize() {
     const saved = localStorage.getItem('ih_micro_font_size');
@@ -56,37 +87,81 @@ window.MicroView = (function() {
     }
   }
 
-  function open(lineIdx) {
-    const pageData = window.MacroView ? window.MacroView.getCurrentPageData() : null;
-    if (!pageData || !pageData.lines || !pageData.lines[lineIdx]) return;
+  let drawerTriggerEl = null;
 
-    // Check passcode gate before entering micro edit mode
-    if (window.AuthGate && typeof window.AuthGate.checkPasscodeOrPrompt === 'function') {
-      if (!window.AuthGate.checkPasscodeOrPrompt('🔒 Enter Reviewer Passcode to open line editor:')) {
-        return;
+  function open(lineIdxOrId, opts) {
+    setupEvents();
+    if (isOpen && !(opts && opts.skipSave)) {
+      const prevSave = saveCurrentLineInternal();
+      if (prevSave.blocked) return;
+    }
+    const pageData = getPageContextData();
+    if (!pageData || !pageData.lines || !pageData.lines.length) return;
+
+    let lineIdx = 0;
+    if (typeof lineIdxOrId === 'string') {
+      const foundIdx = pageData.lines.findIndex(l => l && l.line_id === lineIdxOrId);
+      lineIdx = foundIdx >= 0 ? foundIdx : 0;
+    } else if (typeof lineIdxOrId === 'number' && isFinite(lineIdxOrId)) {
+      lineIdx = Math.floor(lineIdxOrId);
+    }
+    if (!pageData.lines[lineIdx]) return;
+
+    // Check passcode gate before entering micro edit mode (review.html only)
+    if (!isSuggestMode() && !(customAdapter && customAdapter.skipPasscode)) {
+      if (window.AuthGate && typeof window.AuthGate.checkPasscodeOrPrompt === 'function') {
+        if (!window.AuthGate.checkPasscodeOrPrompt('🔒 Enter Reviewer Passcode to open line editor:')) {
+          return;
+        }
       }
     }
 
     activeLineIdx = lineIdx;
     isOpen = true;
+    pendingDraftText = (opts && typeof opts.draftText === 'string') ? opts.draftText : null;
+    drawerTriggerEl = (opts && opts.triggerEl) || null;
 
     const drawer = document.getElementById('microDrawer');
     if (drawer) drawer.classList.add('open');
 
+    if (customAdapter && typeof customAdapter.onOpenChange === 'function') {
+      customAdapter.onOpenChange(true);
+    }
+
     renderLine();
   }
 
+  function openForLineId(lineId, initialDraftText, opts) {
+    const o = Object.assign({}, opts || {});
+    if (typeof initialDraftText === 'string') o.draftText = initialDraftText;
+    open(lineId, o);
+  }
+
   function close(saveIfDirty = true) {
-    if (saveIfDirty !== false) saveCurrentLine();
+    if (saveIfDirty !== false) saveCurrentLineInternal({ allowCloseOnBlock: true });
 
     isOpen = false;
+    pendingDraftText = null;
     const drawer = document.getElementById('microDrawer');
     if (drawer) drawer.classList.remove('open');
-    
-    const row = document.getElementById(`line-row-${activeLineIdx}`);
-    if (row) {
-      row.scrollIntoView({ behavior: 'smooth', block: 'center' });
+
+    if (customAdapter && typeof customAdapter.onActiveLineChange === 'function') {
+      customAdapter.onActiveLineChange(null, -1, null);
     }
+    if (customAdapter && typeof customAdapter.onOpenChange === 'function') {
+      customAdapter.onOpenChange(false);
+    }
+
+    if (!customAdapter || customAdapter.scrollRowOnClose !== false) {
+      const row = document.getElementById(`line-row-${activeLineIdx}`);
+      if (row) {
+        row.scrollIntoView({ behavior: 'smooth', block: 'center' });
+      }
+    }
+    if (drawerTriggerEl && drawerTriggerEl.isConnected !== false && typeof drawerTriggerEl.focus === 'function') {
+      try { drawerTriggerEl.focus({ preventScroll: true }); } catch (e) {}
+    }
+    drawerTriggerEl = null;
   }
 
   function applyLockState(isLocked) {
@@ -114,50 +189,102 @@ window.MicroView = (function() {
     if (btnReject) btnReject.disabled = !!isLocked;
   }
 
+  function scaleCoordsForImg(coords, pageData, img) {
+    if (!coords) return null;
+    const norm = window.CropCanvas && typeof window.CropCanvas.normalizeBox === 'function'
+      ? window.CropCanvas.normalizeBox(coords)
+      : null;
+    if (!norm) return null;
+    const imgW = img.naturalWidth || img.width;
+    const imgH = img.naturalHeight || img.height;
+    const srcW = pageData && (pageData.imageWidth || pageData.w);
+    const srcH = pageData && (pageData.imageHeight || pageData.h);
+    if (!imgW || !imgH || !srcW || !srcH || (imgW === srcW && imgH === srcH)) {
+      return norm;
+    }
+    const sx = imgW / srcW;
+    const sy = imgH / srcH;
+    return {
+      x: norm.x * sx,
+      y: norm.y * sy,
+      width: norm.width * sx,
+      height: norm.height * sy
+    };
+  }
+
   function renderLine() {
-    const pageData = window.MacroView ? window.MacroView.getCurrentPageData() : null;
+    const pageData = getPageContextData();
     if (!pageData || !pageData.lines[activeLineIdx]) return;
 
-    const curPageId = window.MacroView ? window.MacroView.getCurrentPageId() : 'page-05';
-    const isLocked = window.ReviewSync && typeof window.ReviewSync.isPageEditable === 'function'
-      ? !window.ReviewSync.isPageEditable(curPageId)
-      : false;
+    const curPageId = getCurrentPageIdSafe(pageData);
+    const isLocked = isSuggestMode()
+      ? false
+      : (window.ReviewSync && typeof window.ReviewSync.isPageEditable === 'function'
+          ? !window.ReviewSync.isPageEditable(curPageId)
+          : false);
     applyLockState(isLocked);
 
     const lines = pageData.lines;
     const totalLines = lines.length;
     const line = lines[activeLineIdx];
-    const prevLine = activeLineIdx > 0 ? lines[activeLineIdx - 1] : null;
-    const nextLine = activeLineIdx < totalLines - 1 ? lines[activeLineIdx + 1] : null;
+    const rawPrev = activeLineIdx > 0 ? lines[activeLineIdx - 1] : null;
+    const rawNext = activeLineIdx < totalLines - 1 ? lines[activeLineIdx + 1] : null;
+    const prevLine = (rawPrev && isSameSection(rawPrev, line)) ? rawPrev : null;
+    const nextLine = (rawNext && isSameSection(rawNext, line)) ? rawNext : null;
 
     // Header label
     const label = document.getElementById('microLineLabel');
-    if (label) label.textContent = `Line ${activeLineIdx + 1} of ${totalLines}`;
+    if (label) {
+      label.textContent = (customAdapter && typeof customAdapter.formatLineLabel === 'function')
+        ? customAdapter.formatLineLabel(line, activeLineIdx, totalLines, pageData)
+        : `Line ${activeLineIdx + 1} of ${totalLines}`;
+    }
 
     // Context lines
+    const startPlaceholder = (customAdapter && customAdapter.startLabel) || '— (תחילת עמוד) —';
+    const endPlaceholder = (customAdapter && customAdapter.endLabel) || '— (סוף עמוד) —';
     const prevEl = document.getElementById('microPrevLine');
-    if (prevEl) prevEl.textContent = prevLine ? `[${activeLineIdx}] ${prevLine.text}` : '— (תחילת עמוד) —';
+    if (prevEl) {
+      const prevNum = prevLine && prevLine.displayIdx != null ? prevLine.displayIdx : activeLineIdx;
+      prevEl.textContent = prevLine ? `[${prevNum}] ${prevLine.text}` : startPlaceholder;
+    }
 
     const nextEl = document.getElementById('microNextLine');
-    if (nextEl) nextEl.textContent = nextLine ? `[${activeLineIdx + 2}] ${nextLine.text}` : '— (סוף עמוד) —';
+    if (nextEl) {
+      const nextNum = nextLine && nextLine.displayIdx != null ? nextLine.displayIdx : (activeLineIdx + 2);
+      nextEl.textContent = nextLine ? `[${nextNum}] ${nextLine.text}` : endPlaceholder;
+    }
 
     // Target input
     const input = document.getElementById('microTargetInput');
     if (input) {
-      input.value = line.text || '';
-      input.focus();
+      if (pendingDraftText !== null) {
+        input.value = pendingDraftText;
+        pendingDraftText = null;
+      } else {
+        input.value = line.text || '';
+      }
+      try {
+        input.focus({ preventScroll: true });
+      } catch (e) {
+        input.focus();
+      }
       // Caret at the end (not select-all), so the first keystroke can't wipe the line
       const end = input.value.length;
       input.setSelectionRange(end, end);
     }
 
-    renderVerifyState(line);
+    if (!isSuggestMode()) renderVerifyState(line);
 
     // Canvas 3-line crop (auto-fitted to window / wrapper width)
-    renderCropCanvas(prevLine, line, nextLine);
+    renderCropCanvas(prevLine, line, nextLine, pageData);
 
     // Check for AI Suggestions
     checkAiSuggestions(line.line_id);
+
+    if (customAdapter && typeof customAdapter.onActiveLineChange === 'function') {
+      customAdapter.onActiveLineChange(line, activeLineIdx, pageData);
+    }
   }
 
   function renderVerifyState(line) {
@@ -171,7 +298,7 @@ window.MicroView = (function() {
   }
 
   function getActiveLine() {
-    const pageData = window.MacroView ? window.MacroView.getCurrentPageData() : null;
+    const pageData = getPageContextData();
     return (pageData && pageData.lines) ? pageData.lines[activeLineIdx] : null;
   }
 
@@ -189,43 +316,89 @@ window.MicroView = (function() {
   }
 
   function verifyAndNext() {
-    saveCurrentLine();
-    const line = getActiveLine();
-    if (line && !line.verified) setActiveVerified(true);
-    nextLine();
+    const saveRes = saveCurrentLineInternal();
+    if (saveRes.blocked) return;
+    if (!isSuggestMode()) {
+      const line = getActiveLine();
+      if (line && !line.verified) setActiveVerified(true);
+    }
+    nextLine({ skipSave: true });
   }
 
-  function renderCropCanvas(prevLine, line, nextLine) {
+  function renderCropCanvas(prevLine, line, nextLine, pageData) {
+    if (!pageData) pageData = getPageContextData();
     if (!line) {
-      const pageData = window.MacroView ? window.MacroView.getCurrentPageData() : null;
       if (!pageData || !pageData.lines || !pageData.lines[activeLineIdx]) return;
       const lines = pageData.lines;
       line = lines[activeLineIdx];
-      prevLine = activeLineIdx > 0 ? lines[activeLineIdx - 1] : null;
-      nextLine = activeLineIdx < lines.length - 1 ? lines[activeLineIdx + 1] : null;
+      const rawPrev = activeLineIdx > 0 ? lines[activeLineIdx - 1] : null;
+      const rawNext = activeLineIdx < lines.length - 1 ? lines[activeLineIdx + 1] : null;
+      prevLine = (rawPrev && isSameSection(rawPrev, line)) ? rawPrev : null;
+      nextLine = (rawNext && isSameSection(rawNext, line)) ? rawNext : null;
     }
 
     const canvas = document.getElementById('cropCanvas');
     const wrapper = canvas ? canvas.closest('.canvas-crop-wrapper') : null;
-    const img = document.getElementById('manuscriptImg');
-    if (canvas && img && window.CropCanvas) {
-      const availWidth = wrapper && wrapper.clientWidth > 60
-        ? wrapper.clientWidth - 24
-        : Math.min(1340, Math.max(320, window.innerWidth - 64));
-      window.CropCanvas.renderThreeLineCrop(
-        canvas,
-        img,
-        prevLine ? prevLine.coords : null,
-        line.coords,
-        nextLine ? nextLine.coords : null,
-        {
-          dpr: window.devicePixelRatio || 1,
-          showGuides: true,
-          maxWidth: availWidth,
-          fitToWidth: true
-        }
-      );
+    if (!canvas || !window.CropCanvas) return;
+
+    const onImgLoad = () => {
+      if (isOpen) renderCropCanvas();
+    };
+    const img = (customAdapter && typeof customAdapter.getScanImage === 'function')
+      ? customAdapter.getScanImage(pageData, onImgLoad)
+      : document.getElementById('manuscriptImg');
+
+    const hasValidTarget = !!(line && line.coords && window.CropCanvas.normalizeBox(line.coords));
+    if (!hasValidTarget) {
+      canvas.width = 0;
+      canvas.height = 0;
+      canvas.style.width = '0px';
+      canvas.style.height = '0px';
+      if (wrapper) {
+        wrapper.classList.remove('is-loading');
+        wrapper.classList.add('is-empty');
+      }
+      return;
     }
+
+    if (!img || (('complete' in img) && (!img.complete || !img.naturalWidth))) {
+      canvas.width = 0;
+      canvas.height = 0;
+      canvas.style.width = '0px';
+      canvas.style.height = '0px';
+      if (wrapper) {
+        wrapper.classList.remove('is-empty');
+        wrapper.classList.add('is-loading');
+      }
+      return;
+    }
+
+    if (wrapper) {
+      wrapper.classList.remove('is-loading');
+      wrapper.classList.remove('is-empty');
+    }
+
+    const prevCoords = scaleCoordsForImg(prevLine ? prevLine.coords : null, pageData, img);
+    const targetCoords = scaleCoordsForImg(line.coords, pageData, img);
+    const nextCoords = scaleCoordsForImg(nextLine ? nextLine.coords : null, pageData, img);
+    if (!targetCoords) return;
+
+    const availWidth = wrapper && wrapper.clientWidth > 60
+      ? wrapper.clientWidth - 24
+      : Math.min(1340, Math.max(320, window.innerWidth - 64));
+    window.CropCanvas.renderThreeLineCrop(
+      canvas,
+      img,
+      prevCoords,
+      targetCoords,
+      nextCoords,
+      {
+        dpr: window.devicePixelRatio || 1,
+        showGuides: true,
+        maxWidth: availWidth,
+        fitToWidth: true
+      }
+    );
   }
 
   function checkAiSuggestions(lineId) {
@@ -235,7 +408,7 @@ window.MicroView = (function() {
     currentProposal = null;
     banner.style.display = 'none';
 
-    if (window.ReviewSync) {
+    if (!isSuggestMode() && window.ReviewSync && window.MacroView) {
       const pageId = window.MacroView.getCurrentPageId();
       const suggestion = window.ReviewSync.getSuggestionForLine(pageId, lineId);
       if (suggestion && suggestion.status === 'pending') {
@@ -361,30 +534,46 @@ window.MicroView = (function() {
     return count % 2 === 0;
   }
 
-  // Saves the active line only if its text changed. Returns true if a save was made.
-  function saveCurrentLine() {
-    const pageData = window.MacroView ? window.MacroView.getCurrentPageData() : null;
-    if (!pageData || !pageData.lines[activeLineIdx]) return false;
+  // Saves the active line only if its text changed.
+  function saveCurrentLineInternal(opts) {
+    const pageData = getPageContextData();
+    if (!pageData || !pageData.lines[activeLineIdx]) return { saved: false };
 
     const input = document.getElementById('microTargetInput');
-    if (!input) return false;
+    if (!input) return { saved: false };
     const newText = input.value.trim();
     const line = pageData.lines[activeLineIdx];
-    if (newText === (line.text || '').trim()) return false; // unchanged: no write, no claim
+    const baseline = isSuggestMode()
+      ? (line.origText != null ? line.origText : (line.text || '')).trim()
+      : (line.text || '').trim();
+    if (newText === baseline) return { saved: false, unchanged: true }; // unchanged: no write, no claim
 
-    const curPageId = window.MacroView ? window.MacroView.getCurrentPageId() : 'page-05';
+    if (customAdapter && typeof customAdapter.onSaveLine === 'function') {
+      const adapterRes = customAdapter.onSaveLine(line, newText, activeLineIdx, opts || {});
+      if (adapterRes && adapterRes.blocked) {
+        return { saved: false, blocked: true };
+      }
+      if (adapterRes === false) return { saved: false };
+      line.text = newText;
+      if (adapterRes && adapterRes.markSubmitted) {
+        line.origText = newText;
+      }
+      return { saved: true };
+    }
+
+    const curPageId = getCurrentPageIdSafe(pageData);
     if (window.ReviewSync && typeof window.ReviewSync.isPageEditable === 'function' && !window.ReviewSync.isPageEditable(curPageId)) {
       console.warn(`[MicroView] Save blocked: ${curPageId} is claimed by another reviewer or locked.`);
-      return false;
+      return { saved: false };
     }
 
     // Gate with passcode BEFORE mutating line in macro view or memory
     if (window.AuthGate && typeof window.AuthGate.checkPasscodeOrPrompt === 'function') {
       if (!window.AuthGate.checkPasscodeOrPrompt('🔒 Enter Reviewer Passcode to save edits:')) {
         // Revert input to existing line text if unauthorized
-        const line = pageData.lines[activeLineIdx];
-        if (input && line) input.value = line.text || '';
-        return;
+        const curLine = pageData.lines[activeLineIdx];
+        if (input && curLine) input.value = curLine.text || '';
+        return { saved: false };
       }
     }
 
@@ -406,32 +595,74 @@ window.MicroView = (function() {
       window.ReviewSync.saveLine(curPageId, line.line_id, newText, false);
     }
     renderVerifyState(line);
-    return true;
+    return { saved: true };
   }
 
-  function nextLine() {
-    saveCurrentLine();
+  function saveCurrentLine() {
+    return saveCurrentLineInternal().saved;
+  }
 
-    const pageData = window.MacroView ? window.MacroView.getCurrentPageData() : null;
-    if (!pageData) return;
+  function handleCrossPageStep(direction, pageData) {
+    if (!customAdapter || typeof customAdapter.onCrossPageStep !== 'function' || crossPageBusy) {
+      if (direction === 'next') close(false);
+      return;
+    }
+    crossPageBusy = true;
+    Promise.resolve(customAdapter.onCrossPageStep(direction, pageData)).then((handled) => {
+      crossPageBusy = false;
+      if (!isOpen) return;
+      if (handled) {
+        const nextData = getPageContextData();
+        const len = (nextData && nextData.lines) ? nextData.lines.length : 0;
+        if (len > 0) {
+          activeLineIdx = direction === 'prev' ? (len - 1) : 0;
+          renderLine();
+          return;
+        }
+      }
+      if (direction === 'next') close(false);
+    }, () => {
+      crossPageBusy = false;
+    });
+  }
+
+  function nextLine(opts) {
+    if (!(opts && opts.skipSave)) {
+      const res = saveCurrentLineInternal();
+      if (res.blocked) return;
+    }
+
+    const pageData = getPageContextData();
+    if (!pageData || !pageData.lines) return;
 
     if (activeLineIdx < pageData.lines.length - 1) {
       activeLineIdx++;
       renderLine();
+    } else if (customAdapter && typeof customAdapter.onCrossPageStep === 'function') {
+      handleCrossPageStep('next', pageData);
     } else {
-      close();
+      close(false);
     }
   }
 
-  function prevLine() {
-    saveCurrentLine();
+  function prevLine(opts) {
+    if (!(opts && opts.skipSave)) {
+      const res = saveCurrentLineInternal();
+      if (res.blocked) return;
+    }
     if (activeLineIdx > 0) {
       activeLineIdx--;
       renderLine();
+    } else if (customAdapter && typeof customAdapter.onCrossPageStep === 'function') {
+      handleCrossPageStep('prev', getPageContextData());
     }
   }
 
-  function setupEvents() {
+  function bindDrawerControls() {
+    const drawer = document.getElementById('microDrawer');
+    if (!drawer || drawer.dataset.microBound === '1') return;
+    drawer.dataset.microBound = '1';
+
     document.getElementById('btnCloseDrawer')?.addEventListener('click', () => close());
     document.getElementById('btnMicroVerifyToggle')?.addEventListener('click', toggleActiveVerified);
     document.getElementById('btnMicroVerifyNext')?.addEventListener('click', verifyAndNext);
@@ -445,8 +676,14 @@ window.MicroView = (function() {
     document.getElementById('btnRejectAiProposal')?.addEventListener('click', rejectAiProposal);
     document.getElementById('btnMicroFontDec')?.addEventListener('click', decMicroFontSize);
     document.getElementById('btnMicroFontInc')?.addEventListener('click', incMicroFontSize);
+  }
 
+  function setupEvents() {
+    bindDrawerControls();
     initMicroFontSize();
+
+    if (windowEventsBound) return;
+    windowEventsBound = true;
 
     window.addEventListener('resize', () => {
       if (isOpen) renderCropCanvas();
@@ -456,12 +693,19 @@ window.MicroView = (function() {
     window.addEventListener('keydown', (e) => {
       if (!isOpen) return;
 
-      // Esc to close
+      const drawer = document.getElementById('microDrawer');
+      const outsideControl = drawer && e.target && !drawer.contains(e.target) &&
+        /^(INPUT|TEXTAREA|SELECT|OPTION)$/i.test(e.target.tagName || '');
+
+      // Esc to close (unless another modal dialog like #grid is open above)
       if (e.key === 'Escape') {
+        if (document.querySelector('dialog[open]')) return;
         e.preventDefault();
         close();
         return;
       }
+
+      if (outsideControl) return;
 
       // Cmd+B / Ctrl+B for Ashurit bold
       if ((e.metaKey || e.ctrlKey) && (e.key === 'b' || e.code === 'KeyB')) {
@@ -480,7 +724,7 @@ window.MicroView = (function() {
       // Let Enter/Space activate a focused button normally (Close, Accept, etc.)
       const onButton = e.target && e.target.tagName === 'BUTTON';
 
-      // Enter = Verify & next (saves first if changed)
+      // Enter = Verify / Submit & next (saves first if changed)
       if (e.key === 'Enter' && !e.shiftKey && !onButton) {
         e.preventDefault();
         verifyAndNext();
@@ -496,16 +740,32 @@ window.MicroView = (function() {
 
       if (e.key === 'ArrowUp' || e.code === 'ArrowUp') {
         e.preventDefault();
-        prevLine(true);
+        prevLine();
         return;
       }
     });
   }
 
+  function configure(adapter) {
+    customAdapter = adapter || null;
+    setupEvents();
+  }
+
+  function getCurrentDraft() {
+    const input = document.getElementById('microTargetInput');
+    return {
+      line: getActiveLine(),
+      lineIdx: activeLineIdx,
+      draftText: input ? input.value : ''
+    };
+  }
+
   document.addEventListener('DOMContentLoaded', setupEvents);
 
   return {
+    configure,
     open,
+    openForLineId,
     close,
     nextLine,
     prevLine,
@@ -521,6 +781,8 @@ window.MicroView = (function() {
     incMicroFontSize,
     decMicroFontSize,
     applyMicroFontSize,
+    refreshCrop: () => { if (isOpen) renderCropCanvas(); },
+    getCurrentDraft,
     isOpen: () => isOpen,
     getActiveLineIdx: () => activeLineIdx
   };

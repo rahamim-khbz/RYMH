@@ -4,7 +4,19 @@
 .flag-bar-slot {
   display: flex;
   align-items: center;
+  gap: 6px;
   flex-shrink: 0;
+}
+
+.inspect-bar-btn[hidden],
+.flag-inspect-switch-btn[hidden] {
+  display: none !important;
+}
+
+@media (max-width: 859px) {
+  .inspect-bar-btn {
+    display: none !important;
+  }
 }
 
 .flag-bar-btn {
@@ -334,10 +346,309 @@
 @media (prefers-reduced-motion: reduce) {
   .flag-backdrop,
   .flag-modal,
-  .flag-ctx-menu {
+  .flag-ctx-menu,
+  .reader-micro-drawer {
     transition: none !important;
     animation: none !important;
   }
 }
 
 .flag-field[hidden] { display: none; }
+
+.flag-head-actions {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.flag-inspect-switch-btn {
+  min-block-size: 44px;
+  min-inline-size: 44px;
+  padding: 0 12px;
+  border: 1px solid var(--rule);
+  border-radius: 8px;
+  background: var(--bg);
+  color: var(--ink);
+  font: 500 0.88rem var(--ui);
+  cursor: pointer;
+  white-space: nowrap;
+}
+
+.flag-inspect-switch-btn:hover {
+  border-color: var(--accent);
+}
+
+/* ---- Three-Line Inspector bottom drawer (.reader-micro-drawer) ---- */
+.reader-micro-drawer {
+  position: fixed;
+  inset-inline: 0;
+  inset-block-end: 0;
+  z-index: 260;
+  display: flex;
+  flex-direction: column;
+  max-block-size: 62vh;
+  max-block-size: min(62dvh, calc(100dvh - 70px));
+  background: var(--surface);
+  color: var(--ink);
+  border-block-start: 2px solid var(--accent);
+  box-shadow: 0 -10px 38px rgb(0 0 0 / 0.34);
+  font-family: var(--ui);
+  transform: translateY(105%);
+  visibility: hidden;
+  pointer-events: none;
+  transition: transform 0.24s cubic-bezier(0.16, 1, 0.3, 1), visibility 0s linear 0.24s;
+}
+
+.reader-micro-drawer.open {
+  transform: translateY(0);
+  visibility: visible;
+  pointer-events: auto;
+  transition: transform 0.24s cubic-bezier(0.16, 1, 0.3, 1), visibility 0s linear 0s;
+}
+
+.reader-micro-drawer .drawer-header {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px 12px;
+  padding: 8px 16px;
+  background: var(--note-bg);
+  border-block-end: 1px solid var(--rule);
+  font-size: 0.85rem;
+}
+
+.reader-micro-drawer .micro-header-meta,
+.reader-micro-drawer .micro-header-controls {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 8px;
+}
+
+.reader-micro-drawer .micro-drawer-title {
+  font-size: 0.92rem;
+  font-weight: 700;
+}
+
+.reader-micro-drawer .micro-line-label {
+  color: var(--muted);
+  font-size: 0.82rem;
+}
+
+.reader-micro-drawer .micro-status-badge {
+  display: inline-flex;
+  align-items: center;
+  padding: 2px 9px;
+  border-radius: 999px;
+  border: 1px solid var(--rule);
+  background: var(--surface);
+  color: var(--ink);
+  font-size: 0.8rem;
+  font-weight: 600;
+}
+
+.reader-micro-drawer .micro-status-badge[hidden] {
+  display: none !important;
+}
+
+.reader-micro-drawer .micro-status-badge[data-state="success"] {
+  border-color: var(--accent);
+  background: color-mix(in srgb, var(--accent) 14%, var(--surface));
+}
+
+.reader-micro-drawer .micro-status-badge[data-state="error"],
+.reader-micro-drawer .micro-status-badge[data-state="auth"] {
+  border-color: #c2410c;
+  background: color-mix(in srgb, #c2410c 12%, var(--surface));
+}
+
+.reader-micro-drawer .btn {
+  min-block-size: 36px;
+  min-inline-size: 36px;
+  padding: 0 10px;
+  border: 1px solid var(--rule);
+  border-radius: 7px;
+  background: var(--surface);
+  color: var(--ink);
+  font: 500 0.85rem var(--ui);
+  cursor: pointer;
+}
+
+.reader-micro-drawer .btn:hover {
+  border-color: var(--accent);
+}
+
+.reader-micro-drawer .btn-primary {
+  background: var(--accent);
+  color: var(--accent-ink);
+  border-color: var(--accent);
+}
+
+.reader-micro-drawer .font-size-control {
+  display: inline-flex;
+  align-items: center;
+  gap: 2px;
+  padding: 2px;
+  border: 1px solid var(--rule);
+  border-radius: 8px;
+  background: var(--bg);
+}
+
+.reader-micro-drawer .font-size-control .btn {
+  border: 0;
+  background: transparent;
+  min-block-size: 30px;
+  min-inline-size: 30px;
+  padding: 0 7px;
+  font-size: 0.78rem;
+}
+
+.reader-micro-drawer .font-size-val {
+  min-inline-size: 36px;
+  text-align: center;
+  font-size: 0.78rem;
+  font-weight: 600;
+  color: var(--muted);
+}
+
+.reader-micro-drawer .micro-auth-wrap {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.reader-micro-drawer .micro-auth-info {
+  font-size: 0.8rem;
+  color: var(--muted);
+}
+
+.reader-micro-drawer .micro-signin-btn {
+  background: var(--accent);
+  color: var(--accent-ink);
+  border-color: var(--accent);
+}
+
+.reader-micro-drawer .drawer-content {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  overflow-y: auto;
+  overscroll-behavior: contain;
+  padding: 12px 18px;
+  inline-size: 100%;
+  max-inline-size: min(1400px, 100%);
+  margin-inline: auto;
+}
+
+.reader-micro-drawer .canvas-crop-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-block-size: 84px;
+  padding: 8px 12px;
+  background: var(--bg);
+  border: 1px solid var(--rule);
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.reader-micro-drawer .canvas-crop-wrapper.is-empty {
+  display: none;
+}
+
+.reader-micro-drawer .canvas-crop-wrapper canvas {
+  display: block;
+  max-inline-size: 100%;
+  block-size: auto;
+}
+
+.reader-micro-drawer .micro-editor-box {
+  background: var(--bg);
+  border: 1px solid var(--rule);
+  border-radius: 8px;
+  padding: 10px 12px;
+}
+
+.reader-micro-drawer .micro-context-line {
+  font-family: var(--he);
+  font-size: 1.02rem;
+  color: var(--muted);
+  opacity: 0.78;
+  padding: 3px 0;
+  user-select: none;
+}
+
+.reader-micro-drawer .micro-target-input-row {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin: 6px 0;
+}
+
+.reader-micro-drawer .micro-bold-btn {
+  font-weight: 900;
+  font-size: 0.98rem;
+}
+
+.reader-micro-drawer .btn-flag-word {
+  color: var(--accent);
+  border-color: var(--accent);
+  font-weight: 700;
+}
+
+.reader-micro-drawer .micro-target-input {
+  flex: 1;
+  min-inline-size: 0;
+  font-family: var(--he);
+  font-size: var(--font-size-micro-input, 22px);
+  line-height: 1.4;
+  background: var(--surface);
+  color: var(--ink);
+  border: 2px solid var(--accent);
+  border-radius: 7px;
+  padding: 6px 12px;
+  direction: rtl;
+}
+
+.reader-micro-drawer .micro-target-input:focus {
+  outline: none;
+  box-shadow: 0 0 0 3px color-mix(in srgb, var(--focus) 28%, transparent);
+}
+
+.reader-micro-drawer .drawer-footer {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px 14px;
+  padding: 8px 16px calc(8px + env(safe-area-inset-bottom));
+  background: var(--note-bg);
+  border-block-start: 1px solid var(--rule);
+  font-size: 0.78rem;
+  color: var(--muted);
+}
+
+.reader-micro-drawer .micro-footer-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+@media (max-width: 680px) {
+  .reader-micro-drawer {
+    max-block-size: 78dvh;
+  }
+  .reader-micro-drawer .micro-kbd-hints {
+    display: none;
+  }
+  .reader-micro-drawer .btn {
+    min-block-size: 40px;
+  }
+}
+
+@media print {
+  .reader-micro-drawer {
+    display: none;
+  }
+}
