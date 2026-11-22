@@ -237,64 +237,72 @@
     expandBtn.setAttribute('aria-label', isExpandedFlag ? L('כווץ חלונית הערה', 'Collapse note panel') : L('הרחב חלונית הערה', 'Expand note panel'));
   }
 
-  function refreshExpandVisibility(note) {
+  function refreshExpandVisibility(note, contEntry, mergedParaCount) {
     if (!note) {
       expandBtn.hidden = true;
       return;
     }
-    var paraCount = Array.isArray(note.paragraphs) ? note.paragraphs.length : 1;
-    var textLen = (note.t || '').length;
+    var paraCount = typeof mergedParaCount === 'number'
+      ? mergedParaCount
+      : (Array.isArray(note.paragraphs) ? note.paragraphs.length : 1);
+    var textLen = (note.t || '').length + (contEntry && contEntry.note && contEntry.note.t ? contEntry.note.t.length : 0);
     var overflows = bodyEl.scrollHeight > bodyEl.clientHeight + 6;
     var isLong = paraCount > 1 || textLen > 350 || overflows;
     expandBtn.hidden = !isLong;
   }
 
-  // ---- Continuation footer ----
-  function addContinuationButton(targetPageData, targetIdx, label) {
-    var btn = el('button', 'fn-btn fn-nav-btn', label);
-    btn.type = 'button';
-    btn.addEventListener('click', function () {
-      navigateToNote(targetPageData.page, targetIdx, true);
-    });
-    footerEl.appendChild(btn);
-    footerEl.hidden = false;
+  // ---- Page-crossing note stitching helpers ----
+  function findContinuationNote(adjPageData, markerNorm, expectContinued) {
+    if (!adjPageData || !Array.isArray(adjPageData.notes) || !markerNorm) return null;
+    for (var i = 0; i < adjPageData.notes.length; i++) {
+      var cand = adjPageData.notes[i];
+      if (cand.within) continue;
+      if (normMarker(cand.marker) === markerNorm && Boolean(cand.continued) === expectContinued) {
+        return { pageData: adjPageData, note: cand, idx: i };
+      }
+    }
+    return null;
   }
 
-  function populateContinuationLinks(pageData, note, seqAtStart) {
-    footerEl.textContent = '';
-    footerEl.hidden = true;
-    var wantM = normMarker(note.marker);
-    if (!wantM || note.within) return;
-
-    function checkNeighbor(neighborPageN, expectContinued, labelBuilder) {
-      if (neighborPageN < 1) return;
-      var res = fetchPage(neighborPageN);
-      if (!res) return;
-      function handleData(ndata) {
-        if (!isOpenFlag || seqAtStart !== openSeq || !ndata || !Array.isArray(ndata.notes)) return;
-        for (var i = 0; i < ndata.notes.length; i++) {
-          var cand = ndata.notes[i];
-          if (cand.within) continue;
-          if (normMarker(cand.marker) === wantM && Boolean(cand.continued) === expectContinued) {
-            addContinuationButton(ndata, i, labelBuilder(ndata));
-            break;
-          }
+  function getNestedChildren(pageData, note) {
+    var nestedChildren = [];
+    var noteNorm = normMarker(note && note.marker);
+    if (noteNorm && note && !note.within && pageData && Array.isArray(pageData.notes)) {
+      for (var i = 0; i < pageData.notes.length; i++) {
+        var cand = pageData.notes[i];
+        if (cand.within && normMarker(cand.within) === noteNorm) {
+          nestedChildren.push({ note: cand, idx: i });
         }
       }
-      if (isThenable(res)) res.then(handleData, function () {});
-      else handleData(res);
     }
+    return nestedChildren;
+  }
 
-    if (note.continued && pageData.n > 1) {
-      checkNeighbor(pageData.n - 1, false, function (pd) {
-        return L('→ תחילת הערה (' + note.marker + ') בעמוד ' + pd.n, '→ Start of note (' + note.marker + ') on page ' + pd.n);
+  function buildNoteSegments(pageData, noteIdx, note) {
+    var nested = getNestedChildren(pageData, note);
+    var paras = Array.isArray(note.paragraphs) && note.paragraphs.length
+      ? note.paragraphs
+      : [{ pid: pageData.page + ':n' + noteIdx + ':0', cont: Boolean(note.continued), lines: [{ id: note.id || '', t: note.t || '' }] }];
+    var out = [];
+    for (var p = 0; p < paras.length; p++) {
+      var para = paras[p];
+      var lines = Array.isArray(para.lines) ? para.lines : [];
+      var taggedLines = [];
+      for (var l = 0; l < lines.length; l++) {
+        taggedLines.push({
+          line: lines[l],
+          pageData: pageData,
+          paraPid: para.pid || (pageData.page + ':n' + noteIdx + ':' + p),
+          nestedChildren: nested
+        });
+      }
+      out.push({
+        pid: para.pid || (pageData.page + ':n' + noteIdx + ':' + p),
+        cont: Boolean(para.cont),
+        lines: taggedLines
       });
     }
-    if (pageData.n > 0) {
-      checkNeighbor(pageData.n + 1, true, function (pd) {
-        return L('← המשך הערה (' + note.marker + ') בעמוד ' + pd.n, '← Note (' + note.marker + ') continues on page ' + pd.n);
-      });
-    }
+    return out;
   }
 
   function clearActiveHighlight() {
@@ -307,7 +315,7 @@
   }
 
   // ---- Render note inside drawer ----
-  function renderNote(pageData, noteIdx) {
+  function renderNote(pageData, noteIdx, contEntry) {
     clearActiveHighlight();
     var note = pageData && pageData.notes && pageData.notes[noteIdx];
     if (!note) {
@@ -321,63 +329,66 @@
       return;
     }
 
-    activeView = { pageData: pageData, noteIdx: noteIdx, note: note };
+    var normalizedCont = contEntry || null;
+    activeView = { pageData: pageData, noteIdx: noteIdx, note: note, contEntry: normalizedCont };
     setExpanded(false);
 
     titleEl.textContent = note.marker ? (L('הערה', 'Note') + ' (' + note.marker + ')') : L('הערה', 'Note');
-    var metaParts = [L('עמוד ', 'Page ') + pageData.n];
+    var metaParts = normalizedCont && normalizedCont.pageData
+      ? [L('עמודים ', 'Pages ') + pageData.n + '–' + normalizedCont.pageData.n]
+      : [L('עמוד ', 'Page ') + pageData.n];
     if (note.within) metaParts.push(L('בתוך', 'within') + ' (' + note.within + ')');
-    else if (note.continued) metaParts.push(L('המשך', 'continued'));
+    else if (note.continued && !normalizedCont) metaParts.push(L('המשך', 'continued'));
     metaEl.textContent = metaParts.join(' · ');
 
     backBtn.hidden = historyStack.length === 0;
     flagBtn.hidden = typeof cfg.onFlagNote !== 'function';
 
-    // Nested child notes whose `within` matches this note's marker
-    var nestedChildren = [];
-    var noteNorm = normMarker(note.marker);
-    if (noteNorm && !note.within) {
-      for (var i = 0; i < pageData.notes.length; i++) {
-        var cand = pageData.notes[i];
-        if (cand.within && normMarker(cand.within) === noteNorm) {
-          nestedChildren.push({ note: cand, idx: i });
+    var mergedParas = buildNoteSegments(pageData, noteIdx, note);
+    if (normalizedCont && normalizedCont.note) {
+      var contParas = buildNoteSegments(normalizedCont.pageData, normalizedCont.idx, normalizedCont.note);
+      for (var cp = 0; cp < contParas.length; cp++) {
+        if (cp === 0 && contParas[cp].cont && mergedParas.length > 0) {
+          Array.prototype.push.apply(mergedParas[mergedParas.length - 1].lines, contParas[cp].lines);
+        } else {
+          mergedParas.push(contParas[cp]);
         }
       }
     }
 
     bodyEl.textContent = '';
-    var paras = Array.isArray(note.paragraphs) && note.paragraphs.length
-      ? note.paragraphs
-      : [{ pid: pageData.page + ':n' + noteIdx + ':0', cont: Boolean(note.continued), lines: [{ id: note.id || '', t: note.t || '' }] }];
-
-    for (var p = 0; p < paras.length; p++) {
-      var para = paras[p];
+    for (var p = 0; p < mergedParas.length; p++) {
+      var para = mergedParas[p];
       var pEl = el('p', 'fn-para' + (para.cont ? ' cont' : ''));
       if (para.pid) pEl.setAttribute('data-pid', para.pid);
 
-      var lines = Array.isArray(para.lines) ? para.lines : [];
+      var lines = para.lines;
       for (var l = 0; l < lines.length; l++) {
         if (l > 0) pEl.appendChild(document.createTextNode(' '));
-        var line = lines[l];
+        var item = lines[l];
+        var line = item.line;
         var span = el('span', 'rline fn-line');
-        span.setAttribute('data-page', pageData.page);
-        if (para.pid) span.setAttribute('data-para', para.pid);
+        span.setAttribute('data-page', item.pageData.page);
+        if (item.paraPid) span.setAttribute('data-para', item.paraPid);
         if (line.id) span.setAttribute('data-line-id', line.id);
         span.setAttribute('data-line-idx', String(l));
-        appendRichNoteText(span, line.t || '', pageData, nestedChildren);
+        appendRichNoteText(span, line.t || '', item.pageData, item.nestedChildren);
         pEl.appendChild(span);
       }
       bodyEl.appendChild(pEl);
     }
 
     bodyEl.scrollTop = 0;
-    populateContinuationLinks(pageData, note, openSeq);
-    refreshExpandVisibility(note);
+    footerEl.textContent = '';
+    footerEl.hidden = true;
+    refreshExpandVisibility(note, normalizedCont, mergedParas.length);
     if (typeof requestAnimationFrame === 'function') {
       var seqNow = openSeq;
+      var expectedCont = normalizedCont;
+      var paraLen = mergedParas.length;
       requestAnimationFrame(function () {
-        if (isOpenFlag && seqNow === openSeq && activeView && activeView.note === note) {
-          refreshExpandVisibility(note);
+        if (isOpenFlag && seqNow === openSeq && activeView && activeView.note === note && activeView.contEntry === expectedCont) {
+          refreshExpandVisibility(note, expectedCont, paraLen);
         }
       });
     }
@@ -398,25 +409,67 @@
     var res = fetchPage(page);
     var opts = (typeof noteIdxOrOpts === 'number') ? { noteIndex: noteIdxOrOpts } : (noteIdxOrOpts || {});
 
+    function renderWithNeighbors(pageData, idx, note) {
+      var markerNorm = normMarker(note.marker);
+      if (!note.within && markerNorm) {
+        if (note.continued && pageData.n > 1) {
+          var prevRes = fetchPage(pageData.n - 1);
+          if (isThenable(prevRes)) {
+            renderNote(pageData, idx, null);
+            prevRes.then(function (prevData) {
+              if (!isOpenFlag || mySeq !== openSeq) return;
+              var startMatch = findContinuationNote(prevData, markerNorm, false);
+              if (startMatch) {
+                renderNote(startMatch.pageData, startMatch.idx, { pageData: pageData, note: note, idx: idx });
+              }
+            }, function () {});
+            return;
+          }
+          var startSync = findContinuationNote(prevRes, markerNorm, false);
+          if (startSync) {
+            renderNote(startSync.pageData, startSync.idx, { pageData: pageData, note: note, idx: idx });
+            return;
+          }
+        } else if (!note.continued && pageData.n > 0) {
+          var nextRes = fetchPage(pageData.n + 1);
+          if (isThenable(nextRes)) {
+            renderNote(pageData, idx, null);
+            nextRes.then(function (nextData) {
+              if (!isOpenFlag || mySeq !== openSeq) return;
+              var contMatch = findContinuationNote(nextData, markerNorm, true);
+              if (contMatch) {
+                renderNote(pageData, idx, contMatch);
+              }
+            }, function () {});
+            return;
+          }
+          var contSync = findContinuationNote(nextRes, markerNorm, true);
+          renderNote(pageData, idx, contSync);
+          return;
+        }
+      }
+      renderNote(pageData, idx, null);
+    }
+
     function applyPageData(pageData) {
       if (!isOpenFlag || mySeq !== openSeq) return;
       var found = resolveNoteEntry(pageData, opts);
       if (!found) {
-        renderNote(null, -1);
+        renderNote(null, -1, null);
         return;
       }
-      renderNote(pageData, found.idx);
+      renderWithNeighbors(pageData, found.idx, found.note);
     }
 
     if (!res) {
-      renderNote(null, -1);
+      renderNote(null, -1, null);
       return;
     }
     if (isThenable(res)) {
       bodyEl.textContent = '';
       bodyEl.appendChild(el('p', 'fn-loading', 'טוען…'));
       res.then(applyPageData, function () {
-        if (isOpenFlag && mySeq === openSeq) renderNote(null, -1);
+        if (isOpenFlag && mySeq === openSeq) renderNote(null, -1, null);
       });
     } else {
       applyPageData(res);

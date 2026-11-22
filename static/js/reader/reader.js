@@ -371,13 +371,14 @@
       slot.appendChild(block);
     }
 
-    // Page-level triggers for continued or unmatched notes (e.g., pp. 23 & 82 multi-para continuations).
+    // Page-level fallback triggers only for non-continued notes whose marker was not matched inline.
+    // Continued notes are stitched directly into the starting page's footnote drawer.
     var notes = page.notes || [];
     var stripBtns = [];
     for (var ni = 0; ni < notes.length; ni++) {
       var nt = notes[ni];
-      if (nt.continued || (!nt.within && !matcher.matched[ni])) {
-        var btnText = T('הערה') + ' (' + (nt.marker || (ni + 1)) + ')' + (nt.continued ? ' — ' + T('המשך') : '');
+      if (!nt.continued && !nt.within && !matcher.matched[ni]) {
+        var btnText = T('הערה') + ' (' + (nt.marker || (ni + 1)) + ')';
         stripBtns.push(makeNoteTrigger(page, nt, ni, btnText, true));
       }
     }
