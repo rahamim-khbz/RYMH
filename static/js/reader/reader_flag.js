@@ -1181,7 +1181,7 @@
       barBtn.setAttribute('aria-label', isEn ? 'Suggest a text correction' : 'הצע תיקון לטקסט');
       barBtn.setAttribute('title', isEn ? 'Suggest a correction (Flag)' : 'הצע תיקון (Flag)');
       barBtn.appendChild(el('span', null, '⚑'));
-      barBtn.appendChild(el('span', 'flag-bar-label', isEn ? 'Flag' : 'דיווח'));
+      barBtn.appendChild(el('span', 'flag-bar-label', isEn ? 'Flag' : 'טעות'));
       barBtn.addEventListener('click', function () {
         var last = state.lastLineCtx;
         state.lastLineCtx = null; // one use: a later press without a new click starts from the line picker
@@ -1233,7 +1233,7 @@
       if (!txt) return;
       window.open('https://www.google.com/search?q=' + encodeURIComponent(txt), '_blank', 'noopener');
     });
-    mkCtxItem('readerFlagCtxBtn', isEnUi ? '⚑ Flag' : '⚑ דיווח', function () {
+    mkCtxItem('readerFlagCtxBtn', isEnUi ? '⚑ Flag' : '⚑ טעות', function () {
       var savedCtx = state.ctxTarget;
       closeContextMenu();
       if (!savedCtx) return;
