@@ -1763,8 +1763,8 @@
     var footer = el('div', 'drawer-footer');
     var hints = el('div', 'micro-kbd-hints');
     hints.textContent = isEn
-      ? 'Enter: Submit & next  |  ↓ / ↑: Next / Prev (edits auto-submit)  |  Cmd+B: Bold  |  Cmd+/: Flag word (??)'
-      : 'Enter: שלח והמשך  |  ↓ / ↑: הבא / הקודם (תיקונים נשלחים אוטומטית)  |  Cmd+B: הדגשה  |  Cmd+/: סימון מילה (??)';
+      ? '↓ / Enter: Next line  |  ↑: Prev line (edits auto-submit)  |  Cmd+B: Bold  |  Cmd+/: Flag word (??)'
+      : '↓ / Enter: השורה הבאה  |  ↑: השורה הקודמת (תיקונים נשלחים אוטומטית)  |  Cmd+B: הדגשה  |  Cmd+/: סימון מילה (??)';
     var footerActions = el('div', 'micro-footer-actions');
     var btnPrev = el('button', 'btn micro-nav-btn');
     btnPrev.id = 'btnMicroPrevLine';
@@ -1774,13 +1774,8 @@
     btnNext.id = 'btnMicroNext';
     btnNext.type = 'button';
     btnNext.textContent = T('הבא (↓)') + ' ▶';
-    var btnSubmitNext = el('button', 'btn btn-primary micro-submit-next-btn');
-    btnSubmitNext.id = 'btnMicroVerifyNext';
-    btnSubmitNext.type = 'button';
-    btnSubmitNext.textContent = '✓ ' + T('שלח והמשך (Enter)');
     footerActions.appendChild(btnPrev);
     footerActions.appendChild(btnNext);
-    footerActions.appendChild(btnSubmitNext);
     footer.appendChild(hints);
     footer.appendChild(footerActions);
     drawer.appendChild(footer);
