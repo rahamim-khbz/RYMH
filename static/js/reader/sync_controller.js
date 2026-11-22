@@ -222,12 +222,15 @@ window.ReaderSyncController = (function () {
       }
       var first = anchors[0];
       if (lineY < first.top) {
+        var remaining = first.top - lineY;
+        var totalAbove = pane.el.scrollTop + remaining;
         return {
           mode: 'above',
           page: first.page,
           n: first.n,
           pid: first.pid,
           frac: 0,
+          aboveFrac: totalAbove > 0 ? clamp(pane.el.scrollTop / totalAbove, 0, 1) : 1,
           offsetFromTop: first.top - paneRect.top
         };
       }
@@ -312,7 +315,12 @@ window.ReaderSyncController = (function () {
       var tb = effBounds(paneAnchors, targetEl);
 
       if (anchor.mode === 'above' && !alignReadingLine) {
-        delta = targetRect.top - (paneRect.top + (anchor.offsetFromTop || 0));
+        if (typeof anchor.aboveFrac === 'number') {
+          var followerAtLine = Math.max(0, pane.el.scrollTop + (targetRect.top - lineY));
+          delta = anchor.aboveFrac * followerAtLine - pane.el.scrollTop;
+        } else {
+          delta = targetRect.top - (paneRect.top + (anchor.offsetFromTop || 0));
+        }
       } else if (anchor.mode === 'gap' && anchor.nextPid) {
         var nextEl = findAnchorEl(pane.el, anchor.nextPid);
         var targetY = tb.bottom;

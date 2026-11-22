@@ -382,6 +382,8 @@ dialog#grid::backdrop { background: rgb(0 0 0 / 0.55); }
 @media (min-width: 860px) {
   .reader-shell.scan-hidden .pager-track { grid-template-columns: minmax(0, 1fr); }
   .reader-shell.scan-hidden .pane-scan { display: none; }
+  /* Pad above Page 1 so No. 187 starts near the 30% reading line instead of jumping straight to Page 2. */
+  html.flow-mode .pane-text { padding-block-start: calc(30dvh - 10px); }
 }
 @media (max-width: 859px) {
   .scan-toggle { display: none; }
