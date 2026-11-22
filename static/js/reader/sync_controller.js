@@ -38,6 +38,100 @@ window.ReaderSyncController = (function () {
     var destroyed = false;
 
     var PARA_SELECTOR = '[data-para]:not(.rline)';
+    var isFlowMode = typeof document !== 'undefined' &&
+      document.documentElement &&
+      document.documentElement.classList.contains('flow-mode');
+
+    function smoothstep(x) {
+      if (x <= 0) return 0;
+      if (x >= 1) return 1;
+      return x * x * (3 - 2 * x);
+    }
+
+    // Flow-mode page-break mapping for the scan pane:
+    // Splits the scan gap [tbBottom, nbTop] into:
+    //   1. Page N trailing content (footnotes, if any): [tbBottom, blankStart]
+    //   2. Blank whitespace (slot N bottom margin + inter-slot gap + slot N+1 top margin): [blankStart, blankEnd]
+    //   3. Page N+1 arrival (running header / top edge): [blankEnd, nbTop]
+    // Integrates a smooth positive cost density c(u) = dt/du so the scan moves slowly over
+    // text/content edges and speeds up across the blank whitespace, while guaranteeing strict
+    // monotonicity (no backward steps) and exact endpoint continuity (no jumps).
+    function mapScanPageBreak(gapFrac, targetEl, nextEl, tbBottom, nbTop, bandPx) {
+      var G = nbTop - tbBottom;
+      if (G <= 1 || gapFrac <= 0) return tbBottom;
+      if (gapFrac >= 1) return nbTop;
+
+      var slotA = targetEl.closest ? targetEl.closest('.scan-slot') : null;
+      var slotB = nextEl.closest ? nextEl.closest('.scan-slot') : null;
+      if (!slotA || !slotB || slotA === slotB) {
+        return tbBottom + gapFrac * G;
+      }
+
+      var rectA = slotA.getBoundingClientRect();
+      var rectB = slotB.getBoundingClientRect();
+
+      var blankStart = tbBottom;
+      var fnBoxes = slotA.querySelectorAll('.scan-fn-box');
+      for (var i = 0; i < fnBoxes.length; i++) {
+        var r = fnBoxes[i].getBoundingClientRect();
+        if (r.height > 0 && r.bottom > blankStart && r.bottom <= rectA.bottom) {
+          blankStart = r.bottom;
+        }
+      }
+      blankStart = clamp(blankStart, tbBottom, nbTop);
+
+      var topMarginB = Math.max(0, nbTop - rectB.top);
+      var headerH = Math.min(24, topMarginB * 0.45);
+      var blankEnd = clamp(nbTop - headerH, blankStart, nbTop);
+
+      var b0 = (blankStart - tbBottom) / G;
+      var b1 = (blankEnd - tbBottom) / G;
+
+      // When a short text band spans a tall footnote+margin gap (G / bandPx > 2.2),
+      // moderate the contrast so the blank-space acceleration stays smooth without a single huge step.
+      var ratio = bandPx > 0 ? G / bandPx : 1;
+      var damp = clamp((ratio - 2.2) / 2.5, 0, 1);
+      var cBlank = 0.35 + damp * 0.25;
+      var edgeBoost = 1.0 - damp * 0.55;
+      var ramp = 0.10;
+      var N = 32;
+
+      function cost(u) {
+        var inBlank = 0;
+        if (b1 > b0 + 1e-4) {
+          inBlank = smoothstep((u - (b0 - ramp)) / (2 * ramp)) *
+                    (1 - smoothstep((u - (b1 - ramp)) / (2 * ramp)));
+        }
+        var c = 1 - (1 - cBlank) * inBlank;
+        var cosU = Math.cos(Math.PI * u);
+        var edge = cosU * cosU * cosU * cosU;
+        return c + edgeBoost * edge;
+      }
+
+      var cdf = new Array(N + 1);
+      cdf[0] = 0;
+      var prevC = cost(0);
+      for (var s = 1; s <= N; s++) {
+        var curC = cost(s / N);
+        cdf[s] = cdf[s - 1] + 0.5 * (prevC + curC);
+        prevC = curC;
+      }
+
+      var total = cdf[N];
+      if (total <= 0) return tbBottom + gapFrac * G;
+
+      var target = gapFrac * total;
+      var lo = 0, hi = N;
+      while (lo + 1 < hi) {
+        var mid = (lo + hi) >> 1;
+        if (cdf[mid] <= target) lo = mid;
+        else hi = mid;
+      }
+      var span = cdf[hi] - cdf[lo];
+      var frac = span > 1e-9 ? (target - cdf[lo]) / span : 0;
+      var u = (lo + frac) / N;
+      return tbBottom + clamp(u, 0, 1) * G;
+    }
 
     function findAnchorEl(paneEl, pid) {
       if (!paneEl || !pid) return null;
@@ -90,12 +184,40 @@ window.ReaderSyncController = (function () {
       }
       for (var o = 0; o + 1 < anchors.length; o++) {
         var a = anchors[o], b = anchors[o + 1];
-        if (b.rect.top < a.rect.bottom && b.rect.top >= a.rect.top && b.rect.bottom > a.rect.bottom) {
-          // Glide band of ~5 lines centred on the break (even when a is a single shared line),
-          // so the other pane crosses the space between them smoothly instead of jumping.
-          var half = 80;
-          a.bottom = Math.max(a.rect.top + 1, a.rect.bottom - half);
-          b.top = Math.min(b.rect.bottom - 1, a.rect.bottom + half);
+        var overlaps = b.rect.top < a.rect.bottom && b.rect.top >= a.rect.top && b.rect.bottom > a.rect.bottom;
+        var flowPageBreak = isFlowMode && pane.id === 'text' && a.n && b.n && a.n !== b.n;
+        if (isFlowMode && pane.id !== 'text') {
+          // On the scan pane, slight vertical overlap between adjacent paragraphs on the same page
+          // is just OCR box overlap: split at midpoint so neither paragraph gets crushed.
+          if (overlaps) {
+            var splitY = (a.rect.bottom + b.rect.top) / 2;
+            a.bottom = Math.max(a.top + 1, splitY);
+            b.top = Math.min(b.rect.bottom - 1, splitY);
+          }
+        } else if (overlaps || (flowPageBreak && b.rect.top - a.rect.bottom < 240)) {
+          if (isFlowMode) {
+            // In flow mode, finish the page-break glide right as the new page's first line
+            // (b.rect.top) reaches the reading line (top third of the window), so the new page
+            // aligns directly with the first line of the printed scan. Keep the glide band in
+            // the trailing lines of page N before b.rect.top (capped at 75% of a's height above
+            // b.rect.top so short paragraphs aren't crushed). Only when a has no full line above
+            // b.rect.top (a and b share a single line) extend b.top to the bottom of that line.
+            var band = 180;
+            var availAbove = b.rect.top - a.top;
+            if (availAbove >= 24) {
+              var takeA = Math.min(band, Math.max(1, availAbove * 0.75));
+              a.bottom = Math.max(a.top + 1, b.rect.top - takeA);
+              b.top = b.rect.top;
+            } else {
+              a.bottom = a.top + 1;
+              b.top = Math.min(b.rect.bottom - 1, Math.max(a.bottom + 1, a.rect.bottom));
+            }
+          } else {
+            // Regular reader.html: unchanged original overlap glide band.
+            var half = 80;
+            a.bottom = Math.max(a.rect.top + 1, a.rect.bottom - half);
+            b.top = Math.min(b.rect.bottom - 1, a.rect.bottom + half);
+          }
         }
       }
       var first = anchors[0];
@@ -134,7 +256,8 @@ window.ReaderSyncController = (function () {
               pid: cur.pid,
               nextPid: next.pid,
               frac: 1,
-              gapFrac: gapFrac
+              gapFrac: gapFrac,
+              bandPx: gap
             };
           }
         }
@@ -196,7 +319,11 @@ window.ReaderSyncController = (function () {
         if (nextEl) {
           var nb = effBounds(paneAnchors, nextEl);
           if (nb.top >= tb.bottom) {
-            targetY = tb.bottom + anchor.gapFrac * (nb.top - tb.bottom);
+            if (isFlowMode) {
+              targetY = mapScanPageBreak(anchor.gapFrac, targetEl, nextEl, tb.bottom, nb.top, anchor.bandPx || 0);
+            } else {
+              targetY = tb.bottom + anchor.gapFrac * (nb.top - tb.bottom);
+            }
           }
         }
         delta = targetY - lineY;
