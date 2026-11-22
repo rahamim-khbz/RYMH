@@ -10,6 +10,9 @@
     databaseURL: 'https://iyye-hayyam-default-rtdb.firebaseio.com'
   };
 
+  root.GOOGLE_OAUTH_CLIENT_ID = root.GOOGLE_OAUTH_CLIENT_ID ||
+    '248504429327-6khrqt3ng5f52nvc22s6jq0etfopu8s6.apps.googleusercontent.com';
+
   // Allow local RTDB emulator overrides (?emulator=... / ?rtdb_emulator=...) on localhost.
   var loc = root.location || {};
   var host = String(loc.hostname || '');
